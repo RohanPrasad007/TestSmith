@@ -1,0 +1,542 @@
+[
+    {
+      "subject": "Physics",
+      "question": "A logic circuit provides the output Y as per the following truth table. The expression for the output Y is:",
+      "options": [
+        "_AB_ + _A_",
+        "_AB_ + _B_",
+        "_A_ + _B_",
+        "_A_ + _B_"
+      ],
+      "correct_answer_index": 2,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "A wheel of a bullock cart is rolling on a level road as shown in the figure below. If its linear speed is v in the direction shown, which one of the following options is correct (P and Q are any highest and lowest points on the wheel, respectively)?",
+      "options": [
+        "Point P moves slower than point Q",
+        "Point P moves faster than point Q",
+        "Both the points P and Q move with equal speed",
+        "Point P has zero speed"
+      ],
+      "correct_answer_index": 1,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "In the following circuit, the equivalent capacitance between terminal A and terminal B is:",
+      "options": [
+        "2 μF",
+        "1 μF",
+        "0.5 μF",
+        "4 μF"
+      ],
+      "correct_answer_index": 0,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "At any instant of time t, the displacement of any particle is given by 2t - 1 (SI unit) under the influence of force of 5 N. The value of instantaneous power is (in SI unit):",
+      "options": [
+        "10",
+        "5",
+        "7",
+        "6"
+      ],
+      "correct_answer_index": 0,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R. Assertion A: The potential (V) at any axial point, at 2 m distance (r) from the centre of the dipole of dipole moment vector P of magnitude, 4 × 10^-6 C m, is ± 9 × 10^3 V. Reason R: V = ±, where r is the distance of any axial point, situated at 2 m from the centre of the dipole. In the light of the above statements, choose the correct answer from the options given below:",
+      "options": [
+        "Both A and R are true and R is the correct explanation of A.",
+        "Both A and R are true and R is NOT the correct explanation of A.",
+        "A is true but R is false.",
+        "A is false but R is true."
+      ],
+      "correct_answer_index": 2,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "Two bodies A and B of same mass undergo completely inelastic one dimensional collision. The body A moves with velocity v1 while body B is at rest before collision. The velocity of the system after collision is v2. The ratio v1 : v2 is",
+      "options": [
+        "1 : 2",
+        "2 : 1",
+        "4 : 1",
+        "1 : 4"
+      ],
+      "correct_answer_index": 1,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "In a uniform magnetic field of 0.049 T, a magnetic needle performs 20 complete oscillations in 5 seconds as shown. The moment of inertia of the needle is 9.8 × 10^-6 kg m^2. If the magnitude of magnetic moment of the needle is x × 10^-5 Am^2, then the value of ‘x’ is:",
+      "options": [
+        "5π^2",
+        "128π^2",
+        "50π^2",
+        "1280π^2"
+      ],
+      "correct_answer_index": 3,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "An unpolarised light beam strikes a glass surface at Brewster’s angle. Then",
+      "options": [
+        "The reflected light will be partially polarised.",
+        "The refracted light will be completely polarised.",
+        "Both the reflected and refracted light will be completely polarised.",
+        "The reflected light will be completely polarised but the refracted light will be partially polarised."
+      ],
+      "correct_answer_index": 3,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "Consider the following statements A and B and identify the correct answer: A. For a solar-cell, the I-V characteristics lies in the IV quadrant of the given graph. B. In a reverse biased pn junction diode, the current measured in (µA), is due to majority charge carriers.",
+      "options": [
+        "A is correct but B is incorrect",
+        "A is incorrect but B is correct",
+        "Both A and B are correct",
+        "Both A and B are incorrect"
+      ],
+      "correct_answer_index": 0,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "The graph which shows the variation of (1/λ^2) and its kinetic energy, E is (where λ is de Broglie wavelength of a free particle):",
+      "options": [
+        "Graph (1)",
+        "Graph (2)",
+        "Graph (3)",
+        "Graph (4)"
+      ],
+      "correct_answer_index": 3,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "The terminal voltage of the battery, whose emf is 10 V and internal resistance 1 Ω, when connected through an external resistance of 4 Ω as shown in the figure is:",
+      "options": [
+        "4 V",
+        "6 V",
+        "8 V",
+        "10 V"
+      ],
+      "correct_answer_index": 2,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "The quantities which have the same dimensions as those of solid angle are:",
+      "options": [
+        "strain and angle",
+        "stress and angle",
+        "strain and arc",
+        "angular speed and stress"
+      ],
+      "correct_answer_index": 0,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "In the above diagram, a strong bar magnet is moving towards solenoid-2 from solenoid-1. The direction of induced current in solenoid-1 and that in solenoid-2, respectively, are through the directions:",
+      "options": [
+        "AB and DC",
+        "BA and CD",
+        "AB and CD",
+        "BA and DC"
+      ],
+      "correct_answer_index": 0,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "The moment of inertia of a thin rod about an axis passing through its mid point and perpendicular to the rod is 2400 g cm². The length of the 400 g rod is nearly:",
+      "options": [
+        "8.5 cm",
+        "17.5 cm",
+        "20.7 cm",
+        "72.0 cm"
+      ],
+      "correct_answer_index": 0,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "If x = 5sin πt + π/3 m represents the motion of a particle executing simple harmonic motion, the amplitude and time period of motion, respectively, are",
+      "options": [
+        "5 cm, 2 s",
+        "5 m, 2 s",
+        "5 cm, 1 s",
+        "5 m, 1 s"
+      ],
+      "correct_answer_index": 1,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "The mass of a planet is 1/10th that of the earth and its diameter is half that of the earth. The acceleration due to gravity on that planet is:",
+      "options": [
+        "19.6 m s^-2",
+        "9.8 m s^-2",
+        "4.9 m s^-2",
+        "3.92 m s^-2"
+      ],
+      "correct_answer_index": 3,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "A horizontal force 10 N is applied to a block A as shown in figure. The mass of blocks A and B are 2 kg and 3 kg respectively. The blocks slide over a frictionless surface. The force exerted by block A on block B is:",
+      "options": [
+        "Zero",
+        "4 N",
+        "6 N",
+        "10 N"
+      ],
+      "correct_answer_index": 2,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "A thermodynamic system is taken through the cycle abcda. The work done by the gas along the path bc is:",
+      "options": [
+        "Zero",
+        "90 J",
+        "-90 J",
+        "180 J"
+      ],
+      "correct_answer_index": 0,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "Given below are two statements: Statement I: Atoms are electrically neutral as they contain equal number of positive and negative charges. Statement II: Atoms of each element are stable and emit their characteristic spectrum. In the light of the above statements, choose the most appropriate answer from the options given below.",
+      "options": [
+        "Both Statement I and Statement II are correct",
+        "Both Statement I and Statement II are incorrect",
+        "Statement I is correct but Statement II is incorrect",
+        "Statement I is incorrect but Statement II is correct"
+      ],
+      "correct_answer_index": 2,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "In the nuclear emission stated above, the mass number and atomic number of the product Q respectively, are",
+      "options": [
+        "280, 81",
+        "286, 80",
+        "288, 82",
+        "286, 81"
+      ],
+      "correct_answer_index": 3,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "A particle moving with uniform speed in a circular path maintains:",
+      "options": [
+        "Constant velocity",
+        "Constant acceleration",
+        "Constant velocity but varying acceleration",
+        "Varying velocity and varying acceleration"
+      ],
+      "correct_answer_index": 3,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "A light ray enters through a right angled prism at point P with the angle of incidence 30° as shown in figure. It travels through the prism parallel to its base BC and emerges along the face AC. The refractive index of the prism is:",
+      "options": [
+        "√2",
+        "√3",
+        "√5/2",
+        "√3/2"
+      ],
+      "correct_answer_index": 2,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "In a vernier callipers, (N + 1) divisions of vernier scale coincide with N divisions of main scale. If 1 MSD represents 0.1 mm, the vernier constant (in cm) is:",
+      "options": [
+        "1/10N",
+        "1/100(N+1)",
+        "100N",
+        "10(N+1)"
+      ],
+      "correct_answer_index": 1,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "If the monochromatic source in Young’s double slit experiment is replaced by white light, then",
+      "options": [
+        "Interference pattern will disappear",
+        "There will be a central dark fringe surrounded by a few coloured fringes",
+        "There will be a central bright white fringe surrounded by a few coloured fringes",
+        "All bright fringes will be of equal width"
+      ],
+      "correct_answer_index": 2,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "If c is the velocity of light in free space, the correct statements about photon among the following are: A. The energy of a photon is E = hv. B. The velocity of a photon is c. C. The momentum of a photon, p = hv/c. D. In a photon-electron collision, both total energy and total momentum are conserved. E. Photon possesses positive charge. Choose the correct answer from the options given below:",
+      "options": [
+        "A and B only",
+        "A, B, C and D only",
+        "A, C and D only",
+        "A, B, D and E only"
+      ],
+      "correct_answer_index": 1,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "The output (Y) of the given logic gate is similar to the output of an/a",
+      "options": [
+        "NAND gate",
+        "NOR gate",
+        "OR gate",
+        "AND gate"
+      ],
+      "correct_answer_index": 3,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "Match List I with List II. List I (Spectral Lines of Hydrogen for transitions from) List II (Wavelengths (nm)) A. n2 = 3 to m = 2 I. 410.2 B. n2 = 4 to m = 2 II. 434.1 C. n2 = 5 to m = 2 III. 656.3 D. n2 = 6 to m = 2 IV. 486.1 Choose the correct answer from the options given below:",
+      "options": [
+        "A-II, B-I, C-IV, D-III",
+        "A-III, B-IV, C-II, D-I",
+        "A-IV, B-III, C-I, D-II",
+        "A-I, B-II, C-III, D-IV"
+      ],
+      "correct_answer_index": 1,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "A thin flat circular disc of radius 4.5 cm is placed gently over the surface of water. If surface tension of water is 0.07 N m^-1, then the excess force required to take it away from the surface is",
+      "options": [
+        "19.8 mN",
+        "198 N",
+        "1.98 mN",
+        "99 N"
+      ],
+      "correct_answer_index": 0,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "In an ideal transformer, the turns ratio is Np/Ns = 1/2. The ratio Vs : Vp is equal to (the symbols carry their usual meaning):",
+      "options": [
+        "1 : 2",
+        "2 : 1",
+        "1 : 1",
+        "1 : 4"
+      ],
+      "correct_answer_index": 1,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "The maximum elongation of a steel wire of 1 m length if the elastic limit of steel and its Young’s modulus, respectively, are 8 × 10^8 N m^-2 and 2 × 10^11 N m^-2, is:",
+      "options": [
+        "4 mm",
+        "0.4 mm",
+        "40 mm",
+        "8 mm"
+      ],
+      "correct_answer_index": 0,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "A thin spherical shell is charged by some source. The potential difference between the two points C and P (in V) shown in the figure is: (Take 1/4πε0 = 9 × 10^9 SI units)",
+      "options": [
+        "3 × 10^5",
+        "0.5 × 10^5",
+        "0",
+        "1 × 10^5"
+      ],
+      "correct_answer_index": 2,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "A wire of length '/' and resistance 100 Ω is divided into 10 equal parts. The first 5 parts are connected in series while the next 5 parts are connected in parallel. The two combinations are again connected in series. The resistance of this final combination is:",
+      "options": [
+        "26 Ω",
+        "52 Ω",
+        "55 Ω",
+        "60 Ω"
+      ],
+      "correct_answer_index": 1,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "A tightly wound 100 turns coil of radius 10 cm carries a current of 7 A. The magnitude of the magnetic field at the centre of the coil is (Take permeability of free space as 4π × 10^-7 SI units):",
+      "options": [
+        "44 mT",
+        "4.4 T",
+        "4.4 mT",
+        "44 T"
+      ],
+      "correct_answer_index": 2,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "Match List-I with List-II. List-I (Material) A. Diamagnetic B. Ferromagnetic C. Paramagnetic D. Non-magnetic List-II (Susceptibility (χ)) I. χ = 0 II. 0 > χ ≥ -1 III. χ >> 1 IV. 0 < χ < ε (a small positive number) Choose the correct answer from the options given below",
+      "options": [
+        "A-II, B-III, C-IV, D-I",
+        "A-II, B-I, C-III, D-IV",
+        "A-III, B-II, C-I, D-IV",
+        "A-IV, B-III, C-II, D-I"
+      ],
+      "correct_answer_index": 0,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "A bob is whirled in a horizontal plane by means of a string with an initial speed of ω rpm. The tension in the string is T. If speed becomes 2ω while keeping the same radius, the tension in the string becomes:",
+      "options": [
+        "T",
+        "4T",
+        "T/4",
+        "√2T"
+      ],
+      "correct_answer_index": 1,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "A parallel plate capacitor is charged by connecting it to a battery through a resistor. If I is the current in the circuit, then in the gap between the plates:",
+      "options": [
+        "There is no current",
+        "Displacement current of magnitude equal to I flows in the same direction as I",
+        "Displacement current of magnitude equal to I flows in a direction opposite to that of I",
+        "Displacement current of magnitude greater than I flows but can be in any direction"
+      ],
+      "correct_answer_index": 1,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "A 10 μF capacitor is connected to a 210 V, 50 Hz source as shown in figure. The peak current in the circuit is nearly (π = 3.14):",
+      "options": [
+        "0.58 A",
+        "0.93 A",
+        "1.20 A",
+        "0.35 A"
+      ],
+      "correct_answer_index": 1,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "If the mass of the bob in a simple pendulum is increased to thrice its original mass and its length is made half its original length, then the new time period of oscillation is x/2 times its original time period. Then the value of x is:",
+      "options": [
+        "√3",
+        "√2",
+        "2√3",
+        "4"
+      ],
+      "correct_answer_index": 1,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "The following graph represents the T-V curves of an ideal gas (where T is the temperature and V the volume) at three pressures P1, P2 and P3 compared with those of Charles’s law represented as dotted lines. Then the correct relation is:",
+      "options": [
+        "P3 > P2 > P1",
+        "P1 > P3 > P2",
+        "P2 > P1 > P3",
+        "P1 > P2 > P3"
+      ],
+      "correct_answer_index": 3,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "The minimum energy required to launch a satellite of mass m from the surface of earth of mass M and radius R in a circular orbit at an altitude of 2R from the surface of the earth is:",
+      "options": [
+        "5GmM/6R",
+        "2GmM/3R",
+        "GmM/2R",
+        "GmM/R"
+      ],
+      "correct_answer_index": 0,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "The property which is not of an electromagnetic wave travelling in free space is that:",
+      "options": [
+        "They are transverse in nature",
+        "The energy density in electric field is equal to energy density in magnetic field",
+        "They travel with a speed equal to 1/√μ0ε0",
+        "They originate from charges moving with uniform speed"
+      ],
+      "correct_answer_index": 3,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "Choose the correct circuit which can achieve the bridge balance.",
+      "options": [
+        "Circuit (1)",
+        "Circuit (2)",
+        "Circuit (3)",
+        "Circuit (4)"
+      ],
+      "correct_answer_index": 0,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "A force defined by F = αt^2 + βt acts on a particle at a given time t. The factor which is dimensionless, if α and β are constants, is:",
+      "options": [
+        "βt/α",
+        "αt/β",
+        "αβt",
+        "αβ/t"
+      ],
+      "correct_answer_index": 1,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "Two heaters A and B have power rating of 1 kW and 2 kW, respectively. Those two are first connected in series and then in parallel to a fixed power source. The ratio of power outputs for these two cases is:",
+      "options": [
+        "1:1",
+        "2:9",
+        "1:2",
+        "2:3"
+      ],
+      "correct_answer_index": 1,
+      "type": "MCQ"
+    },
+    {
+      "subject": "Physics",
+      "question": "An iron bar of length L has magnetic moment M. It is bent at the middle of its length such that the two arms make an angle 60° with each other. The magnetic moment of this new magnet is:",
+      "options": [
+        "M",
+        "M/2",
+        "2M",
+        "M/√3"
+      ],
+      "correct_answer_index": 1,
+      "type": "MCQ"
+    }
+  ]
