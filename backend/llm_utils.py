@@ -44,7 +44,7 @@ def generate_subject_questions_JEE(subject, mcq_count, nvq_count):
         - Do not generate more or less than {mcq_count + nvq_count} questions.
 
         Note: Don't just give same questions from the example, generate new ones based on the guidelines and can use the internet for reference.
-        """
+    """
 
     contents = [
         types.Content(role="user", parts=[types.Part.from_text(text=prompt)]),
@@ -58,7 +58,9 @@ def generate_subject_questions_JEE(subject, mcq_count, nvq_count):
         response_mime_type="text/plain",
     )
 
-    while True:  # Keep retrying until we get the correct number of questions
+    temp_questions = []  # Store previously generated questions
+
+    while True:
         response = client.models.generate_content(
             model=model,
             contents=contents,
@@ -68,19 +70,29 @@ def generate_subject_questions_JEE(subject, mcq_count, nvq_count):
         cleaned_text = response.text.replace("```json", "").replace("```", "").strip()
 
         try:
-            questions = json.loads(cleaned_text)
+            new_questions = json.loads(cleaned_text)
         except json.JSONDecodeError:
             print(f"Error decoding JSON for {subject}, retrying...")
             continue
 
         print(f"Questions generated for {subject}")
+
+        # Merge previous valid questions with newly generated ones
+        temp_questions.extend(new_questions)
+
+        # Remove duplicates (optional, if necessary)
+        temp_questions = list({json.dumps(q): q for q in temp_questions}.values())
+
         # Validate the number of questions
-        if len(questions) == mcq_count + nvq_count:
-            return questions
-        elif len(questions) > mcq_count + nvq_count:
-            return questions[: mcq_count + nvq_count]
+        required_count = mcq_count + nvq_count
+
+        if len(temp_questions) == required_count:
+            return temp_questions
+        elif len(temp_questions) > required_count:
+            return temp_questions[:required_count]
         else:
             print(f"Incorrect question count for {subject}, retrying...")
+            print(len(required_count))
 
 
 def generate_jee_paper():
@@ -92,6 +104,8 @@ def generate_jee_paper():
 
 
 def generate_subject_questions_NEET(subject, mcq_count):
+    temp_questions = []  # Temporary storage for previously generated questions
+
     # Load the appropriate JSON structure based on the subject
     if subject == "Physics":
         with open("neet_physics.json", "r", encoding="utf-8") as json_file:
@@ -105,31 +119,31 @@ def generate_subject_questions_NEET(subject, mcq_count):
     else:
         raise ValueError(f"Invalid subject: {subject}")
 
-    """Generates NEET questions for a specific subject."""
-    prompt = f"""
-        You are an expert in NEET-level question paper generation. Generate a JSON object with:
-
-        - {subject}: {mcq_count} Multiple-Choice Questions (MCQs)
-
-        Guidelines:
-        - Ensure questions follow the NEET difficulty level and cover various syllabus topics.
-        - Provide correct answers for each question.
-        - MCQs must have four options with the correct answer index.
-        - Output must match this JSON structure: {pyq}
-        - Do not generate more or less than {mcq_count} questions.
-    """
-
-    contents = [types.Content(role="user", parts=[types.Part.from_text(text=prompt)])]
-
-    config = types.GenerateContentConfig(
-        temperature=0.5,
-        top_p=0.95,
-        top_k=64,
-        max_output_tokens=65536,
-        response_mime_type="text/plain",
-    )
-
     while True:
+        prompt = f"""
+            You are an expert in NEET-level question paper generation. Generate a JSON object with:
+            - {subject}: {mcq_count} Multiple-Choice Questions (MCQs)
+            
+            Guidelines:
+            - Ensure questions follow the NEET difficulty level and cover various syllabus topics.
+            - Provide correct answers for each question.
+            - MCQs must have four options with the correct answer index.
+            - Output must match this JSON structure: {pyq}
+            - Do not generate more or less than {mcq_count} questions.
+        """
+
+        contents = [
+            types.Content(role="user", parts=[types.Part.from_text(text=prompt)])
+        ]
+
+        config = types.GenerateContentConfig(
+            temperature=0.5,
+            top_p=0.95,
+            top_k=64,
+            max_output_tokens=65536,
+            response_mime_type="text/plain",
+        )
+
         response = client.models.generate_content(
             model=model,
             contents=contents,
@@ -139,18 +153,22 @@ def generate_subject_questions_NEET(subject, mcq_count):
         cleaned_text = response.text.replace("```json", "").replace("```", "").strip()
 
         try:
-            questions = json.loads(cleaned_text)
+            new_questions = json.loads(cleaned_text)
         except json.JSONDecodeError:
             print(f"Error decoding JSON for {subject}, retrying...")
             continue
 
         print(f"Questions generated for {subject}")
-        if len(questions) == mcq_count:
-            return questions
-        elif len(questions) > mcq_count:
-            return questions[:mcq_count]
-        else:
-            print(f"Incorrect question count for {subject}, retrying...")
+
+        # Add the new questions to the temporary storage
+        temp_questions.extend(new_questions)
+
+        # Ensure we only return the required number of questions
+        if len(temp_questions) >= mcq_count:
+            return temp_questions[:mcq_count]
+
+        print(f"Incorrect question count for {subject}, retrying...")
+        print(len(temp_questions))
 
 
 def generate_neet_paper():
