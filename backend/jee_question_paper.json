@@ -1,0 +1,788 @@
+[
+  {
+    "subject": "Physics",
+    "question": "A particle of mass m is projected with a velocity u at an angle θ with the horizontal. The average power delivered by the gravitational force during the time it takes for the particle to reach its highest point is:",
+    "options": [
+      "-\\( \\frac{mg u \\cos \\theta}{2} \\)",
+      "-\\(\\frac{mg u \\sin \\theta}{2} \\)",
+      "-\\(\\frac{m g u \\sin \\theta}{ \\sqrt{2}} \\)",
+      "-\\(\\frac{m g u \\cos \\theta}{ \\sqrt{2}} \\)"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "A wire of resistance R is stretched to double its length. What is the resistance of the stretched wire, assuming that the density and resistivity of the material remain the same?",
+    "options": [
+      "2R",
+      "4R",
+      "R/2",
+      "R/4"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The de Broglie wavelength of an electron accelerated by a potential difference of V volts is:",
+    "options": [
+      "\\( \\frac{1.227}{\\sqrt{V}} \\) nm",
+      "\\( \\frac{12.27}{\\sqrt{V}} \\) Å",
+      "\\( \\frac{12.27}{\\sqrt{V}} \\) nm",
+      "\\( \\frac{0.1227}{\\sqrt{V}} \\) Å"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "A Carnot engine operates between temperatures 500 K and 300 K. If the engine absorbs 1200 J of heat from the source, what is the work done per cycle?",
+    "options": [
+      "720 J",
+      "480 J",
+      "600 J",
+      "360 J"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "In Young's double-slit experiment, the distance between the slits is 0.2 mm, and the screen is placed 1 m away. The wavelength of light used is 600 nm. What is the fringe width?",
+    "options": [
+      "3 mm",
+      "6 mm",
+      "1.5 mm",
+      "0.3 mm"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "A body is projected vertically upwards with a velocity of 10 m/s. What is the maximum height reached by the body? (Take g = 10 m/s²)",
+    "options": [
+      "5 m",
+      "10 m",
+      "15 m",
+      "20 m"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "Two point charges +q and -q are placed at a distance d apart. What is the electric field at a point midway between the charges?",
+    "options": [
+      "0",
+      "\\( \\frac{2kq}{d^2} \\) towards -q",
+      "\\( \\frac{4kq}{d^2} \\) towards -q",
+      "\\( \\frac{8kq}{d^2} \\) towards -q"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "A particle executes simple harmonic motion with an amplitude A and time period T. What is the ratio of its kinetic energy to potential energy when it is at a distance of A/2 from the mean position?",
+    "options": [
+      "1:3",
+      "3:1",
+      "1:1",
+      "2:1"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The magnetic field at the center of a current-carrying circular loop of radius R is B. What is the magnetic field at a distance R on the axis from the center of the loop?",
+    "options": [
+      "B/2",
+      "B/\\( 2\\sqrt{2} \\)",
+      "B/4",
+      "B/8"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The refractive index of a prism is \\( \\sqrt{2} \\) and the angle of prism is 60°. What is the angle of minimum deviation?",
+    "options": [
+      "30°",
+      "45°",
+      "60°",
+      "90°"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "If the error in measurement of radius of a sphere is 2%, then the error in the measurement of volume will be:",
+    "options": [
+      "2%",
+      "4%",
+      "6%",
+      "8%"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "A capacitor of capacitance 10 μF is charged to a potential difference of 100 V. What is the energy stored in the capacitor?",
+    "options": [
+      "0.05 J",
+      "0.1 J",
+      "0.5 J",
+      "1 J"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The kinetic energy of a rotating body is given by E = \\( \\frac{1}{2} I \\omega^2 \\). If the kinetic energy is increased by 300%, then the percentage increase in angular momentum will be:",
+    "options": [
+      "100%",
+      "200%",
+      "300%",
+      "400%"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The escape velocity from the surface of the Earth is approximately 11.2 km/s. What is the escape velocity from a planet whose radius is twice that of the Earth and mass is 8 times that of the Earth?",
+    "options": [
+      "11.2 km/s",
+      "22.4 km/s",
+      "33.6 km/s",
+      "44.8 km/s"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "Which of the following gates is a universal gate?",
+    "options": [
+      "AND",
+      "OR",
+      "NOT",
+      "NAND"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The SI unit of magnetic flux is:",
+    "options": [
+      "Tesla",
+      "Weber",
+      "Henry",
+      "Ampere"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The dimensional formula for torque is:",
+    "options": [
+      "[ML²T⁻²]",
+      "[MLT⁻²]",
+      "[ML⁻¹T⁻²]",
+      "[M²LT⁻²]"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "What is the ratio of the speed of sound in hydrogen gas to that in oxygen gas at the same temperature?",
+    "options": [
+      "1:4",
+      "4:1",
+      "1:16",
+      "16:1"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "Which of the following electromagnetic waves has the highest frequency?",
+    "options": [
+      "Radio waves",
+      "Microwaves",
+      "Infrared waves",
+      "Gamma rays"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "A block of mass 2 kg is placed on a rough horizontal surface. The coefficient of friction between the block and the surface is 0.2. A horizontal force of 5 N is applied to the block. What is the acceleration of the block? (Take g = 10 m/s²)",
+    "options": [
+      "1.5 m/s²",
+      "2 m/s²",
+      "0.5 m/s²",
+      "2.5 m/s²"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "A car is moving on a circular track of radius 100 m with a uniform speed of 20 m/s. What is the centripetal acceleration of the car in m/s²?",
+    "correct_answer": "4",
+    "type": "Numerical"
+  },
+  {
+    "subject": "Physics",
+    "question": "A spring of spring constant 100 N/m is stretched by 2 cm. What is the potential energy stored in the spring in Joules?",
+    "correct_answer": "0.02",
+    "type": "Numerical"
+  },
+  {
+    "subject": "Physics",
+    "question": "The half-life of a radioactive substance is 10 days. In how many days will \\( \\frac{1}{16} \\) of the initial amount remain?",
+    "correct_answer": "40",
+    "type": "Numerical"
+  },
+  {
+    "subject": "Physics",
+    "question": "A sound wave has a frequency of 500 Hz and a wavelength of 0.7 m. What is the speed of the sound wave in m/s?",
+    "correct_answer": "350",
+    "type": "Numerical"
+  },
+  {
+    "subject": "Physics",
+    "question": "Two resistors of resistances 2 Ω and 4 Ω are connected in series. If a potential difference of 12 V is applied across the combination, what is the current flowing through the circuit in Amperes?",
+    "correct_answer": "2",
+    "type": "Numerical"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following is not a colligative property?",
+    "options": [
+      "Osmotic pressure",
+      "Boiling point elevation",
+      "Freezing point depression",
+      "Surface tension"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The IUPAC name of the compound CH₃CH(CH₃)CH₂CH₂OH is:",
+    "options": [
+      "2-Methylpentan-1-ol",
+      "4-Methylpentan-1-ol",
+      "2-Methylbutan-1-ol",
+      "Isopentyl alcohol"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The hybridization of carbon atoms in benzene is:",
+    "options": [
+      "sp",
+      "sp²",
+      "sp³",
+      "dsp²"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following is a greenhouse gas?",
+    "options": [
+      "O₂",
+      "N₂",
+      "CO₂",
+      "H₂"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The pH of a 10⁻³ M solution of HCl is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "11"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following elements belongs to the p-block?",
+    "options": [
+      "Na",
+      "Mg",
+      "Al",
+      "Ca"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The number of moles of oxygen required to burn 1 mole of methane completely is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following reactions is an example of a redox reaction?",
+    "options": [
+      "NaCl + AgNO₃ → AgCl + NaNO₃",
+      "NaOH + HCl → NaCl + H₂O",
+      "Zn + CuSO₄ → ZnSO₄ + Cu",
+      "BaCl₂ + H₂SO₄ → BaSO₄ + 2HCl"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The catalyst used in the Haber process for the manufacture of ammonia is:",
+    "options": [
+      "Iron",
+      "Nickel",
+      "Vanadium pentoxide",
+      "Platinum"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following vitamins is water-soluble?",
+    "options": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin E",
+      "Vitamin C"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The monomer of natural rubber is:",
+    "options": [
+      "Isoprene",
+      "Chloroprene",
+      "Butadiene",
+      "Styrene"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The oxidation state of chromium in K₂Cr₂O₇ is:",
+    "options": [
+      "+3",
+      "+4",
+      "+6",
+      "+7"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following is an example of a lyophilic colloid?",
+    "options": [
+      "Gold sol",
+      "Starch sol",
+      "Ferric hydroxide sol",
+      "Arsenious sulfide sol"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The number of sigma (σ) and pi (π) bonds in the benzene molecule are:",
+    "options": [
+      "12σ and 3π",
+      "10σ and 2π",
+      "15σ and 0π",
+      "6σ and 6π"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following is the strongest acid?",
+    "options": [
+      "CH₃COOH",
+      "HCOOH",
+      "ClCH₂COOH",
+      "FCH₂COOH"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The ideal gas equation is:",
+    "options": [
+      "PV = nRT",
+      "PV = RT",
+      "P₁V₁ = P₂V₂",
+      "V₁/T₁ = V₂/T₂"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The geometry of the SF₆ molecule is:",
+    "options": [
+      "Tetrahedral",
+      "Square planar",
+      "Trigonal bipyramidal",
+      "Octahedral"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following is a basic oxide?",
+    "options": [
+      "SO₂",
+      "CO₂",
+      "Na₂O",
+      "P₂O₅"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The coordination number of cobalt in [Co(en)₂(Cl)₂]Cl is:",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "2"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The density of a solution prepared by dissolving 120 g of urea (mol. wt. 60) in 1000 g of water is 1.15 g/mL. The molarity of this solution is:",
+    "correct_answer": "2.0",
+    "type": "Numerical"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The activation energy of a reaction is 50 kJ/mol. What is the value of the rate constant at 300 K if the rate constant at 290 K is 2 x 10⁻³ s⁻¹? (Assume Arrhenius equation is valid and R = 8.314 J/mol.K)",
+    "correct_answer": "4.8",
+    "type": "Numerical"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The volume of oxygen gas liberated at STP when 100 mL of 1M H₂O₂ is completely decomposed is (in mL):",
+    "correct_answer": "560",
+    "type": "Numerical"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The number of unpaired electrons in the complex [Fe(CN)₆]⁴⁻ is:",
+    "correct_answer": "0",
+    "type": "Numerical"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The pH of a buffer solution containing 0.1 M CH₃COOH and 0.1 M CH₃COONa is (pKa of CH₃COOH = 4.74):",
+    "correct_answer": "4.74",
+    "type": "Numerical"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The domain of the function f(x) = \\( \\sqrt{\\log_{0.5}(x-1)} \\) is:",
+    "options": [
+      "(1, 2]",
+      "[1, 2)",
+      "(1, 2)",
+      "[2, ∞)"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If A = \\( \\begin{pmatrix} 1 & 2 \\\\ 2 & 3 \\end{pmatrix} \\), then |A² - 5A| is equal to:",
+    "options": [
+      "4",
+      "-4",
+      "16",
+      "-16"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of \\( \\int_{-\\pi/2}^{\\pi/2} \\sin^5 x \\cos^4 x dx \\) is:",
+    "options": [
+      "0",
+      "2/35",
+      "1/35",
+      "4/35"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The slope of the tangent to the curve y = x³ - 3x² + 2x - 1 at the point where x = 2 is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The number of solutions of the equation tan x + sec x = 2cos x in [0, 2π] is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The area of the region bounded by the curves y = x² and y = \\( \\sqrt{x} \\) is:",
+    "options": [
+      "1/3",
+      "2/3",
+      "1",
+      "4/3"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The distance between the lines 3x + 4y = 9 and 6x + 8y = 15 is:",
+    "options": [
+      "3/10",
+      "3/5",
+      "6/5",
+      "9/10"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the roots of the equation x² - 2x + 3 = 0 are α, β, then the equation whose roots are α+2, β+2 is:",
+    "options": [
+      "x² - 6x + 11 = 0",
+      "x² + 6x + 11 = 0",
+      "x² - 6x - 11 = 0",
+      "x² + 6x - 11 = 0"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of \\( \\lim_{x \\to 0} \\frac{\\sin x - x}{\\tan x - x} \\) is:",
+    "options": [
+      "1/2",
+      "-1/2",
+      "1",
+      "-1"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The eccentricity of the hyperbola 9x² - 16y² = 144 is:",
+    "options": [
+      "5/4",
+      "4/5",
+      "5/3",
+      "3/5"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The negation of the statement \"If it rains, then they will not go to school\" is:",
+    "options": [
+      "It rains and they will go to school.",
+      "It does not rain and they will go to school.",
+      "It rains or they will go to school.",
+      "It does not rain or they will not go to school."
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The number of ways to arrange the letters of the word 'ARRANGE' is:",
+    "options": [
+      "1260",
+      "720",
+      "360",
+      "2520"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If \\( \\vec{a} = \\mathbf{i} + 2\\mathbf{j} - \\mathbf{k} \\) and \\( \\vec{b} = 2\\mathbf{i} - \\mathbf{j} + \\mathbf{k} \\), then the unit vector in the direction of \\( \\vec{a} + \\vec{b} \\) is:",
+    "options": [
+      "\\( \\frac{1}{3\\sqrt{2}} (3\\mathbf{i} + \\mathbf{j}) \\)",
+      "\\( \\frac{1}{\\sqrt{10}} (3\\mathbf{i} + \\mathbf{j}) \\)",
+      "\\( \\frac{1}{\\sqrt{2}} (\\mathbf{i} + \\mathbf{j}) \\)",
+      "\\( \\frac{1}{3} (3\\mathbf{i} + \\mathbf{j}) \\)"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The probability of getting a sum of 9 when two dice are thrown is:",
+    "options": [
+      "1/9",
+      "1/18",
+      "1/6",
+      "2/9"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The general solution of the differential equation \\( \\frac{dy}{dx} = \\frac{y}{x} \\) is:",
+    "options": [
+      "y = cx",
+      "y = c/x",
+      "x = cy",
+      "x = c/y"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of \\( \\cos(2 \\sin^{-1} x) \\) is equal to:",
+    "options": [
+      "1 - 2x²",
+      "2x² - 1",
+      "\\( \\sqrt{1 - x^2} \\)",
+      "\\( \\sqrt{1 + x^2} \\)"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If f(x) = x² sin(1/x), x ≠ 0 and f(0) = 0, then f'(0) is equal to:",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "Does not exist"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The locus of the point which moves such that its distance from the x-axis is twice its distance from the y-axis is:",
+    "options": [
+      "y² = 4x²",
+      "4y² = x²",
+      "y = 2x",
+      "x = 2y"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The sum of the series 1 + 3 + 5 + ... up to 20 terms is:",
+    "options": [
+      "400",
+      "441",
+      "361",
+      "324"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the mean of 5 observations x, x+2, x+4, x+6, x+8 is 11, then the value of x is:",
+    "correct_answer": "7",
+    "type": "Numerical"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The coefficient of x⁵ in the binomial expansion of (1 + 2x)⁸ is:",
+    "correct_answer": "1792",
+    "type": "Numerical"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The shortest distance between the point (2, 1, 4) and the plane x + y - z = 0 is \\( \\frac{k}{\\sqrt{3}} \\). The value of k is:",
+    "correct_answer": "5",
+    "type": "Numerical"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the system of equations x + y + z = 6, x + 2y + 3z = 10, x + 2y + λz = μ has infinitely many solutions, then the value of λ is:",
+    "correct_answer": "3",
+    "type": "Numerical"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If z = 2 + 3i, then |z² - 4z + 13| is:",
+    "correct_answer": "0",
+    "type": "Numerical"
+  }
+]
