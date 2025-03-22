@@ -8,16 +8,6 @@ from google.genai import types
 # Load environment variables from .env file
 load_dotenv()
 
-
-with open("input.json", "r", encoding="utf-8") as json_file:
-    jee_pyq = json_file.read()
-
-with open("neet_input.json", "r", encoding="utf-8") as json_file:
-    neet_pyq = json_file.read()
-
-with open("neet_input.json", "r", encoding="utf-8") as json_file:
-    neet_pyq = json_file.read()
-
 # Initialize the Gemini API client
 client = genai.Client(
     api_key=os.getenv("API_KEY"),  # Read API key from .env
@@ -102,6 +92,19 @@ def generate_jee_paper():
 
 
 def generate_subject_questions_NEET(subject, mcq_count):
+    # Load the appropriate JSON structure based on the subject
+    if subject == "Physics":
+        with open("neet_physics.json", "r", encoding="utf-8") as json_file:
+            pyq = json_file.read()
+    elif subject == "Chemistry":
+        with open("neet_chemistry.json", "r", encoding="utf-8") as json_file:
+            pyq = json_file.read()
+    elif subject == "Biology":
+        with open("neet_biology.json", "r", encoding="utf-8") as json_file:
+            pyq = json_file.read()
+    else:
+        raise ValueError(f"Invalid subject: {subject}")
+
     """Generates NEET questions for a specific subject."""
     prompt = f"""
         You are an expert in NEET-level question paper generation. Generate a JSON object with:
@@ -112,7 +115,7 @@ def generate_subject_questions_NEET(subject, mcq_count):
         - Ensure questions follow the NEET difficulty level and cover various syllabus topics.
         - Provide correct answers for each question.
         - MCQs must have four options with the correct answer index.
-        - Output must match this JSON structure: {neet_pyq}
+        - Output must match this JSON structure: {pyq}
         - Do not generate more or less than {mcq_count} questions.
     """
 
