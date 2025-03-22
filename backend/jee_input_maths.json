@@ -1,0 +1,248 @@
+[
+    {
+        "subject": "Mathematics",
+        "question": "If f(x) = \\( \\frac{x}{\\sqrt{1+x^2}} \\), then f(f(f(x))) is equal to:",
+        "options": [
+            "\\( \\frac{x}{\\sqrt{1+3x^2}} \\)",
+            "\\( \\frac{x}{\\sqrt{1+2x^2}} \\)",
+            "\\( \\frac{x}{\\sqrt{1+4x^2}} \\)",
+            "\\( \\frac{x}{\\sqrt{1+x^2}} \\)"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The value of \\( \\tan^{-1} \\left( \\frac{1}{2} \\right) + \\tan^{-1} \\left( \\frac{1}{3} \\right) \\) is:",
+        "options": [
+            "\\( \\frac{\\pi}{4} \\)",
+            "\\( \\frac{\\pi}{3} \\)",
+            "\\( \\frac{\\pi}{6} \\)",
+            "\\( \\frac{\\pi}{2} \\)"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The vertices of a triangle are A(1, 1, 2), B(2, 3, 4) and C(3, 5, 6). The area of the triangle ABC is:",
+        "options": [
+            "0",
+            "\\( \\sqrt{3} \\)",
+            "\\( 2\\sqrt{3} \\)",
+            "\\( 3\\sqrt{3} \\)"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The equation of the plane passing through the point (1, 2, 3) and perpendicular to the line with direction ratios 2, -1, 1 is:",
+        "options": [
+            "2x - y + z = 3",
+            "2x - y + z = 2",
+            "x + 2y + 3z = 14",
+            "x - y + z = 2"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If y = \\( \\log(\\cos x^2) \\), then \\( \\frac{dy}{dx} \\) is equal to:",
+        "options": [
+            "-2x \\tan x^2",
+            "2x \\tan x^2",
+            "-2x \\cot x^2",
+            "2x \\cot x^2"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The angle between the vectors \\( \\vec{a} = \\mathbf{i} - 2\\mathbf{j} + 3\\mathbf{k} \\) and \\( \\vec{b} = 3\\mathbf{i} - 2\\mathbf{j} + \\mathbf{k} \\) is:",
+        "options": [
+            "0°",
+            "30°",
+            "60°",
+            "90°"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The value of \\( \\int \\frac{dx}{x^2 - 16} \\) is:",
+        "options": [
+            "\\( \\frac{1}{8} \\log \\left| \\frac{x-4}{x+4} \\right| + C \\)",
+            "\\( \\frac{1}{4} \\log \\left| \\frac{x-4}{x+4} \\right| + C \\)",
+            "\\( \\frac{1}{8} \\log \\left| \\frac{x+4}{x-4} \\right| + C \\)",
+            "\\( \\frac{1}{4} \\log \\left| \\frac{x+4}{x-4} \\right| + C \\)"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The minimum value of the function f(x) = x² - 4x + 5 is:",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The probability of solving a problem by A and B are \\( \\frac{1}{2} \\) and \\( \\frac{1}{3} \\) respectively. The probability that the problem is solved is:",
+        "options": [
+            "\\( \\frac{1}{6} \\)",
+            "\\( \\frac{1}{3} \\)",
+            "\\( \\frac{2}{3} \\)",
+            "\\( \\frac{5}{6} \\)"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The focus of the parabola y² = 8x is:",
+        "options": [
+            "(2, 0)",
+            "(-2, 0)",
+            "(0, 2)",
+            "(0, -2)"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The sum of the first n terms of an arithmetic progression is given by S<0xE2><0x82><0x99> = 3n² + 5n. The common difference of the AP is:",
+        "options": [
+            "3",
+            "5",
+            "6",
+            "8"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The solution of the differential equation \\( \\frac{dx}{dy} + \\frac{x}{y} = y^2 \\) is:",
+        "options": [
+            "xy = \\( \\frac{y^4}{4} + C \\)",
+            "x = \\( \\frac{y^4}{4} + Cy \\)",
+            "xy = \\( \\frac{y^3}{3} + C \\)",
+            "x = \\( \\frac{y^3}{3} + Cy \\)"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The area of the ellipse \\( \\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1 \\) is:",
+        "options": [
+            "πab",
+            "πa²b",
+            "πab²",
+            "2πab"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The value of \\( \\lim_{x \\to 0} (1 + \\frac{x}{n})^n \\) is:",
+        "options": [
+            "e",
+            "eˣ",
+            "1",
+            "0"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The number of 4-digit numbers that can be formed using the digits 1, 2, 3, 4, 5 if repetition is not allowed is:",
+        "options": [
+            "120",
+            "625",
+            "24",
+            "360"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If A = \\( \\begin{pmatrix} 2 & 3 \\\\ 3 & 2 \\end{pmatrix} \\), then adj(A) is:",
+        "options": [
+            "\\( \\begin{pmatrix} 2 & -3 \\\\ -3 & 2 \\end{pmatrix} \\)",
+            "\\( \\begin{pmatrix} -2 & 3 \\\\ 3 & -2 \\end{pmatrix} \\)",
+            "\\( \\begin{pmatrix} 2 & 3 \\\\ 3 & 2 \\end{pmatrix} \\)",
+            "\\( \\begin{pmatrix} -2 & -3 \\\\ -3 & -2 \\end{pmatrix} \\)"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The contrapositive of the statement \"If it is raining, then I will not go to school\" is:",
+        "options": [
+            "If I will go to school, then it is not raining.",
+            "If it is not raining, then I will go to school.",
+            "If I will not go to school, then it is raining.",
+            "If it is raining, then I will go to school."
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The value of \\( \\int_0^{\\pi/2} \\sin^2 x dx \\) is:",
+        "options": [
+            "\\( \\frac{\\pi}{4} \\)",
+            "\\( \\frac{\\pi}{2} \\)",
+            "π",
+            "2π"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If the determinant of matrix A is 5, and A is a 2x2 matrix, then the determinant of 2A is:",
+        "correct_answer": "20",
+        "type": "Numerical"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The radius of the circle x² + y² - 4x + 6y - 12 = 0 is:",
+        "correct_answer": "5",
+        "type": "Numerical"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The number of terms in the expansion of (x + y + z)¹⁰ is:",
+        "correct_answer": "66",
+        "type": "Numerical"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The value of the derivative of f(x) = x ln(x) at x = e is:",
+        "correct_answer": "2",
+        "type": "Numerical"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If the mean and variance of a binomial distribution are 4 and 2 respectively, then the number of trials is:",
+        "correct_answer": "8",
+        "type": "Numerical"
+    }
+]

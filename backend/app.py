@@ -1,5 +1,5 @@
 import os
-from flask import Flask, jsonify
+from flask import Flask, jsonify, request
 from flask_cors import CORS
 from llm_utils import generate_paper
 
@@ -18,7 +18,8 @@ def hello():
 @app.route("/generate-paper", methods=["GET"])
 def get_question_paper():
     try:
-        questions = generate_paper()
+        exam_name = request.args.get("exam_name")
+        questions = generate_paper(exam_name)
         return jsonify({"questions": questions})
     except Exception as e:
         return jsonify({"error": str(e)}), 500

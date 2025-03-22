@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useExam } from '../context/ExamContext';
+import { useNavigate } from 'react-router-dom';
+import { showToast } from '../utils/toast';
 
 const QuestionPaper = () => {
     const {
@@ -14,7 +16,6 @@ const QuestionPaper = () => {
         handleNumericalSubmit,
         navigateToQuestion,
         isAnswered,
-        allQuestionsAnswered,
         handlePrevious,
         handleNext,
         submitTest,
@@ -22,15 +23,50 @@ const QuestionPaper = () => {
         setShowScoreModal,
         scoreDetails,
         examCompleted,
-        questions
+        questions,
+        examType // New prop to determine JEE or NEET
     } = useExam();
 
     // Get the current question
     const subjectquestion = filteredQuestions[currentQuestion];
 
+    const navigate = useNavigate();
+
+    // Effect to load saved numerical answer when navigating between questions
+    useEffect(() => {
+        if (subjectquestion?.type === 'Numerical') {
+            const savedAnswer = userAnswers[`${selectedSubject}-${currentQuestion}`];
+            if (savedAnswer !== undefined) {
+                setNumericalAnswer(savedAnswer);
+            } else {
+                setNumericalAnswer(''); // Only reset when navigating to a new unanswered question
+            }
+        }
+    }, [currentQuestion, selectedSubject, subjectquestion, userAnswers, setNumericalAnswer]);
+
+    const handleSubmitTest = () => {
+        try {
+            submitTest();
+            showToast.success("Test submitted successfully!");
+            navigate('/result');
+        } catch (error) {
+            console.error("Error submitting test:", error);
+            showToast.error("Failed to submit test. Please try again.");
+        }
+    };
+
+    // Custom numerical submit handler to wrap the context handler
+    const onNumericalSubmit = (e) => {
+        e.preventDefault();
+        handleNumericalSubmit(e);
+        // Don't reset numericalAnswer here as it would cause the value to disappear
+    };
+
     return (
         <div>
-            <h1 className="text-2xl font-bold mb-4 w-[49%] mx-auto mt-10">JEE Mock Test</h1>
+            <h1 className="text-2xl font-bold mb-4 w-[49%] mx-auto mt-10">
+                {examType === 'NEET' ? 'NEET Mock Test' : 'JEE Mock Test'}
+            </h1>
 
             {/* Question navigation */}
             <div className="flex flex-wrap justify-center gap-2 mb-6 w-[80%] mx-auto max-w-[600px]">
@@ -76,9 +112,9 @@ const QuestionPaper = () => {
                         </ul>
                     )}
 
-                    {/* Numerical type question */}
-                    {subjectquestion?.type === 'Numerical' && (
-                        <form onSubmit={handleNumericalSubmit} className="mt-4">
+                    {/* Numerical type question - Only shown for JEE */}
+                    {examType !== 'NEET' && subjectquestion?.type === 'Numerical' && (
+                        <form onSubmit={onNumericalSubmit} className="mt-4">
                             <label className="block text-gray-300 mb-2">Enter numerical answer:</label>
                             <div className="flex gap-2">
                                 <input
@@ -92,8 +128,9 @@ const QuestionPaper = () => {
                                 <button
                                     type="submit"
                                     className="bg-blue-600 p-3 rounded-md hover:bg-blue-700 transition"
+                                    disabled={userAnswers[`${selectedSubject}-${currentQuestion}`] === numericalAnswer && numericalAnswer !== ''}
                                 >
-                                    Submit
+                                    {userAnswers[`${selectedSubject}-${currentQuestion}`] === undefined ? 'Submit' : 'Update'}
                                 </button>
                             </div>
                         </form>
@@ -128,101 +165,46 @@ const QuestionPaper = () => {
 
             {/* Submit test button - only show when ALL questions from ALL subjects are answered */}
             {(() => {
-                // Check if all questions from all subjects are answered
-                const allSubjectsAnswered = subjects.every(subject => {
-                    const subjectQuestions = questions.filter(q => q.subject === subject);
-                    return subjectQuestions.every((_, index) =>
-                        userAnswers[`${subject}-${index}`] !== undefined
+                // For NEET, we'll show the submit button even if not all questions are answered
+                // since NEET allows skipping questions without penalty
+                if (examType === 'NEET') {
+                    // For NEET, maybe require a minimum percentage of answered questions 
+                    // or just allow submission at any time
+                    const totalAnsweredQuestions = Object.keys(userAnswers).length;
+                    const totalQuestions = questions.length;
+                    // Allowing submission if at least 1 question is answered
+                    return totalAnsweredQuestions > 0 && (
+                        <div className="w-[50%] mx-auto mt-6">
+                            <button
+                                onClick={handleSubmitTest}
+                                className="bg-green-600 px-6 py-3 rounded-md w-full hover:bg-green-700 font-bold"
+                            >
+                                Submit Test
+                            </button>
+                        </div>
                     );
-                });
+                } else {
+                    // For JEE, keep the original strict requirement
+                    const allSubjectsAnswered = subjects.every(subject => {
+                        const subjectQuestions = questions.filter(q => q.subject === subject);
+                        return subjectQuestions.every((_, index) =>
+                            userAnswers[`${subject}-${index}`] !== undefined
+                        );
+                    });
 
-                return allSubjectsAnswered && (
-                    <div className="w-[50%] mx-auto mt-6">
-                        <button
-                            onClick={submitTest}
-                            className="bg-green-600 px-6 py-3 rounded-md w-full hover:bg-green-700 font-bold"
-                        >
-                            Submit Test
-                        </button>
-                    </div>
-                );
+                    return allSubjectsAnswered && (
+                        <div className="w-[50%] mx-auto mt-6">
+                            <button
+                                onClick={handleSubmitTest}
+                                className="bg-green-600 px-6 py-3 rounded-md w-full hover:bg-green-700 font-bold"
+                            >
+                                Submit Test
+                            </button>
+                        </div>
+                    );
+                }
             })()}
 
-            {showScoreModal && (
-                <div className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50">
-                    <div className="bg-gray-800 p-8 rounded-xl w-full max-w-2xl">
-                        <h2 className="text-2xl font-bold mb-6 text-center">JEE Test Score Report</h2>
-
-                        <div className="bg-gray-700 p-6 rounded-lg mb-4">
-                            <h3 className="text-xl mb-4 font-semibold text-center">Subject: {selectedSubject}</h3>
-
-                            <div className="grid grid-cols-2 gap-4 mb-4">
-                                <div className="bg-gray-600 p-4 rounded-lg">
-                                    <p className="text-lg font-semibold">Total Score</p>
-                                    <p className="text-3xl font-bold text-blue-400">{scoreDetails.totalScore}</p>
-                                </div>
-                                <div className="bg-gray-600 p-4 rounded-lg">
-                                    <p className="text-lg font-semibold">Maximum Marks</p>
-                                    <p className="text-3xl font-bold">{scoreDetails.totalQuestions * 4}</p>
-                                </div>
-                            </div>
-
-                            <div className="grid grid-cols-2 gap-4">
-                                <div>
-                                    <h4 className="font-semibold mb-2">Questions Breakdown</h4>
-                                    <ul className="space-y-1">
-                                        <li className="flex justify-between">
-                                            <span>Total Questions:</span>
-                                            <span>{scoreDetails.totalQuestions}</span>
-                                        </li>
-                                        <li className="flex justify-between">
-                                            <span>Attempted:</span>
-                                            <span>{scoreDetails.attemptedCount}</span>
-                                        </li>
-                                        <li className="flex justify-between">
-                                            <span>Unattempted:</span>
-                                            <span>{scoreDetails.unattemptedCount}</span>
-                                        </li>
-                                    </ul>
-                                </div>
-
-                                <div>
-                                    <h4 className="font-semibold mb-2">Marks Breakdown</h4>
-                                    <ul className="space-y-1">
-                                        <li className="flex justify-between">
-                                            <span>Correct MCQs:</span>
-                                            <span className="text-green-400">{scoreDetails.correctMCQ} (+{scoreDetails.correctMCQ * 4})</span>
-                                        </li>
-                                        <li className="flex justify-between">
-                                            <span>Incorrect MCQs:</span>
-                                            <span className="text-red-400">{scoreDetails.incorrectMCQ} (-{scoreDetails.incorrectMCQ})</span>
-                                        </li>
-                                        <li className="flex justify-between">
-                                            <span>Correct Numerical:</span>
-                                            <span className="text-green-400">{scoreDetails.correctNumerical} (+{scoreDetails.correctNumerical * 4})</span>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className="flex gap-4 justify-center">
-                            <button
-                                onClick={() => setShowScoreModal(false)}
-                                className="bg-gray-600 px-4 py-2 rounded-md hover:bg-gray-500 transition"
-                            >
-                                Review Answers
-                            </button>
-                            <button
-                                onClick={() => window.location.href = '/'}
-                                className="bg-blue-600 px-4 py-2 rounded-md hover:bg-blue-700 transition"
-                            >
-                                Back to Home
-                            </button>
-                        </div>
-                    </div>
-                </div>
-            )}
         </div>
     );
 };

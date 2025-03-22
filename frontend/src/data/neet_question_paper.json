@@ -1,0 +1,2270 @@
+[
+  {
+    "subject": "Physics",
+    "question": "A body of mass 2 kg is initially at rest. A force of 5 N is applied on it for 4 seconds. The kinetic energy acquired by the body is:",
+    "options": [
+      "20 J",
+      "40 J",
+      "50 J",
+      "100 J"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The dimensional formula for torque is:",
+    "options": [
+      "[MLT^-2]",
+      "[ML^2T^-2]",
+      "[ML^2T^-3]",
+      "[M^2LT^-2]"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "A car is moving on a straight road with a uniform acceleration. The velocity of the car at time t=0 is v1 and at time t=T is v2. The average velocity of the car in this time interval is:",
+    "options": [
+      "(v1 + v2)/2",
+      "(v2 - v1)/2",
+      "√(v1v2)",
+      "(v2 - v1)/T"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The angle between vector A = i + j + k and vector B = i - 2j + k is:",
+    "options": [
+      "cos^-1(-1/√3)",
+      "cos^-1(1/√3)",
+      "cos^-1(-1/3)",
+      "cos^-1(1/3)"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "A projectile is fired with a velocity u at an angle θ with the horizontal. Its range on the horizontal plane is R. If the projectile is fired with the same velocity u and angle (90° - θ) with the horizontal, its range will be:",
+    "options": [
+      "R",
+      "2R",
+      "R/2",
+      "R/4"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "A block of mass m is placed on a smooth inclined plane of inclination θ with the horizontal. The force exerted by the plane on the block has a magnitude of:",
+    "options": [
+      "mg",
+      "mg sin θ",
+      "mg cos θ",
+      "mg tan θ"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "A particle performs uniform circular motion in a horizontal plane. The kinetic energy of the particle:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains constant",
+      "First increases then decreases"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The escape velocity from the surface of the earth is approximately:",
+    "options": [
+      "11.2 km/s",
+      "1.12 km/s",
+      "112 km/s",
+      "1120 km/s"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "Young's modulus of steel is twice that of brass. Two wires of same length and same area of cross section, one of steel and another of brass are suspended from the same roof. If we want the lower ends of the wires to be at the same level, then the weights added to the steel and brass wires must be in the ratio of:",
+    "options": [
+      "1:1",
+      "2:1",
+      "1:2",
+      "4:1"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The temperature at which the rms speed of oxygen molecules is half of that of hydrogen molecules at 300 K is:",
+    "options": [
+      "600 K",
+      "1200 K",
+      "2400 K",
+      "4800 K"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "In a thermodynamic process, if heat Q is supplied to a system and work W is done by the system, then the change in internal energy ΔU is given by:",
+    "options": [
+      "ΔU = Q + W",
+      "ΔU = Q - W",
+      "ΔU = -Q + W",
+      "ΔU = -Q - W"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "Two point charges q1 and q2 are placed at a distance r apart. The force between them is proportional to:",
+    "options": [
+      "r",
+      "1/r",
+      "r^2",
+      "1/r^2"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The electric potential due to an electric dipole at a point on its equatorial plane is:",
+    "options": [
+      "Zero",
+      "Maximum",
+      "Minimum",
+      "Infinite"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The equivalent capacitance of two capacitors connected in series is 2 μF and when connected in parallel is 9 μF. The capacitances of these capacitors are:",
+    "options": [
+      "3 μF, 6 μF",
+      "2 μF, 7 μF",
+      "4 μF, 5 μF",
+      "1 μF, 8 μF"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The drift velocity of electrons in a conductor is of the order of:",
+    "options": [
+      "10^-5 m/s",
+      "10^5 m/s",
+      "10^8 m/s",
+      "3 x 10^8 m/s"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The temperature dependence of resistance is given by R = R0(1 + αΔT). Here α is:",
+    "options": [
+      "Resistance coefficient",
+      "Temperature coefficient of resistance",
+      "Conductivity coefficient",
+      "Resistivity coefficient"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The magnetic field at the centre of a current carrying circular loop is:",
+    "options": [
+      "Perpendicular to the plane of the loop",
+      "Along the plane of the loop",
+      "At an angle of 45° with the plane of the loop",
+      "Zero"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The SI unit of magnetic flux is:",
+    "options": [
+      "Tesla",
+      "Weber",
+      "Gauss",
+      "Oersted"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "Lenz's law is a consequence of the law of conservation of:",
+    "options": [
+      "Charge",
+      "Momentum",
+      "Energy",
+      "Mass"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "In an LCR series circuit, resonance occurs when:",
+    "options": [
+      "XL > XC",
+      "XL < XC",
+      "XL = XC",
+      "R = 0"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "Which of the following electromagnetic waves has the highest wavelength?",
+    "options": [
+      "Radio waves",
+      "Microwaves",
+      "Infrared waves",
+      "Ultraviolet waves"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The refractive index of diamond is 2.42. The critical angle for diamond-air interface is:",
+    "options": [
+      "24.4°",
+      "41.5°",
+      "60°",
+      "90°"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "In Young's double slit experiment, the fringe width is β. If the distance between the slits is halved and the distance between the screen and the slits is doubled, the new fringe width will be:",
+    "options": [
+      "β",
+      "2β",
+      "4β",
+      "β/4"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The resolving power of a microscope is proportional to:",
+    "options": [
+      "Wavelength of light used",
+      "Reciprocal of wavelength of light used",
+      "Frequency of light used",
+      "Intensity of light used"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "Photoelectric effect supports:",
+    "options": [
+      "Wave nature of light",
+      "Particle nature of light",
+      "Both wave and particle nature of light",
+      "Neither wave nor particle nature of light"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The de Broglie wavelength of a particle of momentum p is:",
+    "options": [
+      "h/p",
+      "p/h",
+      "hp",
+      "h + p"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "In Bohr's model of hydrogen atom, the radius of the first orbit is r0. The radius of the third orbit is:",
+    "options": [
+      "3r0",
+      "9r0",
+      "r0/3",
+      "r0/9"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "Nuclear forces are:",
+    "options": [
+      "Short range and attractive",
+      "Long range and attractive",
+      "Short range and repulsive",
+      "Long range and repulsive"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "In a p-n junction diode, the depletion region contains:",
+    "options": [
+      "Only electrons",
+      "Only holes",
+      "Both electrons and holes",
+      "Immobile ions"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The Boolean expression for OR gate is:",
+    "options": [
+      "A.B",
+      "A + B",
+      "A̅.B̅",
+      "A̅ + B̅"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The efficiency of a Carnot engine operating between temperatures T1 and T2 (T1 > T2) is:",
+    "options": [
+      "1 - T2/T1",
+      "1 - T1/T2",
+      "T2/T1",
+      "T1/T2"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "A sound wave is a:",
+    "options": [
+      "Transverse wave",
+      "Longitudinal wave",
+      "Electromagnetic wave",
+      "Matter wave"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The beat frequency produced by two sound waves of frequencies 256 Hz and 260 Hz is:",
+    "options": [
+      "4 Hz",
+      "8 Hz",
+      "516 Hz",
+      "2 Hz"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The Doppler effect is applicable to:",
+    "options": [
+      "Sound waves only",
+      "Light waves only",
+      "Both sound and light waves",
+      "Neither sound nor light waves"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The SI unit of thermal conductivity is:",
+    "options": [
+      "J m^-1 K^-1",
+      "W m^-1 K^-1",
+      "cal cm^-1 s^-1 °C^-1",
+      "J s^-1 °C^-1"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The process in which no heat exchange occurs between the system and the surroundings is:",
+    "options": [
+      "Isothermal process",
+      "Adiabatic process",
+      "Isobaric process",
+      "Isochoric process"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The amount of heat required to raise the temperature of 1 kg of a substance by 1 °C is called:",
+    "options": [
+      "Heat capacity",
+      "Specific heat capacity",
+      "Latent heat",
+      "Molar heat capacity"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "Newton's law of cooling is a special case of:",
+    "options": [
+      "Stefan's law",
+      "Wien's displacement law",
+      "Kirchhoff's law",
+      "Prevost's theory of heat exchange"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The root mean square velocity of gas molecules is proportional to:",
+    "options": [
+      "T",
+      "√T",
+      "1/T",
+      "1/√T"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "Which of the following is not a thermodynamic coordinate?",
+    "options": [
+      "Pressure (P)",
+      "Volume (V)",
+      "Temperature (T)",
+      "Work (W)"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The ratio of specific heats Cp/Cv for a monoatomic gas is:",
+    "options": [
+      "1.33",
+      "1.40",
+      "1.67",
+      "2.0"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The first law of thermodynamics is based on the principle of conservation of:",
+    "options": [
+      "Momentum",
+      "Energy",
+      "Mass",
+      "Charge"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The efficiency of a heat engine cannot be:",
+    "options": [
+      "0%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The average kinetic energy of a molecule is proportional to:",
+    "options": [
+      "Absolute temperature",
+      "Square root of absolute temperature",
+      "Square of absolute temperature",
+      "Reciprocal of absolute temperature"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The number of degrees of freedom for a diatomic gas molecule is:",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The molar specific heat at constant volume for a monoatomic gas is:",
+    "options": [
+      "3/2 R",
+      "5/2 R",
+      "R",
+      "2R"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The maximum velocity of a particle executing SHM is v_max and the amplitude is A. The angular frequency of oscillation is:",
+    "options": [
+      "v_max/A",
+      "Av_max",
+      "v_max^2/A",
+      "A/v_max"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The time period of a simple pendulum is given by T = 2π√(L/g). If the length of the pendulum is doubled, the new time period will be:",
+    "options": [
+      "2T",
+      "√2T",
+      "T/2",
+      "T/√2"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "Which of the following properties of a wave is independent of the others?",
+    "options": [
+      "Velocity",
+      "Wavelength",
+      "Frequency",
+      "Amplitude"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Physics",
+    "question": "The intensity of a wave is proportional to the square of its:",
+    "options": [
+      "Amplitude",
+      "Frequency",
+      "Wavelength",
+      "Velocity"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The IUPAC name of the compound CH3-CH(CH3)-CH2-CH3 is:",
+    "options": [
+      "2-Methylbutane",
+      "3-Methylbutane",
+      "2-Ethylpropane",
+      "1,1-Dimethylpropane"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following is an electrophile?",
+    "options": [
+      "NH3",
+      "H2O",
+      "BF3",
+      "OH-"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The general electronic configuration of d-block elements is:",
+    "options": [
+      "(n-1)d^1-10 ns^2",
+      "(n-1)d^1-10 ns^1-2",
+      "(n-2)f^1-14 (n-1)d^0-1 ns^2",
+      "ns^2 np^6"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The oxidation state of chromium in K2Cr2O7 is:",
+    "options": [
+      "+3",
+      "+6",
+      "+7",
+      "+12"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following is a colligative property?",
+    "options": [
+      "Surface tension",
+      "Viscosity",
+      "Osmotic pressure",
+      "Refractive index"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The pH of a neutral solution is:",
+    "options": [
+      "0",
+      "7",
+      "14",
+      "Less than 7"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The unit of rate constant for a zero order reaction is:",
+    "options": [
+      "s^-1",
+      "mol L^-1 s^-1",
+      "L mol^-1 s^-1",
+      "L^2 mol^-2 s^-1"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following is a greenhouse gas?",
+    "options": [
+      "O2",
+      "N2",
+      "CO2",
+      "H2"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The monomer of natural rubber is:",
+    "options": [
+      "Isoprene",
+      "Chloroprene",
+      "Butadiene",
+      "Styrene"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Vitamin C is also known as:",
+    "options": [
+      "Ascorbic acid",
+      "Retinol",
+      "Thiamine",
+      "Calciferol"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The hybridization of carbon in methane (CH4) is:",
+    "options": [
+      "sp",
+      "sp^2",
+      "sp^3",
+      "dsp^2"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following is an example of a lyophilic colloid?",
+    "options": [
+      "Gold sol",
+      "Fe(OH)3 sol",
+      "Starch sol",
+      "As2S3 sol"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The number of moles of solute present in 1 kg of solution is called:",
+    "options": [
+      "Molarity",
+      "Molality",
+      "Normality",
+      "Formality"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The standard electrode potential of hydrogen electrode is:",
+    "options": [
+      "0 V",
+      "1 V",
+      "-1 V",
+      "1.01 V"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following is the strongest acid?",
+    "options": [
+      "HCl",
+      "HF",
+      "HBr",
+      "HI"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The common name of propanone is:",
+    "options": [
+      "Formaldehyde",
+      "Acetaldehyde",
+      "Acetone",
+      "Benzophenone"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following is a reducing agent?",
+    "options": [
+      "KMnO4",
+      "K2Cr2O7",
+      "H2O2",
+      "SO2"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The shape of water molecule is:",
+    "options": [
+      "Linear",
+      "Trigonal planar",
+      "Tetrahedral",
+      "Bent"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The number of lone pairs of electrons on the central atom in NH3 molecule is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following oxides is amphoteric?",
+    "options": [
+      "Na2O",
+      "MgO",
+      "Al2O3",
+      "CaO"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The catalyst used in Haber's process for the manufacture of ammonia is:",
+    "options": [
+      "Iron",
+      "Vanadium pentoxide",
+      "Nickel",
+      "Platinum"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The IUPAC name of acetic acid is:",
+    "options": [
+      "Methanoic acid",
+      "Ethanoic acid",
+      "Propanoic acid",
+      "Butanoic acid"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following is a disaccharide?",
+    "options": [
+      "Glucose",
+      "Fructose",
+      "Sucrose",
+      "Galactose"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The process of heating ore in the absence of air to convert it into oxide is called:",
+    "options": [
+      "Roasting",
+      "Calcination",
+      "Smelting",
+      "Leaching"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The most electronegative element in the periodic table is:",
+    "options": [
+      "Oxygen",
+      "Fluorine",
+      "Chlorine",
+      "Nitrogen"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following noble gases is used in balloons?",
+    "options": [
+      "Helium",
+      "Neon",
+      "Argon",
+      "Krypton"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The formula of bleaching powder is:",
+    "options": [
+      "CaCl2",
+      "Ca(OCl)2",
+      "CaOCl2",
+      "CaCO3"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The number of periods in the modern periodic table is:",
+    "options": [
+      "7",
+      "8",
+      "18",
+      "6"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following metals is liquid at room temperature?",
+    "options": [
+      "Sodium",
+      "Potassium",
+      "Mercury",
+      "Calcium"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The colour of copper sulphate solution is:",
+    "options": [
+      "Blue",
+      "Green",
+      "Red",
+      "Colourless"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following is a thermosetting polymer?",
+    "options": [
+      "Polythene",
+      "PVC",
+      "Bakelite",
+      "Nylon-6,6"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The process of converting vegetable oil into solid fat is called:",
+    "options": [
+      "Hydrogenation",
+      "Halogenation",
+      "Hydration",
+      "Dehydration"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which of the following is an analgesic?",
+    "options": [
+      "Penicillin",
+      "Streptomycin",
+      "Aspirin",
+      "Chloramphenicol"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The 'fluid mosaic model' of cell membrane was given by:",
+    "options": [
+      "Schleiden and Schwann",
+      "Singer and Nicolson",
+      "Robert Hooke",
+      "Robert Brown"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Which of the following is known as 'powerhouse of the cell'?",
+    "options": [
+      "Ribosomes",
+      "Mitochondria",
+      "Golgi bodies",
+      "Lysosomes"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The process of cell division in which chromosome number is halved is called:",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Amitosis",
+      "Cytokinesis"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Which phase of mitosis is characterized by the alignment of chromosomes at the equatorial plate?",
+    "options": [
+      "Prophase",
+      "Metaphase",
+      "Anaphase",
+      "Telophase"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The genetic material in most organisms is:",
+    "options": [
+      "DNA",
+      "RNA",
+      "Proteins",
+      "Carbohydrates"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The process of protein synthesis is called:",
+    "options": [
+      "Transcription",
+      "Translation",
+      "Replication",
+      "Translocation"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Which of the following is a purine base?",
+    "options": [
+      "Adenine",
+      "Cytosine",
+      "Thymine",
+      "Uracil"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The enzyme responsible for DNA replication is:",
+    "options": [
+      "DNA ligase",
+      "DNA polymerase",
+      "RNA polymerase",
+      "Reverse transcriptase"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Mendel's law of segregation is based on the separation of alleles during:",
+    "options": [
+      "Mitosis",
+      "Meiosis I",
+      "Meiosis II",
+      "Fertilization"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "A dihybrid cross involves:",
+    "options": [
+      "One pair of contrasting characters",
+      "Two pairs of contrasting characters",
+      "Three pairs of contrasting characters",
+      "Four pairs of contrasting characters"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Down's syndrome is a genetic disorder caused by trisomy of chromosome number:",
+    "options": [
+      "21",
+      "18",
+      "13",
+      "X"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Haemophilia is a:",
+    "options": [
+      "Autosomal recessive disorder",
+      "Autosomal dominant disorder",
+      "X-linked recessive disorder",
+      "Y-linked dominant disorder"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The theory of natural selection was proposed by:",
+    "options": [
+      "Lamarck",
+      "Darwin",
+      "Hugo de Vries",
+      "Gregor Mendel"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Analogous organs are:",
+    "options": [
+      "Different in structure and function",
+      "Similar in structure and function",
+      "Different in structure but similar in function",
+      "Similar in structure but different in function"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The vestigial organ in human beings is:",
+    "options": [
+      "Heart",
+      "Brain",
+      "Appendix",
+      "Kidney"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Which of the following is a prokaryotic organism?",
+    "options": [
+      "Bacteria",
+      "Fungi",
+      "Algae",
+      "Protozoa"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The five kingdom classification was proposed by:",
+    "options": [
+      "Linnaeus",
+      "Whittaker",
+      "Aristotle",
+      "Haeckel"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Which of the following is a fungal disease?",
+    "options": [
+      "Tuberculosis",
+      "Typhoid",
+      "Ringworm",
+      "Malaria"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Vaccination is a process of:",
+    "options": [
+      "Passive immunization",
+      "Active immunization",
+      "Natural immunization",
+      "Artificial immunization"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "HIV virus causes:",
+    "options": [
+      "Cancer",
+      "AIDS",
+      "Tuberculosis",
+      "Polio"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The study of fossils is called:",
+    "options": [
+      "Ecology",
+      "Paleontology",
+      "Embryology",
+      "Taxonomy"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Which of the following is a biodegradable pollutant?",
+    "options": [
+      "Plastic",
+      "DDT",
+      "Sewage",
+      "Mercury"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The Montreal Protocol is related to:",
+    "options": [
+      "Global warming",
+      "Ozone depletion",
+      "Acid rain",
+      "Deforestation"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Green revolution is associated with:",
+    "options": [
+      "Increased food production",
+      "Decreased food production",
+      "Environmental pollution",
+      "Conservation of forests"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Biotechnology deals with:",
+    "options": [
+      "Study of fossils",
+      "Genetic engineering",
+      "Study of tissues",
+      "Study of cells"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Insulin is a:",
+    "options": [
+      "Vitamin",
+      "Enzyme",
+      "Hormone",
+      "Carbohydrate"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The largest gland in human body is:",
+    "options": [
+      "Liver",
+      "Pancreas",
+      "Thyroid",
+      "Adrenal"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The functional unit of kidney is:",
+    "options": [
+      "Neuron",
+      "Nephron",
+      "Alveoli",
+      "Glomerulus"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The respiratory pigment in human blood is:",
+    "options": [
+      "Myoglobin",
+      "Haemoglobin",
+      "Chlorophyll",
+      "Xanthophyll"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The pacemaker of the heart is:",
+    "options": [
+      "AV node",
+      "SA node",
+      "Bundle of His",
+      "Purkinje fibers"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The largest artery in human body is:",
+    "options": [
+      "Aorta",
+      "Pulmonary artery",
+      "Carotid artery",
+      "Coronary artery"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The central nervous system consists of:",
+    "options": [
+      "Brain and spinal cord",
+      "Brain and nerves",
+      "Spinal cord and nerves",
+      "Nerves only"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The hormone thyroxine is secreted by:",
+    "options": [
+      "Thyroid gland",
+      "Pituitary gland",
+      "Adrenal gland",
+      "Pancreas"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The organ of Corti is located in:",
+    "options": [
+      "Eye",
+      "Ear",
+      "Nose",
+      "Tongue"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The process of digestion starts in:",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Mouth",
+      "Large intestine"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The enzyme trypsin is involved in the digestion of:",
+    "options": [
+      "Carbohydrates",
+      "Proteins",
+      "Fats",
+      "Nucleic acids"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The absorption of digested food mainly occurs in:",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Large intestine",
+      "Oesophagus"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The deficiency of vitamin D causes:",
+    "options": [
+      "Scurvy",
+      "Rickets",
+      "Beriberi",
+      "Pellagra"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Which of the following is a fat soluble vitamin?",
+    "options": [
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin B complex"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The process of transpiration occurs through:",
+    "options": [
+      "Stomata",
+      "Lenticels",
+      "Cuticle",
+      "Xylem"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Xylem is involved in the transport of:",
+    "options": [
+      "Water and minerals",
+      "Food materials",
+      "Hormones",
+      "Amino acids"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Phloem is involved in the transport of:",
+    "options": [
+      "Water and minerals",
+      "Food materials",
+      "Hormones",
+      "Oxygen"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The process of photosynthesis occurs in:",
+    "options": [
+      "Mitochondria",
+      "Chloroplast",
+      "Golgi bodies",
+      "Lysosomes"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The end products of photosynthesis are:",
+    "options": [
+      "CO2 and H2O",
+      "Glucose and O2",
+      "Starch and CO2",
+      "Proteins and lipids"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The hormone auxin is involved in:",
+    "options": [
+      "Cell division",
+      "Cell elongation",
+      "Fruit ripening",
+      "Seed germination"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Cytokinin is a plant hormone that promotes:",
+    "options": [
+      "Apical dominance",
+      "Cell division",
+      "Dormancy",
+      "Abscission"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The process of pollination is:",
+    "options": [
+      "Transfer of pollen grains from anther to stigma",
+      "Fusion of male and female gametes",
+      "Development of embryo",
+      "Formation of fruit"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The male reproductive part of a flower is:",
+    "options": [
+      "Pistil",
+      "Stamen",
+      "Petal",
+      "Sepal"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The female reproductive part of a flower is:",
+    "options": [
+      "Stamen",
+      "Pistil",
+      "Sepal",
+      "Petal"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Fertilization in flowering plants is:",
+    "options": [
+      "Single fertilization",
+      "Double fertilization",
+      "Triple fertilization",
+      "Vegetative propagation"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The fruit develops from:",
+    "options": [
+      "Ovary",
+      "Ovule",
+      "Petal",
+      "Sepal"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The seed develops from:",
+    "options": [
+      "Ovary",
+      "Ovule",
+      "Fruit",
+      "Flower"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Which of the following is a sexually transmitted disease?",
+    "options": [
+      "Tuberculosis",
+      "Typhoid",
+      "AIDS",
+      "Common cold"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The technique of 'test tube baby' involves:",
+    "options": [
+      "In vivo fertilization",
+      "In vitro fertilization",
+      "Artificial insemination",
+      "Embryo transfer"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The process of birth control is called:",
+    "options": [
+      "Parturition",
+      "Lactation",
+      "Contraception",
+      "Gestation"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The period of pregnancy is called:",
+    "options": [
+      "Parturition",
+      "Lactation",
+      "Gestation",
+      "Menstruation"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The process of giving birth to young one is called:",
+    "options": [
+      "Parturition",
+      "Lactation",
+      "Gestation",
+      "Ovulation"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Colostrum is rich in:",
+    "options": [
+      "Antibodies",
+      "Carbohydrates",
+      "Fats",
+      "Vitamins"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Apiculture is related to:",
+    "options": [
+      "Fish farming",
+      "Poultry farming",
+      "Bee keeping",
+      "Silk worm rearing"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Sericulture is related to:",
+    "options": [
+      "Fish farming",
+      "Poultry farming",
+      "Bee keeping",
+      "Silk worm rearing"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Pisciculture is related to:",
+    "options": [
+      "Fish farming",
+      "Poultry farming",
+      "Bee keeping",
+      "Prawn farming"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Poultry farming is related to:",
+    "options": [
+      "Fish farming",
+      "Rearing of birds",
+      "Bee keeping",
+      "Silk worm rearing"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The process of producing genetically identical copies of an organism is called:",
+    "options": [
+      "Cloning",
+      "Hybridization",
+      "Mutation",
+      "Selection"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Restriction enzymes are used in:",
+    "options": [
+      "Gene cloning",
+      "Protein synthesis",
+      "DNA replication",
+      "Cell division"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "PCR technique is used for:",
+    "options": [
+      "Protein synthesis",
+      "DNA amplification",
+      "RNA synthesis",
+      "Cell culture"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Bt cotton is resistant to:",
+    "options": [
+      "Insects",
+      "Weeds",
+      "Fungi",
+      "Bacteria"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Golden rice is rich in:",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Human Genome Project is related to:",
+    "options": [
+      "Mapping of human genes",
+      "Protein synthesis",
+      "DNA replication",
+      "Cell division"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Ecology deals with:",
+    "options": [
+      "Study of fossils",
+      "Study of tissues",
+      "Study of cells",
+      "Study of interactions between organisms and environment"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The term 'ecosystem' was coined by:",
+    "options": [
+      "Odum",
+      "Tansley",
+      "Warming",
+      "Haeckel"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Producers in an ecosystem are:",
+    "options": [
+      "Green plants",
+      "Animals",
+      "Microorganisms",
+      "Decomposers"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Consumers in an ecosystem are:",
+    "options": [
+      "Green plants",
+      "Animals",
+      "Bacteria",
+      "Fungi"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Decomposers in an ecosystem are:",
+    "options": [
+      "Green plants",
+      "Animals",
+      "Bacteria and fungi",
+      "Protists"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The flow of energy in an ecosystem is:",
+    "options": [
+      "Cyclic",
+      "Unidirectional",
+      "Bidirectional",
+      "Multidirectional"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Food chain starts with:",
+    "options": [
+      "Producers",
+      "Consumers",
+      "Decomposers",
+      "Detritivores"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The pyramid of energy in an ecosystem is always:",
+    "options": [
+      "Upright",
+      "Inverted",
+      "Spindle shaped",
+      "Bell shaped"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The largest biome on earth is:",
+    "options": [
+      "Forest biome",
+      "Grassland biome",
+      "Desert biome",
+      "Aquatic biome"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Biodiversity hotspots are regions with:",
+    "options": [
+      "High species richness and high endemism",
+      "Low species richness and low endemism",
+      "High species richness and low endemism",
+      "Low species richness and high endemism"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "In situ conservation includes:",
+    "options": [
+      "Botanical gardens",
+      "Zoological parks",
+      "Wildlife sanctuaries",
+      "Gene banks"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Ex situ conservation includes:",
+    "options": [
+      "National parks",
+      "Biosphere reserves",
+      "Wildlife sanctuaries",
+      "Botanical gardens"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Red data book contains data of:",
+    "options": [
+      "Endangered species",
+      "Extinct species",
+      "Rare species",
+      "Common species"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "National park is an example of:",
+    "options": [
+      "In situ conservation",
+      "Ex situ conservation",
+      "Both in situ and ex situ conservation",
+      "Neither in situ nor ex situ conservation"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Zoological park is an example of:",
+    "options": [
+      "In situ conservation",
+      "Ex situ conservation",
+      "Both in situ and ex situ conservation",
+      "Neither in situ nor ex situ conservation"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The full form of IUCN is:",
+    "options": [
+      "Indian Union for Conservation of Nature",
+      "International Union for Conservation of Nature",
+      "International Unity for Conservation of Nature",
+      "Indian Unity for Conservation of Nature"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Pollution is:",
+    "options": [
+      "Addition of undesirable substances to the environment",
+      "Removal of undesirable substances from the environment",
+      "Conservation of natural resources",
+      "Protection of environment"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Air pollution is caused by:",
+    "options": [
+      "Sewage",
+      "Industrial effluents",
+      "Smoke and gases",
+      "Pesticides"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Water pollution is caused by:",
+    "options": [
+      "Smoke",
+      "Gases",
+      "Sewage and industrial effluents",
+      "Noise"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Noise pollution is measured in:",
+    "options": [
+      "Hertz",
+      "Decibels",
+      "Joules",
+      "Watts"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Global warming is due to increase in concentration of:",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Sulphur dioxide"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Acid rain is caused by:",
+    "options": [
+      "CO2 and H2O",
+      "SO2 and NO2",
+      "O3 and CFCs",
+      "CH4 and NH3"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Ozone layer depletion is mainly caused by:",
+    "options": [
+      "CO2",
+      "SO2",
+      "CFCs",
+      "NO2"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Deforestation means:",
+    "options": [
+      "Planting of trees",
+      "Cutting down of trees",
+      "Conservation of forests",
+      "Management of forests"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Afforestation means:",
+    "options": [
+      "Cutting down of trees",
+      "Planting of trees",
+      "Conservation of forests",
+      "Management of forests"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Chipko movement is associated with:",
+    "options": [
+      "Water conservation",
+      "Soil conservation",
+      "Forest conservation",
+      "Wildlife conservation"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Joint Forest Management (JFM) involves:",
+    "options": [
+      "Government only",
+      "Local communities only",
+      "Government and local communities",
+      "NGOs only"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Biomagnification refers to:",
+    "options": [
+      "Increase in concentration of pollutants at successive trophic levels",
+      "Decrease in concentration of pollutants at successive trophic levels",
+      "Constant concentration of pollutants at all trophic levels",
+      "Removal of pollutants from the environment"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Eutrophication refers to:",
+    "options": [
+      "Nutrient enrichment of water bodies",
+      "Nutrient depletion of water bodies",
+      "Removal of pollutants from water bodies",
+      "Conservation of water resources"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Biological Oxygen Demand (BOD) is a measure of:",
+    "options": [
+      "Water pollution",
+      "Air pollution",
+      "Soil pollution",
+      "Noise pollution"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Greenhouse effect is essential for:",
+    "options": [
+      "Cooling of earth's surface",
+      "Warming of earth's surface",
+      "Pollution control",
+      "Deforestation"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The major greenhouse gas is:",
+    "options": [
+      "Methane",
+      "Carbon dioxide",
+      "Nitrous oxide",
+      "Ozone"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Sustainable development means:",
+    "options": [
+      "Development without compromising the needs of future generations",
+      "Development only for present generation",
+      "Development at the cost of environment",
+      "No development"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Wildlife Protection Act was enacted in:",
+    "options": [
+      "1972",
+      "1986",
+      "1992",
+      "2002"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Environment Protection Act was enacted in:",
+    "options": [
+      "1972",
+      "1986",
+      "1992",
+      "2002"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Water (Prevention and Control of Pollution) Act was enacted in:",
+    "options": [
+      "1974",
+      "1981",
+      "1986",
+      "1992"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "Air (Prevention and Control of Pollution) Act was enacted in:",
+    "options": [
+      "1974",
+      "1981",
+      "1986",
+      "1992"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Biology",
+    "question": "The Earth Summit was held in Rio de Janeiro in:",
+    "options": [
+      "1992",
+      "2002",
+      "2012",
+      "2022"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  }
+]

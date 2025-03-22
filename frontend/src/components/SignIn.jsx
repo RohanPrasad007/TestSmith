@@ -1,6 +1,7 @@
 import { useAuth } from '../context/AuthContext';
 import { useNavigate } from 'react-router-dom';
 import { useState } from 'react';
+import { showToast } from '../utils/toast';
 
 const SignIn = () => {
   const { signInWithGoogle, checkIfUserExists } = useAuth();
@@ -16,10 +17,11 @@ const SignIn = () => {
       if (userExists) {
         navigate('/start-mock-test');
       } else {
-        navigate('/profile-info');
+        navigate('/start-mock-test');
       }
     } catch (error) {
-      setError('Failed to sign in with Google');
+      setError();
+      showToast.error('Failed to sign in with Google');
       console.error(error);
     }
   };

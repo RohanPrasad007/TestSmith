@@ -7,6 +7,10 @@ import { useAuth } from './context/AuthContext';
 import StartMockTest from './components/StartMockTest';
 import ExamHall from './components/ExamHall';
 import Result from './components/Result';
+import Rank from './components/Rank';
+import ReviewQuestionPaper from './components/ReviewQuestionPaper';
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const App = () => {
   return (
@@ -14,10 +18,8 @@ const App = () => {
       <Router>
         <Routes>
           <Route path="/signin" element={<SignIn />} />
-          <Route path="/home" element={<ProtectedRoute><Home /></ProtectedRoute>} />
-          <Route path="/" element={<Navigate to="/signin" replace />} />
-
-          {/* Exam routes wrapped with ExamProvider */}
+          {/* <Route path="/home" element={<ProtectedRoute><Home /></ProtectedRoute>} /> */}
+          {/* <Route path="/" element={<ProtectedRoute><Home /></ProtectedRoute>} /> */}
           <Route path="/start-mock-test" element={
             <ProtectedRoute>
               <ExamProvider>
@@ -39,8 +41,34 @@ const App = () => {
               </ExamProvider>
             </ProtectedRoute>
           } />
+          <Route path="/rank" element={
+            <ProtectedRoute>
+              <ExamProvider>
+                <Rank />
+              </ExamProvider>
+            </ProtectedRoute>
+          } />
+          <Route path="/review" element={
+            <ProtectedRoute>
+              <ExamProvider>
+                <ReviewQuestionPaper />
+              </ExamProvider>
+            </ProtectedRoute>
+          } />
         </Routes>
       </Router>
+      <ToastContainer
+        position="top-right"
+        autoClose={3000}
+        hideProgressBar={false}
+        newestOnTop
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+        theme="dark"
+      />
     </AuthProvider>
   );
 };

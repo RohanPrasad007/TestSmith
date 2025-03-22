@@ -2,6 +2,7 @@ import { useLocation } from 'react-router-dom';
 import { useEffect } from 'react';
 import QuestionPaper from './QuestionPaper';
 import { useExam } from '../context/ExamContext';
+import { showToast } from '../utils/toast';
 
 const ExamHall = () => {
     const location = useLocation();
@@ -24,6 +25,23 @@ const ExamHall = () => {
             console.warn("No questions received!");
         }
     }, [location.state, setQuestions]);
+
+    useEffect(() => {
+        if (timeLeft === 300) {
+            showToast.warning("5 minutes remaining for your exam!");
+        } else if (timeLeft === 60) {
+            showToast.warning("Only 1 minute remaining!");
+        }
+    }, [timeLeft]);
+
+    // Handle exam timeout
+    useEffect(() => {
+        if (timeLeft === 0 && !examCompleted) {
+            showToast.info("Time's up! Your exam has been submitted automatically.");
+        }
+    }, [timeLeft, examCompleted]);
+
+
 
     const { hours, minutes, seconds } = formatTime();
 

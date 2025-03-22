@@ -1,0 +1,248 @@
+[
+    {
+        "subject": "Chemistry",
+        "question": "The number of atoms in 48 g of ozone (O₃) is (Avogadro's number, N<0xE2><0x82><0x8B> = 6 × 10²³ mol⁻¹):",
+        "options": [
+            "6 × 10²³",
+            "12 × 10²³",
+            "18 × 10²³",
+            "24 × 10²³"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "Which of the following molecules has the highest dipole moment?",
+        "options": [
+            "CO₂",
+            "BF₃",
+            "NH₃",
+            "CCl₄"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "The rate constant of a first-order reaction is 2.303 × 10⁻³ s⁻¹. The time required for 50% completion of the reaction is:",
+        "options": [
+            "100 s",
+            "300 s",
+            "1000 s",
+            "3000 s"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "Which of the following is an example of a condensation polymer?",
+        "options": [
+            "Polythene",
+            "PVC",
+            "Nylon 6,6",
+            "Teflon"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "The IUPAC name of [Co(NH₃)₅Cl]Cl₂ is:",
+        "options": [
+            "Pentaamminechlorocobalt(III) chloride",
+            "Pentaamminechlorocobalt(II) chloride",
+            "Chloropentaamminecobalt(III) chloride",
+            "Chloropentaamminecobalt(II) chloride"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "Which of the following reagents can be used to distinguish between aldehydes and ketones?",
+        "options": [
+            "Tollen's reagent",
+            "Fehling's solution",
+            "Schiff's reagent",
+            "All of these"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "The major product of the reaction of phenol with conc. HNO₃ and conc. H₂SO₄ is:",
+        "options": [
+            "o-Nitrophenol",
+            "p-Nitrophenol",
+            "2,4-Dinitrophenol",
+            "2,4,6-Trinitrophenol"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "Which of the following is a broad-spectrum antibiotic?",
+        "options": [
+            "Penicillin",
+            "Streptomycin",
+            "Chloramphenicol",
+            "Tetracycline"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "The van't Hoff factor (i) for a dilute solution of K₂SO₄ in water is:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "Which of the following ores is concentrated by froth floatation process?",
+        "options": [
+            "Haematite",
+            "Bauxite",
+            "Zinc blende",
+            "Magnetite"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "The shape of XeF₄ molecule is:",
+        "options": [
+            "Tetrahedral",
+            "Square planar",
+            "Pyramidal",
+            "See-saw"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "Which of the following is the strongest reducing agent?",
+        "options": [
+            "F⁻",
+            "Cl⁻",
+            "Br⁻",
+            "I⁻"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "The enthalpy change for the reaction, H₂(g) + Cl₂(g) → 2HCl(g) is -184 kJ. The enthalpy of formation of HCl(g) is:",
+        "options": [
+            "-184 kJ/mol",
+            "-92 kJ/mol",
+            "92 kJ/mol",
+            "184 kJ/mol"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "Which of the following compounds will give a positive iodoform test?",
+        "options": [
+            "Methanol",
+            "Ethanol",
+            "Propanol",
+            "Butanol"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "The crystal field splitting energy (Δ₀) is higher for:",
+        "options": [
+            "Weak field ligands",
+            "Strong field ligands",
+            "Tetrahedral complexes",
+            "Octahedral complexes with d⁴ configuration"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "The order of reactivity of haloalkanes towards SN1 reaction is:",
+        "options": [
+            "1° > 2° > 3°",
+            "3° > 2° > 1°",
+            "2° > 1° > 3°",
+            "1° ≈ 2° ≈ 3°"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "The standard electrode potential (E°) for Zn²⁺/Zn is -0.76 V and for Cu²⁺/Cu is +0.34 V. The EMF of the cell Zn|Zn²⁺||Cu²⁺|Cu is:",
+        "options": [
+            "-1.10 V",
+            "+1.10 V",
+            "-0.42 V",
+            "+0.42 V"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "The major product of the dehydration of 2-methylbutan-2-ol is:",
+        "options": [
+            "But-1-ene",
+            "But-2-ene",
+            "2-Methylbut-1-ene",
+            "2-Methylbut-2-ene"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "The mass percentage of carbon in methane (CH₄) is:",
+        "correct_answer": "75",
+        "type": "Numerical"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "The pH of a solution obtained by mixing 50 mL of 0.2 M HCl and 50 mL of 0.1 M NaOH is:",
+        "correct_answer": "1.3",
+        "type": "Numerical"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "The number of isomers possible for the complex [Pt(en)Cl₂Br₂] is:",
+        "correct_answer": "3",
+        "type": "Numerical"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "The volume of air required for complete combustion of 1 L of methane at STP is (in L):",
+        "correct_answer": "10",
+        "type": "Numerical"
+    },
+    {
+        "subject": "Chemistry",
+        "question": "The elevation in boiling point of a solution containing 12 g of urea (mol. wt. 60) in 100 g of water is (K<0xE2><0x82><0x8B> for water = 0.52 K kg/mol):",
+        "correct_answer": "1.04",
+        "type": "Numerical"
+    }
+]

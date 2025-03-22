@@ -1,4 +1,5 @@
 import React, { createContext, useContext, useState, useEffect, useRef } from 'react';
+import { showToast } from '../utils/toast';
 
 // Create context
 const ExamContext = createContext();
@@ -25,6 +26,7 @@ export const ExamProvider = ({ children }) => {
     const [subjects, setSubjects] = useState([]);
     const [numericalAnswer, setNumericalAnswer] = useState('');
     const [showScoreModal, setShowScoreModal] = useState(false);
+    const [examType, setExamType] = useState(""); // Add examType state
     const [scoreDetails, setScoreDetails] = useState({
         totalScore: 0,
         correctMCQ: 0,
@@ -164,7 +166,7 @@ export const ExamProvider = ({ children }) => {
             setSelectedSubject(nextSubject);
         } else {
             // If it's the last subject, show a message
-            alert("Congratulations! You've completed all subjects. You can now review your answers or submit the test.");
+            showToast.success("Congratulations! You've completed all subjects. You can now review your answers or submit the test.");
         }
     };
 
@@ -315,6 +317,7 @@ export const ExamProvider = ({ children }) => {
         numericalAnswer,
         showScoreModal,
         scoreDetails,
+        examType, // Add examType to the context value
 
         // Setters
         setQuestions,
@@ -322,6 +325,7 @@ export const ExamProvider = ({ children }) => {
         setSelectedSubject,
         setNumericalAnswer,
         setShowScoreModal,
+        setExamType, // Add setExamType to the context value
 
         // Functions
         formatTime,

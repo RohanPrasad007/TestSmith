@@ -1,76 +1,228 @@
 import React from 'react';
-import { useLocation, useNavigate } from 'react-router-dom';
+import { useExam } from '../context/ExamContext';
+import { useNavigate } from 'react-router-dom';
+import { PieChart, Pie, Cell, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Radar } from 'recharts';
+import OverallSummaryResult from './OverallSummaryResult';
+import SubjectWiseResult from './SubjectWiseResult';
 
 const Result = () => {
-    const location = useLocation();
+    const { subjects, questions, userAnswers, examType } = useExam();
     const navigate = useNavigate();
-    const { scoreDetails, selectedSubject } = location.state || {};
 
-    // Function to handle the "Review Answers" button
-    const handleReviewAnswers = () => {
-        // Navigate back to the previous page
-        navigate(-1);
+    // Calculate comprehensive results for all subjects
+    const calculateResults = () => {
+        const subjectResults = {};
+        let overallTotalScore = 0;
+        let overallTotalQuestions = 0;
+        let overallAttempted = 0;
+        let overallCorrectMCQ = 0;
+        let overallIncorrectMCQ = 0;
+        let overallCorrectNumerical = 0;
+        let overallIncorrectNumerical = 0;
+
+        // Define scoring rules based on exam type
+        const scoringRules = {
+            JEE: {
+                correctMCQMarks: 4,
+                incorrectMCQMarks: -1,
+                correctNumericalMarks: 4,
+                incorrectNumericalMarks: 0 // JEE doesn't penalize for incorrect numerical answers
+            },
+            NEET: {
+                correctMCQMarks: 4,
+                incorrectMCQMarks: -1, // Fixed: Changed from 0 to -1 for NEET negative marking
+                correctNumericalMarks: 4,
+                incorrectNumericalMarks: 0 // NEET typically doesn't have numerical questions
+            }
+        };
+
+        // Use the scoring rule based on the exam type
+        const scoringRule = scoringRules[examType] || scoringRules.JEE;
+
+        subjects.forEach(subject => {
+            const subjectQuestions = questions.filter(q => q.subject === subject);
+
+            let correctMCQ = 0;
+            let incorrectMCQ = 0;
+            let correctNumerical = 0;
+            let incorrectNumerical = 0;
+            let attemptedCount = 0;
+
+            subjectQuestions.forEach((question, index) => {
+                const userAnswer = userAnswers[`${subject}-${index}`];
+
+                if (userAnswer !== undefined) {
+                    attemptedCount++;
+
+                    if (question.type === 'MCQ') {
+                        if (parseInt(userAnswer) === question.correct_answer_index) {
+                            correctMCQ++;
+                        } else {
+                            incorrectMCQ++;
+                        }
+                    } else if (question.type === 'Numerical') {
+                        if (parseFloat(userAnswer) === parseFloat(question.correct_answer)) {
+                            correctNumerical++;
+                        } else {
+                            incorrectNumerical++;
+                        }
+                    }
+                }
+            });
+
+            // Calculate total score based on exam type scoring rules
+            const totalScore =
+                (correctMCQ * scoringRule.correctMCQMarks) +
+                (incorrectMCQ * scoringRule.incorrectMCQMarks) +
+                (correctNumerical * scoringRule.correctNumericalMarks) +
+                (incorrectNumerical * scoringRule.incorrectNumericalMarks);
+
+            // Calculate maximum possible score
+            const maxPossibleScore = subjectQuestions.length * scoringRule.correctMCQMarks;
+
+            subjectResults[subject] = {
+                totalQuestions: subjectQuestions.length,
+                attemptedCount,
+                unattemptedCount: subjectQuestions.length - attemptedCount,
+                correctMCQ,
+                incorrectMCQ,
+                correctNumerical,
+                incorrectNumerical,
+                totalScore,
+                maxPossibleScore
+            };
+
+            // Add to overall totals
+            overallTotalScore += totalScore;
+            overallTotalQuestions += subjectQuestions.length;
+            overallAttempted += attemptedCount;
+            overallCorrectMCQ += correctMCQ;
+            overallIncorrectMCQ += incorrectMCQ;
+            overallCorrectNumerical += correctNumerical;
+            overallIncorrectNumerical += incorrectNumerical;
+        });
+
+        return {
+            subjectResults,
+            overall: {
+                totalQuestions: overallTotalQuestions,
+                attemptedCount: overallAttempted,
+                unattemptedCount: overallTotalQuestions - overallAttempted,
+                correctMCQ: overallCorrectMCQ,
+                incorrectMCQ: overallIncorrectMCQ,
+                correctNumerical: overallCorrectNumerical,
+                incorrectNumerical: overallIncorrectNumerical,
+                totalScore: overallTotalScore,
+                maxPossibleScore: overallTotalQuestions * scoringRule.correctMCQMarks,
+                scoringRule // Include scoring rule for reference
+            }
+        };
     };
 
+    const results = calculateResults();
+
+    // Prepare data for pie chart
+    const attemptedPieData = [
+        { name: 'Attempted', value: results.overall.attemptedCount, color: '#3B82F6' },
+        { name: 'Unattempted', value: results.overall.unattemptedCount, color: '#6B7280' }
+    ];
+
+    // Prepare data for result breakdown pie chart - now including incorrectNumerical
+    const resultBreakdownData = [
+        { name: 'Correct', value: results.overall.correctMCQ + results.overall.correctNumerical, color: '#10B981' },
+        { name: 'Incorrect', value: results.overall.incorrectMCQ + results.overall.incorrectNumerical, color: '#EF4444' },
+        { name: 'Unattempted', value: results.overall.unattemptedCount, color: '#6B7280' }
+    ];
+
+    // Prepare data for subject comparison bar chart
+    const subjectComparisonData = subjects.map(subject => {
+        const result = results.subjectResults[subject];
+        return {
+            subject,
+            score: result.totalScore,
+            maxScore: result.maxPossibleScore,
+            percentage: Math.round((result.totalScore / result.maxPossibleScore) * 100)
+        };
+    });
+
+    // Prepare data for radar chart - subject performance
+    const radarData = subjects.map(subject => {
+        const result = results.subjectResults[subject];
+        // Calculate percentage score (accounting for negative scores)
+        const percentage = Math.max(0, Math.round((result.totalScore / result.maxPossibleScore) * 100));
+        return {
+            subject,
+            value: percentage
+        };
+    });
+
+    // Custom tooltip for bar chart
+    const CustomTooltip = ({ active, payload, label }) => {
+        if (active && payload && payload.length) {
+            return (
+                <div className="bg-gray-800 p-3 rounded-md shadow-lg border border-gray-700">
+                    <p className="font-bold">{label}</p>
+                    <p className="text-blue-400">Score: {payload[0].value}</p>
+                    <p className="text-green-400">Max Possible: {payload[1].value}</p>
+                    <p className="font-bold text-yellow-400">
+                        Percentage: {Math.round((payload[0].value / payload[1].value) * 100)}%
+                    </p>
+                </div>
+            );
+        }
+        return null;
+    };
+
+    // Get exam specific colors
+    const examColors = {
+        JEE: {
+            primary: 'blue',
+            secondary: 'blue-800',
+            highlight: 'blue-900'
+        },
+        NEET: {
+            primary: 'green',
+            secondary: 'green-800',
+            highlight: 'green-900'
+        }
+    };
+
+    const colors = examColors[examType] || examColors.JEE;
+
     return (
-        <div>
-            <div className="fixed inset-0 bg-zinc-950  flex items-center justify-center z-50 text-white">
-                <div className="bg-gray-800 p-8 rounded-xl w-full max-w-2xl">
-                    <h2 className="text-2xl font-bold mb-6 text-center">JEE Test Score Report</h2>
+        <div className="min-h-screen bg-gray-900 text-white py-12">
+            <div className="container mx-auto px-4">
+                <div className="bg-gray-800 p-8 rounded-xl w-full max-w-7xl mx-auto mb-8">
+                    <h2 className="text-3xl font-bold mb-6 text-center">
+                        {examType === 'NEET' ? 'NEET Mock Test Results' : 'JEE Mock Test Results'}
+                    </h2>
 
-                    <div className="bg-gray-700 p-6 rounded-lg mb-4">
-                        <h3 className="text-xl mb-4 font-semibold text-center">Subject: {selectedSubject}</h3>
-
-                        <div className="grid grid-cols-2 gap-4 mb-4">
-                            <div className="bg-gray-600 p-4 rounded-lg">
-                                <p className="text-lg font-semibold">Total Score</p>
-                                <p className="text-3xl font-bold text-blue-400">{scoreDetails?.totalScore}</p>
-                            </div>
-                            <div className="bg-gray-600 p-4 rounded-lg">
-                                <p className="text-lg font-semibold">Maximum Marks</p>
-                                <p className="text-3xl font-bold">{scoreDetails?.totalQuestions * 4}</p>
-                            </div>
-                        </div>
-
-                        <div className="grid grid-cols-2 gap-4">
-                            <div>
-                                <h4 className="font-semibold mb-2">Questions Breakdown</h4>
-                                <ul className="space-y-1">
-                                    <li className="flex justify-between">
-                                        <span>Total Questions:</span>
-                                        <span>{scoreDetails?.totalQuestions}</span>
-                                    </li>
-                                    <li className="flex justify-between">
-                                        <span>Attempted:</span>
-                                        <span>{scoreDetails?.attemptedCount}</span>
-                                    </li>
-                                    <li className="flex justify-between">
-                                        <span>Unattempted:</span>
-                                        <span>{scoreDetails?.unattemptedCount}</span>
-                                    </li>
-                                </ul>
-                            </div>
-
-                            <div>
-                                <h4 className="font-semibold mb-2">Marks Breakdown</h4>
-                                <ul className="space-y-1">
-                                    <li className="flex justify-between">
-                                        <span>Correct MCQs:</span>
-                                        <span className="text-green-400">{scoreDetails?.correctMCQ} (+{scoreDetails?.correctMCQ * 4})</span>
-                                    </li>
-                                    <li className="flex justify-between">
-                                        <span>Incorrect MCQs:</span>
-                                        <span className="text-red-400">{scoreDetails?.incorrectMCQ} (-{scoreDetails?.incorrectMCQ})</span>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+                    {/* Check Rank Button */}
+                    <div className="flex justify-center mb-6">
+                        <button
+                            onClick={() => navigate('/rank')}
+                            className={`bg-yellow-600 hover:bg-yellow-700 text-white font-bold py-3 px-6 rounded-lg text-lg shadow-lg transform hover:scale-105 transition-all duration-200 animate-pulse`}
+                        >
+                            CHECK YOUR RANK
+                        </button>
                     </div>
 
-                    <div className="flex gap-4 justify-center">
+                    {/* Overall Summary */}
+                    <OverallSummaryResult colors={colors} results={results} attemptedPieData={attemptedPieData} resultBreakdownData={resultBreakdownData} radarData={radarData} examType={examType} subjectComparisonData={subjectComparisonData} CustomTooltip={CustomTooltip} />
 
+                    {/* Subject-wise Results */}
+                    <h3 className="text-xl font-semibold mb-4">Subject-wise Performance</h3>
+                    <SubjectWiseResult subjects={subjects} results={results} colors={colors} />
+
+                    <div className="flex gap-4 justify-center mt-8">
                         <button
-                            onClick={() => navigate('/')}
+                            onClick={() => navigate('/review')}
+                            className="bg-gray-600 px-4 py-2 rounded-md hover:bg-gray-500 transition"
+                        >
+                            Review Answers
+                        </button>
+                        <button
+                            onClick={() => navigate('/start-mock-test')}
                             className="bg-blue-600 px-4 py-2 rounded-md hover:bg-blue-700 transition"
                         >
                             Back to Home
@@ -79,7 +231,7 @@ const Result = () => {
                 </div>
             </div>
         </div>
-    )
-}
+    );
+};
 
-export default Result
+export default Result;  

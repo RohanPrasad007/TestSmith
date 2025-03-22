@@ -1,0 +1,272 @@
+[
+    {
+        "subject": "Physics",
+        "question": "A body of mass 2 kg is initially at rest. A force of 10 N is applied on it for 5 seconds. The kinetic energy acquired by the body is:",
+        "options": [
+            "250 J",
+            "500 J",
+            "625 J",
+            "125 J"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Physics",
+        "question": "Two identical capacitors are connected in parallel and charged to a potential V. If these are now connected in series, the total energy stored becomes:",
+        "options": [
+            "Same",
+            "Twice",
+            "Half",
+            "Quarter"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Physics",
+        "question": "A particle is moving in a circle of radius R with uniform speed v. In half revolution, the magnitude of change in velocity is:",
+        "options": [
+            "0",
+            "v",
+            "2v",
+            "\\( \\sqrt{2}v \\)"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Physics",
+        "question": "The temperature of an ideal gas is increased from 27°C to 927°C. The RMS speed of its molecules becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "Four times",
+            "Sixteen times"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Physics",
+        "question": "In a series LCR circuit, the voltage across the inductor, capacitor and resistor are 20V, 20V and 40V respectively. The phase difference between the applied voltage and the current in the circuit is:",
+        "options": [
+            "0°",
+            "30°",
+            "45°",
+            "60°"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Physics",
+        "question": "The resolving power of a telescope increases with:",
+        "options": [
+            "Increase in focal length of objective",
+            "Decrease in focal length of objective",
+            "Increase in diameter of objective",
+            "Decrease in diameter of objective"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Physics",
+        "question": "The work done in carrying a charge q around a circle of radius r with a charge Q at the center is:",
+        "options": [
+            "\\( \\frac{kQq}{r} \\)",
+            "\\( \\frac{kQq}{2\\pi r} \\)",
+            "\\( kQq \\)",
+            "0"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Physics",
+        "question": "A bar magnet is cut into two equal pieces perpendicular to its length. If the original magnetic moment was M, the magnetic moment of each piece will be:",
+        "options": [
+            "M",
+            "M/2",
+            "2M",
+            "M/4"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Physics",
+        "question": "The energy gap in a semiconductor is 0.7 eV. Its maximum wavelength of light it can absorb is:",
+        "options": [
+            "1771 nm",
+            "1771 Å",
+            "1771 μm",
+            "177 nm"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Physics",
+        "question": "For a diatomic gas, the ratio of two specific heats \\( \\frac{C_p}{C_v} \\) is:",
+        "options": [
+            "1.67",
+            "1.40",
+            "1.33",
+            "1.50"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Physics",
+        "question": "If the radius of the Earth shrinks by 1%, keeping its mass constant, then the acceleration due to gravity on the Earth's surface will:",
+        "options": [
+            "Decrease by 2%",
+            "Increase by 1%",
+            "Increase by 2%",
+            "Remain unchanged"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Physics",
+        "question": "The potential energy of a long spring when stretched by 2 cm is U. If the spring is stretched by 8 cm, the potential energy stored in it will be:",
+        "options": [
+            "4U",
+            "8U",
+            "16U",
+            "64U"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Physics",
+        "question": "The output Y of the given logic circuit is:",
+        "options": [
+            "A.\\(\\overline{B}\\)",
+            "\\(\\overline{A}\\).B",
+            "A+B",
+            "A.B"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Physics",
+        "question": "A lift is moving upwards with a uniform acceleration 'a'. A person inside the lift throws a ball vertically upwards with a velocity 'u' relative to the lift. The time of flight of the ball as observed by the person in the lift is:",
+        "options": [
+            "\\( \\frac{2u}{g+a} \\)",
+            "\\( \\frac{2u}{g-a} \\)",
+            "\\( \\frac{u}{g+a} \\)",
+            "\\( \\frac{2u}{g} \\)"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Physics",
+        "question": "The equivalent resistance between points A and B in the given circuit is:",
+        "options": [
+            "2 Ω",
+            "3 Ω",
+            "4 Ω",
+            "5 Ω"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Physics",
+        "question": "The ratio of intensities of two waves is 9:16. The ratio of their amplitudes is:",
+        "options": [
+            "3:4",
+            "9:16",
+            "4:3",
+            "16:9"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Physics",
+        "question": "The angle of dip at a place where the horizontal and vertical components of Earth's magnetic field are equal is:",
+        "options": [
+            "0°",
+            "30°",
+            "45°",
+            "90°"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Physics",
+        "question": "The number of photons of wavelength 540 nm emitted per second by a 100 W lamp is (h = 6.6 × 10⁻³⁴ Js, c = 3 × 10⁸ m/s):",
+        "options": [
+            "\\( \\approx 3 \\times 10^{20} \\)",
+            "\\( \\approx 3 \\times 10^{18} \\)",
+            "\\( \\approx 10^{20} \\)",
+            "\\( \\approx 10^{18} \\)"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Physics",
+        "question": "A sphere of radius R and density ρ has a hole of radius \\( \\frac{R}{2} \\) drilled through its center. The density of the remaining part is:",
+        "options": [
+            "ρ",
+            "\\( \\frac{8}{7} \\rho \\)",
+            "\\( \\frac{7}{8} \\rho \\)",
+            "\\( \\frac{4}{3} \\rho \\)"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Physics",
+        "question": "Which of the following graphs correctly represents the variation of capacitive reactance (Xc) with frequency (f)?",
+        "options": [
+            "Graph 1",
+            "Graph 2",
+            "Graph 3",
+            "Graph 4"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Physics",
+        "question": "A body cools from 70°C to 60°C in 5 minutes. The time taken to cool it from 60°C to 50°C, if the surroundings are at 30°C, is (in minutes):",
+        "correct_answer": "7.5",
+        "type": "Numerical"
+    },
+    {
+        "subject": "Physics",
+        "question": "A wire of length 2 m and radius 0.1 mm has a resistance of 10 Ω. The resistivity of the material of the wire in Ωm is:",
+        "correct_answer": "1.57e-07",
+        "type": "Numerical"
+    },
+    {
+        "subject": "Physics",
+        "question": "In a photoelectric effect experiment, the stopping potential is 1.5 V when the incident light has a frequency of 6 × 10¹⁴ Hz. The work function of the metal in eV is (Given: h = 6.6 × 10⁻³⁴ Js, e = 1.6 × 10⁻¹⁹ C):",
+        "correct_answer": "0.99",
+        "type": "Numerical"
+    },
+    {
+        "subject": "Physics",
+        "question": "A car is moving with a speed of 72 km/h. The radius of its wheels is 0.25 m. The angular speed of the wheels in rad/s is:",
+        "correct_answer": "80",
+        "type": "Numerical"
+    },
+    {
+        "subject": "Physics",
+        "question": "A particle executes SHM with an amplitude of 5 cm and a time period of 2 s. The maximum velocity of the particle in cm/s is:",
+        "correct_answer": "15.7",
+        "type": "Numerical"
+    }
+]
