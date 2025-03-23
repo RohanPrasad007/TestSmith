@@ -2,7 +2,6 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-d
 import { AuthProvider } from './context/AuthContext';
 import { ExamProvider } from './context/ExamContext';
 import SignIn from './components/SignIn';
-import Home from './components/Home';
 import { useAuth } from './context/AuthContext';
 import StartMockTest from './components/StartMockTest';
 import ExamHall from './components/ExamHall';
@@ -12,14 +11,23 @@ import ReviewQuestionPaper from './components/ReviewQuestionPaper';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
+// Root component to handle redirection logic
+const Root = () => {
+  const { user } = useAuth();
+
+  // If user is signed in, redirect to start-mock-test, otherwise to signin
+  return user ? <Navigate to="/start-mock-test" replace /> : <Navigate to="/signin" replace />;
+};
+
 const App = () => {
   return (
     <AuthProvider>
       <Router>
         <Routes>
+          {/* Root route with redirection logic */}
+          <Route path="/" element={<Root />} />
+
           <Route path="/signin" element={<SignIn />} />
-          {/* <Route path="/home" element={<ProtectedRoute><Home /></ProtectedRoute>} /> */}
-          {/* <Route path="/" element={<ProtectedRoute><Home /></ProtectedRoute>} /> */}
           <Route path="/start-mock-test" element={
             <ProtectedRoute>
               <ExamProvider>
