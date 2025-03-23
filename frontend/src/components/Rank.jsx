@@ -20,7 +20,7 @@ const Rank = () => {
   const [loading, setLoading] = useState(true);
   const [rankDetails, setRankDetails] = useState({
     score: 0,
-    totalApplicants: 1000000,
+    totalApplicants: examType === "JEE" ? 1500000 : 1650000,
     rank: 0,
     category: "",
     qualifiedForAdvanced: false,
@@ -552,7 +552,7 @@ const Rank = () => {
 
       setRankDetails({
         score: userScore,
-        totalApplicants: 1000000,
+        totalApplicants: examType === "JEE" ? 1500000 : 1650000,
         rank: rankInfo.rank,
         category: rankInfo.category,
         qualifiedForAdvanced: rankInfo.qualifiedForAdvanced,
@@ -606,12 +606,13 @@ const Rank = () => {
   const eligibleInstitutes = getTopInstitutes(rankDetails.score);
 
   return (
-
-    <div className='min-h-screen w-full bg-gradient-to-br from-[#0A0A0B] via-[#110D1A] to-[#090015] overflow-x-hidden relative'>
-      <div className="w-full md:w-[60%] lg:w-[800px] h-[300px] md:h-[500px] lg:h-[700px] absolute right-0 md:right-[5%] lg:right-[12%] top-[-10%] md:top-[-15%] lg:top-[-20%] rounded-full 
+    <div className="min-h-screen w-full bg-gradient-to-br from-[#0A0A0B] via-[#110D1A] to-[#090015] overflow-x-hidden relative">
+      <div
+        className="w-full md:w-[60%] lg:w-[800px] h-[300px] md:h-[500px] lg:h-[700px] absolute right-0 md:right-[5%] lg:right-[12%] top-[-10%] md:top-[-15%] lg:top-[-20%] rounded-full 
         bg-[#441d85] bg-opacity-70
         shadow-[0_0_400px_10px_rgba(122,47,249,0.8)] md:shadow-[0_0_600px_10px_rgba(122,47,249,0.8)] lg:shadow-[0_0_800px_10px_rgba(122,47,249,0.8)]
-        backdrop-blur-md border-none outline-none blur-[150px] md:blur-[200px] lg:blur-[300px] z-0" />
+        backdrop-blur-md border-none outline-none blur-[150px] md:blur-[200px] lg:blur-[300px] z-0"
+      />
       <div className="min-h-screen bg-opacity-70 text-white py-6 md:py-8 lg:py-12 relative z-10 px-4 sm:px-6 max-w-7xl mx-auto">
         {showConfetti && (
           <div className="fixed top-0 left-0 w-full h-full pointer-events-none z-10">
@@ -642,12 +643,15 @@ const Rank = () => {
 
             {/* Hero Section with Main Results */}
             <div
-              className={`bg-gradient-to-r ${rankDetails.rank <= 10000
-                ? "from-purple-900 to-blue-900"
-                : "from-blue-900 to-indigo-900"
-                } p-4 sm:p-6 lg:p-8 rounded-xl mb-4 md:mb-8 text-center shadow-lg`}
+              className={`bg-gradient-to-r ${
+                rankDetails.rank <= 10000
+                  ? "from-purple-900 to-blue-900"
+                  : "from-blue-900 to-indigo-900"
+              } p-4 sm:p-6 lg:p-8 rounded-xl mb-4 md:mb-8 text-center shadow-lg`}
             >
-              <h3 className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-2 md:mb-3">Your All India Rank</h3>
+              <h3 className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-2 md:mb-3">
+                Your All India Rank
+              </h3>
               <div className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-3 md:mb-4 text-yellow-400 animate-pulse">
                 {rankDetails.rank.toLocaleString("en-IN")}
               </div>
@@ -740,7 +744,9 @@ const Rank = () => {
                         { score: rankDetails.score, rank: 0 },
                         {
                           score: rankDetails.score,
-                          rank: Math.max(...distributionData.map((d) => d.rank)),
+                          rank: Math.max(
+                            ...distributionData.map((d) => d.rank)
+                          ),
                         },
                       ]}
                       dataKey="rank"
@@ -757,7 +763,9 @@ const Rank = () => {
 
             {/* College Eligibility */}
             <div className="bg-gray-700/50 p-3 sm:p-4 lg:p-6 rounded-lg mb-4 md:mb-8">
-              <h3 className="text-lg sm:text-xl font-semibold mb-2 md:mb-4">College Eligibility</h3>
+              <h3 className="text-lg sm:text-xl font-semibold mb-2 md:mb-4">
+                College Eligibility
+              </h3>
               <p className="text-gray-400 mb-2 md:mb-4 text-sm md:text-base">
                 Based on your marks, you may be eligible for the following
                 colleges:
@@ -770,11 +778,15 @@ const Rank = () => {
                       key={index}
                       className="bg-gray-800/50 p-3 md:p-4 rounded-lg border border-gray-700 hover:border-blue-500 transition-all duration-300"
                     >
-                      <h4 className="font-bold text-base md:text-lg mb-1 md:mb-2">{institute.name}</h4>
+                      <h4 className="font-bold text-base md:text-lg mb-1 md:mb-2">
+                        {institute.name}
+                      </h4>
                       <p className="text-gray-400 mb-1 md:mb-2 text-sm md:text-base">
                         Min. Marks: {institute.minMarks}
                       </p>
-                      <p className="font-semibold mb-1 text-sm md:text-base">Potential Programs:</p>
+                      <p className="font-semibold mb-1 text-sm md:text-base">
+                        Potential Programs:
+                      </p>
                       <ul className="text-blue-400 text-sm md:text-base">
                         {institute.programs.map((program, idx) => (
                           <li key={idx} className="ml-2 md:ml-4">
@@ -788,9 +800,9 @@ const Rank = () => {
               ) : (
                 <div className="bg-red-900 p-3 md:p-4 rounded-lg">
                   <p className="text-center text-sm md:text-lg">
-                    Your current marks don't meet the minimum requirements for our
-                    listed colleges. Consider improving your score or exploring
-                    other educational pathways.
+                    Your current marks don't meet the minimum requirements for
+                    our listed colleges. Consider improving your score or
+                    exploring other educational pathways.
                   </p>
                 </div>
               )}
@@ -798,19 +810,25 @@ const Rank = () => {
 
             {/* Next Steps */}
             <div className="bg-gray-700/50 p-3 sm:p-4 lg:p-6 rounded-lg mb-4 md:mb-8">
-              <h3 className="text-lg sm:text-xl font-semibold mb-2 md:mb-4">Next Steps</h3>
+              <h3 className="text-lg sm:text-xl font-semibold mb-2 md:mb-4">
+                Next Steps
+              </h3>
 
               {rankDetails.qualifiedForAdvanced ? (
                 <div className="space-y-3 md:space-y-4">
                   <div className="bg-blue-900 bg-opacity-50 p-3 md:p-4 rounded-lg">
                     <h4 className="font-bold mb-1 md:mb-2 text-sm md:text-base">
                       Prepare for{" "}
-                      {examType === "NEET" ? "NEET Counselling" : "JEE Advanced"}
+                      {examType === "NEET"
+                        ? "NEET Counselling"
+                        : "JEE Advanced"}
                     </h4>
                     <p className="text-sm md:text-base">
                       Your score qualifies you for{" "}
-                      {examType === "NEET" ? "NEET Counselling" : "JEE Advanced"}.
-                      Focus on advanced concepts and problem-solving skills.
+                      {examType === "NEET"
+                        ? "NEET Counselling"
+                        : "JEE Advanced"}
+                      . Focus on advanced concepts and problem-solving skills.
                     </p>
                   </div>
                   <div className="bg-purple-900 bg-opacity-50 p-3 md:p-4 rounded-lg">
@@ -818,14 +836,18 @@ const Rank = () => {
                       Research Your College Options
                     </h4>
                     <p className="text-sm md:text-base">
-                      Start researching the colleges and programs you're eligible
-                      for based on your marks.
+                      Start researching the colleges and programs you're
+                      eligible for based on your marks.
                     </p>
                   </div>
                   <div className="bg-indigo-900 bg-opacity-50 p-3 md:p-4 rounded-lg">
-                    <h4 className="font-bold mb-1 md:mb-2 text-sm md:text-base">Practice Advanced Problems</h4>
+                    <h4 className="font-bold mb-1 md:mb-2 text-sm md:text-base">
+                      Practice Advanced Problems
+                    </h4>
                     <p className="text-sm md:text-base">
-                      {examType === "NEET" ? "NEET Counselling" : "JEE Advanced"}{" "}
+                      {examType === "NEET"
+                        ? "NEET Counselling"
+                        : "JEE Advanced"}{" "}
                       features more complex problems. Focus on previous years'
                       papers to get familiar with the pattern.
                     </p>
@@ -834,10 +856,12 @@ const Rank = () => {
               ) : (
                 <div className="space-y-3 md:space-y-4">
                   <div className="bg-blue-900 bg-opacity-50 p-3 md:p-4 rounded-lg">
-                    <h4 className="font-bold mb-1 md:mb-2 text-sm md:text-base">Analyze Your Performance</h4>
+                    <h4 className="font-bold mb-1 md:mb-2 text-sm md:text-base">
+                      Analyze Your Performance
+                    </h4>
                     <p className="text-sm md:text-base">
-                      Identify your weak areas and create a targeted study plan to
-                      improve them.
+                      Identify your weak areas and create a targeted study plan
+                      to improve them.
                     </p>
                   </div>
                   <div className="bg-purple-900 bg-opacity-50 p-3 md:p-4 rounded-lg">
@@ -845,15 +869,17 @@ const Rank = () => {
                       Consider Alternative Pathways
                     </h4>
                     <p className="text-sm md:text-base">
-                      Explore other entrance exams or alternate career paths that
-                      align with your interests.
+                      Explore other entrance exams or alternate career paths
+                      that align with your interests.
                     </p>
                   </div>
                   <div className="bg-indigo-900 bg-opacity-50 p-3 md:p-4 rounded-lg">
-                    <h4 className="font-bold mb-1 md:mb-2 text-sm md:text-base">Improve Your Fundamentals</h4>
+                    <h4 className="font-bold mb-1 md:mb-2 text-sm md:text-base">
+                      Improve Your Fundamentals
+                    </h4>
                     <p className="text-sm md:text-base">
-                      Work on strengthening your understanding of core concepts to
-                      perform better next time.
+                      Work on strengthening your understanding of core concepts
+                      to perform better next time.
                     </p>
                   </div>
                 </div>
@@ -867,8 +893,8 @@ const Rank = () => {
             <strong>Disclaimer:</strong> This rank prediction is based on
             simulated data and previous year trends. The actual{" "}
             {examType === "NEET" ? "NEET" : "JEE"} rank may vary based on this
-            year's difficulty level, number of candidates, and other factors. This
-            is meant to give you a general idea of your standing.
+            year's difficulty level, number of candidates, and other factors.
+            This is meant to give you a general idea of your standing.
           </p>
         </div>
 
@@ -889,7 +915,6 @@ const Rank = () => {
         </div>
       </div>
     </div>
-
   );
 };
 
