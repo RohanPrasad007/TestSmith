@@ -2,20 +2,25 @@ import React from 'react'
 import { PieChart, Pie, Cell, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Radar } from 'recharts';
 
 const OverallSummaryResult = ({ colors, results, attemptedPieData, resultBreakdownData, radarData, examType, subjectComparisonData, CustomTooltip }) => {
+    const colorClasses = {
+        "blue-800": "border-blue-800",
+        "red-500": "border-red-500",
+        "green-600": "border-green-600",
+    };
     return (
         <div className={`bg-${colors.highlight} p-6 rounded-lg mb-8`}>
             <h3 className="text-2xl mb-4 font-semibold text-center">Overall Performance</h3>
 
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-4">
-                <div className={`bg-${colors.secondary} p-4 rounded-lg text-center`}>
+                <div className={`border-2 p-4 rounded-lg text-center ${colorClasses[colors.secondary] || "border-gray-500"}`}>
                     <p className="text-lg font-semibold">Total Score</p>
                     <p className={`text-3xl font-bold text-${colors.primary}-400`}>{results.overall.totalScore}</p>
                 </div>
-                <div className={`bg-${colors.secondary} p-4 rounded-lg text-center`}>
+                <div className={`border-2 p-4 rounded-lg text-center ${colorClasses[colors.secondary] || "border-gray-500"}`}>
                     <p className="text-lg font-semibold">Maximum Marks</p>
                     <p className="text-3xl font-bold">{results.overall.maxPossibleScore}</p>
                 </div>
-                <div className={`bg-${colors.secondary} p-4 rounded-lg text-center`}>
+                <div className={`border-2 p-4 rounded-lg text-center ${colorClasses[colors.secondary] || "border-gray-500"}`}>
                     <p className="text-lg font-semibold">Accuracy</p>
                     <p className="text-3xl font-bold text-green-400">
                         {results.overall.attemptedCount ?
@@ -23,7 +28,7 @@ const OverallSummaryResult = ({ colors, results, attemptedPieData, resultBreakdo
                                 results.overall.attemptedCount) * 100) : 0}%
                     </p>
                 </div>
-                <div className={`bg-${colors.secondary} p-4 rounded-lg text-center`}>
+                <div className={`border-2 p-4 rounded-lg text-center ${colorClasses[colors.secondary] || "border-gray-500"}`}>
                     <p className="text-lg font-semibold">Percentile</p>
                     <p className="text-3xl font-bold text-yellow-400">
                         {Math.round((results.overall.totalScore / results.overall.maxPossibleScore) * 100)}
@@ -34,7 +39,7 @@ const OverallSummaryResult = ({ colors, results, attemptedPieData, resultBreakdo
             {/* Visual representation of the data */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
                 {/* Pie Chart: Attempted vs Unattempted */}
-                <div className={`bg-${colors.secondary} p-4 rounded-lg`}>
+                <div className={`border-2 p-4 rounded-lg text-center ${colorClasses[colors.secondary] || "border-gray-500"}`}>
                     <h4 className="text-lg font-semibold mb-2 text-center">Attempted vs Unattempted</h4>
                     <ResponsiveContainer width="100%" height={200}>
                         <PieChart>
@@ -59,7 +64,7 @@ const OverallSummaryResult = ({ colors, results, attemptedPieData, resultBreakdo
                 </div>
 
                 {/* Pie Chart: Correct vs Incorrect vs Unattempted */}
-                <div className={`bg-${colors.secondary} p-4 rounded-lg`}>
+                <div className={`border-2 p-4 rounded-lg text-center ${colorClasses[colors.secondary] || "border-gray-500"}`}>
                     <h4 className="text-lg font-semibold mb-2 text-center">Result Breakdown</h4>
                     <ResponsiveContainer width="100%" height={200}>
                         <PieChart>
@@ -85,7 +90,7 @@ const OverallSummaryResult = ({ colors, results, attemptedPieData, resultBreakdo
             </div>
 
             {/* Radar Chart: Subject Performance */}
-            <div className={`bg-${colors.secondary} p-4 rounded-lg mb-6`}>
+            <div className={`border-2 p-4 rounded-lg text-center mb-6 ${colorClasses[colors.secondary] || "border-gray-500"}`}>
                 <h4 className="text-lg font-semibold mb-2 text-center">Subject Performance Comparison</h4>
                 <ResponsiveContainer width="100%" height={300}>
                     <RadarChart cx="50%" cy="50%" outerRadius="80%" data={radarData}>
@@ -105,7 +110,7 @@ const OverallSummaryResult = ({ colors, results, attemptedPieData, resultBreakdo
             </div>
 
             {/* Bar Chart: Subject Score Comparison */}
-            <div className={`bg-${colors.secondary} p-4 rounded-lg`}>
+            <div className={`border-2 p-4 rounded-lg text-center ${colorClasses[colors.secondary] || "border-gray-500"}`}>
                 <h4 className="text-lg font-semibold mb-2 text-center">Score by Subject</h4>
                 <ResponsiveContainer width="100%" height={300}>
                     <BarChart
@@ -131,7 +136,7 @@ const OverallSummaryResult = ({ colors, results, attemptedPieData, resultBreakdo
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
                 <div>
                     <h4 className="font-semibold mb-2">Questions Summary</h4>
-                    <ul className={`space-y-1 bg-${colors.secondary} p-3 rounded-lg`}>
+                    <ul className={`space-y-1 border-2  p-3 rounded-lg ${colorClasses[colors.secondary] || "border-gray-500"}`}>
                         <li className="flex justify-between">
                             <span>Total Questions:</span>
                             <span>{results.overall.totalQuestions}</span>
@@ -149,7 +154,7 @@ const OverallSummaryResult = ({ colors, results, attemptedPieData, resultBreakdo
 
                 <div>
                     <h4 className="font-semibold mb-2">Marks Summary</h4>
-                    <ul className={`space-y-1 bg-${colors.secondary} p-3 rounded-lg`}>
+                    <ul className={`space-y-1 border-2  p-3 rounded-lg ${colorClasses[colors.secondary] || "border-gray-500"}`}>
                         <li className="flex justify-between">
                             <span>Correct Answers:</span>
                             <span className="text-green-400">
@@ -176,24 +181,28 @@ const OverallSummaryResult = ({ colors, results, attemptedPieData, resultBreakdo
             </div>
 
             {/* Exam Type Specific Information */}
-            {examType === 'NEET' && (
-                <div className="mt-4 p-3 bg-green-800 rounded-lg">
-                    <h4 className="font-semibold mb-2">NEET Exam Information</h4>
-                    <p>• Each correct answer: +4 marks</p>
-                    <p>• Each incorrect answer: -1 mark</p> {/* Updated to show negative marking */}
-                    <p>• Qualifying Percentile: 50% for General Category</p>
-                </div>
-            )}
+            {
+                examType === 'NEET' && (
+                    <div className="mt-4 p-3 border-2 border-green-800 rounded-lg">
+                        <h4 className="font-semibold mb-2">NEET Exam Information</h4>
+                        <p>• Each correct answer: +4 marks</p>
+                        <p>• Each incorrect answer: -1 mark</p> {/* Updated to show negative marking */}
+                        <p>• Qualifying Percentile: 50% for General Category</p>
+                    </div>
+                )
+            }
 
-            {examType === 'JEE' && (
-                <div className="mt-4 p-3 bg-blue-800 rounded-lg">
-                    <h4 className="font-semibold mb-2">JEE Exam Information</h4>
-                    <p>• Each correct MCQ: +4 marks</p>
-                    <p>• Each incorrect MCQ: -1 mark</p>
-                    <p>• Each correct Numerical: +4 marks (no negative marking)</p>
-                </div>
-            )}
-        </div>
+            {
+                examType === 'JEE' && (
+                    <div className="mt-4 p-3 border-2 border-blue-800 rounded-lg">
+                        <h4 className="font-semibold mb-2">JEE Exam Information</h4>
+                        <p>• Each correct MCQ: +4 marks</p>
+                        <p>• Each incorrect MCQ: -1 mark</p>
+                        <p>• Each correct Numerical: +4 marks (no negative marking)</p>
+                    </div>
+                )
+            }
+        </div >
     )
 }
 

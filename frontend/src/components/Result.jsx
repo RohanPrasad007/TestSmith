@@ -190,47 +190,66 @@ const Result = () => {
     const colors = examColors[examType] || examColors.JEE;
 
     return (
-        <div className="min-h-screen bg-gray-900 text-white py-12">
-            <div className="container mx-auto px-4">
-                <div className="bg-gray-800 p-8 rounded-xl w-full max-w-7xl mx-auto mb-8">
-                    <h2 className="text-3xl font-bold mb-6 text-center">
-                        {examType === 'NEET' ? 'NEET Mock Test Results' : 'JEE Mock Test Results'}
-                    </h2>
+        <div className='h-screen w-full bg-gradient-to-br from-[#0A0A0B] via-[#110D1A] to-[#090015] overflow-x-hidden relative'>
+            {/* Background glow circle - with negative z-index to ensure it stays behind content */}
+            <div className="w-[800px] h-[700px] absolute right-[12%] top-[-20%] rounded-full 
+            bg-[#441d85] bg-opacity-70
+            shadow-[0_0_800px_10px_rgba(122,47,249,0.8)] 
+            backdrop-blur-md border-none outline-none blur-[300px] z-0" />
 
-                    {/* Check Rank Button */}
-                    <div className="flex justify-center mb-6">
-                        <button
-                            onClick={() => navigate('/rank')}
-                            className={`bg-yellow-600 hover:bg-yellow-700 text-white font-bold py-3 px-6 rounded-lg text-lg shadow-lg transform hover:scale-105 transition-all duration-200 animate-pulse`}
-                        >
-                            CHECK YOUR RANK
-                        </button>
-                    </div>
+            {/* Content wrapper - with positive z-index to appear above the background glow */}
+            <div className="min-h-screen  bg-opacity-70 text-white py-12 relative z-10">
+                <div className="container mx-auto px-4">
+                    <div className="bg-gray-800/50 p-8 rounded-xl w-full max-w-7xl mx-auto mb-8 shadow-lg">
+                        <h2 className="text-3xl font-bold mb-6 text-center">
+                            {examType === 'NEET' ? 'NEET Mock Test Results' : 'JEE Mock Test Results'}
+                        </h2>
 
-                    {/* Overall Summary */}
-                    <OverallSummaryResult colors={colors} results={results} attemptedPieData={attemptedPieData} resultBreakdownData={resultBreakdownData} radarData={radarData} examType={examType} subjectComparisonData={subjectComparisonData} CustomTooltip={CustomTooltip} />
+                        {/* Check Rank Button */}
+                        <div className="flex justify-center mb-6">
+                            <button
+                                onClick={() => navigate('/rank')}
+                                className="bg-yellow-600 hover:bg-yellow-700 text-white font-bold py-5 px-10 rounded-lg text-lg shadow-lg transform hover:scale-105 transition-all duration-200 animate-pulse"
+                            >
+                                CHECK YOUR RANK
+                            </button>
+                        </div>
 
-                    {/* Subject-wise Results */}
-                    <h3 className="text-xl font-semibold mb-4">Subject-wise Performance</h3>
-                    <SubjectWiseResult subjects={subjects} results={results} colors={colors} />
+                        {/* Overall Summary */}
+                        <OverallSummaryResult
+                            colors={colors}
+                            results={results}
+                            attemptedPieData={attemptedPieData}
+                            resultBreakdownData={resultBreakdownData}
+                            radarData={radarData}
+                            examType={examType}
+                            subjectComparisonData={subjectComparisonData}
+                            CustomTooltip={CustomTooltip}
+                        />
 
-                    <div className="flex gap-4 justify-center mt-8">
-                        <button
-                            onClick={() => navigate('/review')}
-                            className="bg-gray-600 px-4 py-2 rounded-md hover:bg-gray-500 transition"
-                        >
-                            Review Answers
-                        </button>
-                        <button
-                            onClick={() => navigate('/start-mock-test')}
-                            className="bg-blue-600 px-4 py-2 rounded-md hover:bg-blue-700 transition"
-                        >
-                            Back to Home
-                        </button>
+                        {/* Subject-wise Results */}
+                        <h3 className="text-xl font-semibold mb-4">Subject-wise Performance</h3>
+                        <SubjectWiseResult subjects={subjects} results={results} colors={colors} />
+
+                        <div className="flex gap-4 justify-center mt-8">
+                            <button
+                                onClick={() => navigate('/review')}
+                                className="bg-gray-600/40 px-10 py-4 rounded-md hover:bg-gray-500 transition "
+                            >
+                                Review Answers
+                            </button>
+                            <button
+                                onClick={() => navigate('/start-mock-test')}
+                                className="border-2 border-blue-600 px-10 py-4 rounded-md  transition"
+                            >
+                                Back to Home
+                            </button>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
+
     );
 };
 

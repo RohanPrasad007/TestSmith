@@ -606,279 +606,290 @@ const Rank = () => {
   const eligibleInstitutes = getTopInstitutes(rankDetails.score);
 
   return (
-    <div className="min-h-screen bg-gray-900 text-white py-12">
-      {showConfetti && (
-        <div className="fixed top-0 left-0 w-full h-full pointer-events-none z-10">
-          {/* Simple confetti effect using absolute positioning */}
-          {[...Array(50)].map((_, i) => (
+
+    <div className='min-h-screen w-full bg-gradient-to-br from-[#0A0A0B] via-[#110D1A] to-[#090015] overflow-x-hidden relative'>
+      <div className="w-full md:w-[60%] lg:w-[800px] h-[300px] md:h-[500px] lg:h-[700px] absolute right-0 md:right-[5%] lg:right-[12%] top-[-10%] md:top-[-15%] lg:top-[-20%] rounded-full 
+        bg-[#441d85] bg-opacity-70
+        shadow-[0_0_400px_10px_rgba(122,47,249,0.8)] md:shadow-[0_0_600px_10px_rgba(122,47,249,0.8)] lg:shadow-[0_0_800px_10px_rgba(122,47,249,0.8)]
+        backdrop-blur-md border-none outline-none blur-[150px] md:blur-[200px] lg:blur-[300px] z-0" />
+      <div className="min-h-screen bg-opacity-70 text-white py-6 md:py-8 lg:py-12 relative z-10 px-4 sm:px-6 max-w-7xl mx-auto">
+        {showConfetti && (
+          <div className="fixed top-0 left-0 w-full h-full pointer-events-none z-10">
+            {/* Simple confetti effect using absolute positioning */}
+            {[...Array(50)].map((_, i) => (
+              <div
+                key={i}
+                className="absolute animate-fall"
+                style={{
+                  left: `${Math.random() * 100}%`,
+                  top: `-${Math.random() * 20}%`,
+                  backgroundColor: `hsl(${Math.random() * 360}, 100%, 50%)`,
+                  width: `${Math.random() * 10 + 5}px`,
+                  height: `${Math.random() * 10 + 5}px`,
+                  animationDuration: `${Math.random() * 3 + 2}s`,
+                  animationDelay: `${Math.random()}s`,
+                }}
+              />
+            ))}
+          </div>
+        )}
+
+        <div className="w-full">
+          <div className="bg-gray-800/40 p-4 sm:p-6 lg:p-8 rounded-xl w-full max-w-7xl mx-auto mb-4 md:mb-8 shadow-2xl">
+            <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold mb-4 md:mb-8 text-center">
+              {examType === "NEET" ? "NEET" : "JEE Main"} Rank Analysis
+            </h2>
+
+            {/* Hero Section with Main Results */}
             <div
-              key={i}
-              className="absolute animate-fall"
-              style={{
-                left: `${Math.random() * 100}%`,
-                top: `-${Math.random() * 20}%`,
-                backgroundColor: `hsl(${Math.random() * 360}, 100%, 50%)`,
-                width: `${Math.random() * 10 + 5}px`,
-                height: `${Math.random() * 10 + 5}px`,
-                animationDuration: `${Math.random() * 3 + 2}s`,
-                animationDelay: `${Math.random()}s`,
-              }}
-            />
-          ))}
-        </div>
-      )}
-
-      <div className="container mx-auto px-4">
-        <div className="bg-gray-800 p-8 rounded-xl w-full max-w-7xl mx-auto mb-8 shadow-2xl">
-          <h2 className="text-3xl font-bold mb-8 text-center">
-            {examType === "NEET" ? "NEET" : "JEE Main"} Rank Analysis
-          </h2>
-
-          {/* Hero Section with Main Results */}
-          <div
-            className={`bg-gradient-to-r ${
-              rankDetails.rank <= 10000
+              className={`bg-gradient-to-r ${rankDetails.rank <= 10000
                 ? "from-purple-900 to-blue-900"
                 : "from-blue-900 to-indigo-900"
-            } p-8 rounded-xl mb-8 text-center shadow-lg`}
-          >
-            <h3 className="text-4xl font-bold mb-3">Your All India Rank</h3>
-            <div className="text-6xl font-bold mb-4 text-yellow-400 animate-pulse">
-              {rankDetails.rank.toLocaleString("en-IN")}
-            </div>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
-              <div className="bg-gray-800 bg-opacity-50 p-4 rounded-lg">
-                <p className="text-lg">Your Score</p>
-                <p className="text-3xl font-bold text-blue-400">
-                  {rankDetails.score}
-                </p>
+                } p-4 sm:p-6 lg:p-8 rounded-xl mb-4 md:mb-8 text-center shadow-lg`}
+            >
+              <h3 className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-2 md:mb-3">Your All India Rank</h3>
+              <div className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-3 md:mb-4 text-yellow-400 animate-pulse">
+                {rankDetails.rank.toLocaleString("en-IN")}
               </div>
-              <div className="bg-gray-800 bg-opacity-50 p-4 rounded-lg">
-                <p className="text-lg">Total Applicants</p>
-                <p className="text-3xl font-bold text-green-400">
-                  {rankDetails.totalApplicants.toLocaleString("en-IN")}
-                </p>
-              </div>
-              <div className="bg-gray-800 bg-opacity-50 p-4 rounded-lg">
-                <p className="text-lg">Category</p>
-                <p className="text-3xl font-bold text-purple-400">
-                  {rankDetails.category}
-                </p>
-              </div>
-            </div>
-
-            {rankDetails.qualifiedForAdvanced ? (
-              <div className="mt-8 bg-green-900 p-4 rounded-lg inline-block">
-                <p className="text-xl font-bold text-green-400">
-                  Congratulations! You've qualified for{" "}
-                  {examType === "NEET" ? "NEET Counselling" : "JEE Advanced"}!
-                </p>
-              </div>
-            ) : (
-              <div className="mt-8 bg-red-900 p-4 rounded-lg inline-block">
-                <p className="text-xl font-bold text-red-400">
-                  You'll need to improve to qualify for{" "}
-                  {examType === "NEET" ? "NEET Counselling" : "JEE Advanced"}{" "}
-                  next time.
-                </p>
-              </div>
-            )}
-          </div>
-
-          {/* Score Distribution Chart */}
-          <div className="bg-gray-700 p-6 rounded-lg mb-8">
-            <h3 className="text-xl font-semibold mb-4">
-              Score vs Rank Distribution
-            </h3>
-            <p className="text-gray-400 mb-4">
-              See how your score compares to other candidates
-            </p>
-            <div className="h-64">
-              <ResponsiveContainer width="100%" height="100%">
-                <AreaChart
-                  data={distributionData}
-                  margin={{ top: 10, right: 30, left: 0, bottom: 0 }}
-                >
-                  <CartesianGrid strokeDasharray="3 3" stroke="#444" />
-                  <XAxis
-                    dataKey="score"
-                    label={{
-                      value: "Score",
-                      position: "insideBottomRight",
-                      offset: -10,
-                    }}
-                  />
-                  <YAxis
-                    label={{
-                      value: "Rank",
-                      angle: -90,
-                      position: "insideLeft",
-                    }}
-                  />
-                  <Tooltip content={<CustomTooltip />} />
-                  <Area
-                    type="monotone"
-                    dataKey="rank"
-                    stroke="#8884d8"
-                    fill="#8884d8"
-                    fillOpacity={0.3}
-                    activeDot={{ r: 8 }}
-                  />
-                  {/* Marker for user score */}
-                  <Line
-                    type="monotone"
-                    data={[
-                      { score: rankDetails.score, rank: 0 },
-                      {
-                        score: rankDetails.score,
-                        rank: Math.max(...distributionData.map((d) => d.rank)),
-                      },
-                    ]}
-                    dataKey="rank"
-                    stroke="#ff0000"
-                    strokeWidth={2}
-                    dot={false}
-                    activeDot={false}
-                    label="Your Score"
-                  />
-                </AreaChart>
-              </ResponsiveContainer>
-            </div>
-          </div>
-
-          {/* College Eligibility */}
-          <div className="bg-gray-700 p-6 rounded-lg mb-8">
-            <h3 className="text-xl font-semibold mb-4">College Eligibility</h3>
-            <p className="text-gray-400 mb-4">
-              Based on your marks, you may be eligible for the following
-              colleges:
-            </p>
-
-            {eligibleInstitutes.length > 0 ? (
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                {eligibleInstitutes.slice(0, 4).map((institute, index) => (
-                  <div
-                    key={index}
-                    className="bg-gray-800 p-4 rounded-lg border border-gray-700 hover:border-blue-500 transition-all duration-300"
-                  >
-                    <h4 className="font-bold text-lg mb-2">{institute.name}</h4>
-                    <p className="text-gray-400 mb-2">
-                      Min. Marks: {institute.minMarks}
-                    </p>
-                    <p className="font-semibold mb-1">Potential Programs:</p>
-                    <ul className="text-blue-400">
-                      {institute.programs.map((program, idx) => (
-                        <li key={idx} className="ml-4">
-                          • {program}
-                        </li>
-                      ))}
-                    </ul>
-                  </div>
-                ))}
-              </div>
-            ) : (
-              <div className="bg-red-900 p-4 rounded-lg">
-                <p className="text-center text-lg">
-                  Your current marks don't meet the minimum requirements for our
-                  listed colleges. Consider improving your score or exploring
-                  other educational pathways.
-                </p>
-              </div>
-            )}
-          </div>
-
-          {/* Next Steps */}
-          <div className="bg-gray-700 p-6 rounded-lg mb-8">
-            <h3 className="text-xl font-semibold mb-4">Next Steps</h3>
-
-            {rankDetails.qualifiedForAdvanced ? (
-              <div className="space-y-4">
-                <div className="bg-blue-900 bg-opacity-50 p-4 rounded-lg">
-                  <h4 className="font-bold mb-2">
-                    Prepare for{" "}
-                    {examType === "NEET" ? "NEET Counselling" : "JEE Advanced"}
-                  </h4>
-                  <p>
-                    Your score qualifies you for{" "}
-                    {examType === "NEET" ? "NEET Counselling" : "JEE Advanced"}.
-                    Focus on advanced concepts and problem-solving skills.
+              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 md:gap-6 mt-4 md:mt-8">
+                <div className="bg-gray-800 bg-opacity-50 p-3 md:p-4 rounded-lg">
+                  <p className="text-sm md:text-lg">Your Score</p>
+                  <p className="text-xl sm:text-2xl lg:text-3xl font-bold text-blue-400">
+                    {rankDetails.score}
                   </p>
                 </div>
-                <div className="bg-purple-900 bg-opacity-50 p-4 rounded-lg">
-                  <h4 className="font-bold mb-2">
-                    Research Your College Options
-                  </h4>
-                  <p>
-                    Start researching the colleges and programs you're eligible
-                    for based on your marks.
+                <div className="bg-gray-800 bg-opacity-50 p-3 md:p-4 rounded-lg">
+                  <p className="text-sm md:text-lg">Total Applicants</p>
+                  <p className="text-xl sm:text-2xl lg:text-3xl font-bold text-green-400">
+                    {rankDetails.totalApplicants.toLocaleString("en-IN")}
                   </p>
                 </div>
-                <div className="bg-indigo-900 bg-opacity-50 p-4 rounded-lg">
-                  <h4 className="font-bold mb-2">Practice Advanced Problems</h4>
-                  <p>
+                <div className="bg-gray-800 bg-opacity-50 p-3 md:p-4 rounded-lg sm:col-span-2 md:col-span-1">
+                  <p className="text-sm md:text-lg">Category</p>
+                  <p className="text-xl sm:text-2xl lg:text-3xl font-bold text-purple-400">
+                    {rankDetails.category}
+                  </p>
+                </div>
+              </div>
+
+              {rankDetails.qualifiedForAdvanced ? (
+                <div className="mt-4 md:mt-8 bg-green-900 p-3 md:p-4 rounded-lg inline-block">
+                  <p className="text-sm sm:text-lg lg:text-xl font-bold text-green-400">
+                    Congratulations! You've qualified for{" "}
+                    {examType === "NEET" ? "NEET Counselling" : "JEE Advanced"}!
+                  </p>
+                </div>
+              ) : (
+                <div className="mt-4 md:mt-8 bg-red-900 p-3 md:p-4 rounded-lg inline-block">
+                  <p className="text-sm sm:text-lg lg:text-xl font-bold text-red-400">
+                    You'll need to improve to qualify for{" "}
                     {examType === "NEET" ? "NEET Counselling" : "JEE Advanced"}{" "}
-                    features more complex problems. Focus on previous years'
-                    papers to get familiar with the pattern.
+                    next time.
                   </p>
                 </div>
+              )}
+            </div>
+
+            {/* Score Distribution Chart */}
+            <div className="bg-gray-700/50 p-3 sm:p-4 lg:p-6 rounded-lg mb-4 md:mb-8">
+              <h3 className="text-lg sm:text-xl font-semibold mb-2 md:mb-4">
+                Score vs Rank Distribution
+              </h3>
+              <p className="text-gray-400 mb-2 md:mb-4 text-sm md:text-base">
+                See how your score compares to other candidates
+              </p>
+              <div className="h-48 md:h-64">
+                <ResponsiveContainer width="100%" height="100%">
+                  <AreaChart
+                    data={distributionData}
+                    margin={{ top: 10, right: 10, left: 0, bottom: 0 }}
+                  >
+                    <CartesianGrid strokeDasharray="3 3" stroke="#444" />
+                    <XAxis
+                      dataKey="score"
+                      label={{
+                        value: "Score",
+                        position: "insideBottomRight",
+                        offset: -10,
+                        fontSize: 12,
+                      }}
+                      tick={{ fontSize: 10 }}
+                    />
+                    <YAxis
+                      label={{
+                        value: "Rank",
+                        angle: -90,
+                        position: "insideLeft",
+                        fontSize: 12,
+                      }}
+                      tick={{ fontSize: 10 }}
+                    />
+                    <Tooltip content={<CustomTooltip />} />
+                    <Area
+                      type="monotone"
+                      dataKey="rank"
+                      stroke="#8884d8"
+                      fill="#8884d8"
+                      fillOpacity={0.3}
+                      activeDot={{ r: 6 }}
+                    />
+                    {/* Marker for user score */}
+                    <Line
+                      type="monotone"
+                      data={[
+                        { score: rankDetails.score, rank: 0 },
+                        {
+                          score: rankDetails.score,
+                          rank: Math.max(...distributionData.map((d) => d.rank)),
+                        },
+                      ]}
+                      dataKey="rank"
+                      stroke="#ff0000"
+                      strokeWidth={2}
+                      dot={false}
+                      activeDot={false}
+                      label="Your Score"
+                    />
+                  </AreaChart>
+                </ResponsiveContainer>
               </div>
-            ) : (
-              <div className="space-y-4">
-                <div className="bg-blue-900 bg-opacity-50 p-4 rounded-lg">
-                  <h4 className="font-bold mb-2">Analyze Your Performance</h4>
-                  <p>
-                    Identify your weak areas and create a targeted study plan to
-                    improve them.
+            </div>
+
+            {/* College Eligibility */}
+            <div className="bg-gray-700/50 p-3 sm:p-4 lg:p-6 rounded-lg mb-4 md:mb-8">
+              <h3 className="text-lg sm:text-xl font-semibold mb-2 md:mb-4">College Eligibility</h3>
+              <p className="text-gray-400 mb-2 md:mb-4 text-sm md:text-base">
+                Based on your marks, you may be eligible for the following
+                colleges:
+              </p>
+
+              {eligibleInstitutes.length > 0 ? (
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 md:gap-4">
+                  {eligibleInstitutes.slice(0, 4).map((institute, index) => (
+                    <div
+                      key={index}
+                      className="bg-gray-800/50 p-3 md:p-4 rounded-lg border border-gray-700 hover:border-blue-500 transition-all duration-300"
+                    >
+                      <h4 className="font-bold text-base md:text-lg mb-1 md:mb-2">{institute.name}</h4>
+                      <p className="text-gray-400 mb-1 md:mb-2 text-sm md:text-base">
+                        Min. Marks: {institute.minMarks}
+                      </p>
+                      <p className="font-semibold mb-1 text-sm md:text-base">Potential Programs:</p>
+                      <ul className="text-blue-400 text-sm md:text-base">
+                        {institute.programs.map((program, idx) => (
+                          <li key={idx} className="ml-2 md:ml-4">
+                            • {program}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  ))}
+                </div>
+              ) : (
+                <div className="bg-red-900 p-3 md:p-4 rounded-lg">
+                  <p className="text-center text-sm md:text-lg">
+                    Your current marks don't meet the minimum requirements for our
+                    listed colleges. Consider improving your score or exploring
+                    other educational pathways.
                   </p>
                 </div>
-                <div className="bg-purple-900 bg-opacity-50 p-4 rounded-lg">
-                  <h4 className="font-bold mb-2">
-                    Consider Alternative Pathways
-                  </h4>
-                  <p>
-                    Explore other entrance exams or alternate career paths that
-                    align with your interests.
-                  </p>
+              )}
+            </div>
+
+            {/* Next Steps */}
+            <div className="bg-gray-700/50 p-3 sm:p-4 lg:p-6 rounded-lg mb-4 md:mb-8">
+              <h3 className="text-lg sm:text-xl font-semibold mb-2 md:mb-4">Next Steps</h3>
+
+              {rankDetails.qualifiedForAdvanced ? (
+                <div className="space-y-3 md:space-y-4">
+                  <div className="bg-blue-900 bg-opacity-50 p-3 md:p-4 rounded-lg">
+                    <h4 className="font-bold mb-1 md:mb-2 text-sm md:text-base">
+                      Prepare for{" "}
+                      {examType === "NEET" ? "NEET Counselling" : "JEE Advanced"}
+                    </h4>
+                    <p className="text-sm md:text-base">
+                      Your score qualifies you for{" "}
+                      {examType === "NEET" ? "NEET Counselling" : "JEE Advanced"}.
+                      Focus on advanced concepts and problem-solving skills.
+                    </p>
+                  </div>
+                  <div className="bg-purple-900 bg-opacity-50 p-3 md:p-4 rounded-lg">
+                    <h4 className="font-bold mb-1 md:mb-2 text-sm md:text-base">
+                      Research Your College Options
+                    </h4>
+                    <p className="text-sm md:text-base">
+                      Start researching the colleges and programs you're eligible
+                      for based on your marks.
+                    </p>
+                  </div>
+                  <div className="bg-indigo-900 bg-opacity-50 p-3 md:p-4 rounded-lg">
+                    <h4 className="font-bold mb-1 md:mb-2 text-sm md:text-base">Practice Advanced Problems</h4>
+                    <p className="text-sm md:text-base">
+                      {examType === "NEET" ? "NEET Counselling" : "JEE Advanced"}{" "}
+                      features more complex problems. Focus on previous years'
+                      papers to get familiar with the pattern.
+                    </p>
+                  </div>
                 </div>
-                <div className="bg-indigo-900 bg-opacity-50 p-4 rounded-lg">
-                  <h4 className="font-bold mb-2">Improve Your Fundamentals</h4>
-                  <p>
-                    Work on strengthening your understanding of core concepts to
-                    perform better next time.
-                  </p>
+              ) : (
+                <div className="space-y-3 md:space-y-4">
+                  <div className="bg-blue-900 bg-opacity-50 p-3 md:p-4 rounded-lg">
+                    <h4 className="font-bold mb-1 md:mb-2 text-sm md:text-base">Analyze Your Performance</h4>
+                    <p className="text-sm md:text-base">
+                      Identify your weak areas and create a targeted study plan to
+                      improve them.
+                    </p>
+                  </div>
+                  <div className="bg-purple-900 bg-opacity-50 p-3 md:p-4 rounded-lg">
+                    <h4 className="font-bold mb-1 md:mb-2 text-sm md:text-base">
+                      Consider Alternative Pathways
+                    </h4>
+                    <p className="text-sm md:text-base">
+                      Explore other entrance exams or alternate career paths that
+                      align with your interests.
+                    </p>
+                  </div>
+                  <div className="bg-indigo-900 bg-opacity-50 p-3 md:p-4 rounded-lg">
+                    <h4 className="font-bold mb-1 md:mb-2 text-sm md:text-base">Improve Your Fundamentals</h4>
+                    <p className="text-sm md:text-base">
+                      Work on strengthening your understanding of core concepts to
+                      perform better next time.
+                    </p>
+                  </div>
                 </div>
-              </div>
-            )}
+              )}
+            </div>
           </div>
         </div>
-      </div>
-      {/* Disclaimer */}
-      <div className="text-gray-400 text-sm mb-6 p-4 bg-gray-800 rounded-lg">
-        <p>
-          <strong>Disclaimer:</strong> This rank prediction is based on
-          simulated data and previous year trends. The actual{" "}
-          {examType === "NEET" ? "NEET" : "JEE"} rank may vary based on this
-          year's difficulty level, number of candidates, and other factors. This
-          is meant to give you a general idea of your standing.
-        </p>
-      </div>
+        {/* Disclaimer */}
+        <div className="text-gray-400 text-xs sm:text-sm mb-4 md:mb-6 p-3 md:p-4 bg-gray-800 rounded-lg max-w-7xl mx-auto">
+          <p>
+            <strong>Disclaimer:</strong> This rank prediction is based on
+            simulated data and previous year trends. The actual{" "}
+            {examType === "NEET" ? "NEET" : "JEE"} rank may vary based on this
+            year's difficulty level, number of candidates, and other factors. This
+            is meant to give you a general idea of your standing.
+          </p>
+        </div>
 
-      {/* Action Buttons */}
-      <div className="flex gap-4 justify-center">
-        <button
-          onClick={() => navigate("/result")}
-          className="bg-blue-600 px-6 py-3 rounded-md hover:bg-blue-700 transition font-bold"
-        >
-          View Detailed Results
-        </button>
-        <button
-          onClick={() => navigate("/start-mock-test")}
-          className="bg-purple-600 px-6 py-3 rounded-md hover:bg-purple-700 transition font-bold"
-        >
-          Back to Home
-        </button>
+        {/* Action Buttons */}
+        <div className="flex flex-col sm:flex-row gap-3 md:gap-4 justify-center max-w-7xl mx-auto">
+          <button
+            onClick={() => navigate("/result")}
+            className="border-2 border-blue-600 px-4 sm:px-6 lg:px-10 py-2 md:py-3 rounded-md transition font-bold text-sm md:text-base w-full sm:w-auto"
+          >
+            View Detailed Results
+          </button>
+          <button
+            onClick={() => navigate("/start-mock-test")}
+            className="border-2 border-purple-600 px-4 sm:px-6 lg:px-10 py-2 md:py-3 rounded-md transition font-bold text-sm md:text-base w-full sm:w-auto"
+          >
+            Back to Home
+          </button>
+        </div>
       </div>
     </div>
+
   );
 };
 

@@ -46,57 +46,77 @@ const ExamHall = () => {
     const { hours, minutes, seconds } = formatTime();
 
     return (
-        <div className="p-8 min-h-screen bg-zinc-950 text-white">
-            <div className="flex items-start justify-center w-full gap-1.5 count-down-main mt-14 mb-10">
-                <div className="timer">
-                    <div className="rounded-xl bg-white/10 backdrop-blur-sm py-3 min-w-[96px] flex items-center justify-center flex-col gap-1 px-3">
-                        <h3 className="countdown-element hours font-manrope font-semibold text-2xl text-white text-center">
-                            {hours}
-                        </h3>
-                        <p className="text-lg uppercase font-normal text-white mt-1 text-center w-full">Hour</p>
+        <div className='min-h-screen w-full bg-gradient-to-br from-[#0A0A0B] via-[#110D1A] to-[#090015] overflow-x-hidden relative'>
+            {/* Glowing background effect - responsive sizing */}
+            <div className="w-[90vw] sm:w-[70vw] md:w-[60vw] lg:w-[800px] h-[60vh] sm:h-[70vh] lg:h-[700px] 
+          absolute right-[-10%] sm:right-[-5%] md:right-[0%] lg:right-[12%] top-[-10%] sm:top-[-15%] lg:top-[-20%] rounded-full 
+          bg-[#441d85] bg-opacity-70
+          shadow-[0_0_800px_10px_rgba(122,47,249,0.8)] 
+          backdrop-blur-md border-none outline-none blur-[200px] sm:blur-[250px] md:blur-[300px]" />
+
+            {/* Main content container - responsive padding */}
+            <div className="p-4 sm:p-6 md:p-8 min-h-screen text-white relative">
+                {/* Timer section - responsive layout */}
+                <div className="flex items-center justify-center w-full gap-1 sm:gap-1.5 count-down-main mt-8 sm:mt-10 md:mt-14 mb-6 sm:mb-8 md:mb-10 z-10">
+                    {/* Hours timer */}
+                    <div className="timer">
+                        <div className="rounded-xl bg-black/15 backdrop-blur-sm py-2 sm:py-3 min-w-[70px] sm:min-w-[85px] md:min-w-[96px] 
+                flex items-center justify-center flex-col gap-1 px-2 sm:px-3">
+                            <h3 className="countdown-element hours font-manrope font-semibold text-xl sm:text-2xl text-white text-center">
+                                {hours}
+                            </h3>
+                            <p className="text-base sm:text-lg uppercase font-normal text-white mt-0 sm:mt-1 text-center w-full">Hour</p>
+                        </div>
+                    </div>
+
+                    {/* Minutes timer */}
+                    <div className="timer">
+                        <div className="rounded-xl bg-black/15 backdrop-blur-sm py-2 sm:py-3 min-w-[70px] sm:min-w-[85px] md:min-w-[96px] 
+                flex items-center justify-center flex-col gap-1 px-2 sm:px-3">
+                            <h3 className="countdown-element minutes font-manrope font-semibold text-xl sm:text-2xl text-white text-center">
+                                {minutes}
+                            </h3>
+                            <p className="text-base sm:text-lg uppercase font-normal text-white mt-0 sm:mt-1 text-center w-full">Minutes</p>
+                        </div>
+                    </div>
+
+                    {/* Seconds timer */}
+                    <div className="timer">
+                        <div className="rounded-xl bg-black/15 backdrop-blur-sm py-2 sm:py-3 min-w-[70px] sm:min-w-[85px] md:min-w-[96px] 
+                flex items-center justify-center flex-col gap-1 px-2 sm:px-3">
+                            <h3 className="countdown-element seconds font-manrope font-semibold text-xl sm:text-2xl text-white text-center">
+                                {seconds}
+                            </h3>
+                            <p className="text-base sm:text-lg uppercase font-normal text-white mt-0 sm:mt-1 text-center w-full">Seconds</p>
+                        </div>
                     </div>
                 </div>
 
-                <div className="timer">
-                    <div className="rounded-xl bg-white/10 backdrop-blur-sm py-3 min-w-[96px] flex items-center justify-center flex-col gap-1 px-3">
-                        <h3 className="countdown-element minutes font-manrope font-semibold text-2xl text-white text-center">
-                            {minutes}
-                        </h3>
-                        <p className="text-lg uppercase font-normal text-white mt-1 text-center w-full">Minutes</p>
+                {/* Time up notification */}
+                {timeLeft === 0 && (
+                    <div className="bg-red-700 text-white p-3 sm:p-4 mb-6 sm:mb-8 rounded-lg text-center text-sm sm:text-base">
+                        Time is up! Your test has been automatically submitted.
+                    </div>
+                )}
+
+                {/* Subject navigation - responsive scrolling for small screens */}
+                <div className='flex justify-center'>
+                    <div className="flex overflow-x-auto pb-2 space-x-2 sm:space-x-4 md:space-x-6 text-base sm:text-lg md:text-xl px-2 sm:px-4 md:ml-10 max-w-full">
+                        {subjects.map((subject, index) => (
+                            <button
+                                key={index}
+                                onClick={() => setSelectedSubject(subject)}
+                                className={`p-2 sm:p-3 md:p-4 whitespace-nowrap ${selectedSubject === subject ? 'border-b-2 border-white' : 'text-gray-500'}`}
+                            >
+                                {subject}
+                            </button>
+                        ))}
                     </div>
                 </div>
 
-                <div className="timer">
-                    <div className="rounded-xl bg-white/10 backdrop-blur-sm py-3 min-w-[96px] flex items-center justify-center flex-col gap-1 px-3">
-                        <h3 className="countdown-element seconds font-manrope font-semibold text-2xl text-white text-center">
-                            {seconds}
-                        </h3>
-                        <p className="text-lg uppercase font-normal text-white mt-1 text-center w-full">Seconds</p>
-                    </div>
-                </div>
+                {/* Question paper component */}
+                <QuestionPaper />
             </div>
-
-            {timeLeft === 0 && (
-                <div className="bg-red-700 text-white p-4 mb-8 rounded-lg text-center">
-                    Time is up! Your test has been automatically submitted.
-                </div>
-            )}
-
-            <div className='flex justify-center'>
-                <div className="flex space-x-4 text-xl ml-6">
-                    {subjects.map((subject, index) => (
-                        <button
-                            key={index}
-                            onClick={() => setSelectedSubject(subject)}
-                            className={`p-4 ${selectedSubject === subject ? 'border-b-2 border-white' : 'text-gray-500'}`}
-                        >
-                            {subject}
-                        </button>
-                    ))}
-                </div>
-            </div>
-
-            <QuestionPaper />
         </div>
     );
 };
