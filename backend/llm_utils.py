@@ -13,7 +13,7 @@ client = genai.Client(
     api_key=os.getenv("API_KEY"),  # Read API key from .env
 )
 
-model = "gemini-2.0-flash-thinking-exp-01-21"
+model = "gemini-2.5-pro"
 
 
 def generate_subject_questions_JEE(subject, mcq_count, nvq_count):
@@ -180,10 +180,104 @@ def generate_neet_paper():
     return question_paper
 
 
+def generate_subject_questions_NIMCET(subject, mcq_count):
+    # Load the appropriate JSON structure based on the subject
+    if subject == "Mathematics":
+        with open("nimcet/2024/input_math.json", "r", encoding="utf-8") as json_file:
+            pyq = json_file.read()
+    elif subject == "Logical Reasoning":
+        with open("nimcet/2024/input_lr.json", "r", encoding="utf-8") as json_file:
+            pyq = json_file.read()
+    elif subject == "Computer":
+        with open(
+            "nimcet/2024/input_computer.json", "r", encoding="utf-8"
+        ) as json_file:
+            pyq = json_file.read()
+    elif subject == "English":
+        with open("nimcet/2024/input_english.json", "r", encoding="utf-8") as json_file:
+            pyq = json_file.read()
+    else:
+        raise ValueError(f"Invalid subject: {subject}")
+
+    prompt = f"""
+        You are an expert in NIMCET-level question paper generation. Generate a JSON object with:
+        
+        - {subject}: {mcq_count} Multiple-Choice Questions (MCQs)
+        
+        Guidelines:
+        - Ensure questions follow the NIMCET difficulty level and cover various syllabus topics.
+        - Provide correct answers for each question.
+        - MCQs must have four options with the correct answer index.
+        - Output must match this JSON structure: {pyq}
+        - Do not generate more or less than {mcq_count} questions.
+
+        Note: Don't just give same questions from the example, generate new ones based on the guidelines.
+    """
+
+    contents = [
+        types.Content(role="user", parts=[types.Part.from_text(text=prompt)]),
+    ]
+
+    config = types.GenerateContentConfig(
+        temperature=0.5,
+        top_p=0.95,
+        top_k=64,
+        max_output_tokens=65536,
+        response_mime_type="text/plain",
+    )
+
+    temp_questions = []  # Store previously generated questions
+
+    while True:
+        response = client.models.generate_content(
+            model=model,
+            contents=contents,
+            config=config,
+        )
+
+        cleaned_text = response.text.replace("```json", "").replace("```", "").strip()
+
+        try:
+            new_questions = json.loads(cleaned_text)
+        except json.JSONDecodeError:
+            print(f"Error decoding JSON for {subject}, retrying...")
+            continue
+
+        print(f"Questions generated for {subject}")
+
+        # Merge previous valid questions with newly generated ones
+        temp_questions.extend(new_questions)
+
+        # Remove duplicates (optional, if necessary)
+        temp_questions = list({json.dumps(q): q for q in temp_questions}.values())
+
+        # Validate the number of questions
+        if len(temp_questions) >= mcq_count:
+            return temp_questions[:mcq_count]
+        else:
+            print(f"Incorrect question count for {subject}, retrying...")
+            print(len(temp_questions))
+
+
+def generate_nimcet_paper():
+    math_questions = generate_subject_questions_NIMCET("Mathematics", 50)
+    logical_questions = generate_subject_questions_NIMCET("Logical Reasoning", 40)
+    computer_questions = generate_subject_questions_NIMCET("Computer", 20)
+    english_questions = generate_subject_questions_NIMCET("English", 10)
+
+    question_paper = (
+        math_questions + logical_questions + computer_questions + english_questions
+    )
+    return question_paper
+
+
 def generate_paper(exam_name):
     print(f"Generating {exam_name} question paper...")
     if exam_name == "JEE":
         print("Generating JEE question paper...")
         return generate_jee_paper()
+    elif exam_name == "NIMCET":
+        print("genreationg nimcet")
+        return generate_nimcet_paper()
     else:
         return generate_neet_paper()

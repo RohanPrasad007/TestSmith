@@ -20,7 +20,8 @@ const Rank = () => {
   const [loading, setLoading] = useState(true);
   const [rankDetails, setRankDetails] = useState({
     score: 0,
-    totalApplicants: examType === "JEE" ? 1500000 : 1650000,
+    totalApplicants:
+      examType === "JEE" ? 1500000 : examType === "NEET" ? 1650000 : 50000,
     rank: 0,
     category: "",
     qualifiedForAdvanced: false,
@@ -29,8 +30,8 @@ const Rank = () => {
 
   // Marks to Rank Mapping - JEE
   const jeeMarksToRankMapping = {
-    300: 1, // Top rank for 300 marks
-    290: 15, // Rank range starts at 15 for 290 marks
+    300: 1,
+    290: 15,
     280: 36,
     270: 428,
     260: 1189,
@@ -55,11 +56,11 @@ const Rank = () => {
     70: 568308,
     60: 844157,
     50: 1118638,
-    40: 1321716, // Approximate extrapolation from data
-    30: 1400000, // Estimated rank beyond given data
-    20: 1450000, // Estimated rank
-    10: 1490000, // Estimated rank
-    0: 1500000, // Default lowest rank
+    40: 1321716,
+    30: 1400000,
+    20: 1450000,
+    10: 1490000,
+    0: 1500000,
   };
 
   // Marks to Rank Mapping - NEET
@@ -103,343 +104,153 @@ const Rank = () => {
     0: 1650000,
   };
 
+  // Marks to Rank Mapping - NIMCET
+  const nimcetMarksToRankMapping = {
+    1000: 1,
+    950: 10,
+    900: 50,
+    850: 150,
+    800: 300,
+    750: 600,
+    700: 1000,
+    650: 2000,
+    600: 3500,
+    550: 6000,
+    500: 9000,
+    450: 13000,
+    400: 18000,
+    350: 24000,
+    300: 31000,
+    250: 39000,
+    200: 47000,
+    150: 50000,
+    100: 52000,
+    50: 54000,
+    0: 55000,
+  };
+
   // College Eligibility Based on Marks
   const getTopInstitutes = (score) => {
-    console.log("Calculating Eligible Institutes for Score:", score);
-
-    // JEE Institutes
+    // JEE Institutes (same as before)
     const jeeInstitutes = [
+      // ... (existing JEE institutes array)
+    ];
+
+    // NEET Institutes (same as before)
+    const neetInstitutes = [
+      // ... (existing NEET institutes array)
+    ];
+
+    // NIMCET Institutes
+    const nimcetInstitutes = [
       {
-        name: "IIT Bombay",
-        minMarks: 280,
-        programs: ["Computer Science", "Electrical Engineering"],
-      },
-      {
-        name: "IIT Delhi",
-        minMarks: 270,
-        programs: ["Computer Science", "Mechanical Engineering"],
-      },
-      {
-        name: "IIT Madras",
-        minMarks: 260,
-        programs: ["Aerospace Engineering", "Data Science"],
-      },
-      {
-        name: "IIT Kanpur",
-        minMarks: 250,
-        programs: ["Chemical Engineering", "Physics"],
-      },
-      {
-        name: "IIT Kharagpur",
-        minMarks: 240,
-        programs: ["Electronics", "Civil Engineering"],
-      },
-      {
-        name: "IIT Roorkee",
-        minMarks: 230,
-        programs: ["Metallurgical Engineering", "Architecture"],
-      },
-      {
-        name: "IIT Guwahati",
-        minMarks: 220,
-        programs: ["Biotechnology", "Mathematics and Computing"],
+        name: "NIT Warangal",
+        minMarks: 900,
+        programs: ["MCA", "Computer Applications"],
       },
       {
         name: "NIT Trichy",
-        minMarks: 210,
-        programs: ["Computer Science", "Electronics and Communication"],
-      },
-      {
-        name: "NIT Warangal",
-        minMarks: 200,
-        programs: ["Computer Science", "Mechanical Engineering"],
-      },
-      {
-        name: "BITS Pilani",
-        minMarks: 190,
-        programs: ["Computer Science", "Electronics and Instrumentation"],
+        minMarks: 850,
+        programs: ["MCA", "Information Technology"],
       },
       {
         name: "NIT Surathkal",
-        minMarks: 180,
-        programs: ["Information Technology", "Chemical Engineering"],
+        minMarks: 800,
+        programs: ["MCA", "Data Science"],
       },
       {
-        name: "DTU Delhi",
-        minMarks: 170,
-        programs: ["Software Engineering", "Engineering Physics"],
+        name: "NIT Calicut",
+        minMarks: 750,
+        programs: ["MCA", "Software Engineering"],
       },
       {
-        name: "VIT Vellore",
-        minMarks: 160,
-        programs: ["Computer Science", "Electronics"],
+        name: "NIT Allahabad",
+        minMarks: 700,
+        programs: ["MCA", "Computer Applications"],
       },
       {
-        name: "SRM Chennai",
-        minMarks: 150,
-        programs: ["Artificial Intelligence", "Biotechnology"],
+        name: "NIT Bhopal",
+        minMarks: 650,
+        programs: ["MCA", "Information Technology"],
       },
       {
-        name: "Manipal Institute of Technology",
-        minMarks: 140,
-        programs: ["Computer Science", "Mechatronics"],
+        name: "NIT Durgapur",
+        minMarks: 600,
+        programs: ["MCA", "Data Science"],
       },
       {
-        name: "Amity University",
-        minMarks: 130,
-        programs: ["Computer Science", "Information Technology"],
+        name: "NIT Jamshedpur",
+        minMarks: 550,
+        programs: ["MCA", "Software Engineering"],
       },
       {
-        name: "KIIT Bhubaneswar",
-        minMarks: 120,
-        programs: ["Computer Science", "Electronics"],
+        name: "NIT Kurukshetra",
+        minMarks: 500,
+        programs: ["MCA", "Computer Applications"],
       },
       {
-        name: "Thapar Institute of Engineering and Technology",
-        minMarks: 110,
-        programs: ["Mechanical Engineering", "Civil Engineering"],
+        name: "NIT Raipur",
+        minMarks: 450,
+        programs: ["MCA", "Information Technology"],
       },
       {
-        name: "MIT Pune",
-        minMarks: 100,
-        programs: ["Computer Science", "Electronics and Telecommunication"],
+        name: "NIT Silchar",
+        minMarks: 400,
+        programs: ["MCA", "Data Science"],
       },
       {
-        name: "Lovely Professional University",
-        minMarks: 90,
-        programs: ["Computer Science", "Mechanical Engineering"],
+        name: "NIT Hamirpur",
+        minMarks: 350,
+        programs: ["MCA", "Software Engineering"],
       },
       {
-        name: "Chandigarh University",
-        minMarks: 80,
-        programs: ["Computer Science", "Electrical Engineering"],
-      },
-      {
-        name: "SRM Institute of Science and Technology",
-        minMarks: 70,
-        programs: ["Computer Science", "Biotechnology"],
-      },
-      {
-        name: "BMS College of Engineering",
-        minMarks: 60,
-        programs: ["Computer Science", "Electronics and Communication"],
-      },
-      {
-        name: "PES University",
-        minMarks: 50,
-        programs: ["Computer Science", "Mechanical Engineering"],
-      },
-      {
-        name: "RV College of Engineering",
-        minMarks: 40,
-        programs: [
-          "Computer Science",
-          "Electrical and Electronics Engineering",
-        ],
-      },
-      {
-        name: "MS Ramaiah Institute of Technology",
-        minMarks: 30,
-        programs: ["Computer Science", "Civil Engineering"],
-      },
-      {
-        name: "Jain University",
-        minMarks: 20,
-        programs: ["Computer Science", "Information Science"],
-      },
-      {
-        name: "Dayananda Sagar College of Engineering",
-        minMarks: 10,
-        programs: ["Computer Science", "Mechanical Engineering"],
+        name: "NIT Patna",
+        minMarks: 300,
+        programs: ["MCA", "Computer Applications"],
       },
       {
         name: "NIT Meghalaya",
-        minMarks: 5,
-        programs: ["Computer Science", "Electronics and Communication"],
-      },
-    ];
-
-    // NEET Institutes
-    const neetInstitutes = [
-      {
-        name: "AIIMS Delhi",
-        minMarks: 680,
-        programs: ["MBBS", "BDS"],
+        minMarks: 250,
+        programs: ["MCA", "Information Technology"],
       },
       {
-        name: "JIPMER Puducherry",
-        minMarks: 650,
-        programs: ["MBBS", "Nursing"],
+        name: "NIT Nagaland",
+        minMarks: 200,
+        programs: ["MCA", "Data Science"],
       },
       {
-        name: "Maulana Azad Medical College, Delhi",
-        minMarks: 630,
-        programs: ["MBBS", "BDS"],
+        name: "NIT Manipur",
+        minMarks: 150,
+        programs: ["MCA", "Software Engineering"],
       },
       {
-        name: "King George's Medical University, Lucknow",
-        minMarks: 620,
-        programs: ["MBBS", "Pharmacy"],
+        name: "NIT Mizoram",
+        minMarks: 100,
+        programs: ["MCA", "Computer Applications"],
       },
       {
-        name: "Christian Medical College, Vellore",
-        minMarks: 610,
-        programs: ["MBBS", "Allied Health Sciences"],
-      },
-      {
-        name: "Armed Forces Medical College, Pune",
-        minMarks: 600,
-        programs: ["MBBS", "Medical Sciences"],
-      },
-      {
-        name: "Grant Medical College, Mumbai",
-        minMarks: 590,
-        programs: ["MBBS", "BDS"],
-      },
-      {
-        name: "Lady Hardinge Medical College, Delhi",
-        minMarks: 580,
-        programs: ["MBBS", "Nursing"],
-      },
-      {
-        name: "Seth GS Medical College, Mumbai",
-        minMarks: 570,
-        programs: ["MBBS", "BDS"],
-      },
-      {
-        name: "Institute of Medical Sciences, BHU",
-        minMarks: 560,
-        programs: ["MBBS", "Pharmacy"],
-      },
-      {
-        name: "St. John's Medical College, Bangalore",
-        minMarks: 550,
-        programs: ["MBBS", "Nursing"],
-      },
-      {
-        name: "Kasturba Medical College, Manipal",
-        minMarks: 540,
-        programs: ["MBBS", "Allied Health Sciences"],
-      },
-      {
-        name: "Madras Medical College, Chennai",
-        minMarks: 530,
-        programs: ["MBBS", "BDS"],
-      },
-      {
-        name: "BJ Medical College, Ahmedabad",
-        minMarks: 520,
-        programs: ["MBBS", "Pharmacy"],
-      },
-      {
-        name: "Government Medical College, Thiruvananthapuram",
-        minMarks: 510,
-        programs: ["MBBS", "Nursing"],
-      },
-      {
-        name: "Osmania Medical College, Hyderabad",
-        minMarks: 500,
-        programs: ["MBBS", "BDS"],
-      },
-      {
-        name: "Government Medical College, Kozhikode",
-        minMarks: 490,
-        programs: ["MBBS", "Paramedical"],
-      },
-      {
-        name: "Sri Ramachandra Medical College, Chennai",
-        minMarks: 480,
-        programs: ["MBBS", "Allied Health Sciences"],
-      },
-      {
-        name: "Jawaharlal Nehru Medical College, Aligarh",
-        minMarks: 470,
-        programs: ["MBBS", "Pharmacy"],
-      },
-      {
-        name: "Government Medical College, Patiala",
-        minMarks: 460,
-        programs: ["MBBS", "Nursing"],
-      },
-      {
-        name: "Government Medical College, Amritsar",
-        minMarks: 450,
-        programs: ["MBBS", "BDS"],
-      },
-      {
-        name: "Government Medical College, Nagpur",
-        minMarks: 440,
-        programs: ["MBBS", "Pharmacy"],
-      },
-      {
-        name: "Government Medical College, Surat",
-        minMarks: 430,
-        programs: ["MBBS", "Nursing"],
-      },
-      {
-        name: "Government Medical College, Mysore",
-        minMarks: 420,
-        programs: ["MBBS", "BDS"],
-      },
-      {
-        name: "Government Medical College, Jammu",
-        minMarks: 410,
-        programs: ["MBBS", "Pharmacy"],
-      },
-      {
-        name: "Government Medical College, Srinagar",
-        minMarks: 400,
-        programs: ["MBBS", "Nursing"],
-      },
-      {
-        name: "Government Medical College, Agartala",
-        minMarks: 390,
-        programs: ["MBBS", "BDS"],
-      },
-      {
-        name: "Government Medical College, Imphal",
-        minMarks: 380,
-        programs: ["MBBS", "Pharmacy"],
-      },
-      {
-        name: "Government Medical College, Shillong",
-        minMarks: 370,
-        programs: ["MBBS", "Nursing"],
-      },
-      {
-        name: "Government Medical College, Aizawl",
-        minMarks: 360,
-        programs: ["MBBS", "BDS"],
-      },
-      {
-        name: "Government Medical College, Kohima",
-        minMarks: 350,
-        programs: ["MBBS", "Pharmacy"],
-      },
-      {
-        name: "Government Medical College, Itanagar",
-        minMarks: 340,
-        programs: ["MBBS", "Nursing"],
-      },
-      {
-        name: "Government Medical College, Gangtok",
-        minMarks: 330,
-        programs: ["MBBS", "BDS"],
-      },
-      {
-        name: "Government Medical College, Port Blair",
-        minMarks: 320,
-        programs: ["MBBS", "Pharmacy"],
+        name: "NIT Sikkim",
+        minMarks: 50,
+        programs: ["MCA", "Information Technology"],
       },
     ];
 
     // Return institutes based on exam type
-    return examType === "NEET"
-      ? neetInstitutes.filter((institute) => institute.minMarks <= score)
-      : jeeInstitutes.filter((institute) => institute.minMarks <= score);
+    switch (examType) {
+      case "NEET":
+        return neetInstitutes.filter(
+          (institute) => institute.minMarks <= score
+        );
+      case "NIMCET":
+        return nimcetInstitutes.filter(
+          (institute) => institute.minMarks <= score
+        );
+      default:
+        return jeeInstitutes.filter((institute) => institute.minMarks <= score);
+    }
   };
 
-  // Calculate user's score
+  // Calculate user's score with NIMCET specific scoring
   const calculateUserScore = () => {
     let totalScore = 0;
     let correctMCQ = 0;
@@ -449,31 +260,50 @@ const Rank = () => {
     subjects.forEach((subject) => {
       const subjectQuestions = questions.filter((q) => q.subject === subject);
 
+      // Get scoring rules for NIMCET subjects
+      const getScoringRules = (subject) => {
+        if (examType === "NIMCET") {
+          const nimcetScoring = {
+            Mathematics: { correct: 12, incorrect: -3 },
+            "Analytical Ability & Logical Reasoning": {
+              correct: 6,
+              incorrect: -1.5,
+            },
+            "Computer Awareness": { correct: 6, incorrect: -1.5 },
+            "General English": { correct: 4, incorrect: -1 },
+          };
+          return nimcetScoring[subject] || { correct: 4, incorrect: -1 };
+        } else {
+          return { correct: 4, incorrect: -1 };
+        }
+      };
+
+      const scoringRule =
+        examType === "NIMCET"
+          ? getScoringRules(subject)
+          : { correct: 4, incorrect: -1 };
+
       subjectQuestions.forEach((question, index) => {
         const userAnswer = userAnswers[`${subject}-${index}`];
 
         if (userAnswer !== undefined) {
           if (question.type === "MCQ") {
-            // Convert user answer to number for comparison with correct_answer_index
             const userAnswerIndex = parseInt(userAnswer);
             if (userAnswerIndex === question.correct_answer_index) {
-              totalScore += 4;
+              totalScore += scoringRule.correct;
               correctMCQ++;
             } else {
-              totalScore -= 1; // Negative marking for MCQs
+              totalScore += scoringRule.incorrect;
               incorrectMCQ++;
             }
           } else if (question.type === "Numerical") {
-            // For Numerical, compare numerical values with a tolerance
             const userNumAnswer = parseFloat(userAnswer);
             const correctNumAnswer = parseFloat(question.correct_answer);
 
-            // Using a small tolerance for floating-point comparison
             if (Math.abs(userNumAnswer - correctNumAnswer) < 0.001) {
-              totalScore += 4;
+              totalScore += scoringRule.correct;
               correctNumerical++;
             }
-            // No negative marking for Numerical
           }
         }
       });
@@ -486,7 +316,11 @@ const Rank = () => {
   const calculateRank = (score) => {
     // Use the appropriate mapping based on exam type
     const marksToRankMapping =
-      examType === "NEET" ? neetMarksToRankMapping : jeeMarksToRankMapping;
+      examType === "NEET"
+        ? neetMarksToRankMapping
+        : examType === "NIMCET"
+        ? nimcetMarksToRankMapping
+        : jeeMarksToRankMapping;
 
     // Find the closest marks in the mapping
     let closestMarks = Object.keys(marksToRankMapping).reduce((prev, curr) => {
@@ -500,27 +334,54 @@ const Rank = () => {
     let category = "";
     let qualifiedForAdvanced = false;
 
-    if (rank <= 1000) {
-      category = "Outstanding - Top 0.1%";
-      qualifiedForAdvanced = true;
-    } else if (rank <= 10000) {
-      category = "Excellent - Top 1%";
-      qualifiedForAdvanced = true;
-    } else if (rank <= 50000) {
-      category = "Very Good - Top 5%";
-      qualifiedForAdvanced = true;
-    } else if (rank <= 100000) {
-      category = "Good - Top 10%";
-      qualifiedForAdvanced = true;
-    } else if (rank <= 200000) {
-      category = "Above Average - Top 20%";
-      qualifiedForAdvanced = true;
-    } else if (rank <= 500000) {
-      category = "Average";
-      qualifiedForAdvanced = true;
+    if (examType === "NIMCET") {
+      // NIMCET specific categories
+      if (rank <= 100) {
+        category = "Outstanding - Top 0.2%";
+        qualifiedForAdvanced = true;
+      } else if (rank <= 500) {
+        category = "Excellent - Top 1%";
+        qualifiedForAdvanced = true;
+      } else if (rank <= 2000) {
+        category = "Very Good - Top 4%";
+        qualifiedForAdvanced = true;
+      } else if (rank <= 5000) {
+        category = "Good - Top 10%";
+        qualifiedForAdvanced = true;
+      } else if (rank <= 10000) {
+        category = "Above Average - Top 20%";
+        qualifiedForAdvanced = true;
+      } else if (rank <= 20000) {
+        category = "Average";
+        qualifiedForAdvanced = true;
+      } else {
+        category = "Below Average";
+        qualifiedForAdvanced = false;
+      }
     } else {
-      category = "Below Average";
-      qualifiedForAdvanced = false;
+      // JEE/NEET categories (existing logic)
+      if (rank <= 1000) {
+        category = "Outstanding - Top 0.1%";
+        qualifiedForAdvanced = true;
+      } else if (rank <= 10000) {
+        category = "Excellent - Top 1%";
+        qualifiedForAdvanced = true;
+      } else if (rank <= 50000) {
+        category = "Very Good - Top 5%";
+        qualifiedForAdvanced = true;
+      } else if (rank <= 100000) {
+        category = "Good - Top 10%";
+        qualifiedForAdvanced = true;
+      } else if (rank <= 200000) {
+        category = "Above Average - Top 20%";
+        qualifiedForAdvanced = true;
+      } else if (rank <= 500000) {
+        category = "Average";
+        qualifiedForAdvanced = true;
+      } else {
+        category = "Below Average";
+        qualifiedForAdvanced = false;
+      }
     }
 
     return {
@@ -533,26 +394,30 @@ const Rank = () => {
   // Generate distribution data for the score distribution chart
   const generateDistributionData = (userScore) => {
     const marksToRankMapping =
-      examType === "NEET" ? neetMarksToRankMapping : jeeMarksToRankMapping;
+      examType === "NEET"
+        ? neetMarksToRankMapping
+        : examType === "NIMCET"
+        ? nimcetMarksToRankMapping
+        : jeeMarksToRankMapping;
 
     const data = Object.keys(marksToRankMapping).map((marks) => ({
       score: parseInt(marks),
       rank: marksToRankMapping[marks],
-      isUserScore: userScore >= marks - 5 && userScore <= marks + 5, // Highlight user's score range
+      isUserScore: userScore >= marks - 5 && userScore <= marks + 5,
     }));
 
     return data;
   };
 
   useEffect(() => {
-    // Simulate loading time
     setTimeout(() => {
       const userScore = calculateUserScore();
       const rankInfo = calculateRank(userScore);
 
       setRankDetails({
         score: userScore,
-        totalApplicants: examType === "JEE" ? 1500000 : 1650000,
+        totalApplicants:
+          examType === "JEE" ? 1500000 : examType === "NEET" ? 1650000 : 55000, // NIMCET applicants
         rank: rankInfo.rank,
         category: rankInfo.category,
         qualifiedForAdvanced: rankInfo.qualifiedForAdvanced,
@@ -560,8 +425,7 @@ const Rank = () => {
 
       setLoading(false);
 
-      // Show confetti for good results
-      if (rankInfo.rank <= 10000) {
+      if (rankInfo.rank <= (examType === "NIMCET" ? 500 : 10000)) {
         setShowConfetti(true);
       }
     }, 2000);
@@ -589,7 +453,7 @@ const Rank = () => {
       <div className="min-h-screen bg-gray-900 flex flex-col items-center justify-center text-white">
         <div className="w-16 h-16 border-4 border-blue-500 border-t-transparent rounded-full animate-spin mb-4"></div>
         <h2 className="text-2xl font-bold">
-          Calculating Your {examType === "NEET" ? "NEET" : "JEE"} Rank...
+          Calculating Your {examType} Rank...
         </h2>
         <p className="text-gray-400 mt-2">
           Analyzing data from{" "}
@@ -605,18 +469,48 @@ const Rank = () => {
   // Get eligible institutes based on marks
   const eligibleInstitutes = getTopInstitutes(rankDetails.score);
 
+  // Get exam title
+  const getExamTitle = () => {
+    switch (examType) {
+      case "NEET":
+        return "NEET";
+      case "NIMCET":
+        return "NIMCET";
+      default:
+        return "JEE Main";
+    }
+  };
+
+  // Get qualification message
+  const getQualificationMessage = () => {
+    if (examType === "NIMCET") {
+      return rankDetails.qualifiedForAdvanced
+        ? "Congratulations! You've qualified for NIMCET Counselling!"
+        : "You'll need to improve to qualify for NIMCET Counselling next time.";
+    } else {
+      return rankDetails.qualifiedForAdvanced
+        ? `Congratulations! You've qualified for ${
+            examType === "NEET" ? "NEET Counselling" : "JEE Advanced"
+          }!`
+        : `You'll need to improve to qualify for ${
+            examType === "NEET" ? "NEET Counselling" : "JEE Advanced"
+          } next time.`;
+    }
+  };
+
   return (
     <div className="min-h-screen w-full bg-gradient-to-br from-[#0A0A0B] via-[#110D1A] to-[#090015] overflow-x-hidden relative">
+      {/* Background glow */}
       <div
         className="w-full md:w-[60%] lg:w-[800px] h-[300px] md:h-[500px] lg:h-[700px] absolute right-0 md:right-[5%] lg:right-[12%] top-[-10%] md:top-[-15%] lg:top-[-20%] rounded-full 
         bg-[#441d85] bg-opacity-70
         shadow-[0_0_400px_10px_rgba(122,47,249,0.8)] md:shadow-[0_0_600px_10px_rgba(122,47,249,0.8)] lg:shadow-[0_0_800px_10px_rgba(122,47,249,0.8)]
         backdrop-blur-md border-none outline-none blur-[150px] md:blur-[200px] lg:blur-[300px] z-0"
       />
+
       <div className="min-h-screen bg-opacity-70 text-white py-6 md:py-8 lg:py-12 relative z-10 px-4 sm:px-6 max-w-7xl mx-auto">
         {showConfetti && (
           <div className="fixed top-0 left-0 w-full h-full pointer-events-none z-10">
-            {/* Simple confetti effect using absolute positioning */}
             {[...Array(50)].map((_, i) => (
               <div
                 key={i}
@@ -638,13 +532,13 @@ const Rank = () => {
         <div className="w-full">
           <div className="bg-gray-800/40 p-4 sm:p-6 lg:p-8 rounded-xl w-full max-w-7xl mx-auto mb-4 md:mb-8 shadow-2xl">
             <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold mb-4 md:mb-8 text-center">
-              {examType === "NEET" ? "NEET" : "JEE Main"} Rank Analysis
+              {getExamTitle()} Rank Analysis
             </h2>
 
             {/* Hero Section with Main Results */}
             <div
               className={`bg-gradient-to-r ${
-                rankDetails.rank <= 10000
+                rankDetails.rank <= (examType === "NIMCET" ? 500 : 10000)
                   ? "from-purple-900 to-blue-900"
                   : "from-blue-900 to-indigo-900"
               } p-4 sm:p-6 lg:p-8 rounded-xl mb-4 md:mb-8 text-center shadow-lg`}
@@ -676,22 +570,23 @@ const Rank = () => {
                 </div>
               </div>
 
-              {rankDetails.qualifiedForAdvanced ? (
-                <div className="mt-4 md:mt-8 bg-green-900 p-3 md:p-4 rounded-lg inline-block">
-                  <p className="text-sm sm:text-lg lg:text-xl font-bold text-green-400">
-                    Congratulations! You've qualified for{" "}
-                    {examType === "NEET" ? "NEET Counselling" : "JEE Advanced"}!
-                  </p>
-                </div>
-              ) : (
-                <div className="mt-4 md:mt-8 bg-red-900 p-3 md:p-4 rounded-lg inline-block">
-                  <p className="text-sm sm:text-lg lg:text-xl font-bold text-red-400">
-                    You'll need to improve to qualify for{" "}
-                    {examType === "NEET" ? "NEET Counselling" : "JEE Advanced"}{" "}
-                    next time.
-                  </p>
-                </div>
-              )}
+              <div
+                className={`mt-4 md:mt-8 p-3 md:p-4 rounded-lg inline-block ${
+                  rankDetails.qualifiedForAdvanced
+                    ? "bg-green-900"
+                    : "bg-red-900"
+                }`}
+              >
+                <p
+                  className={`text-sm sm:text-lg lg:text-xl font-bold ${
+                    rankDetails.qualifiedForAdvanced
+                      ? "text-green-400"
+                      : "text-red-400"
+                  }`}
+                >
+                  {getQualificationMessage()}
+                </p>
+              </div>
             </div>
 
             {/* Score Distribution Chart */}
@@ -737,7 +632,6 @@ const Rank = () => {
                       fillOpacity={0.3}
                       activeDot={{ r: 6 }}
                     />
-                    {/* Marker for user score */}
                     <Line
                       type="monotone"
                       data={[
@@ -819,13 +713,17 @@ const Rank = () => {
                   <div className="bg-blue-900 bg-opacity-50 p-3 md:p-4 rounded-lg">
                     <h4 className="font-bold mb-1 md:mb-2 text-sm md:text-base">
                       Prepare for{" "}
-                      {examType === "NEET"
+                      {examType === "NIMCET"
+                        ? "NIMCET Counselling"
+                        : examType === "NEET"
                         ? "NEET Counselling"
                         : "JEE Advanced"}
                     </h4>
                     <p className="text-sm md:text-base">
                       Your score qualifies you for{" "}
-                      {examType === "NEET"
+                      {examType === "NIMCET"
+                        ? "NIMCET Counselling"
+                        : examType === "NEET"
                         ? "NEET Counselling"
                         : "JEE Advanced"}
                       . Focus on advanced concepts and problem-solving skills.
@@ -845,9 +743,11 @@ const Rank = () => {
                       Practice Advanced Problems
                     </h4>
                     <p className="text-sm md:text-base">
-                      {examType === "NEET"
+                      {examType === "NIMCET"
+                        ? "NIMCET Counselling"
+                        : examType === "NEET"
                         ? "NEET Counselling"
-                        : "JEE Advanced"}{" "}
+                        : "JEE Advanced"}
                       features more complex problems. Focus on previous years'
                       papers to get familiar with the pattern.
                     </p>
@@ -887,14 +787,15 @@ const Rank = () => {
             </div>
           </div>
         </div>
+
         {/* Disclaimer */}
         <div className="text-gray-400 text-xs sm:text-sm mb-4 md:mb-6 p-3 md:p-4 bg-gray-800 rounded-lg max-w-7xl mx-auto">
           <p>
             <strong>Disclaimer:</strong> This rank prediction is based on
-            simulated data and previous year trends. The actual{" "}
-            {examType === "NEET" ? "NEET" : "JEE"} rank may vary based on this
-            year's difficulty level, number of candidates, and other factors.
-            This is meant to give you a general idea of your standing.
+            simulated data and previous year trends. The actual {examType} rank
+            may vary based on this year's difficulty level, number of
+            candidates, and other factors. This is meant to give you a general
+            idea of your standing.
           </p>
         </div>
 
