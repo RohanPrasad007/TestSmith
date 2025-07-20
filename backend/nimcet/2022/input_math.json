@@ -1,0 +1,602 @@
+[
+    {
+        "subject": "Mathematics",
+        "question": "Area of the parallelogram formed by the lines y = 4x, y = 4x + 1, x + y = 0 and x + y = 1 is",
+        "options": [
+            "1/5",
+            "2/5",
+            "5",
+            "10"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The function f(x) = { (1 + 2x)^(1/x) , x ≠ 0; e², x = 0 } is",
+        "options": [
+            "Differentiable at x = 0",
+            "Continuous at x = 0",
+            "Discontinuous at x = 0",
+            "Not differentiable at x = 0"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If xᵐyⁿ = (x + y)ᵐ⁺ⁿ, then dy/dx is",
+        "options": [
+            "(x + y) / xy",
+            "xy",
+            "x/y",
+            "y/x"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A straight line through the point (4, 5) is such that its intercept between the axes is bisected at A, then its equation is",
+        "options": [
+            "3x + 4y = 20",
+            "3x – 4y + 7 = 0",
+            "5x – 4y = 40",
+            "5x + 4y = 40"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If â = λî + ĵ – 2k̂, b̂ = î + λĵ – 2k̂, ĉ = î + ĵ + k̂. and [â b̂ ĉ] = 7, then the values",
+        "options": [
+            "2, –6",
+            "4, –2",
+            "4, –2",
+            "–4, 2"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The value of 3³⁻ˡᵒᵍ₃⁵ is",
+        "options": [
+            "5/27",
+            "27/5",
+            "9/5",
+            "5/9"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If a₁, a₂, a₃, ...... aₙ be Arithmetic Progression with common difference then d, then the sum sin d (cos eca₁ cos eca₂ + cos eca₂ cos eca₃ + ..... + cos ecaₙ₋₁ cos ecaₙ) is equal to",
+        "options": [
+            "cot a₁ – cot aₙ",
+            "cos a₁ – sin aₙ",
+            "cosec a₁ – cosec aₙ",
+            "a₁ – aₙ"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The value of cot (cos ec⁻¹(5/3) + tan⁻¹(2/3)) is",
+        "options": [
+            "6/17",
+            "3/17",
+            "4/17",
+            "5/17"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If a₁, a₂, ....., aₙ are any real number and n is any positive integer, then",
+        "options": [
+            "n∑aᵢ² < (∑aᵢ)²",
+            "n∑aᵢ² ≥ (∑aᵢ)²",
+            "∑aᵢ² ≥ (∑aᵢ)²",
+            "None of these"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If cos⁻¹x + cos⁻¹y = φ, then 9x² – 12xy cos φ + 4y² is equal to",
+        "options": [
+            "–36sin²φ",
+            "36sin²φ",
+            "36cos²φ",
+            "36"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If the roots of the quadratic equation x² + px + q = 0 are tan 30° and tan 15° respectively, then the value of 2 + p – q is",
+        "options": [
+            "3",
+            "0",
+            "1",
+            "2"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If cosec θ – cot θ = 2. Find cosec θ is",
+        "options": [
+            "5/3",
+            "3/5",
+            "4/5",
+            "5/4"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Solution of the equation tan⁻¹√(x² + x) + sin⁻¹√(x² + x + 1) = π/2 are",
+        "options": [
+            "0, 1",
+            "1, –1",
+            "0, –1",
+            "0, –2"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If a < b, then ∫[a to b] (|x – a| + |x – b|)dx, is equal to",
+        "options": [
+            "(b – a)² / 2",
+            "(b² – a²) / 2",
+            "(b² – a²) / 2",
+            "(b – a)²"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Let â = 2î + 2ĵ + k̂ and b̂ be another vector such that â · b̂ = 14 and â × b̂ = 3î + ĵ – 8k̂ the vector b̂ =",
+        "options": [
+            "5î + ĵ – 2k̂",
+            "5î – ĵ – 2k̂",
+            "5î + ĵ + 2k̂",
+            "3î + ĵ + 4k̂"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Let a be the distance between lines –2x + y = 2 and 2x – y = 2, and b be the distance between the lines 4x – 3y = 5 and 6y – 8x = 1, then",
+        "options": [
+            "40b = 11√5a",
+            "40√2a = 11b",
+            "11√2b = 40a",
+            "11√2a = 40b"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The area enclosed within the curve |x| + |y| = 2 is",
+        "options": [
+            "16 sq. units",
+            "24 sq. units",
+            "32 sq. units",
+            "8 sq. units"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "In a Harmonic Progression, pᵗʰ term is q and qᵗʰ term is p. Then pqᵗʰ term is",
+        "options": [
+            "0",
+            "1",
+            "pq",
+            "pq(p + q)"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Suppose that the temperature at a point (x, y) on a metal plate is T(x, y) = 4x² – 4xy + y². An ant, walking on the plate, traverses a circle of radius 5 centered at the origin. What is the highest temperature encountered by the ant?",
+        "options": [
+            "125",
+            "120",
+            "0",
+            "25"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If (x/a)² + (y/b)² = 1, (a > b) and x² – y² = c² cut at angles, then",
+        "options": [
+            "a² + b² = 2c²",
+            "b² – a² = 2c²",
+            "a² – b² = 2c²",
+            "a² – b² = c²"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If (â × b̂) × ĉ = â × (b̂ × ĉ), then",
+        "options": [
+            "â and b̂ are collinear",
+            "â and b̂ are perpendicular",
+            "â and ĉ are collinear",
+            "â and ĉ are perpendicular"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Angle of elevation of the top of the tower from 3 points (collinear) A, B and C on a road leading to the foot of tower are 30°, 45° and 60° respectively. The ratio of AB and BC is",
+        "options": [
+            "√3 : 1",
+            "√3 : 2",
+            "1 : 2",
+            "2 : √3"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Let a, b and c be distinct non-negative numbers. If the vector aî + aĵ + ck̂, î + k̂ and cî + cĵ + bk̂ lie in a plane then c is equal to",
+        "options": [
+            "The Arithmetic Mean of a and b",
+            "The Geometric Mean of a and b",
+            "The Harmonic Mean of a and b",
+            "Equal to zero"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "There are two sets A and B with |A| = m and |B| = n. If |P(A)| – |P(B)| = 112 then choose the wrong option (where |A| denotes the cardinality of A, and P(A) denotes the power set of A)",
+        "options": [
+            "m + n = 11",
+            "2m – m = 1",
+            "2n – m = 1",
+            "3n – m = 5"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The mean of 25 observations was found to be 38. It was later discovered that 23 and 38 were misread as 25 and 36, then the mean is",
+        "options": [
+            "32",
+            "36",
+            "38",
+            "42"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "There are two circles in xy-plane whose equations are x² + y² – 2y = 0 and x² + y² – 2y – 3 = 0. A point (x, y) is chosen at random inside the larger circle. Then the probability that the point has been taken from smaller circle is",
+        "options": [
+            "1/3",
+            "2/3",
+            "1/2",
+            "1/4"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The value of ∫ ((x² – 1) dx) / (x³√(2x⁴ – 2x² + 1)) is",
+        "options": [
+            "2√(2 – 2/x² + 1/x⁴) + c",
+            "2√(2 + 2/x² + 1/x⁴) + c",
+            "1/2√(2 – 2/x² + 1/x⁴) + c",
+            "None of the above"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If 0 < P(A) < 1 and 0 < P(B) < 1, and P(A ∪ B) = P(A)P(B'), then",
+        "options": [
+            "P(B|A) = P(B) – P(A)",
+            "P(A' ∪ B') = P(A') – P(B')",
+            "P(A ∪ B) = P(A')P(B')",
+            "P(A|B) = P(A) – P(B)"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Which of the following is NOT TRUE?",
+        "options": [
+            "lim (x→∞) e⁻ˣ = 0",
+            "lim (x→∞) 1 / (xe¹ᐟˣ) = 0",
+            "lim (x→∞) sin x / (1 + 2x) = 0",
+            "lim (x→∞) cos x / (1 + 2x) = 0"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A four digit number is formed using the digits 1, 2, 3, 4, 5 without repetition. The probability that it is divisible by 3 is",
+        "options": [
+            "1/3",
+            "1/4",
+            "1/5",
+            "1/6"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The correct expression for cos⁻¹(–x) is",
+        "options": [
+            "π/2 – cos⁻¹x",
+            "π – cos⁻¹x",
+            "π + cos⁻¹x",
+            "π/2 + cos⁻¹x"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If α and β are the roots of x² – x – 1 = 0, and Aₙ = αⁿ + βⁿ, then Arithmetic Mean of Aₙ₋₁ and Aₙ is",
+        "options": [
+            "2Aₙ – 1",
+            "1/2 Aₙ₊₁",
+            "2Aₙ – 2",
+            "None of the above"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If D = | 1 1 1; 1 2+x 1; 1 1 2+y |, x ≠ 0, y ≠ 0 then D is?",
+        "options": [
+            "Divisible by x and y",
+            "Divisible by x but not by y",
+            "Divisible by (x + 1) and (y + 1)",
+            "Divisible by (1 + x) but not (1 + y)"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "In a triangle ABC, if the tangent of half the difference of two angles is equal to one third of the tangent of the sum of the angles, then the ratio of the sides opposite to the angle is",
+        "options": [
+            "2 : 1",
+            "1 : 2",
+            "3 : 1",
+            "1 : 1"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If the volume of a parallelopiped whose adjacent edges are â = 2î + 3ĵ + 4k̂, b̂ = î + αĵ + 2k̂, ĉ = î + 2ĵ + αk̂ is 15, then α is equal to",
+        "options": [
+            "1",
+            "5/2",
+            "9/2",
+            "0"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The first three moments of a distribution about 2 are 1, 16, 40 respectively. Then mean and variance of the distribution are",
+        "options": [
+            "(2, 16)",
+            "(2, 15)",
+            "(3, 15)",
+            "(1, 16)"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Inverse of the function f(x) = (10ˣ – 10⁻ˣ) / (10ˣ + 10⁻ˣ) is",
+        "options": [
+            "log₁₀(2 – x)",
+            "1/2 log₁₀((1 + x) / (1 – x))",
+            "1/2 log₁₀(2x – 1)",
+            "1/4 log₁₀((2x) / (2 – x))"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Coordinate of focus of the parabola 4y² + 12x – 20y + 67 = 0 is",
+        "options": [
+            "(–5/4, 17/4)",
+            "(–17/4, 5/2)",
+            "(–17/4, 5/2)",
+            "(–5/2, 17/4)"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Which term of the series √3/4, √5/4, 1, ... is √5/13?",
+        "options": [
+            "12",
+            "11",
+            "10",
+            "9"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A particle is at rest at the origin. It moves along the x-axis with an acceleration x – x², where x is the distance of the particle at time t. The particle next comes to rest after it has covered a distance",
+        "options": [
+            "1",
+            "1/2",
+            "3/2",
+            "2"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The function f(x) = log(x + √(x² + 1)) is",
+        "options": [
+            "an even function",
+            "an odd function",
+            "a periodic function",
+            "neither an even nor an odd function"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The domain of the function f(x) = cos⁻¹x / [x] is",
+        "options": [
+            "[–1, 0) ∪ {1}",
+            "[–1, 1]",
+            "[–1, 1]",
+            "None of the above"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A survey is done among a population of 200 people who like either tea or coffee. It is found that 60% of the population like tea and 72% of the population like coffee. Let m ≤ x ≤ n, then chose then correct option.",
+        "options": [
+            "n – m = 56",
+            "n – m = 28",
+            "n – m = 32",
+            "n + m = 92"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The solutions of the equation 4cos²x + 6sin²x = 5 are",
+        "options": [
+            "x = nπ ± π/4",
+            "x = nπ ± π/3",
+            "x = nπ ± π/2",
+            "x = nπ ± 2π/3"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "f(x) = x + |x| is continuous for",
+        "options": [
+            "x ∈ (–∞, ∞)",
+            "x ∈ (–∞, –∞) – {0}",
+            "only x > 0",
+            "No value of x"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The 10ᵗʰ and 50ᵗʰ percentiles of the observations 32, 49, 23, 29, 118 respectively are",
+        "options": [
+            "21, 32",
+            "23, 32",
+            "23, 33",
+            "22, 31"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "For a ∈ R (the set of all real numbers), a ≠ –1, lim(n→∞) (1ᵃ + 2ᵃ + ... + nᵃ) / ((n + 1)ᵃ⁻¹ [(na + 1) + (na + 2) + ... + (na + n)]) = 1/60. Then one of the values of a is:",
+        "options": [
+            "5",
+            "8",
+            "–15/2",
+            "–17/2"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The eccentricity of an ellipse, with its centre at the origin is 1/3. If one of the directrice is x = 9, then the equation of ellipse is",
+        "options": [
+            "9x² + 8y² = 72",
+            "8x² + 9y² = 72",
+            "8x² + 7y² = 56",
+            "7x² + 8y² = 56"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If the foci of the ellipse x²/25 + y²/b² = 1 and the hyperbola x²/144 – y²/81 = 1/25 are coincide, then the value of b² is",
+        "options": [
+            "25",
+            "16",
+            "64",
+            "49"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If the angle of elevation of the top of a hill from each of the vertices A, B and C of a horizontal is a, then the height of the hill is",
+        "options": [
+            "1/2 b tan α sec B",
+            "1/2 b tan α cos ecA",
+            "1/2 c tan α sin C",
+            "1/2 a tan α cos ecA"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Select the pair of words, which are related in the same way as the capitalized words are related to each other. Frugal : Extravagant",
+        "options": [
+            "Predecessor : Precursor",
+            "Criticise : Advocate",
+            "Teacher : Philanthropist",
+            "Hermit : Philosopher"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Fill in the blank : HEC, JGE, LIG, NKI, ______.",
+        "options": [
+            "PMK",
+            "HGF",
+            "KMP",
+            "ONM"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Replace the question mark with an appropriate image to complete the analogous pair.",
+        "options": [
+            "A dress",
+            "A pair of scissors",
+            "A pencil",
+            "A needle and thread"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Deepak, Rahul, Manoj and Vinod are brothers. Who is the heaviest?\nI. Rahul is heavier than Deepak and Vinod, but lighter than Manoj.\nII. Deepak is lighter than Rahul and Manoj, but heavier than Vinod.",
+        "options": [
+            "Data in both the statements together are not sufficient.",
+            "Statement II alone is sufficient, but statement I alone is not sufficient.",
+            "Either I or II is sufficient.",
+            "Statement I alone is sufficient, but statement II alone is not sufficient."
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Select the related word from the given alternatives.\nMELT : LIQUID :: FREEZE : ?",
+        "options": [
+            "PUSH",
+            "CONDENSE",
+            "ICE",
+            "SOLID"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Identify the fifth number in the series : 122, 144, 166, 188, ?",
+        "options": [
+            "210",
+            "310",
+            "345",
+            "234"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Today is Wednesday. What would be the day after 61 days?",
+        "options": [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Saturday"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Fill in the blank : JAK, KBL, LCM, MDN, ______.",
+        "options": [
+            "NEO",
+            "OEP",
+            "MEN",
+            "PEQ"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "DNN, FQQ, HTT, ______, LZZ",
+        "options": [
+            "JWW",
+            "IWW",
+            "JVV",
+            "JXX"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "In the following figure, find the total number of squares.",
+        "options": [
+            "24",
+            "20",
+            "36",
+            "18"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Find the synonym that is most nearly similar in meaning to the word : DEBACLE",
+        "options": [
+            "Catastrophe",
+            "Dandy",
+            "Opulence",
+            "Corker"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Looking at the portrait of a man, Manu said, “Her mother is the wife of my father’s son and I have no brother and sister.” Whose portrait was Manu looking at?",
+        "options": [
+            "His son",
+            "His daughter",
+            "His nephew",
+            "His father"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Identify the sixth number in the series : 6, 11, 21, 36, 56, ?",
+        "options": [
+            "82",
+            "21",
+            "81",
+            "52"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "U, V, W, X and T are sitting on a bench. T is sitting next to U, V is sitting next to W, W is not sitting with X who is on the left end of the bench. V is in the second position from the right. T is to the right of U and X. T and V are sitting together. In which position T is sitting?",
+        "options": [
+            "Between U and V",
+            "Between X and W",
+            "Between V and X",
+            "Between U and W"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "If in a certain language, KOLKOTA is coded as LPMLPUB, how is MUMBAI coded in that code?",
+        "options": [
+            "NVNBCJ",
+            "OVNBBH",
+            "NUNBCH",
+            "NVNCBJ"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Select the pair of words, which are related in the same way as the capitalized words are related to each other. BUTTERFLY : FREEDOM",
+        "options": [
+            "Frog : Water",
+            "Self-reliant : Buoyant",
+            "Horse : Speed",
+            "Chicken : Rooster"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Which of the following diagrams correctly represents lions, elephants and animals?",
+        "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Choose the word opposite in meaning to the given word : MITIGATE",
+        "options": [
+            "Abate",
+            "Tranquilize",
+            "Intensify",
+            "Alleviate"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Which of the following is to odd one from the given alternatives?",
+        "options": [
+            "Diving",
+            "Driving",
+            "Swimming",
+            "Sailing"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Comprehension: In each question below are given two statements followed by two conclusion numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the following given conclusions logically follows from the two given statements, disregarding commonly known facts.\nStatements : No women teacher play. Some women teachers are athletes.\nConclusions: I. Male athletes can play. II. Some athletes can play.",
+        "options": [
+            "Neither I nor II follows",
+            "Only conclusions I follows",
+            "Either I or II follows",
+            "Only conclusions II follows"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Comprehension: In each question below are given two statements followed by two conclusion numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the following given conclusions logically follows from the two given statements, disregarding commonly known facts.\nStatements : All mangoes are golden in colour. No golden-coloured things are cheap.\nConclusions: I. All mangoes are cheap. II. Golden-coloured mangoes are not chap.",
+        "options": [
+            "Neither I or II follows",
+            "Only conclusions II follows",
+            "Only conclusions I follows",
+            "Either I or II follows"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Comprehension: In each question below are given two statements followed by two conclusion numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the following given conclusions logically follows from the two given statements, disregarding commonly known facts.\nStatements : All young scientists are open-minded. No open-minded men are superstitious.\nConclusions: I. No scientist is superstitious. II. No young people are superstitious.",
+        "options": [
+            "Either I or II follows",
+            "Neither I or II follows",
+            "Only conclusions II follows",
+            "Only conclusions I follows"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Six books are labelled A, B, C, D, E and F are placed side by side. Books B, C, E and F have green covers while others have yellow covers. Book A, B and D are new while the rest are old volumes. Book A, B and C are law reports while the rest are medical extracts. Which two books are old medical extracts and have green covers?",
+        "options": [
+            "B and C",
+            "E and F",
+            "C and F",
+            "C and E"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Find out the wrong number in the FOLLOWING series.\n30, –5, –45, –90, –145, –195, –255.",
+        "options": [
+            "-145",
+            "-255",
+            "-5",
+            "-195."
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Find out the wrong number in the FOLLOWING series.\n2, 5, 10, 17, 26, 38, 50, 65",
+        "options": [
+            "26",
+            "38",
+            "65",
+            "50"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "The following questions are based on the pie-charts given below: Percentage-wise distribution of students studying in Arts and Commerce in seven different institutions – A, B, C, D, E, F and G. Total number of students studying Arts = 3800. Total number of students studying commerce = 4200. What is the total number of students studying Arts in Institutes A and G together?",
+        "options": [
+            "1206",
+            "1226",
+            "1026",
+            "1126"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "The following questions are based on the pie-charts given below: Percentage-wise distribution of students studying in Arts and Commerce in seven different institutions – A, B, C, D, E, F and G. Total number of students studying Arts = 3800. Total number of students studying commerce = 4200. How many students from Institute B study Arts and Commerce?",
+        "options": [
+            "1108",
+            "1180",
+            "1018",
+            "1208"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "The following questions are based on the pie-charts given below: Percentage-wise distribution of students studying in Arts and Commerce in seven different institutions – A, B, C, D, E, F and G. Total number of students studying Arts = 3800. Total number of students studying commerce = 4200. The ratio of the number of students studying Arts to that studying Commerce in institute E is:",
+        "options": [
+            "27 : 14",
+            "19 : 28",
+            "19 : 27",
+            "19 : 16"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Statement: Many shops in the local market have extended their shops and occupied most part of the footpath in front of their shops.\nCause of Action:\nI. The civic authority should immediately activate a task force to clear all the footpaths encroached by the shop owners.\nII. The civic authority should charge hefty penalty to the shop owners for occupying the footpath.\nIII. The civic authority should setup a monitoring system so that encroachments do not recur in future.",
+        "options": [
+            "None follows",
+            "II and III follows",
+            "I and III follow",
+            "All I, II and III follows"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Statement: There is a significant increase in the number of patients affected by some disease in a city.\nCause of Action:\nI. Municipal corporation of the city should take immediate action.\nII. This problem should be raised in the UNESCO.\nIII. Hospitals in the city should be equipped properly for the treatment of the patients.",
+        "options": [
+            "Only III follow",
+            "All follow",
+            "I and II follow",
+            "I and III follow"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Direction: Read the following information carefully and answer the questions.\nFive Dramas A, B, C, D and E have to be staged in 6 hour where 1 hour needs to be given per drama.\n1. A break of 1 hour has to be taken in third or four hour.\n2. Drama show cannot be started with A and cannot end in C.\n3. D has to follow B immediately with no break in between.\n4. A cannot be done immediately after D.\n5. A has to precede E immediately with no break in between.\nWhich hour is a break hour?",
+        "options": [
+            "5th",
+            "2nd",
+            "3rd",
+            "4th"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Direction: Read the following information carefully and answer the questions.\nFive Dramas A, B, C, D and E have to be staged in 6 hour where 1 hour needs to be given per drama.\n1. A break of 1 hour has to be taken in third or four hour.\n2. Drama show cannot be started with A and cannot end in C.\n3. D has to follow B immediately with no break in between.\n4. A cannot be done immediately after D.\n5. A has to precede E immediately with no break in between.\nWhich is the drama to be staged first?",
+        "options": [
+            "A",
+            "D",
+            "B",
+            "None of these"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Direction: Read the following information carefully and answer the questions.\nFive Dramas A, B, C, D and E have to be staged in 6 hour where 1 hour needs to be given per drama.\n1. A break of 1 hour has to be taken in third or four hour.\n2. Drama show cannot be started with A and cannot end in C.\n3. D has to follow B immediately with no break in between.\n4. A cannot be done immediately after D.\n5. A has to precede E immediately with no break in between.\nWhich is the drama staged immediately after the break?",
+        "options": [
+            "A",
+            "D",
+            "B",
+            "None of these"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Direction: Read the following information carefully and answer the questions.\nFive Dramas A, B, C, D and E have to be staged in 6 hour where 1 hour needs to be given per drama.\n1. A break of 1 hour has to be taken in third or four hour.\n2. Drama show cannot be started with A and cannot end in C.\n3. D has to follow B immediately with no break in between.\n4. A cannot be done immediately after D.\n5. A has to precede E immediately with no break in between.\nWhich drama is staged immediately after D?",
+        "options": [
+            "None of these",
+            "E",
+            "B",
+            "C"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Direction: Read the following information carefully and answer the questions.\nFive Dramas A, B, C, D and E have to be staged in 6 hour where 1 hour needs to be given per drama.\n1. A break of 1 hour has to be taken in third or four hour.\n2. Drama show cannot be started with A and cannot end in C.\n3. D has to follow B immediately with no break in between.\n4. A cannot be done immediately after D.\n5. A has to precede E immediately with no break in between.\nWhich drama is staged immediately after E?",
+        "options": [
+            "C",
+            "A",
+            "E",
+            "None of these"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "A person’s present age two–fifth of the age of his mother. After 8 years, he will be one-half of the age of his mother. What is the present age of the mother?",
+        "options": [
+            "40",
+            "60",
+            "30",
+            "50"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Running at the same constant rate, 6 identical machines can produce a total of 270 bottles per minute. At this rate, how many bottles could 10 such machines produce in 4 minutes?",
+        "options": [
+            "2700",
+            "648",
+            "10800",
+            "1800"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "At what time, in minutes, between 3 o’clock and 4 o’clock both the needles will coincide each other?",
+        "options": [
+            "5 1/11",
+            "12 4/11",
+            "13 4/11",
+            "16 4/11"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "The greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively is",
+        "options": [
+            "127",
+            "123",
+            "235",
+            "305"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "1. A is the brother of B.\n2. C is the father of A.\n3. D is brother of E.\n4. E is the daughter of B.\nThen, the uncle of D is?",
+        "options": [
+            "B",
+            "C",
+            "E",
+            "A"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    }
+]

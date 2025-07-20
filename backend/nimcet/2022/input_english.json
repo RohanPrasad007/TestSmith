@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "General English",
+        "question": "“Bite the bullet” means",
+        "options": [
+            "to stop a conflict",
+            "to become mad",
+            "to accept something that is difficult or unpleasant",
+            "to analyse your faults"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "What can you call a person who leads an unconventional style or living?",
+        "options": [
+            "Cynic",
+            "Bohemian",
+            "Altruist",
+            "Agnostic"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Fill in the blanks with the correct option.\nTechnical writing demands ______ use of language.",
+        "options": [
+            "Poetic",
+            "Factual",
+            "Figurative",
+            "Dramatic"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "The county cleared this path and paved it with packed gravel, so they have a peaceful place to hike and bike.\nWhich of the following alternatives to the underlined portion would NOT be acceptable?",
+        "options": [
+            "path, paving",
+            "path and then paved",
+            "path before paving",
+            "path paved"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Select the correct form of verb/subject verb agreement.\nThe principal, along with his assistants, ________ the meeting.",
+        "options": [
+            "are attending",
+            "attend",
+            "is attending",
+            "attending"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Select correct articles.\nHe is ...... M.A. with PhD and teaches in ...... university.",
+        "options": [
+            "the, the",
+            "an, the",
+            "a, an",
+            "a, the"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Fill in the blank with the most appropriate option.\nKedar ______ this project for a month and now he is about to join a new project.",
+        "options": [
+            "guides",
+            "guided",
+            "has been guiding",
+            "guiding"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Comprehension:\nYou might think you’ve experienced VR, and you might have been pretty impressed. Particularly, if you’re a gamer, there are some great experiences to be had out there (or rather, in there) today. But over the next few year, in VR as in all fields of technology, we’re going to see things that make what is cutting-edge today look like space Invaders. And although the games will be amazing, the effects of this transformation will be far broader, touching on our work, education, and social lives.\nToday’s most popular VR applications involve taking total control of user’s sense (sight and hearing, particularly) to create a totally immersive experience that places the user in a fully virtual environment that feels pretty realistic. Climb up something high and look down, and you’re likely to get a sense of vertigo. If you see an object moving quickly towards your head, you’ll feel an urge to duck out of the way.\nVery soon, VR creators will extend this sensory hijacking to our other facilities – for example, touch and smell – to deepen that sense of immersion. At the same time, the devices we use to visit these virtual worlds will become cheaper and lighter, removing the friction that can currently be a barrier.\nI believe extended reality (XR) – a term that covers virtual reality (VR), augmented reality (AR), and mixed reality (MR) – will be one of the most transformative tech trends of the next five years. It will be enabled and augmented by other tech trends, including super-fast networking, that will let us experience VR as a cloud service just like we currently consume music and movies. And artificial intelligence (AI) will provide us with more personalized virtual worlds to explore, even giving us realistic virtual characters to share our experiences with.\nQ. The passage states all the following about VR applications except.",
+        "options": [
+            "Future AI will allow us to share our experiences with realistic virtual characters",
+            "Vertigo is a major feature of all AI applications",
+            "VR applications creates a virtual environment that feels pretty realistic",
+            "VR applications takes control of the user’s senses"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Comprehension:\nYou might think you’ve experienced VR, and you might have been pretty impressed. Particularly, if you’re a gamer, there are some great experiences to be had out there (or rather, in there) today. But over the next few year, in VR as in all fields of technology, we’re going to see things that make what is cutting-edge today look like space Invaders. And although the games will be amazing, the effects of this transformation will be far broader, touching on our work, education, and social lives.\nToday’s most popular VR applications involve taking total control of user’s sense (sight and hearing, particularly) to create a totally immersive experience that places the user in a fully virtual environment that feels pretty realistic. Climb up something high and look down, and you’re likely to get a sense of vertigo. If you see an object moving quickly towards your head, you’ll feel an urge to duck out of the way.\nVery soon, VR creators will extend this sensory hijacking to our other facilities – for example, touch and smell – to deepen that sense of immersion. At the same time, the devices we use to visit these virtual worlds will become cheaper and lighter, removing the friction that can currently be a barrier.\nI believe extended reality (XR) – a term that covers virtual reality (VR), augmented reality (AR), and mixed reality (MR) – will be one of the most transformative tech trends of the next five years. It will be enabled and augmented by other tech trends, including super-fast networking, that will let us experience VR as a cloud service just like we currently consume music and movies. And artificial intelligence (AI) will provide us with more personalized virtual worlds to explore, even giving us realistic virtual characters to share our experiences with.\nQ. ‘Duck out of something’ means",
+        "options": [
+            "To avoid doing something",
+            "To hit something hard",
+            "To fall down",
+            "To meet with an accident"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Comprehension:\nYou might think you’ve experienced VR, and you might have been pretty impressed. Particularly, if you’re a gamer, there are some great experiences to be had out there (or rather, in there) today. But over the next few year, in VR as in all fields of technology, we’re going to see things that make what is cutting-edge today look like space Invaders. And although the games will be amazing, the effects of this transformation will be far broader, touching on our work, education, and social lives.\nToday’s most popular VR applications involve taking total control of user’s sense (sight and hearing, particularly) to create a totally immersive experience that places the user in a fully virtual environment that feels pretty realistic. Climb up something high and look down, and you’re likely to get a sense of vertigo. If you see an object moving quickly towards your head, you’ll feel an urge to duck out of the way.\nVery soon, VR creators will extend this sensory hijacking to our other facilities – for example, touch and smell – to deepen that sense of immersion. At the same time, the devices we use to visit these virtual worlds will become cheaper and lighter, removing the friction that can currently be a barrier.\nI believe extended reality (XR) – a term that covers virtual reality (VR), augmented reality (AR), and mixed reality (MR) – will be one of the most transformative tech trends of the next five years. It will be enabled and augmented by other tech trends, including super-fast networking, that will let us experience VR as a cloud service just like we currently consume music and movies. And artificial intelligence (AI) will provide us with more personalized virtual worlds to explore, even giving us realistic virtual characters to share our experiences with.\nQ. Select an antonym for the word ‘argument’ from the options given below:",
+        "options": [
+            "Aggrandize",
+            "Curtail",
+            "Inflate",
+            "Reinforce"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Read the following sentence to find if there is any error in any part:\nIf I were him / I would teach / him a lesson / No error",
+        "options": [
+            "him a lesson",
+            "No error",
+            "If I were him",
+            "I would teach"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Fill in the blanks with the correct preposition\nJugdish is waiting for me _________ the campus.",
+        "options": [
+            "On",
+            "At",
+            "In",
+            "Out"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Select the word which means the same as the following:\nTo read something carefully",
+        "options": [
+            "Presume",
+            "Perverse",
+            "Peruse",
+            "Persiflage"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Select the one which best expresses the same sentence in indirect/direct speech:\nHe said, “I am glad to be here this evening.”",
+        "options": [
+            "He says he is glad to be here this evening.",
+            "He said he was glad to be here this evening.",
+            "He said that he was glad to be there that evening.",
+            "He asked he is glad to be here this evening."
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Choose the antonym:\nBOLD",
+        "options": [
+            "Nervous",
+            "Timid",
+            "Fearful",
+            "Coy"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Which of the phrases given below should replace the phrase printed in bold to make the sentence grammatically correct.\nHe is addicted to smoke.",
+        "options": [
+            "addicted with smoking",
+            "addict of smoke",
+            "used to smoke",
+            "addicted to smoking"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Choose the correct alternative with the correct choice given below each statement.\nYou are to conform ________ the rules of the institute.",
+        "options": [
+            "with",
+            "to",
+            "on",
+            "of"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Choose the synonym.\nLIBERAL",
+        "options": [
+            "Generous",
+            "Affectionate",
+            "Sober",
+            "Reactionary"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Identify the word that is similar in meaning to the underlined word.\nRaghu make adulatory remarks about the waiter who served the food.",
+        "options": [
+            "Complimentary",
+            "Ironic",
+            "Derogatory",
+            "Slanderous"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Fill in the blank.\nNeither Peter nor I ________ responsible for this blunder.",
+        "options": [
+            "am",
+            "are",
+            "is",
+            "were"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    }
+]

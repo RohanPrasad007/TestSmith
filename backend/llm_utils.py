@@ -180,35 +180,73 @@ def generate_neet_paper():
     return question_paper
 
 
-def generate_subject_questions_NIMCET(subject, mcq_count):
-    # Load the appropriate JSON structure based on the subject
+def generate_subject_questions_NIMCET(
+    subject, mcq_count, years=["2024", "2023", "2022"]
+):
+    # Load all available PYQs from different years
+    all_pyqs = []
+
+    for year in years:
+        try:
+            if subject == "Mathematics":
+                file_path = f"nimcet/{year}/input_math.json"
+            elif subject == "Logical Reasoning":
+                file_path = f"nimcet/{year}/input_lr.json"
+            elif subject == "Computer":
+                file_path = f"nimcet/{year}/input_computer.json"
+            elif subject == "English":
+                file_path = f"nimcet/{year}/input_english.json"
+            else:
+                raise ValueError(f"Invalid subject: {subject}")
+
+            with open(file_path, "r", encoding="utf-8") as json_file:
+                year_pyq = json.load(json_file)
+                all_pyqs.append({"year": year, "questions": year_pyq})
+        except FileNotFoundError:
+            print(f"Warning: PYQs not found for year {year}")
+            continue
+        except KeyError:
+            print(f"Warning: Subject {subject} not found in {year} PYQs")
+            continue
+
+    if not all_pyqs:
+        raise ValueError(
+            f"No valid PYQs found for subject {subject} in specified years {years}"
+        )
+
     if subject == "Mathematics":
         with open("nimcet/2024/input_math.json", "r", encoding="utf-8") as json_file:
-            pyq = json_file.read()
+            output_format = json_file.read()
     elif subject == "Logical Reasoning":
         with open("nimcet/2024/input_lr.json", "r", encoding="utf-8") as json_file:
-            pyq = json_file.read()
+            output_format = json_file.read()
     elif subject == "Computer":
         with open(
             "nimcet/2024/input_computer.json", "r", encoding="utf-8"
         ) as json_file:
-            pyq = json_file.read()
+            output_format = json_file.read()
     elif subject == "English":
         with open("nimcet/2024/input_english.json", "r", encoding="utf-8") as json_file:
-            pyq = json_file.read()
+            output_format = json_file.read()
     else:
         raise ValueError(f"Invalid subject: {subject}")
 
+    # Get the structure from the most recent year
+    latest_structure = all_pyqs[0]["questions"]
+
     prompt = f"""
-        You are an expert in NIMCET-level question paper generation. Generate a JSON object with:
+        You are an expert in NIMCET-level question paper generation. Below are previous year questions (PYQs) from {', '.join(years)}:
         
-        - {subject}: {mcq_count} Multiple-Choice Questions (MCQs)
+        {json.dumps(all_pyqs, indent=2)}
+        
+        Generate a NEW question paper with:
+        - {subject}: {mcq_count} Brand New Multiple-Choice Questions (MCQs)
         
         Guidelines:
         - Ensure questions follow the NIMCET difficulty level and cover various syllabus topics.
         - Provide correct answers for each question.
         - MCQs must have four options with the correct answer index.
-        - Output must match this JSON structure: {pyq}
+        - Output format (JSON):{output_format}
         - Do not generate more or less than {mcq_count} questions.
 
         Note: Don't just give same questions from the example, generate new ones based on the guidelines.

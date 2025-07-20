@@ -1,0 +1,482 @@
+[
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Insert the missing number 8, 7, 11, 12, 14, 17, 17, 22, ?",
+        "options": [
+            "27",
+            "20",
+            "22",
+            "24"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "In a class of 50 students, Raghu’s rank is twice that of Paul. There are 10 students who have ranked worse than that of Raghu. Paul’s rank in the class is",
+        "options": [
+            "5th",
+            "10th",
+            "15th",
+            "20th"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Read the following information carefully and then answer the following questions:\nI. P Ψ Q means P is mother of Q.\nII. P ∈ Q means P is sister of Q.\nIII. P $ Q means P is father of Q.\nIV. P # Q means P is brother of Q.\nWhich of the following means R is brother of T?",
+        "options": [
+            "R Ψ S # U $ T",
+            "U Ψ R # S # T",
+            "U Ψ R ∈ S Ψ T",
+            "T # S $ Q ∈ R"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Study the following table, carefully and answer the following questions\nSubject (Full marks 50)\nPhysics: 40 & above: 9, 30 & above: 32, 20 & above: 80, 10 & above: 92, 0 and above: 100\nChemistry: 40 & above: 4, 30 & above: 21, 20 & above: 66, 10 & above: 81, 0 and above: 100\nAggregate Average: 40 & above: 7, 30 & above: 27, 20 & above: 73, 10 & above: 87, 0 and above: 100\nThe number of students scoring less than 40% marks in aggregate is?",
+        "options": [
+            "13",
+            "19",
+            "20",
+            "27"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Choose the pair that best represents a similar relationship to the one expressed in the original pair of words : WAITRESS : RESTAURANT",
+        "options": [
+            "Doctor : Diagnosis",
+            "Actor : Role",
+            "Driver : Truck",
+            "Teacher : School"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "How many times in a day are the hands of a clock pointing opposite to each other?",
+        "options": [
+            "4",
+            "20",
+            "22",
+            "14"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "In this series, looking at the letter pattern fill the blank in the middle of the series : ELFA, GLHA, ILJA, ____, MLNA",
+        "options": [
+            "OLPA",
+            "KLMA",
+            "LLMA",
+            "KLLA"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "If Z = 52 and ACT = 48, then BAT will be equal to",
+        "options": [
+            "46",
+            "39",
+            "44",
+            "41"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Which word does NOT belong with the others?",
+        "options": [
+            "wing",
+            "fin",
+            "Beak",
+            "Rudder"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Choose the pair of number that comes next : 1, 10, 7, 20, 13, 30, 19, ____, ____?",
+        "options": [
+            "25, 22",
+            "26, 24",
+            "26, 23",
+            "25, 23"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Study the following table, carefully and answer the following questions\nSubject (Full marks 50)\nPhysics: 40 & above: 9, 30 & above: 32, 20 & above: 80, 10 & above: 92, 0 and above: 100\nChemistry: 40 & above: 4, 30 & above: 21, 20 & above: 66, 10 & above: 81, 0 and above: 100\nAggregate Average: 40 & above: 7, 30 & above: 27, 20 & above: 73, 10 & above: 87, 0 and above: 100\nWhat is the difference between the number of students passed with 30 as cut-off marks in Chemistry and those passed with 30 as cut-off marks in aggregate?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "There are six members in a family A is the father of D. E is the grandfather of D. B is the daughter-in-law of C. F is the uncle of D. What is the relationship of C with F?",
+        "options": [
+            "sister",
+            "Mother-in-law",
+            "Nephew",
+            "Data inadequate"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Study the following table, carefully and answer the following questions\nSubject (Full marks 50)\nPhysics: 40 & above: 9, 30 & above: 32, 20 & above: 80, 10 & above: 92, 0 and above: 100\nChemistry: 40 & above: 4, 30 & above: 21, 20 & above: 66, 10 & above: 81, 0 and above: 100\nAggregate Average: 40 & above: 7, 30 & above: 27, 20 & above: 73, 10 & above: 87, 0 and above: 100\nIf it is know that at least 23 students were eligible for a symposium on Chemistry, then the minimum qualifying marks in Chemistry for eligible to Symposium would lie in the range?",
+        "options": [
+            "30 - 40",
+            "20 - 30",
+            "Below 20",
+            "Cannot be determined."
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Choose the pair that best represents a similar relationship to the one expressed in the original pair of words PULSATE : THROB : :",
+        "options": [
+            "WALK : RUN",
+            "TIRED : SLEEP",
+            "EXAMINE : SCRUTINIZE",
+            "BALLET : DANCER"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Choose the word that is a necessary part of the underlined word : HARVEST",
+        "options": [
+            "autumn",
+            "crop",
+            "stockpile",
+            "tractor"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Choose the word which has the same relationship among the given three words : Yellow, Blue, Red.",
+        "options": [
+            "Black",
+            "Orange",
+            "White",
+            "Paint"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Find the missing term 7 : 56 :: 9 : ?",
+        "options": [
+            "63",
+            "81",
+            "90",
+            "99"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Find the matching term for Music : Guitar :: Performer.",
+        "options": [
+            "Dance : Tune : Instrument",
+            "Food : Recipe : Cook",
+            "Patient : Medicine : Doctor",
+            "Trick : Rope : Acrobat"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Read the information given below and answer the following question:\nI. In a family of six persons A, B, C, D, E and F there are two married couples.\nII. D is grandmother of A and mother of B.\nIII. C is wife of B and mother of F.\nIV. F is the granddaughter of E.\nWhich of the following is true?",
+        "options": [
+            "A is brother of F.",
+            "A is sister of F.",
+            "D has two grandson",
+            "None of these"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "A company produces five different products. The sales of these five product (in lakh number of packs) during 2005 and 2010 are shown in the following bar-graph. Question is based on this graph.\nDuring the period 2005 – 2010, the minimum rate of increase in sales is in the case of:",
+        "options": [
+            "Product A",
+            "Product B",
+            "Product C",
+            "Product E"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Read the information given below and answer the following question:\nI. In a family of six persons A, B, C, D, E and F there are two married of couples.\nII. D is grandmother of A and mother of B.\nIII. C is wife of B and mother of F.\nIV. F is the granddaughter of E.\nHow many male members are there in the family?",
+        "options": [
+            "Three",
+            "Two",
+            "Cannot be determined",
+            "None of these"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "A company produces five different products. The sales of these five product (in lakh number of packs) during 2005 and 2010 are shown in the following bar-graph. Question is based on this graph.\nThe sales of Product A in 2010 was by what percent more than the sales of Product B in 2010? (Rounded off to the nearest integer)",
+        "options": [
+            "33%",
+            "31%",
+            "28%",
+            "22%"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Insert the missing number : 16, 33, 65, 131, 261, ?",
+        "options": [
+            "523",
+            "521",
+            "615",
+            "721"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "A company produces five different products. The sales of these five product (in lakh number of packs) during 2005 and 2010 are shown in the following bar-graph. Question is based on this graph.\nThe sales have increased by nearly 55% from 2005 to 2010 in case of:",
+        "options": [
+            "Product A",
+            "Product B",
+            "Product C",
+            "Product D"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Study the following table, carefully and answer the following questions\nSubject (Full marks 50)\nPhysics: 40 & above: 9, 30 & above: 32, 20 & above: 80, 10 & above: 92, 0 and above: 100\nChemistry: 40 & above: 4, 30 & above: 21, 20 & above: 66, 10 & above: 81, 0 and above: 100\nAggregate Average: 40 & above: 7, 30 & above: 27, 20 & above: 73, 10 & above: 87, 0 and above: 100\nIf at lest 60% marks in Physics are required for pursuing higher studies in Physics, how many students will be eligible to pursue higher studies in Physics?",
+        "options": [
+            "27",
+            "32",
+            "34",
+            "41"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Read the information given below and answer the following question:\nI. In a family of six persons A, B, C, D, E and F there are two married couples.\nII. D is grandmother of A and mother of B.\nIII. C is wife of B and mother of F.\nIV. F is the granddaughter of E.\nWhat is C to A",
+        "options": [
+            "Daughter",
+            "Grandmother",
+            "Mother",
+            "Cannot be determined"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "If it is Saturday on January 1, 2000, then January 1, 2001 would have been",
+        "options": [
+            "Monday",
+            "Sunday",
+            "Saturday",
+            "Friday"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Choose the correct option for the remainder when X = 1! + 2! + 3! + ... + 100! is divided by 24",
+        "options": [
+            "9",
+            "11",
+            "152",
+            "13"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Choose the missing term : BYCX : DWEV :: FUGT : ?",
+        "options": [
+            "EHIJ",
+            "GHIJ",
+            "HSIR",
+            "SRHS"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "COUNSEL is to BITIRAK, so also GUIDANCE is to ________?",
+        "options": [
+            "EOHYZKBB",
+            "FOHYZJBB",
+            "FPHZZKAB",
+            "HOHYBJBA"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "In a certain code language, ‘do re me’ means ‘he is late’ ; ‘fa me la’ means ‘she is early’ and ‘so ti do’ means ‘he leaves soon’. Which word in the language means ‘late’",
+        "options": [
+            "la",
+            "do",
+            "me",
+            "re"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Read the information given below and answer the following question:\nI. In a family of six persons A, B, C, D, E and F there are two married couples.\nII. D is grandmother of A and mother of B.\nIII. C is wife of B and mother of F.\nIV. F is the granddaughter of E.\nWho among the following is one of the couples?",
+        "options": [
+            "CD",
+            "DE",
+            "EB",
+            "None of these"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Choose the number pair or group that is different from other",
+        "options": [
+            "15 : 46",
+            "12 : 37",
+            "9 : 28",
+            "8 : 33"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Read the following information carefully and then answer the following questions:\nI. P Ψ Q means P is mother of Q.\nII. P ∈ Q means P is sister of Q.\nIII. P $ Q means P is father of Q.\nIV. P # Q means P is brother of Q.\nWhich of the following means N is definitely daughter of L.",
+        "options": [
+            "K $ L # M # N",
+            "M Ψ K $ N ∈ L",
+            "K Ψ M # L ∈ N",
+            "L Ψ K $ N # M"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "If 'A3T15R' stands for 'ACTOR' and 'D1T5' stands for 'DATE', how will you code 'ROTATE'",
+        "options": [
+            "R16T1T5",
+            "R15T1T5",
+            "R15T1T16",
+            "R15C1&7"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "If 9 × 3 + 8 = 24, 10 × 2 + 7 = 35 & 80 × 40 + 3 = 6, then find 12 × 4 + 3 = ?",
+        "options": [
+            "7",
+            "9",
+            "12",
+            "16"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Choose the odd one:",
+        "options": [
+            "Zebra",
+            "Hyena",
+            "Rhinoceros",
+            "Giraffe"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Choose the missing term out of the given alternatives : Q1F, S2E, U6D, W21C, ?",
+        "options": [
+            "Y66B",
+            "Y44B",
+            "Y88B",
+            "Z88B"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Read the following information carefully and then answer the following questions:\nI. P Ψ Q means P is mother of Q.\nII. P ∈ Q means P is sister of Q.\nIII. P $ Q means P is father of Q.\nIV. P # Q means P is brother of Q.\nIf K Ψ L ∈ M # N, then how K is related with N?",
+        "options": [
+            "Mother",
+            "Aunt",
+            "Great Aunt",
+            "Grandmother"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability & Logical Reasoning",
+        "question": "Radha is twice as old as Rita was 2 years ago. If difference between their ages is 2 years, how old is Radha Today?",
+        "options": [
+            "6",
+            "8",
+            "10",
+            "12"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    }
+]
