@@ -9,7 +9,7 @@ import { useExam } from "../context/ExamContext";
 import { showToast } from "../utils/toast";
 import NEET_QUESTIONS from "../data/neet_question_paper.json";
 
-const API_URL = import.meta.env.VITE_API_URL || "http://127.0.0.1:5000";
+const API_URL = import.meta.env.VITE_API_URL || "http://127.0.0.1:5001";
 
 const StartMockTest = () => {
   const { user, logout } = useAuth();

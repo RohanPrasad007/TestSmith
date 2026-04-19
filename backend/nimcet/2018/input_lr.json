@@ -1,0 +1,278 @@
+[
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "Decide which of the assumptions is implicit in the statement and choose your answer accordingly.\nStatement : “Buy pure and natural honey of company X.” An advertisement in a newspaper.\nAssumptions : I. Artificial honey can be prepared.\nII. People do not mind paying more for pure and natural honey.\nIII. No other company supplies pure honey.",
+        "options":[
+            "Only I is implicit",
+            "Only I and II are implicit",
+            "Only I and III are implicit",
+            "All are implicit"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "Choose the conclusion which logically follows from the given statement(s).\nStatement : All scientists working in America are talented. Some Indian scientists are working in America.\nConclusions :\n1. None of Indian scientists is talented.\n2. Some talented Indian scientists have migrated to America.\n3. All talented scientists are Indians.\n4. Some Indian scientists are talented.\nThe conclusion(s) correctly drawn is/are",
+        "options":[
+            "1 only",
+            "2 only",
+            "2 and 3",
+            "2 and 4"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "One New York publisher has estimated that 50,000 to 60,000 people in the United States want an anthology that includes the complete works of William Shakespeare. And what accounts for this renewed interest in Shakespeare ? As scholars point out, his psychological insights into both male and female characters are amazing even today.\nThis paragraph best supports the statement that",
+        "options":[
+            "Shakespeare’s characters are more interesting than fictional characters today",
+            "People even today are interested in Shakespeare’s work because of the characters",
+            "Academic scholars are putting together an anthology of Shakespeare’s work",
+            "New Yorkers have a renewed interested in the work of Shakespeare"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "A runs $1\\frac{2}{3}$ times as fast as B. if A gives B a start of 80 m, how far must the winning post be so that A and B might reach it at the same time ?",
+        "options":[
+            "200 m",
+            "400 m",
+            "300 m",
+            "160 m"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "Two men and three boys can do a piece of work in ten days; while three men and two boys can do the same work in eight days. In how many days can two men and one boy do the work?",
+        "options":[
+            "12.5",
+            "9",
+            "9.5",
+            "8.5"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "How many numbers between 1 and 1000 are divisible by all numbers 2, 3, 4, 5 and 6 ?",
+        "options":[
+            "16",
+            "32",
+            "17",
+            "33"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "There are 8436 steel balls, each with a radius of 1 centimeter, stacked in a pile, with 1 ball on top, 3 balls in the second layer, 6 in the third layer 10 in the fourth and so on. The number of horizontal layers in the pile is",
+        "options":[
+            "34",
+            "38",
+            "36",
+            "32"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "A body travels from A to B in 10s with a speed of 50 km/h and returns with a speed of 100 km/h in 5s. The average speed and the average velocity for the whole journey is",
+        "options":[
+            "17.5 ms^{-1}, 0 km/h",
+            "16.5 ms^{-1}, 0 km/h",
+            "15.5 ms^{-1}, 0 km/h",
+            "18.5 ms^{-1}, 0 km/h"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "Find the odd one out.",
+        "options":[
+            "DEHG",
+            "RSVU",
+            "JKNM",
+            "LMQP"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "Find out the wrong number in the following series,\n15, 16, 34, 105, 424, 2124, 12756",
+        "options":[
+            "16",
+            "34",
+            "424",
+            "2124"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "My mother is twice as old as my brothers. I am five years younger to my brother out three years older to my sister. If my sister is twelve years of age, how old is my mother?",
+        "options":[
+            "24",
+            "30",
+            "40",
+            "50"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "Find the missing term in the series..\n3, 20, 63, 144, 275, ______",
+        "options":[
+            "354",
+            "468",
+            "548",
+            "554"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "Questions 63 to 65 are based on the following passage :\nNine individuals Z, Y, X, W, V, U, T, S and R are the only candidates who can serve on three committees A, B and C and each candidate should serve on exactly one of the committees.\nCommittee A should consist of exactly one member more than Committee B. It is possible that there are no members of Committee C. Among Z, Y and X none can serve on Committee A. Among W, V and U none can serve on Committee B. Among T, S and R none can serve on Committee C.\n\nIn case T and Z are the individuals serving on Committee B, how many of the nine individuals should serve on Committee C ?",
+        "options":[
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "Questions 63 to 65 are based on the following passage :\nNine individuals Z, Y, X, W, V, U, T, S and R are the only candidates who can serve on three committees A, B and C and each candidate should serve on exactly one of the committees.\nCommittee A should consist of exactly one member more than Committee B. It is possible that there are no members of Committee C. Among Z, Y and X none can serve on Committee A. Among W, V and U none can serve on Committee B. Among T, S and R none can serve on Committee C.\n\nIn case T, S and X are the only individuals serving on Committee B, the membership of Committee C should be",
+        "options":[
+            "Z and Y",
+            "Z and W",
+            "Y and V",
+            "X and V"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "Questions 63 to 65 are based on the following passage :\nNine individuals Z, Y, X, W, V, U, T, S and R are the only candidates who can serve on three committees A, B and C and each candidate should serve on exactly one of the committees.\nCommittee A should consist of exactly one member more than Committee B. It is possible that there are no members of Committee C. Among Z, Y and X none can serve on Committee A. Among W, V and U none can serve on Committee B. Among T, S and R none can serve on Committee C.\n\nIn case R is the only individual serving on Committee B, which among the following should serve on Committee A?",
+        "options":[
+            "W and S",
+            "V and T",
+            "U and S",
+            "T and S"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "In a city, 40% of the adults are illiterate while 85% of the children are literate. If the ratio of the adults to that of the children is 2 : 3, then what percent of the population is literate?",
+        "options":[
+            "20%",
+            "25%",
+            "50%",
+            "75%"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "There are 50 students admitted to a nursery class. Some students can speak only English and some can speak only Hindi, 10 students can speak both English and Hindi. If the number of students who can speak English is 21, then how many students can speak Hindi, how many can speak only Hindi, and how many can speak only English?",
+        "options":[
+            "21, 11 and 29 respectively",
+            "28, 18 and 22 respectively",
+            "37, 27 and 13 respectively",
+            "39, 29 and 11 respectively"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "The last digit of the number obtained multiplying the numbers $81 \\times 82 \\times 83 \\times 84 \\times 85 \\times 86 \\times 87 \\times 88 \\times 89$ will be",
+        "options":[
+            "0",
+            "9",
+            "7",
+            "2"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "It has been reported in recent years that a very large number of seats in the engineering colleges in the country remain vacant at the end of the admission session. Which of the following may be the probable cause of the above effect?",
+        "options":[
+            "There has been a considerable decrease in hiring of engineering graduates due to economic slowdown in the recent years.",
+            "Students have always preferred to complete graduation in three years time instead of four years for engineering.",
+            "The govt. has recently decided to provide post qualification professional training to all engineering graduates at its own cost.",
+            "None of these"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "At what time, in minutes, between 3 o’clock and 4 o’ clock, both the needles will coincide each other?",
+        "options":[
+            "$5\\frac{1}{11}$",
+            "$12\\frac{4}{11}$",
+            "$13\\frac{4}{11}$",
+            "$16\\frac{4}{11}$"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "If $\\log_3 2, \\log_3 (2^x - 5), \\log_3 \\left(2^{x - 7/2}\\right)$ are in arithmetic progression, then the value of x is equal to",
+        "options":[
+            "5",
+            "4",
+            "3",
+            "2"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "Let n be the number of different 5 digit numbers, divisible by 4 that can be formed with the digits 1, 2, 3, 4, 5 and 6, with no digit being repeated. What is the value of n?",
+        "options":[
+            "144",
+            "168",
+            "192",
+            "222"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Analytical Ability and Logical Reasoning",
+        "question": "Let S be the set of integers x such that is\ni. $100 \\le x \\le 200$\nii. x is odd and\niii. x is divisible by 3 but not by 7\nHow many elements does S contain ?",
+        "options":[
+            "16",
+            "12",
+            "11",
+            "13"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    }
+]

@@ -1,0 +1,432 @@
+[
+  {
+    "subject": "Mathematics",
+    "question": "If $\\theta = \\tan^{-1} \\frac{1}{1+2} + \\tan^{-1} \\frac{1}{1+(2)(3)} + \\tan^{-1} \\frac{1}{1+(3)(4)} + \\dots + \\tan^{-1} \\frac{1}{1+n(n+1)}$ then $\\tan \\theta$ is equal to",
+    "options": [
+      "$\\frac{n}{n+1}$",
+      "$\\frac{n+1}{n+2}$",
+      "$\\frac{n}{n+2}$",
+      "$\\frac{n+1}{n}$"
+    ],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the distance of any point (x, y) from the origin is defined as $d(x, y) = \\max(|x|, |y|)$, then the locus of the point (x, y) where $d(x, y) = 1$ is",
+    "options": [
+      "a square of area 1 sq. unit",
+      "a circle of radius 1",
+      "a triangle",
+      "a square of area 4 sq. units"
+    ],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The number of solutions for $\\tan^{-1} \\sqrt{x(x+1)} + \\sin^{-1} \\sqrt{x^2+x+1} = \\frac{\\pi}{2}$ is",
+    "options": ["zero", "one", "two", "infinite"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let ABC be an isosceles triangle with AB = BC. If base BC is parallel to x-axis and $m_1, m_2$ are slopes of medians drawns through the angular points B and C, then",
+    "options": [
+      "$m_1 m_2 = -1$",
+      "$m_1 + m_2 = 0$",
+      "$m_1 m_2 = 2$",
+      "$(m_1 - m_2)^2 + 2m_1 + m_2 = 0$"
+    ],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $a + b + c \\neq 0$, then the system of equations\n$(b + c) (y + z) - ax = b - c$\n$(c + a) (z + x) - by = c - a$\n$(a + b) (x + y) - cz = a - b$\nhas",
+    "options": [
+      "a unique solution",
+      "no solution",
+      "infinite number of solutions",
+      "finitely many solutions"
+    ],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of $\\int_0^\\pi \\frac{x \\sin x}{1 + \\cos^2 x} dx$ is",
+    "options": [
+      "$\\frac{\\pi^2}{3}$",
+      "$\\frac{\\pi^2}{4}$",
+      "$\\frac{\\pi^2}{6}$",
+      "$\\frac{\\pi^2}{2}$"
+    ],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\tan^{-1} 2x + \\tan^{-1} 3x = \\frac{\\pi}{4}$, then x is",
+    "options": ["1/6", "1/3", "1/2", "1/4"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $A = \\cos^2 \\theta + \\sin^4 \\theta$, then for all values of $\\theta$",
+    "options": [
+      "$1 \\le A \\le 2$",
+      "$\\frac{13}{16} \\le A \\le 1$",
+      "$\\frac{3}{4} \\le A \\le \\frac{13}{16}$",
+      "$\\frac{3}{4} \\le A \\le 1$"
+    ],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A man has 5 coins, two of which are double-headed, one is double-tailed and two are normal. He shuts his eyes, picks a coin at random, and tosses it. The probability that the lower face of the coin is a head is",
+    "options": ["1/5", "2/5", "3/5", "4/5"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "How many different patts in the xy-plane are there from (1, 3) to (5, 6), if a path proceeds one step at a time by going either one step to the right (R) ir ibe step upward (U) ?",
+    "options": ["35", "40", "45", "None"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Water runs into a conical tank of radius 5 feet and height 10 feet, at a constant rate of 2 feet\u00b3/ minute. How fast is the water level rising when the water is 6 feet deep ?",
+    "options": [
+      "$\\frac{2}{9\\pi}$ feet / minute",
+      "$\\frac{2}{9\\pi}$ feet / minute",
+      "$\\frac{2\\pi}{9}$ feet / minute",
+      "$\\frac{\\pi}{9}$ feet / minute"
+    ],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The vector $\\vec{B} = 3\\hat{i} + 4\\hat{k}$ is to be written as the sum of a vector $\\vec{B}_1$ parallel to $\\vec{A} = \\hat{i} + \\hat{j}$ and a vector $\\vec{B}_2$ perpendicular to $\\vec{A}$, then $\\vec{B}_1$ is",
+    "options": [
+      "$\\frac{3}{2}(\\hat{i} + \\hat{j})$",
+      "$\\frac{2}{3}(\\hat{i} + \\hat{j})$",
+      "$\\frac{1}{2}(\\hat{i} + \\hat{j})$",
+      "None of these"
+    ],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A and B are independent witnesses in a case. The probability that A speaks the truth is \u2018x\u2019 and that B speaks the truth is \u2018y\u2019. If A and B agree on a centain statement, the probability that the statement is true is",
+    "options": [
+      "$\\frac{xy}{xy + (1 - x)(1 - y)}$",
+      "$\\frac{xy}{(1 - x)(1 - y)}$",
+      "$\\frac{(1 - x)(1 - y)}{xy + (1 - x)(1 - y)}$",
+      "$\\frac{(1 - x)(1 - y)}{xy}$"
+    ],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "There are 10 points in a plane. Out of these 6 are collinear. The number of triangles formed by joining these points is",
+    "options": ["100", "120", "150", "None"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The straight lines $\\frac{x}{a} + \\frac{y}{b} = k$ and $\\frac{x}{a} - \\frac{y}{b} = \\frac{1}{k}$, $k \\neq 0$ meet on",
+    "options": ["a parabola", "an ellipse", "a hyperbola", "a circle"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The total number of relations that exist from the set A with m elements in to the set A \u00d7 A is",
+    "options": ["$m^2$", "$m^3$", "m", "None"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let A and B be two events such that $P(A \\cup B) = \\frac{1}{6}, P(A \\cap B) = \\frac{1}{4}$ and $P(\\bar{A}) = \\frac{1}{4}$. Then events A and B are",
+    "options": [
+      "independent but not equally likely",
+      "mutually exclusive and independent",
+      "equally likely and mutually exclusive",
+      "equally likely but not independent"
+    ],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}$, then, $I + A + A^2 + \\dots \\infty$ equals to",
+    "options": [
+      "$\\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$",
+      "$\\begin{bmatrix} -1 & -2 \\\\ -3 & -4 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 1/2 & -1/3 \\\\ -1/2 & 0 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 1/2 & -1/3 \\\\ -1/4 & 0 \\end{bmatrix}$"
+    ],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A square with side \u2018a\u2019 is revolved about its centre through 45\u00b0. What is the area common to both the squares ?",
+    "options": [
+      "$2(\\sqrt{2} - 1)a^2$",
+      "$\\frac{(\\sqrt{2} + 1)}{2} a^2$",
+      "$(\\sqrt{3} - 1)a^2$",
+      "$(\\sqrt{5} - 1)a^2$"
+    ],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $P = \\{(4^n - 3n - 1) / n \\in N\\}$ and $Q = \\{(9n - 9) / n \\in N\\}$, then $P \\cup Q$ is equal to",
+    "options": ["N", "P", "Q", "none"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let $f(x) = [x^2 - 3]$ where $[\\ ]$ denotes the greatest integer function. Then, the number of points in the interval (1, 2) where the function is discontinuous is",
+    "options": ["4", "2", "6", "none"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\vec{a}, \\vec{b}$ and $\\vec{c}$ are unit vectors, then $|\\vec{a} - \\vec{b}|^2 + |\\vec{b} - \\vec{c}|^2 + |\\vec{c} - \\vec{a}|^2$ does not exceed",
+    "options": ["9", "4", "8", "6"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $2x^4 + x^3 - 11x^2 + x + 2 = 0$, then the values of $x + \\frac{1}{x}$ are",
+    "options": ["\u20133, $5/2$", "$-5/2, 3$", "$1/3, 2/3$", "$1/3, 5$"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If A is $3 \\times 3$ matrix with $\\det (A) = 3$, then $\\det (adj A)$ is",
+    "options": ["3", "9", "27", "6"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $x < -1$ and $2^{|x+1|} - 2^x = |2^x - 1| + 1$, then the value of x is",
+    "options": ["\u20132", "2", "0", "1"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\sin^{-1} x + \\cos^{-1}(1 - x) = \\sin^{-1}(-x)$, then x satisfies the equation",
+    "options": [
+      "$2x^2 - x + 2 = 0$",
+      "$2x^2 - 3x = 0$",
+      "$2x^2 + x - 1 = 0$",
+      "none of these"
+    ],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\vec{a}, \\vec{b}, \\vec{c}$ are non-coplanar unit vectors such that $\\vec{a} \\times (\\vec{b} \\times \\vec{c}) = \\frac{\\vec{b} + \\vec{c}}{\\sqrt{2}}$, then the angle between $\\vec{a}$ and $\\vec{b}$ is",
+    "options": ["$\\pi/4$", "$3\\pi/4$", "$\\pi/2$", "$\\pi$"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The equation $\\sin^4 x + \\cos^4 x + \\sin 2x + \\alpha = 0$ is solvable for",
+    "options": [
+      "$-1/2 \\le \\alpha \\le 1/2$",
+      "$-3 \\le \\alpha \\le 1$",
+      "$-3/2 \\le \\alpha \\le 1/2$",
+      "$-1 \\le \\alpha \\le 1$"
+    ],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A and B throw a die in succession to win a bet with A starting first. Whoever throws \u20181\u2019 first wins an amount of Rs. 110. What are the respective expectations of A and B ?",
+    "options": [
+      "Rs. 70 and Rs. 40",
+      "Rs. 60 and Rs. 50",
+      "Rs. 75 and Rs. 35",
+      "None of these"
+    ],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The probability that a man who is 85 yrs. old will die before attaining the age of 90 is 1/3. $A_1, A_2, A_3$ and $A_4$ are four are four persons who are 85 yrs. old. The probability that $A_1$ will die before attaining the age of 90 and will be the first to die is",
+    "options": ["65/81", "13/81", "65/324", "13/108"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Find the value of $k$ in the equation $x^3 - 6x^2 + kx + 64 = 0$, if it is known that the roots of the equation are in geometric progression.",
+    "options": ["24", "16", "\u201316", "\u201324"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $(1 + x - 2x^2)^6 = 1 + a_1x + a_2x^2 + \\dots + a_{12}x^{12}$, then the value of $a_2 + a_4 + a_6 + \\dots + a_{12}$ is",
+    "options": ["1024", "64", "32", "31"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The smaller of the areas bound by $y = 2 - x$ and $x^2 + y^2 = 4$ is",
+    "options": ["$\\pi - 1$", "$\\pi - 2$", "$2\\pi - 1$", "$2\\pi - 2$"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The number of distinct integral values of \u2018a\u2019 satisfying the equation $2^{2a} - 3(2^{a+2}) + 2^5 = 0$ is",
+    "options": ["0", "1", "2", "3"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "$A_1, A_2, A_3$ and $A_4$ are subsets of a set U contraining 75 elements with the following properties : Each subset contains 28 elements; the intersection of any two of the subsets contains 12 elements; the intersection of any three of the subsets contains 5 elements; the intersection of all four subsets contains 1 element. The number of elements belonging to none of the four subsets is",
+    "options": ["15", "17", "16", "18"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "From 50 students taking examination in Mathematics, Physics and Chemistry, 37 passed Mathematics, 24 Physics and 43 Chemistry. At most 19 passed Mathematics and Physics, at most 29 Mathematics and Chemistry and at most 20 Physics and Chemistry. The largest possible number that could have passed all three examinations is",
+    "options": ["10", "12", "9", "none"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $y = f(x)$ is an odd and differentiable function defined on $(-\\infty, \\infty)$ such that $f'(3) = -2$, then $f'(-3)$ equals to",
+    "options": ["4", "2", "\u20132", "0"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "An open-top box is to be made out of a piece of cardboard measuring $6m \\times 6m$ by cutting off equal squares from the corners and turning up the sides. The height of the box for maximum volume is",
+    "options": ["2m", "2.5m", "1.2m", "none"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "An anti aircraft gun can take a maximum of four shots at an enemy plane moving away from it. The probabilities of hitting the plane at first, second, third and fourth shot are 0.4, 0.3, 0.2 and 0.1 respectively. The probability that the gun hits the plane then is",
+    "options": ["0.6972", "0.6978", "0.6976", "0.6974"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A random variable X has the distribution law as given below :\nx 1 2 3\nP (X = x) 0.3 0.4 0.3\nThe variance of the distribution is",
+    "options": ["0.4", "0.6", "2", "None"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the straight line $ax + by + c = 0$ always passes through (1, \u20132) then a, b, c are in",
+    "options": ["A. P.", "H.P.", "G.P.", "None of these"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The area of the parallelogram whose diagonals are $\\vec{a} = 3\\hat{i} + \\hat{j} - 2\\hat{k}$ and $\\vec{b} = \\hat{i} - 3\\hat{j} + 4\\hat{k}$ is",
+    "options": [
+      "$10\\sqrt{3}$",
+      "$5\\sqrt{3}$",
+      "$10\\sqrt{2}$",
+      "$5\\sqrt{2}$"
+    ],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\log_x y = 100$ and $\\log_2 x = 10$, then the value of y is",
+    "options": ["$2^{10}$", "$2^{100}$", "$2^{1000}$", "$2^{10000}$"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let $T_n$ denote the number of triangles which can be formed by using the vertices of a regular polygon of n sides. If $T_{n+1} - T_n = 21$ then n equals",
+    "options": ["5", "7", "6", "4"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The number of words that can be formed by using the letters of the word MATHEMATICS that start as well as end with T is",
+    "options": ["80720", "90720", "20860", "37528"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $A - B = \\frac{\\pi}{4}$, then $(1 + \\tan A)(1 - \\tan B)$ is equal to",
+    "options": ["2", "1", "0", "3"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If two towers of heights $h_1$ and $h_2$ subtend angles 60\u00b0 and 30\u00b0 respectively at the mid point of the line joining their feet, then $h_1 : h_2$ is",
+    "options": ["1 : 2", "1 : 3", "2 : 1", "3 : 1"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "What is the value of a for which $f(x) = \\begin{cases} a \\sin x & \\text{if } x \\le \\frac{\\pi}{2} \\\\ x & \\text{if } x > \\frac{\\pi}{2} \\end{cases}$ is continuous ?",
+    "options": ["$\\pi$", "$2\\pi$", "$\\pi/2$", "0"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the real number x when added to its inverse gives the minimum value of the sum, then the value of x is equal to",
+    "options": ["\u20132", "2", "1", "\u20131"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A set contains $(2n + 1)$ elements. If the number of subsets which contain at most n elements is 4096, then the value of n is",
+    "options": ["28", "21", "15", "6"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  }
+]

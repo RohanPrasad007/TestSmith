@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Computer Awareness",
+        "question": "Assume x\u2019 represents negation of x the Boolean function \nx\u2019y\u2019+xy+x\u2019y is equivalent to?",
+        "options": [
+            "x\u2019 + y",
+            "x + y",
+            "x + y\u2019",
+            "x\u2019 + y\u2019"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Computer Awareness",
+        "question": "The memory unit which directly communicates with the \nCPU is known as",
+        "options": [
+            "Primary Memory",
+            "Secondary Memory",
+            "Shared Memory",
+            "Auxiliary Memory"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Computer Awareness",
+        "question": "Dynamic RAM consumes\u2026\u2026. Power and \u2026\u2026than Static \nRAM",
+        "options": [
+            "More, Faster",
+            "More, Slower",
+            "Less, Slower",
+            "Less, Faster"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Computer Awareness",
+        "question": "The binary equivalent of (234.125)10?",
+        "options": [
+            "(11101010.101)2",
+            "(10101010.011)2",
+            "(11101010.001)2",
+            "(10101110.011)2"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Computer Awareness",
+        "question": "Determine the octal equivalent of (432267)10?",
+        "options": [
+            "(432267)8",
+            "(346731)8",
+            "(2164432)8",
+            "None of the above"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Computer Awareness",
+        "question": "One Exabyte is equal to \u2026",
+        "options": [
+            "1018 Bytes",
+            "1 Zetta Bytes divided (/) by one thousand",
+            "1 Peta Bytes multiplied (\u00d7) by one thousand",
+            "All of the above"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Computer Awareness",
+        "question": "Consider the following circuit. \n \nHow many minimum numbers of two input NAND gates \nare required to design the above circuit?",
+        "options": [
+            "6",
+            "4",
+            "5",
+            "3"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Computer Awareness",
+        "question": "The time required for fetching and execution of one \nsimple machine instruction is known as",
+        "options": [
+            "Delay time",
+            "CPU cycle",
+            "Real Time",
+            "Seek Time"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Computer Awareness",
+        "question": "The equivalence of given expression x + x\u2019y with \nBoolean theorem is\u2026.",
+        "options": [
+            "x",
+            "x + y",
+            "x\u2019",
+            "0"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Computer Awareness",
+        "question": "The logic XOR operation of (4AC0)16 and (B53F)16 \nresults",
+        "options": [
+            "AACB",
+            "0000",
+            "FFFF",
+            "ABCD"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    }
+]

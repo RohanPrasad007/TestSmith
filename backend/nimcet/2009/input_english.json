@@ -1,0 +1,177 @@
+[
+  {
+    "subject": "General English",
+    "question": "A sentence has been given in active (or passive) voice. Out of the four alternatives select the one which best expresses the same sentence in passive (or active) voice. I know him.",
+    "options": [
+      "He has been known by me",
+      "He was known to me",
+      "He is known by me.",
+      "He is known to me."
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Select the set of words that best fits the meaning of the sentence as a whole. While the disease is in .............. state it is almost impossible to determine its existence by ...........",
+    "options": [
+      "a dormant, postulate",
+      "a critical, examination",
+      "a cute, analysis",
+      "a latent, observation"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "For the word “QUIBBLE” find the most appropriate meaning from the alternatives given below",
+    "options": ["Agreement", "Appreciation", "Creation", "Complain"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "If some one is “gung ho”, then he / she is",
+    "options": ["stupid", "childish", "enthusiastic", "loud"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Find the antonym of the word “DISPARAGE”.",
+    "options": ["degrade", "improve", "scatter", "applaud"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Fill in the blank\nI could not ..................... him to attend the meeting.",
+    "options": ["prevail over", "prevail upon", "prevail about", "prevail in"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Identify the correct sentence",
+    "options": [
+      "I have difficulty in remembering people’s names.",
+      "I get diffculty in remembering people’s names.",
+      "I have difficulty on remembering people’s names.",
+      "I am getting difficulty remembering people’s names."
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the word which can he used to replace the underlined word, in both the sentences.\nI. It is certainly a _thing_ which tempts people.\nII. I take exception to what he has just said",
+    "options": ["object", "protest", "issue", "prototype"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The idiom ‘I will be a monkey’s uncle’ means",
+    "options": [
+      "to want to keep a monkey",
+      "that I have been enlightened",
+      "that I have been fooled",
+      "to express disbelief"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the pair of words which exhibits the same relationship between each other as the given pair of words.\nWRITING : PLAGIARISM",
+    "options": [
+      "confidence : deception",
+      "money : misappropriation",
+      "gold : theft",
+      "germ : disease"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The pleasures of the table are never of consequence to one naturally abstemious. The word abstemious can be replaced by :",
+    "options": ["indulgent", "temperate", "discreet", "profligate"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The following passage consists of six sentences. The first sentnece ($S_1$) is given in the beginning. The final sentence ($S_6$) is given in the last. The middle four sentences are jumbled up and labelled as P, Q, R and S. You are required to find out the proper sequence of the four sentences and mark accordingly.\n$S_1$ : Unlike many modern thinkers, Tagore had no blueprint for the world’s salvation.\nP : His thought will therefore never be out of date.\nQ : He merely emphasised certain basic truths which men may ignore only at their peril.\nR : Hie belived in no particular ‘ism’.\nS : He was what Gandhiji rightly termed the great sentinel.\n$S_6$ : As a poet he will always delight, as a singer he will always enchant, as a teacher he will always enlighten.\nThe proper sequence should be",
+    "options": ["SRPQ", "PRQS", "RSPQ", "RQPS"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Which of the underlined parts in the sentence given below is a mistake which may need to be deleted or modified.\nHe _can_ _be able_ to pass the test in _flyinq colours_ without _any difficulties_ _whatsoever_.",
+    "options": ["be able", "flying colours", "difficulties", "whatsoever"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The fossil remains of the first flying vertebrates, the pterosaurs, have intrigued palaeontologists for more than two centuries. How such large creatures, which weighted in some cases as much as a piloted hang glider and had wingspans from 8 to 12 meters, solved the problems of powered flight, and exactly what these creatures were – reptiles or birds – are among the questions scientists have puzzled over.\nPerhaps the least controversial assertion about the pterosaurs is that they were reptiles. Their skulls, pelvises, and hind feet are reptilian. The anatomy of their wings suggests that they did not evolve into the class of birds. In pterosaurs a greatly elongated fourth finger of each forelimb supported a wing like membrane. The other fingers were short and reptilian, with sharp claws. In birds the second finger is the principle strut of the wing, which consists primarily of feathers. If the pterosaur walked or remained stationary, the fourth finger, and with it the wing, could only turn upward in an extended inverted V-shape along side of the animal’s body.\nThe pterosaurs resembled both birds and bats in their overall structure and proportions. This is not surprising because the design of any flying vertebrate is subject to aerodynamic constraints. Both the pterosaurs and the birds have hollow bones, a feature that represents a saving in weight. In the birds, however, these bones are reinforced more massively by internal struts.\nIt can be inferred from the passage that the scientists now generally agree that",
+    "options": [
+      "enormous wingspan of the pterosaurs enable them to fly great distances.",
+      "structure of the skeleton of the pterosaurs suggests a close evolutionary relationship to bats.",
+      "fossil remains of the pterosaurs reveal how they solved the problem of powered flight.",
+      "pterosaurs were reptiles."
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "According to the passage the skeleton of pterosaurs can be distinguished from that of a bird by the",
+    "options": [
+      "the size of its wingspan.",
+      "presence of hollow spaces in its bones.",
+      "anatomic origin of its wing strut.",
+      "presence of hooklike projections on its hind feet."
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Pick the part of the sentence that has an error :\nMy elder brother is a MA whereas I am only a BA",
+    "options": ["My elder brother", "is a MA", "whereas I am", "only a BA"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the suitable phrasal verb for the blank in the sentence below.\nI _________ my hopes when untimely rain threatened my crops.",
+    "options": ["gave in", "gave out", "gave up", "gave off"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Out of the given alternatives, choose the word that is opposite in meaning to the word : AFFLUENT",
+    "options": ["Reluctant", "Poor", "Clear", "Enthusiastic"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Fill in the blank with appropriate form of noun :\nDon’t blame yourself, it’s not your ___________!",
+    "options": ["misunderstanding", "error", "slip", "fault"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Fill in the blank :\nThe instructor, along with the class, ________ angry about the room change.",
+    "options": ["are", "have", "has", "is"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  }
+]

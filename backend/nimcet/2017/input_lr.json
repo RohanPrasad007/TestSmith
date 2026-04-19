@@ -1,0 +1,317 @@
+[
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Two person S and M have made the following statement among themselves .\n* S says that I am certainly not over 40 years .\n* M says that I am 38 years and you are at least 5 years older then me .\n* S says you are at least 39 yaers.\nIf all the above statments are wrong , what are the ages of M and S ?",
+    "options": ["36 and 40", "36 and 41", "37 and 40", "cannot be determined"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "What is the smallest number of positive integer to be picked up randomly so that the sum or difference of any two of the chosen number is divisible by 10 ?",
+    "options": ["2", "5", "7", "10"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Five children were administered psychological tests to know their intellectual levels . In the report psychogists point that child A is less intelligent than child B . The child C is less intelligent then D , The child B is less intelligent then child C and child A is less intelligent than child E . Which child is most intelligent ?",
+    "options": ["D only", "E only", "D or E", "Neither D and E"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "From a group of 7 men and 6 women , a committee of 5 person with more males than females is to be formed . In how many ways can this be done ?",
+    "options": ["564", "645", "735", "756"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "A.,B,C,D,E and F are a group of friends from a club . There are two house wives , one lecturer , one architect , one accountant and one lawyer in the group . There are two married couples. The lawyer is married to D , Who is a house wife . No lady is either an archirect or an accountant . C, the accountant is married to F , Who is a lecturer.If E is not a house wife ,What is the profession of E ?",
+    "options": ["Lawyer", "Architect", "Lecturer", "Accountant"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "There are five books A,B,C,D and E placed on a table . If A is placed below E , C is placed above D , B is placed below A and D is placed above E , then which of the following books touches the surface of the table .",
+    "options": ["C", "B", "A", "E"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The following series is obtained by considering representations of decimal 99 in different number systems .\n99, 90 , 83 , 78 ___ , ___",
+    "options": ["71 , 69", "69, 57", "67 , 59", "69 , 63"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Directions : 38 to 40 are based on the following :\n* In the family of six person A, B, C , D , E and F , there are two married couples .\n* D is the grandmother of A and mother of B\n* C is wife of B and mother of F\n* F is granddaughter of E\n\nWhat is C to A ?",
+    "options": ["Daugher", "Mother", "Father", "Can not be determined"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Directions : 38 to 40 are based on the following :\n* In the family of six person A, B, C , D , E and F , there are two married couples .\n* D is the grandmother of A and mother of B\n* C is wife of B and mother of F\n* F is granddaughter of E\n\nWhich of the following is true ?",
+    "options": [
+      "A is brother of F",
+      "A is sister of F",
+      "B has two daughters",
+      "None"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Directions : 38 to 40 are based on the following :\n* In the family of six person A, B, C , D , E and F , there are two married couples .\n* D is the grandmother of A and mother of B\n* C is wife of B and mother of F\n* F is granddaughter of E\n\nWho among the following is one of the couples ?",
+    "options": ["CD", "DE", "EB", "None"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The missing number in the following series 336, 210 , 120, 60 , ________, 6 is",
+    "options": ["24", "30", "34", "40"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If the day after the day after tomorrow is three days before Friday , then today is",
+    "options": ["Tuesday", "Thrusday", "Saturday", "Monday"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Find the missing term of the following series?\nDCXW, HGTS, .........POLK , TSHG",
+    "options": ["KLOP", "LKOP", "KLPO", "LKPO"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Four passenger in a train find that they from an interesting group .Two of them are lawyers and the other two are doctor .Two of them speak Bengoli and the other two speak Hindi and no two of the same profession speak the same language . They also find two of them are Christions and two are muslims and non two of the same religion speak the same language. The Hindi speaking doctor is a Christian . Then which of the following statement logically follows ?",
+    "options": [
+      "The Bengali Spaeking lawyer is a Muslim",
+      "The Christian lawyer speaks Bengali",
+      "The Bengali speaking doctor is a Christian",
+      "The Bengali speaking doctor is a Muslim"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Directions : 45 to 47 are based on the following :\nIn an amusement park seven friends -Feroz , Gautam , Harish , Javed , Kumar , Laxman and Mohan are deciding who will ride the roller coaster . There is time for only one ride before the park closes.\n*If Feroz rides Gautam must ride\n*If Gautam and Harish both ride , javed cannot ride\n*If Harish and javad both ride , Laxman cannot ride\n*If javed rides , either kumar or Mohan must ride\n kumar and Laxman cannot both ride, but one of them must ride .\n*kumar and Mohan cannot both ride .\n\nWhich of the following is an acceptable combination of riders if only three people ride ?",
+    "options": [
+      "Harish , javed and Laxman",
+      "Harish , javed and kumar",
+      "Feroz , Gautam and javed",
+      "Gautam , kumar and Laxman"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Directions : 45 to 47 are based on the following :\nIn an amusement park seven friends -Feroz , Gautam , Harish , Javed , Kumar , Laxman and Mohan are deciding who will ride the roller coaster . There is time for only one ride before the park closes.\n*If Feroz rides Gautam must ride\n*If Gautam and Harish both ride , javed cannot ride\n*If Harish and javad both ride , Laxman cannot ride\n*If javed rides , either kumar or Mohan must ride\n kumar and Laxman cannot both ride, but one of them must ride .\n*kumar and Mohan cannot both ride .\n\nIf javed and Mohan both ride , which of the following is true",
+    "options": [
+      "Gautam cannot ride",
+      "Harish must ride",
+      "Feroz cannot ride",
+      "Laxman must ride"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Directions : 45 to 47 are based on the following :\nIn an amusement park seven friends -Feroz , Gautam , Harish , Javed , Kumar , Laxman and Mohan are deciding who will ride the roller coaster . There is time for only one ride before the park closes.\n*If Feroz rides Gautam must ride\n*If Gautam and Harish both ride , javed cannot ride\n*If Harish and javad both ride , Laxman cannot ride\n*If javed rides , either kumar or Mohan must ride\n kumar and Laxman cannot both ride, but one of them must ride .\n*kumar and Mohan cannot both ride .\n\nIf Feroz and harish both ride, what is the greatest number of people who can ride ?",
+    "options": ["5", "7", "4", "6"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The number of square in the following $4 \\times 6$ grid is",
+    "options": ["36", "44", "50", "54"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "A Cube is made up of 125 one cm. square cubes placed on a table . How many squares are visible only on three sides ?",
+    "options": ["4", "8", "12", "16"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Three thieves rob a bakery of bread , one after the other , Each thief takes half of what is present and half a bread . If 3 breads remains at the end , What is the number of breads that were presents initially ?",
+    "options": ["24", "31", "37", "41"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "A caterpiller crawls up a pole of 75 inches high , standing from the ground . Each day it crawls up 5 inches and each night it slides down 4 inches . When will it reach the top",
+    "options": [
+      "At the end of 70 days",
+      "At the end of 71 days",
+      "At the end of 72 days",
+      "At the end of 73 days"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "A man’s investment doubles in every 5 years . If he invested Rs. 5000 in each of the years 1990 , 1995 , 2000 and 2005 , then what was the total amount recieved by him in 2010?",
+    "options": ["Rs. 1,40,000", "30,000", "70,000", "1,50,000"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Directions : 53 to 57 are based on the following :\nA.B,C,D,E,F G and H are sitting around a circular table facing the center , Each one of them has a different profession viz . doctor , engineer , architect, teacher , clerk , shopkeeper , banker m and businessman\n* A sits third to right of teacher .\n* D sits seconds to left of G .\n* G is not an immediate neighbour of teacher ,\n* Only one person sits between B, the shopkeeper and the teacher .\n* The one who is an architect sits third to right of the teacher ,\n* H sits between architect and engineer .\n*E is not an immediate neighbour of H .\n* Engineer sits third to the right of clerk .\n* Only one person sits between the businessman and F.\n\nE is neither a businessman nor a doctor . Who amongst the following is the clerk ?",
+    "options": ["C", "D", "E", "G"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Directions : 53 to 57 are based on the following :\n...\nWhich of the following is trues with respect to the given sitting arrangement ?",
+    "options": [
+      "E is an immediate neighbour of the engineer ,",
+      "E is an architect",
+      "The clerk is an immediate neighbour of the banker",
+      "The teacher sits between H and the engineer"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Directions : 53 to 57 are based on the following :\n...\nWhat is the profession of H ?",
+    "options": ["Architect", "Shopkeeper", "Banker", "Teacher"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Directions : 53 to 57 are based on the following :\n...\nWho sits exactaly between the architect and businessman ?",
+    "options": ["C and H", "Clerk", "Banker and Shopkeeper", "Doctor"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Directions : 53 to 57 are based on the following :\n...\nWho sits immediately right to the businessman ?",
+    "options": ["Teacher", "Doctor", "Clerk", "Banker"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Raghav left his home for office in car . He drove 15 km straight towards North and then turned east wards and coverd 8 km . He then turned to left and coverd 1 km . He again turned left and drove for 20 km and reached office. How far and in which direction is his office from the home ?",
+    "options": [
+      "20 km North - West",
+      "15 km North - West",
+      "30 km North - West",
+      "25 km North"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Johen is 20 years older than Steve . In 10 year , Steve” s age will be half that of John , What is steve’s age now ?",
+    "options": ["2", "8", "10", "20"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Pointing to a boy , Aruna said to Pushpa . “The mother of his father wife of your maternal grand - father ”.How is pushpa related to that boy?",
+    "options": ["Sister", "Niece", "Cousin sister", "Wife"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Which of the following pairs of number follow the numbers in the series 2,4 ,12 , 24, 72 , ___, ___ ?",
+    "options": ["144,432", "288,332", "332,288", "432,144"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "P, Q , R,S ,T and U are sitting in two rows , three in each row facing each other .\n* R is second to the left of P .\n* Q and T are facing each other .\n* S and P diagonally opposite to each other\n* Q is not a neighbour of R .\nWhich of the following sitting in a row ?",
+    "options": ["P,Q,R", "P,U,S", "U,T,S", "P,T,R"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Directions : 63 to 66 are based on the following :\nThere are six teacher A, B, C , D ,E and F in a school , Each teacher has to teach two subjects , one compulsory and the other optional . D’s optional is History , while three others have it as a compulsory subject , E and F have Physics as one of their subjects , F ‘s compulsory subject in Mathematics , which is an optional subject of both C and E , History and Englilsh are A’s subject but in term of compulsory and optional subjects , they are reserved of D’s Chemistary is an optiional subject of one of the teachers . There is only one female teacher , who has English as her compusory subject ?\n\nWhat is compulsory subject of C ?",
+    "options": ["Physics", "Chemistary", "Englilsh", "History"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Directions : 63 to 66 are based on the following :\n...\nWho among the following , has chemistary as a subject?",
+    "options": ["A", "B", "C", "D"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Directions : 63 to 66 are based on the following :\n...\nWhich of the following group of teacher has History as the compulsaory subject ?",
+    "options": ["B , C and D", "C and D", "A, B and C", "A,C and D"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Directions : 63 to 66 are based on the following :\n...\nDisregrading which is compulsory or optional subject , who has the same two subject combination as that of F ?",
+    "options": ["B", "E", "D", "A"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If TRANSFER is coded as RTNAFSRE , then ELEPHANT would be coded as ?",
+    "options": ["LEPEHATN", "LEPEAHTN", "LEEPAHTN", "LEPEAHNT"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Which two of the following numbers comes next in the following sequence ? 61, 57 , 50 , 61, 43 , 36 , 61 .......",
+    "options": ["29,61", "29,20", "29,22", "31,61"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "How many minimum number of colors will be required to paint all the sides of a cube without the adjacent sides having the same colors ?",
+    "options": ["3", "4", "5", "6"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "In the following sequence , which pair of number fill in the blanks ?\n1, 1, 3 , 2 , 8, 5 , 21 , 13 ___ , ____",
+    "options": ["54,33", "34,55", "55,34", "33,54"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Computer Awareness",
+    "question": "Which protocol needs to be installed for Internet access on a network ?",
+    "options": ["TCP/IP", "TELNET", "IPX/SPX", "Net BEUI"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "A petabyte represents approximately",
+    "options": [
+      "1000 gigabytes",
+      "1000 kilobytes",
+      "1000 terabytes",
+      "1000 yottabytes"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "The ASCII code of ‘A’ is",
+    "options": ["66D", "41H", "01000010", "01100011"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "An eight bit byte is capable of representing how many different characters ?",
+    "options": ["64", "128", "256", "512"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "When two binary numbers are added, then an overflow will never occur if",
+    "options": [
+      "Both numbers of same sign",
+      "The carry into the sign bit position and out of sign bit position are not equal",
+      "The carry into the sign bit position and out of sign bit position are equal",
+      "The carry into the sign bit position is 1"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "The sum of 11010 + 01111 equals",
+    "options": ["101001", "101010", "110101", "101000"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Consider x and y be some Boolean variables, + denotes the OR operation and “.” denotes the AND operation. What will be the simplified form of the Boolean expression : $x. (x + y)$ ?",
+    "options": ["y", "1", "0", "x"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Which one of the following is not a valid rule of Boolean algebra ?",
+    "options": ["$A + 1 = 1$", "$A = A'$", "$AA = A$", "$A + 0 = A$"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "The least significant bit of the binary number, which is equivalent to any odd decimal number is",
+    "options": ["0", "1", "1 or 0", "All of the above"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Which of the following Boolean expression represents the shaded portion of the Venn diagram ?\nNote : Here “.” represents an AND operation and “+” denotes an OR operation.",
+    "options": [
+      "$Z' + (X . Y)$",
+      "$Z . (X + Y)$",
+      "$(Z . X') + Y$",
+      "$Z' . (X + Y)$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  }
+]

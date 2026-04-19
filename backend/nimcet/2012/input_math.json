@@ -1,0 +1,412 @@
+[
+  {
+    "subject": "Mathematics",
+    "question": "The number of words that can be formed by using the letters of the word MATHEMATICS that start as well as end with T is",
+    "options": ["80720", "90720", "20860", "37528"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $A - B = \\frac{\\pi}{4}$, then $(1 + \\tan A)(1 - \\tan B)$ is equal to",
+    "options": ["2", "1", "0", "3"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let P(E) denote the probability of event E. Given P(A) = 1, P(B) = 1/2, the values of P(A|B) and P(B|A) respectively are",
+    "options": ["1/4, 1/2", "1/2, 1/4", "1/2, 1", "1, 1/2"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The number of different license plates that can be formed in the format 3 English letters (A.....Z) followed by 4 digits (0, 1, .......9) with repetitions allowed in letters and digits is equal to",
+    "options": ["$26^3 \\times 10^4$", "$26^3 + 10^4$", "36", "$26^3$"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Which of the following is correct ?",
+    "options": [
+      "$\\sin 1^\\circ > \\sin 1$",
+      "$\\sin 1^\\circ < \\sin 1$",
+      "$\\sin 1^\\circ = \\sin 1$",
+      "$\\sin 1^\\circ = \\frac{\\pi}{180} \\sin 1$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If two towers of heights $h_1$ and $h_2$ subtend angles $60^\\circ$ and $30^\\circ$ respectively at the mid point of the line joining their feet, then $h_1 : h_2$ is",
+    "options": ["1 : 2", "1 : 3", "2 : 1", "3 : 1"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the vectors $\\vec{a} = (1, x, -2)$ and $\\vec{b} = (x, 3, -4)$ are mutually perpendicular, then the value of x is",
+    "options": ["–2", "2", "4", "–4"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "What is the value of a for which $f(x) = \\begin{cases} \\sin x & \\text{if } x \\le \\frac{\\pi}{2} \\\\ ax & \\text{if } x > \\frac{\\pi}{2} \\end{cases}$ is continuous ?",
+    "options": ["$\\pi$", "$\\pi / 2$", "$2/\\pi$", "0"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the real number x when added to its inverse gives the minimum value of the sum, then the value of x is equal to",
+    "options": ["–2", "2", "1", "–1"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\cos(\\alpha + \\beta) = \\frac{4}{5}$ and $\\sin(\\alpha - \\beta) = \\frac{5}{13}$, $0 < \\alpha, \\beta < \\frac{\\pi}{4}$, then $\\tan(2\\alpha) =$",
+    "options": ["56/33", "63/65", "16/63", "33/56"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of $\\lim_{n \\to \\infty} \\frac{\\pi}{n} \\left[ \\sin \\frac{\\pi}{n} + \\sin \\frac{2\\pi}{n} + \\dots + \\sin \\frac{(n-1)\\pi}{n} \\right]$ is",
+    "options": ["0", "$\\pi$", "2", "$\\pi/2$"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The point on the curve $y = 6x - x^2$, where the tangent is parallel to x-axis is",
+    "options": ["(0, 0)", "(2, 8)", "(6, 0)", "(3, 9)"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $I_1 = \\int_0^1 2^{x^2} dx$, $I_2 = \\int_0^1 2^{x^3} dx$, $I_3 = \\int_1^2 2^{x^2} dx$ and $I_4 = \\int_1^2 2^{x^3} dx$, then",
+    "options": ["$I_1 = I_2$", "$I_2 > I_1$", "$I_3 > I_4$", "$I_4 > I_3$"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of integral $\\int_0^{\\pi/2} \\log \\tan x dx$ is",
+    "options": ["$\\pi$", "$\\pi/2$", "$\\pi/3$", "0"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A determinant is chosen at random from the set of all determinants of matrices of order 2 with elements 0 or 1 only. The probability that the determinant chosen is non-zero is",
+    "options": ["3/16", "3/8", "1/4", "None"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\sin^2 x + \\sin x = 1$, then $\\cos^4 x + \\cos^2 x =$",
+    "options": ["0", "1", "2/3", "–1"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The equation of the plane passing through the point (1, 2, 3) and having the vector $\\vec{N} = 3\\hat{i} - \\hat{j} + 2\\hat{k}$ as its normal is",
+    "options": [
+      "$2x - y + 3z + 7 = 0$",
+      "$3x - y + 2z + 7 = 0$",
+      "$3x - y + 2z = 7$",
+      "$3x + y + 2z = 7$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of $\\int_0^1 \\sin^{-1} \\frac{2t}{1+t^2} dt + \\int_0^1 \\cos^{-1} \\frac{1-t^2}{1+t^2} dt$ is",
+    "options": ["$\\frac{\\pi}{4}$", "$\\frac{\\pi}{2}$", "1", "None"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Coefficients of quadratic equation $ax^2 + bx + c = 0$ are chosen by tossing three fair coins where 'head' means one and 'tail' means two. Then the probability that roots of the equation are imaginary is",
+    "options": ["7/8", "5/8", "3/8", "1/8"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "In a class of 100 students, 55 students have passed in Mathematics and 67 students have passed in Physics. Then the number of students who have passed in Physics only is",
+    "options": ["22", "33", "10", "45"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If H is the Harmonic mean between P and Q, then $\\frac{H}{P} + \\frac{H}{Q}$ is",
+    "options": ["2", "$\\frac{P+Q}{Q}$", "$\\frac{PQ}{P+Q}$", "None"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The number of values of k for which the system of equations $(k+1)x + 8y = 4k$ and $kx + (k+3)y = 3k-1$ has infinitely many solutions is",
+    "options": ["0", "1", "2", "Infinite"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The sum of ${}^{20}C_8 + {}^{20}C_9 + {}^{21}C_{10} + {}^{22}C_{11} - {}^{23}C_{11}$ is",
+    "options": ["${}^{22}C_{12}$", "${}^{23}C_{12}$", "0", "${}^{21}C_{10}$"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of $\\cot^{-1}(21) + \\cot^{-1}(13) + \\cot^{-1}(-8)$ is",
+    "options": ["0", "$\\pi$", "$\\infty$", "$\\pi/2$"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Normal to the curve $y = x^3 - 3x + 2$ at the point (2, 4) is",
+    "options": [
+      "$9x - y - 14 = 0$",
+      "$x - 9y + 40 = 0$",
+      "$x + 9y - 38 = 0$",
+      "$-9x + y + 22 = 0$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A problem in Mathematics is given to three students A, B and C whose chances of solving it are 1/2, 1/3, 1/4 respectively. If they all try to solve the problem, what is the probability that the problem will be solved ?",
+    "options": ["1/2", "1/4", "1/3", "3/4"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The function $x^x$ decreases in the interval",
+    "options": ["$(0, e)$", "$(0, 1)$", "$(0, 1/e)$", "None"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\vec{a} + \\vec{b} + \\vec{c} = 0, |\\vec{a}| = 3, |\\vec{b}| = 5, |\\vec{c}| = 7$, then angle between the vector $\\vec{a}$ and $\\vec{b}$ is",
+    "options": ["$\\pi/2$", "$\\pi/3$", "$\\pi/4$", "$\\pi/6$"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\theta (0 \\le \\theta \\le \\pi)$ is the angle between the vectors $\\vec{a}$ and $\\vec{b}$, then $\\frac{|\\vec{a} \\times \\vec{b}|}{\\vec{a} \\cdot \\vec{b}}$ equals",
+    "options": [
+      "$-\\cot \\theta$",
+      "$\\tan \\theta$",
+      "$-\\tan \\theta$",
+      "$\\cot \\theta$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $f(a+b) = f(a) \\times f(b)$ for all a and b and $f(5) = 2, f'(0) = 3$, then $f'(5)$ is",
+    "options": ["2", "4", "6", "8"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If (4, –3) and (–9, 7) are the two vertices of a triangle and (1, 4) is its centroid, then the area of triangle is",
+    "options": ["138/2", "319/2", "183/2", "381/2"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The equation of the ellipse with major axis along the x-axis and passing through the points (4, 3) and (–1, 4) is",
+    "options": [
+      "$15x^2 + 7y^2 = 247$",
+      "$7x^2 + 15y^2 = 247$",
+      "$16x^2 + 9y^2 = 247$",
+      "$9x^2 + 16y^2 = 247$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the circles $x^2 + y^2 + 2x + 2ky + 6 = 0$ and $x^2 + y^2 + 2ky + k = 0$ intersect orthogonally, then k is",
+    "options": ["2 or –3/2", "–2 or –3/2", "2 or 3/2", "–2 or 3/2"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Focus of the parabola $x^2 + y^2 - 2xy - 4(x + y - 1) = 0$ is",
+    "options": ["(1, 1)", "(1, 2)", "(2, 1)", "(0, 2)"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\vec{a}, \\vec{b}$ and $\\vec{c}$ are unit vectors such that $\\vec{a} + \\vec{b} + \\vec{c} = 0$, then the value of $\\vec{a} \\cdot \\vec{b} + \\vec{b} \\cdot \\vec{c} + \\vec{c} \\cdot \\vec{a}$ is",
+    "options": ["2/3", "–2/3", "3/2", "–3/2"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\vec{a}, \\vec{b}, \\vec{c}$ are non-coplanar vectors and $\\lambda$ is a real number, then the vectors $\\vec{a} + 2\\vec{b} + 3\\vec{c}, \\lambda \\vec{b} + 4\\vec{c}$ and $(2\\lambda - 1)\\vec{c}$ are non-coplanar for",
+    "options": [
+      "All values of $\\lambda$",
+      "All except one value of $\\lambda$",
+      "All except two values of $\\lambda$",
+      "No value of $\\lambda$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Suppose values taken by a random variable X are such that $a \\le x_i \\le b$, where $x_i$ denotes the value of X in the $i^{th}$ case for i = 1, 2, 3,.......,n, then",
+    "options": [
+      "$(b - a)^2 \\ge \\text{Var}(X)$",
+      "$\\frac{(b - a)^2}{4} \\ge \\text{Var}(X)$",
+      "$a^2 \\le \\text{Var}(X) \\le b^2$",
+      "$a \\le \\text{Var}(X) \\le b$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\omega$ is the cube root of unity, then the system of equations $x + \\omega^2 y + \\omega z = 0, \\omega x + y + \\omega^2 z = 0$ and $\\omega^2 x + \\omega y + z = 0$ is",
+    "options": [
+      "Consistent and has unique solution",
+      "Consistent and has more than one solution",
+      "Inconsistent",
+      "None of these"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $x = \\log_a bc, y = \\log_b ca$ and $z = \\log_c ab$ then $\\frac{1}{1+x} + \\frac{1}{1+y} + \\frac{1}{1+z} =$",
+    "options": [
+      "$abc$",
+      "$\\sqrt{ab} + \\sqrt{bc} + \\sqrt{ca}$",
+      "1",
+      "$x + y + z$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $2^a = 3^b = 6^{-c}$ then $ab + bc + ca =$",
+    "options": ["1", "2", "0", "None"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If e and e' be the eccentricities of a hyperbola and its conjugate, then $\\frac{1}{e^2} + \\frac{1}{e'^2} =$",
+    "options": ["0", "1", "2", "None"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If a fair coin is tossed n times, then the probability that the head comes odd number of times is",
+    "options": ["1/2", "$1/2^n$", "$1/2^{n-1}$", "None"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\sin(\\pi \\cos \\theta) = \\cos(\\pi \\sin \\theta)$, then $\\sin 2\\theta =$",
+    "options": [
+      "$\\pm \\frac{3}{4}$",
+      "$\\pm \\frac{1}{3}$",
+      "$\\pm \\frac{1}{4}$",
+      "$\\pm \\frac{4}{3}$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "In which of the following regular polygons, the number of diagonals is equal to number of sides ?",
+    "options": ["Pentagon", "Square", "Octagon", "Hexagon"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "One hundred identical coins each with probability P of showing up heads are tossed. If 0 < P < 1 and the probability of heads showing on 50 coins is equal to that of heads on 51 coins; then the value of P is",
+    "options": ["1/2", "49/101", "50/101", "51/101"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The equation $(\\cos p - 1)x^2 + (\\cos p)x + \\sin p = 0$ where x is a variable has real roots. Then the interval of p is",
+    "options": [
+      "$(0, 2\\pi)$",
+      "$(-\\pi, 0)$",
+      "$\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right)$",
+      "$(0, \\pi)$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Number of real roots of $3x^5 + 15x - 8 = 0$ is",
+    "options": ["3", "5", "1", "0"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of k for which the set of equations $3x + ky - 2z = 0$, $x + ky + 3z = 0$ and $2x + 3y - 4z = 0$ has a non-trivial solution, is",
+    "options": ["15/2", "17/2", "31/2", "33/2"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $x = \\log_3 5, y = \\log_{17} 25$, then which one of the following is correct ?",
+    "options": ["x > y", "x < y", "$x \\le y$", "x = y"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $A = \\begin{bmatrix} 1 & 1 \\\\ 0 & 1 \\end{bmatrix}$, then $A^n$ for any natural number n is",
+    "options": [
+      "$\\begin{bmatrix} n & n \\\\ 0 & n \\end{bmatrix}$",
+      "$\\begin{bmatrix} 1 & n \\\\ 0 & 1 \\end{bmatrix}$",
+      "$\\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$",
+      "None"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  }
+]

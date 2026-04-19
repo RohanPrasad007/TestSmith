@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "Computer Awareness",
+    "question": "The number of terms in the product-of-sums canonical form of $(x_1 + x_2)(x_3x_4)$",
+    "options": ["7", "8", "9", "10"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Find the odd man out:",
+    "options": ["HTTP", "FCFS", "HTML", "TCP/IP"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Consider a hard disk with 16 recording surfaces (0-15) having 16384 cylinder (0-16383) and each cylinder contains 64 sectors (0-63). Data storage capacity in each sector is 512 bytes. Data are organized cylinder-wise and the addressing format is <cylinder no., surface no., sector no.>. A file of size 42797 KB is stored in the disk and the starting disk location of the file is <1200, 9, 40>. What is the cylinder number of the last sector of the file, if it is stored in a contiguous manner?",
+    "options": ["1284", "1282", "1286", "1288"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Consider the following minterm expression for F.\n$F(P,Q,R,S) = \\sum 0,2,5,7,8,10,13,15$\nThe minterm 2,7,8 and 13 are 'do not care term'. The minimal sum of product form for F is",
+    "options": [
+      "$Q\\overline{S} + \\overline{Q}S$",
+      "$\\overline{Q}\\overline{S} + QS$",
+      "$QRS + \\overline{Q}RS + Q\\overline{R}S + QR\\overline{S}$",
+      "$PQS + P\\overline{Q}S + PQ\\overline{S} + \\overline{P}\\overline{Q}S$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Consider the equation $(43)_x = (y3)_8$ where x and y are unknown. The number of possible solutions is",
+    "options": ["4", "6", "5", "7"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Subtract $(1010)_2$ from $(1101)_2$ using first complement.",
+    "options": ["$(1100)_2$", "$(0101)_2$", "$(1001)_2$", "$(0011)_2$"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "A hard disk has a rotational speed of 6000 rpm. Its average latency time is",
+    "options": ["$5 \\times 10^{-3} \\sec$", "0.05 sec", "1 sec", "0.5 sec"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "The 2's complement representation of the number $(-100)_{10}$ in an 8 bit computer is",
+    "options": ["10011011", "01100100", "11100100", "10011100"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "The range of n-bit signed magnitude representation is",
+    "options": [
+      "$0 \\text{ to } 2^n - 1$",
+      "$-(2^{n-1} - 1) \\text{ to } (2^{n-1} - 1)$",
+      "$-(2^n - 1) \\text{ to } (2^n - 1)$",
+      "$0 \\text{ to } 2^{n-1} - 1$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "The boolean expression represented by the following Venn diagram is",
+    "options": ["a XOR b", "a'b+ab'", "ab+a'b'", "(a+b')(a'+b)"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  }
+]

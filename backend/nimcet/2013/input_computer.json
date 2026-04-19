@@ -1,0 +1,97 @@
+[
+  {
+    "subject": "Computer Awareness",
+    "question": "A tautology is a Boolean formula that is always true. Which of the following is a tautology ?",
+    "options": [
+      "$x$",
+      "$(x + \\bar{x}) y$",
+      "$x + y + \\bar{x}$",
+      "$(x y) + \\bar{x}$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Acronym of EEPROM is",
+    "options": [
+      "Extended Erasable Programmable Memory",
+      "Electrically Erasable Read Only Memory",
+      "Electrically Erasable Programmable Read Only Memory",
+      "Extended Erasable Page-Oriented Memory"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "The answer of the operation $(10111)_2 \\times (1110)_2$ in hex equivalent is",
+    "options": ["150", "14 C", "142", "13 E"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "The minimum number of bits to represent a character from ASCII code set is",
+    "options": ["2", "8", "5", "7"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Which of the following circuit is used as a memory device in computers ?",
+    "options": ["Flip-Flop", "Rectifier", "Comparator", "All of these"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Convert the Hexadecimal number 4DF to its octal equivalent",
+    "options": ["2333", "2337", "2773", "2373"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "All digital circuits can be realized by using only",
+    "options": ["Exclusive OR gates", "Half adders", "Multiplexers", "OR gate"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "The Boolean function $a + (\\bar{a} . b)$ is equivalent to",
+    "options": [
+      "$a . b$",
+      "$a + b$",
+      "$\\bar{a} . \\bar{b}$",
+      "$\\bar{a} + \\bar{b}$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "For reproducing sound, a CD audio player uses a",
+    "options": [
+      "Quartz crystal",
+      "Titanium needle",
+      "Barium ceramic",
+      "Laser beam"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "When we open an internet site, we see www. What does www stand for ?",
+    "options": [
+      "World Wide Word",
+      "World Wide Web",
+      "World Wide Webinar",
+      "Word Widing Works"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "subject": "General English",
+        "question": "There are two blanks in the sentences given below. From the pairs of words given below the sentence, choose the pair that fills the blanks most appropriately. Private companies supplying 'breakfast cereals' have started ___________ in agriculture in poorer countries. This has __________ the spectre of land grabs and political conflicts.",
+        "options": ["Spending ... intensified", "Dealing ... inflated", "Ploughing ... increased", "Investing ... raised"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Use the appropriate phrasal verb and complete the sentence given below. The new system in education is aimed at __________ the differences between rich and poor.",
+        "options": ["Goof around", "Evening out", "Glossing over", "Give over"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "What does the term 'ride out the storm' mean?",
+        "options": ["Handle a crisis successfully", "Hide from a storm", "Hide in some place where one cannot be found", "Ride on a boat at the time of storm"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "What does 'subjugate' mean?",
+        "options": ["surrender", "compare", "Control", "abandon"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "What is the resolve of His Majesty's Government according to the passage?",
+        "options": ["Surrender to the Nazis", "Negotiate with the Nazis", "Run away from the Nazis", "Fight the Nazis"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Select the most suitable antonym from the given choices for the word: 'SANGFROID':",
+        "options": ["Equanimity", "Steadiness", "Aplomb", "Turbulence"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "The word PIN is used in four different ways below. Choose the option in which the usage of the word is incorrect or inappropriate:",
+        "options": [
+            "She combed her hair backwards and secured it with a pin",
+            "Jack managed to grab the thief and pin him against the wall",
+            "It is imprudent to pin your hopes on someone",
+            "You can't pin the blame at anyone without verifying facts"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Pick the most appropriate substitute for the word: INCONTROVERTIBLE",
+        "options": ["Conclusive", "Disputable", "Inconvenient", "Indecisive"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "In the sentence given below, a part is underlined and different ways of phrasing the underlined part are indicated below. Choose the best alternative: 'A nation is built not by legislation but by the stirrings in the hearts of the people'.",
+        "options": [
+            "By legislation and by inspiration",
+            "Not by laws but by the excitement of the people",
+            "By law and by inciting the people",
+            "More by the passions in the hearts of the people than by laws"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Select the most suitable synonym for the underlined word: 'All the members of the organization expressed implacable opposition to the move.'",
+        "options": ["Indignant", "Adamant", "Unified", "Quixotic"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Fill in the blank choosing the correct adjective: The phoenix is a _______ Bird.",
+        "options": ["Mythical", "Ethical", "Natural", "Carnivorous"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Which of the following is the correct passive form of the sentence: 'JOHN HAS EATEN THE APPLES?'",
+        "options": [
+            "The apples are being eaten by John",
+            "The apples are eaten by John",
+            "The apples have been eaten by John",
+            "The apples will be eaten by John"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Choose the word most nearly the same as the meaning of the given word: Indemnify",
+        "options": ["Insure", "Compensate for loss", "Assure", "Sue for damages"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Select a word from the given alternatives which has the same meaning as the underlined word: 'He has a propensity for getting into debt.'",
+        "options": ["Tendency", "Aptitude", "Characteristic", "Quality"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Select the most suitable synonym from the given choices for the word: 'ANTEDILUVIAN':",
+        "options": ["Recluse", "Maverick", "Archaic", "Bellicose"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Choose a phrasal verb to replace the explanation in brackets: 'We must (be quick) ________ or we'll be late for school'",
+        "options": ["Act up", "Hurry up", "Fasten on", "Speed in"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Anne had to pay for everything because as usual, Peter ________ his wallet at home.",
+        "options": ["had left", "was leaving", "Left", "leave"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Extreme old age when a man behaves like a child:",
+        "options": ["Imbecility", "senility", "dotage", "superannuation"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Identify the word that means 'To try to achieve something in difficult circumstances despite of setbacks'.",
+        "options": ["Persuade", "Persevere", "Picturesque", "Perspective"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "In the following, a part of the sentence is underlined. Choose the best alternative among the four choices given to phrase the underlined part: 'When he entered the house, it was in sixes and sevens.'",
+        "options": [
+            "It was six O' clock when he entered the house",
+            "Inmates were eulogized when he entered",
+            "House was in pandemonium",
+            "House was blissful"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    }
+]

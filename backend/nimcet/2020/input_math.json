@@ -1,0 +1,602 @@
+[
+    {
+        "subject": "Mathematics",
+        "question": "If $\\binom{15}{8} + \\binom{15}{7} = \\binom{n}{r}$, then the values of n and r are:",
+        "options": [
+            "(a) 16 and 7",
+            "(b) 16 and 8",
+            "(c) 16 and 9",
+            "(d) 30 and 15"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "In a class of 50 students, it was found that 30 students read \"Hitavad\", 35 students read \"Hindustan\" and 10 read neither. How many students read both: \"Hitavad\" and \"Hindustan\" newspapers?",
+        "options": [
+            "(a) 25",
+            "(b) 20",
+            "(c) 15",
+            "(d) 30"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $A = \\{4^x - 3x - 1 : x \\in \\mathbb{N}\\}$ and $B = \\{9(x - 1) : x \\in \\mathbb{N}\\}$, where $\\mathbb{N}$ is the set of natural numbers, then",
+        "options": [
+            "(a) $A \\subset B$",
+            "(b) $A \\subseteq B$",
+            "(c) $A \\supset B$",
+            "(d) $A \\supseteq B$"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $A = \\{x, y, z\\}$, then the number of subsets in powerset of A is",
+        "options": [
+            "(a) 6",
+            "(b) 8",
+            "(c) 7",
+            "(d) 9"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "How many words can be formed starting with letter D taking all letters from word DELHI so that the letters are not repeated:",
+        "options": [
+            "(a) 4",
+            "(b) 12",
+            "(c) 24",
+            "(d) 120"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Naresh has 10 friends, and he wants to invite 6 of them to a party. How many times will 3 particular friends never attend the party?",
+        "options": [
+            "(a) 8",
+            "(b) 7",
+            "(c) 720",
+            "(d) 35"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "There is a young boy's birthday party in which 3 friends have attended. The mother has arranged 10 games where a prize is awarded for a winning game. The prizes are identical. If each of the 4 children receives at least one prize, then how many distributions of prizes are possible?",
+        "options": [
+            "(a) 80",
+            "(b) 84",
+            "(c) 70",
+            "(d) 72"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Three cities A, B, C are equidistant from each other. A motorist travels from A to B at 30 km/hour, from B to C at 40 km/hour and from C to A at 50 km/hour. Then the average speed is",
+        "options": [
+            "(a) 39 km/hour",
+            "(b) 40 km/hour",
+            "(c) 38.3 km/hour",
+            "(d) 37.6 km/hour"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A problem in Mathematics is given to 3 students A, B and C. If the probability of A solving the problem is 1/2 and B not solving it is 1/4. The whole probability of the problem being solved is 63/64, then what is the probability of solving it by C?",
+        "options": [
+            "(a) 1/8",
+            "(b) 1/64",
+            "(c) 7/8",
+            "(d) 1/2"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A and B play a game where each is asked to select a number from 1 to 25. If the two numbers match, both win a prize. The probability that they will not win a prize in a single trial is",
+        "options": [
+            "(a) 1/25",
+            "(b) 24/25",
+            "(c) 2/25",
+            "(d) 3/25"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A, B, C are three sets of values of x: \nA: 2, 3, 7, 1, 3, 2, 3 \nB: 7, 5, 9, 12, 5, 3, 8 \nC: 4, 4, 11, 7, 2, 3, 4 \nSelect the correct statement among the following:",
+        "options": [
+            "(a) Mean of A is equal to Mode of C.",
+            "(b) Mean of C is equal to Median of B.",
+            "(c) Median of B is equal to Mode of A.",
+            "(d) Mean, Median and Mode of A are same."
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Standard deviation for the following distribution is: \nSize of item: 6 7 8 9 10 11 12 \nFrequency: 3 6 9 13 8 5 4",
+        "options": [
+            "(a) 1.607",
+            "(b) 9.0",
+            "(c) 5.0",
+            "(d) 1.88"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $A = \\begin{bmatrix} \\cos \\alpha & \\sin \\alpha \\\\ -\\sin \\alpha & \\cos \\alpha \\end{bmatrix}$, then for any positive integer n, $A^n$ is",
+        "options": [
+            "(a) $\\begin{bmatrix} \\sin n\\alpha & \\cos n\\alpha \\\\ \\cos n\\alpha & -\\sin n\\alpha \\end{bmatrix}$",
+            "(b) $\\begin{bmatrix} \\cos n\\alpha & \\sin n\\alpha \\\\ \\sin n\\alpha & \\cos n\\alpha \\end{bmatrix}$",
+            "(c) $\\begin{bmatrix} \\cos n\\alpha & \\sin n\\alpha \\\\ -\\sin n\\alpha & \\cos n\\alpha \\end{bmatrix}$",
+            "(d) $\\begin{bmatrix} \\cos n\\alpha & -\\sin n\\alpha \\\\ \\sin n\\alpha & \\cos n\\alpha \\end{bmatrix}$"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Roots of equation $ax^2 - 2bx + c = 0$ are n and m, then the value of $\\frac{b}{an^2+c} + \\frac{b}{am^2+c}$ is",
+        "options": [
+            "(a) $\\frac{c}{a}$",
+            "(b) $\\frac{b}{a}$",
+            "(c) $\\frac{a}{c}$",
+            "(d) $\\frac{b}{c}$"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The number of values of k for which the linear equations \n$4x + ky + z = 0$ \n$kx + 4y + z = 0$ \n$2x + 2y + z = 0$ \npossess a non-zero solution is",
+        "options": [
+            "(a) 2",
+            "(b) 1",
+            "(c) 0",
+            "(d) 3"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Let $A = (a_{ij})$ and $B = (b_{ij})$ be two square matrices of order n and det(A) denotes the determinant of A. Then, which of the following is not correct.",
+        "options": [
+            "(a) If A is a diagonal matrix, then $det(A) = a_{11}a_{22}...a_{nn}$",
+            "(b) $det(AB) = det(A)det(B)$",
+            "(c) $det(cA) = c det(A)$",
+            "(d) $det(A) = det(A^T)$, where $A^T$ denotes the transpose of matrix A."
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The tangent to an ellipse $x^2 + 16y^2 = 16$ and making angle $60^\\circ$ with X-axis is:",
+        "options": [
+            "(a) $x - \\sqrt{3}y + 7 = 0$",
+            "(b) $\\sqrt{3}x - y + 8 = 0$",
+            "(c) $\\sqrt{3}x - y + 7 = 0$",
+            "(d) $x + \\sqrt{3}y - 7 = 0$"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Find the number of point(s) of intersection of the ellipse $\\frac{x^2}{4} + \\frac{(y-1)^2}{9} = 1$ and the circle $x^2 + y^2 = 4$",
+        "options": [
+            "(a) 4",
+            "(b) 3",
+            "(c) 2",
+            "(d) 1"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "An arithmetic progression has 3 as its first term. Also, the sum of the first 8 terms is twice the sum of the first 5 terms. Then what is the common difference?",
+        "options": [
+            "(a) 3/4",
+            "(b) 1/2",
+            "(c) 1/4",
+            "(d) 4/3"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $a + b + c = 0$, then the value of $\\frac{a^2}{bc} + \\frac{b^2}{ca} + \\frac{c^2}{ab}$ is:",
+        "options": [
+            "(a) 1",
+            "(b) 0",
+            "(c) 3",
+            "(d) -1"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "What is the value of $\\lim_{x \\to 0} x^2 e^{\\sin(\\frac{1}{x})}$?",
+        "options": [
+            "0",
+            "1",
+            "e",
+            "Does not exist"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $f(x) = \\begin{cases} x^2, & x \\le 0 \\\\ 2 \\sin x, & x > 0 \\end{cases}$, then $x=0$ is",
+        "options": [
+            "a point of relative maximum",
+            "a point of relative minimum",
+            "a point of inflection",
+            "None of the above"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $g(x) = \\begin{cases} \\frac{x^2-x}{2x}, & x \\ne 0 \\\\ k, & x = 0 \\end{cases}$ is a continuous function at $x=0$, then $k$ is",
+        "options": [
+            "1/2",
+            "-1/2",
+            "1",
+            "2"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The interval on which the function $y = 2x^3 e^x$ is increasing is",
+        "options": [
+            "(-3, 0)",
+            "(-\\infty, \\infty)",
+            "(-\\infty, -3) \\cup (0, \\infty)",
+            "None of these"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "$\\int \\frac{\\sin x - \\cos x}{\\sin x + \\cos x} dx$ is",
+        "options": [
+            "$\\log|\\sin x + \\cos x| + c$",
+            "$\\log|\\sin x - \\cos x| + c$",
+            "$-\\log|\\sin x + \\cos x| + c$",
+            "$-\\log|\\sin x - \\cos x| + c$"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The value of $\\int e^x (\\frac{1+\\sin x \\cos x}{\\cos^2 x}) dx$ is",
+        "options": [
+            "$e^x \\tan x + c$",
+            "$e^x \\sec x + c$",
+            "$e^x \\cos x + c$",
+            "$e^x \\sin x + c$"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $I_n = \\int_0^a (a^2-x^2)^n dx$, then $\\frac{I_n}{I_{n-1}}$ is",
+        "options": [
+            "$\\frac{2n+1}{2n}$",
+            "$\\frac{2n}{2n+1}$",
+            "$a^2 \\frac{2n}{2n+1}$",
+            "$a^2 \\frac{2n+1}{2n}$"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The value of $\\int_{-2}^2 (ax^5 + bx^3 + c) dx$ depends on",
+        "options": [
+            "a",
+            "b",
+            "c",
+            "a, b, c"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Area bounded by $y=3-x$, parabola $y=x^2-9$ and $x \\ge -1, y \\ge 0$ is",
+        "options": [
+            "12",
+            "13/2",
+            "32",
+            "11.5"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $\\vec{a}, \\vec{b}, \\vec{c}$ are three non-coplanar vectors, then $(\\vec{a}+\\vec{b}+\\vec{c}) \\cdot [(\\vec{a}+\\vec{b}) \\times (\\vec{a}+\\vec{c})]$ is",
+        "options": [
+            "$[\\vec{a}, \\vec{b}, \\vec{c}]$",
+            "$2[\\vec{a}, \\vec{b}, \\vec{c}]$",
+            "$-[\\vec{a}, \\vec{b}, \\vec{c}]$",
+            "0"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Two forces $F_1$ and $F_2$ are such that their resultant $R$ is perpendicular to $F_1$ and $|R| = |F_1|$. The angle between $F_1$ and $F_2$ is",
+        "options": [
+            "$45^\\circ$",
+            "$90^\\circ$",
+            "$135^\\circ$",
+            "$150^\\circ$"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $\\vec{a}, \\vec{b}, \\vec{c}, \\vec{d}$ are four vectors such that $\\vec{a} \\times \\vec{b} = \\vec{c} \\times \\vec{d}$ and $\\vec{a} \\times \\vec{c} = \\vec{b} \\times \\vec{d}$, then",
+        "options": [
+            "$\\vec{a}-\\vec{d}$ is parallel to $\\vec{b}-\\vec{c}$",
+            "$\\vec{a}-\\vec{c}$ is parallel to $\\vec{b}-\\vec{d}$",
+            "$\\vec{a}-\\vec{b}$ is parallel to $\\vec{c}-\\vec{d}$",
+            "None of the above"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $n$ is a positive integer, then the value of $(\\frac{1+i}{1-i})^n + (\\frac{1-i}{1+i})^n$ is",
+        "options": [
+            "2",
+            "$2 \\cos \\frac{n\\pi}{2}$",
+            "$i^n + (-i)^n$",
+            "Both (b) and (c)"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Position vectors of A and B are $\\vec{a}$ and $\\vec{b}$. The position vector of the point C which divides AB in the ratio 2:1 is",
+        "options": [
+            "$\\frac{\\vec{a}+2\\vec{b}}{3}$",
+            "$\\frac{2\\vec{a}+\\vec{b}}{3}$",
+            "$\\frac{2\\vec{a}-\\vec{b}}{3}$",
+            "$\\frac{\\vec{a}-2\\vec{b}}{3}$"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $\\vec{a}, \\vec{b}, \\vec{c}$ are non-zero vectors such that $|\\vec{a}|=3, |\\vec{b}|=4, |\\vec{c}|=5$ and each vector is perpendicular to the sum of the other two, then $|\\vec{a}+\\vec{b}+\\vec{c}|$ is",
+        "options": [
+            "Zero",
+            "9",
+            "1",
+            "None of the above"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Vertices of the vectors $i-2j+2k, 2i+j-k, 3i-j+2k$ form a triangle. This triangle is",
+        "options": [
+            "Equilateral triangle",
+            "Right angle triangle",
+            "Two sides are equal in length",
+            "None of the above"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If the volume of a parallelepiped whose adjacent edges are $\\vec{a}=2i+3j+4k, \\vec{b}=i+\\alpha j+2k$ and $\\vec{c}=i+2j+\\alpha k$ is 15, then $\\alpha =$",
+        "options": [
+            "1",
+            "5/2",
+            "9/2",
+            "0"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Solve the equation $\\sin^2 x - \\sin x - 2 = 0$ for $x$ on the interval $0 \\le x < 2\\pi$:",
+        "options": [
+            "$x = \\frac{3\\pi}{2}$ only",
+            "$x = \\frac{\\pi}{4}$ and $\\frac{2\\pi}{7}$",
+            "$x = \\frac{2\\pi}{3}$ and $\\frac{2\\pi}{5}$",
+            "None of these"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $\\frac{\\tan x}{2} = \\frac{\\tan y}{3} = \\frac{\\tan z}{5}$ and $x+y+z=\\pi$, then the value of $\\tan^2 x + \\tan^2 y + \\tan^2 z$ is",
+        "options": [
+            "38/3",
+            "38",
+            "114",
+            "None of these"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Find the value of $\\sin 12^\\circ \\sin 48^\\circ \\sin 54^\\circ$:",
+        "options": [
+            "1/8",
+            "1/6",
+            "1/2",
+            "1/4"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $\\cos x = \\tan y, \\cot y = \\tan z$ and $\\cot z = \\tan x$, then $\\sin x =$ :",
+        "options": [
+            "$\\frac{\\sqrt{5}-1}{2}$",
+            "$\\frac{\\sqrt{5}+1}{2}$",
+            "$\\frac{\\sqrt{5}+1}{4}$",
+            "$\\frac{\\sqrt{5}-1}{4}$"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The value of $\\tan(45 + \\frac{\\theta}{2})$ is :",
+        "options": [
+            "$\\tan \\theta - \\sec \\theta$",
+            "$\\tan \\theta + \\sec \\theta$",
+            "$\\cot \\theta - \\sec \\theta$",
+            "$\\cot \\theta + \\sec \\theta$"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The value of $\\sin 10^\\circ \\sin 50^\\circ \\sin 70^\\circ$ is :",
+        "options": [
+            "1/4",
+            "1/2",
+            "3/4",
+            "1/8"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The expression $\\frac{\\tan A}{1 - \\cot A} + \\frac{\\cot A}{1 - \\tan A}$ can be written as :",
+        "options": [
+            "$\\sin A \\cos A + 1$",
+            "$\\sec A \\csc A + 1$",
+            "$\\tan A + \\cot A$",
+            "$\\sec A + \\csc A$"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Angle of elevation of the top of the tower from 3 points (collinear) A, B and C on a road leading to the foot of the tower are $30^\\circ$, $45^\\circ$ and $60^\\circ$, respectively. The ratio of AB and BC is :",
+        "options": [
+            "$\\sqrt{3}:1$",
+            "$\\sqrt{3}:2$",
+            "1:2",
+            "2:\\sqrt{3}$"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The area enclosed between the curves $y^2 = x$ and $y = |x|$ is :",
+        "options": [
+            "2/3 sq. unit",
+            "1 sq. unit",
+            "1/6 sq. unit",
+            "1/3 sq. unit"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Test the continuity of the function at $x = 2, f(x) = \\begin{cases} \\frac{5}{2} - x, & x < 2 \\\\ 1, & x = 2 \\\\ x - \\frac{3}{2}, & x > 2 \\end{cases}$",
+        "options": [
+            "Continuous at x = 2",
+            "Discontinuous at x = 2",
+            "Semicontinuous at x = 2",
+            "None of the above"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The value of $2 \\tan^{-1} [\\csc(\\tan^{-1} x) - \\tan(\\cot^{-1} x)]$ is :",
+        "options": [
+            "$\\tan x$",
+            "$\\cot x$",
+            "$\\tan^{-1} x$",
+            "$\\csc^{-1} x$"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $3 \\sin x + 4 \\cos x = 5$, then $6 \\tan \\frac{x}{2} - 9 \\tan^2 \\frac{x}{2} =$ :",
+        "options": [
+            "1",
+            "3",
+            "4",
+            "6"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If A is a subset of B and B is a subset of C, then cardinality of $A \\cup B \\cup C$ is equal to :",
+        "options": [
+            "Cardinality of C",
+            "Cardinality of B",
+            "Cardinality of A",
+            "None of the above"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    }
+]

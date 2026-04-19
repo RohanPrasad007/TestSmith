@@ -1,0 +1,97 @@
+[
+  {
+    "subject": "Computer Awareness",
+    "question": "$(2FA0C)_{16}$ is equivalent to",
+    "options": [
+      "$(195084)_{10}$",
+      "$(00101111101000001100)_2$",
+      "Both (a) and (b)",
+      "None of these"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "The decimal equivalent of octal number 111 010 is",
+    "options": ["81", "72", "71", "61"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "An I/O processor controls the flow of information between",
+    "options": [
+      "cache memory and I/O devices",
+      "main memory and I/O devices",
+      "two I/O devices",
+      "cache and main memories"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Which of the following devices will take highest time in taking the backup of the data from a computer ?",
+    "options": ["Magnetic Disk", "Pen Drive", "CD", "Magnetic Tape"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "ROM is a kind of",
+    "options": [
+      "primary memory",
+      "cache memory",
+      "removable memory",
+      "secondary memory"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "The errors that can be pointed out by compilers are",
+    "options": [
+      "Syntax errors",
+      "Semantic errors",
+      "Logical errors",
+      "Internal errors"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Let x = 11111010 and y = 00001010 be two 8-bit 2's complement numbers. Their product in 2's complement notation is",
+    "options": ["11000100", "10011100", "10100101", "11010101"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "The range of numbers that can be stored in 8 bits, if negative numbers are stored in 2's complement form is",
+    "options": ["–128 to +128", "–128 to +127", "–127 to +128", "–127 to +127"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Primary storage is ...................as compared to secondary memory.",
+    "options": [
+      "Slow and expensive",
+      "fast and inexpensive",
+      "fast and expensive",
+      "slow and inexpensive"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Which of the following units is used to supervise each instruction in the CPU ?",
+    "options": ["Control Unit", "Accumulator", "ALU", "Control Register"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  }
+]

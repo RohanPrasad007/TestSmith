@@ -1,0 +1,182 @@
+[
+  {
+    "subject": "General English",
+    "question": "Change the speech : She says, \"I like going to the seaside\".",
+    "options": [
+      "She says she likes going to the seaside",
+      "She says I like going to the seaside",
+      "She says that she liked going to the seaside",
+      "She says she like going to the seaside"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Arrange the following to form a correct sentence\nP : will normally be granted\nQ : candidates should note\nR : that no request for\nS : change of centre",
+    "options": ["SRQP", "PRQS", "QSPR", "QRSP"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Rewrite the sentence after correcting the error :\nShe was one of the average student of the class.",
+    "options": [
+      "She was one of the average students of the class",
+      "She is one of the average student of the class",
+      "She was one among the average student of the class",
+      "She is an average students of the class"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose appropriate words to form a grammatically correct sentence :\nThe decoration of the new house, including the furniture and curtains _________________.",
+    "options": [
+      "is more pleasing",
+      "are more pleasing",
+      "is most pleasing",
+      "are pleasing"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Fill in the blank :\nThe President of the United States, accompanied by his advisors, ________ enroute to Europe.",
+    "options": ["were", "are", "was", "both (a) and (c)"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the suitable word for the blank to make it a meaningful statement.\nWhat you say is ______ my comprehension.",
+    "options": ["before", "beside", "behind", "beyond"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Fill in the blank with a suitable preposition :\nIf you want to avoid traffic, you need to leave _______ 7:30 A.M.",
+    "options": ["until", "by", "during", "at"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the word that best expresses the meaning of the given idiom : \"to smell a rat\".",
+    "options": [
+      "To suspect something bad",
+      "To misunderstand",
+      "To detect bad smell",
+      "To forsake"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Out of the given alternatives, choose the word that best expresses the meaning of the word ABRIDGE.",
+    "options": ["Judge", "Release", "Shorten", "Dissolve"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "‘A dog’s breakfast’ means",
+    "options": [
+      "Breakfast cooked for a dog",
+      "Breakfast cooked by a dog",
+      "Something that has been done very badly",
+      "None of these"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Pick the part of the sentence that has an error :\nMy elder brother is a MA whereas I am only a BA",
+    "options": ["My elder brother", "is a MA", "whereas I am", "only a BA"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the suitable phrasal verb for the blank in the sentence below.\nI _________ my hopes when untimely rain threatened my crops.",
+    "options": ["gave in", "gave out", "gave up", "gave off"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Out of the given alternatives, choose the word that is opposite in meaning to the word : AFFLUENT",
+    "options": ["Reluctant", "Poor", "Clear", "Enthusiastic"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Fill in the blank with appropriate form of noun :\nDon’t blame yourself, it’s not your ___________!",
+    "options": ["misunderstanding", "error", "slip", "fault"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Fill in the blank :\nThe instructor, along with the class, ________ angry about the room change.",
+    "options": ["are", "have", "has", "is"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Out of the alternatives, choose the appropriate phrase to make the sentence meaningful. If you had joint accounts with ________ who died, then you will be responsible for the bills.",
+    "options": ["everybody", "anyone", "everyone", "someone"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the analogy that is closest in meaning to the pair : Diamond : Necklace",
+    "options": [
+      "Cars : Roads",
+      "Flowers : Bouquet",
+      "Gold : Bangle",
+      "Books : Shop"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the suitable proportion for the blank to make a meaningful sentence.\nSuresh is angry _________ his servant.",
+    "options": ["about", "on", "by", "with"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the correct alternative for the sentence below :\nThe earth is always revolving round the sun",
+    "options": [
+      "The earth revolves round the sun",
+      "The earth is revolving round the sun",
+      "The earth revolving round the sun",
+      "None of these"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the word that best expresses the meaning of the given idiom : \"A close shave\"",
+    "options": [
+      "A clean shave",
+      "A narrow escape",
+      "A guarded secret",
+      "A sudden fall"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  }
+]

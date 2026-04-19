@@ -1,0 +1,312 @@
+[
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Five boys A,B,C,D,E and five girls P,Q,R,S,T are standing in two rows facing each other not necessarily in the order. E is not at any ends. C is to the immediate right of B and D is to the immediate left of A, who is facing P. There are as many girls between P and Q as between R and S. A is second to the left of B. S and R are not facing either B or D.\nWhich pair of boys are standing at the ends of the row?",
+    "options": ["C and D", "C and B", "D and B", "None of these"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Five boys A,B,C,D,E and five girls P,Q,R,S,T are standing in two rows facing each other not necessarily in the order. E is not at any ends. C is to the immediate right of B and D is to the immediate left of A, who is facing P. There are as many girls between P and Q as between R and S. A is second to the left of B. S and R are not facing either B or D.\nWhich of the following is definitely true?",
+    "options": [
+      "C is third to the right of D",
+      "D is facing P",
+      "C is facing S",
+      "None of these"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Five boys A,B,C,D,E and five girls P,Q,R,S,T are standing in two rows facing each other not necessarily in the order. E is not at any ends. C is to the immediate right of B and D is to the immediate left of A, who is facing P. There are as many girls between P and Q as between R and S. A is second to the left of B. S and R are not facing either B or D.\nWho id standing to the immediate right of A?",
+    "options": ["E", "C", "D", "B"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Five boys A,B,C,D,E and five girls P,Q,R,S,T are standing in two rows facing each other not necessarily in the order. E is not at any ends. C is to the immediate right of B and D is to the immediate left of A, who is facing P. There are as many girls between P and Q as between R and S. A is second to the left of B. S and R are not facing either B or D.\nWho is facing B?",
+    "options": ["R", "S", "Q", "T"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Six friends A,B,C,D,E and F are sitting round a hexagonal table. F, who is sitting exactly opposite A, is to be immediate right of B, D is between A and B and is exactly opposite to C.\nWho are sitting next to A ?",
+    "options": ["D and E", "D and F", "C and E", "B and D"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Six friends A,B,C,D,E and F are sitting round a hexagonal table. F, who is sitting exactly opposite A, is to be immediate right of B, D is between A and B and is exactly opposite to C.\nWho is sitting opposite to B ?",
+    "options": ["A", "C", "E", "F"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "All the roads of a city are either perpendicular or parallel to one another. The roads are all straight. Roads A,B,C,D and E are parallel to one another. Roads F,G,H,I,J,K,L and M are parallel to one another.\n- Road A is 1 km east of road B.\n- Road B is 1/2 km west of road C.\n- Road D is 1 km west of road E.\n- Road G is 1/2 km south of road H.\n- Road I is 1 km north of road J.\n- Road K is 1/2 km north of road L.\n- Road K is 1 km south of road M.\nWhich of the following is necessarily true?",
+    "options": [
+      "E and B intersect",
+      "D is 2 km west of B",
+      "D is at least 2 km west of A",
+      "M is 1.5 km north of L"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "All the roads of a city are either perpendicular or parallel to one another. The roads are all straight. Roads A,B,C,D and E are parallel to one another. Roads F,G,H,I,J,K,L and M are parallel to one another.\n- Road A is 1 km east of road B.\n- Road B is 1/2 km west of road C.\n- Road D is 1 km west of road E.\n- Road G is 1/2 km south of road H.\n- Road I is 1 km north of road J.\n- Road K is 1/2 km north of road L.\n- Road K is 1 km south of road M.\nIf E is between B and C, which of the following is false?",
+    "options": [
+      "D is 2 km west of A",
+      "C is less than 1.5 km from D",
+      "Distance from E to B added to distance of E to C is 1/2 km",
+      "E is less than 1 km from A"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "All the roads of a city are either perpendicular or parallel to one another. The roads are all straight. Roads A,B,C,D and E are parallel to one another. Roads F,G,H,I,J,K,L and M are parallel to one another.\n- Road A is 1 km east of road B.\n- Road B is 1/2 km west of road C.\n- Road D is 1 km west of road E.\n- Road G is 1/2 km south of road H.\n- Road I is 1 km north of road J.\n- Road K is 1/2 km north of road L.\n- Road K is 1 km south of road M.\nIf road E is between B and C, then the distance between A and D is :",
+    "options": [
+      "Less than 1 km",
+      "Between 1 km and $1\\frac{1}{2}$ km",
+      "Between $1\\frac{1}{2}$ km and 2 km",
+      "More than 2 km"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "All the roads of a city are either perpendicular or parallel to one another. The roads are all straight. Roads A,B,C,D and E are parallel to one another. Roads F,G,H,I,J,K,L and M are parallel to one another.\n- Road A is 1 km east of road B.\n- Road B is 1/2 km west of road C.\n- Road D is 1 km west of road E.\n- Road G is 1/2 km south of road H.\n- Road I is 1 km north of road J.\n- Road K is 1/2 km north of road L.\n- Road K is 1 km south of road M.\nWhich of the following possibilities would make some two roads coincide?",
+    "options": [
+      "L is 1/2 km north of I",
+      "C is 1 km west of D",
+      "I is 1/2 km north of K",
+      "E and B are 1/2 km apart"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "All the roads of a city are either perpendicular or parallel to one another. The roads are all straight. Roads A,B,C,D and E are parallel to one another. Roads F,G,H,I,J,K,L and M are parallel to one another.\n- Road A is 1 km east of road B.\n- Road B is 1/2 km west of road C.\n- Road D is 1 km west of road E.\n- Road G is 1/2 km south of road H.\n- Road I is 1 km north of road J.\n- Road K is 1/2 km north of road L.\n- Road K is 1 km south of road M.\nIf K is parallel to I and if K is 1/2 km south of J and 1 km north of G, which of the following two roads would be 1/2 km apart ?",
+    "options": ["I and K", "J and G", "l and G", "J and K"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The arithmetic mean of $2^{10}$ and $2^{20}$ is :",
+    "options": [
+      "$2^{15}$",
+      "$2^5 + 2^{10}$",
+      "$2^9 + 2^{20}$",
+      "$2^9 + 2^{19}$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "There are five different boxes of different unknown weights but each less than100 kgs. These boxes were weighed in pairs and the weights obtained are 110, 112, 113, 114, 115, 116, 117, 118, 120 and 121 kgs. What is the weight in kg of the heaviest box ?",
+    "options": ["60", "62", "64", "61"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Six friends P,Q,R,S,T and U are standing in two rows facing one another : P is in the middle of one row. U is to the left of S and facing R,Q and T are not in the same row. Only one person is in between R and T.\nWhich of the following are in the same row ?",
+    "options": ["U, S and T", "R, P and T", "U, Q and P", "U,R and Q"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Six friends P,Q,R,S,T and U are standing in two rows facing one another : P is in the middle of one row. U is to the left of S and facing R,Q and T are not in the same row. Only one person is in between R and T.\nWho is to the left of S ?",
+    "options": ["P", "U", "S", "Q"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Six friends P,Q,R,S,T and U are standing in two rows facing one another : P is in the middle of one row. U is to the left of S and facing R,Q and T are not in the same row. Only one person is in between R and T.\nWho faces P?",
+    "options": ["Q", "T", "S", "U"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Six friends P,Q,R,S,T and U are standing in two rows facing one another : P is in the middle of one row. U is to the left of S and facing R,Q and T are not in the same row. Only one person is in between R and T.\nWhich of the following pairs are facing each other?",
+    "options": ["RS", "TU", "PU", "TQ"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The students in three classes are in the ratio 2:3:5. If 20 students are increased in each class, the ratio changes to 4:5:7. The total number of students before the increase were :",
+    "options": ["10", "90", "100", "None"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Ajith is three times older than Babita, Chetu is half the age of Das. Babita is older than Chetu. Which of the following additional information is needed to estimate the age of Ajith?\n(I) Chetu is 10 years old\n(II) Both Babita and Das are older than Chetu by the same number of years.",
+    "options": ["I only", "II only", "I and II", "None"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Six members of a family A,B,C,D,E and F are Psychologist, Manager, Advocate, Jeweller, Doctor and Engineer but not necessarily in the same order.\nDoctor is the grandfather of F, who is a psychologist\nManager D is married to A\nC, who is a Jeweller, is married to Advocate\nB is the mother of F and E\nThere are two married couples in the family\nWhat is the profession of A?",
+    "options": ["Manager", "Engineer", "Cannot be determined", "None of these"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Six members of a family A,B,C,D,E and F are Psychologist, Manager, Advocate, Jeweller, Doctor and Engineer but not necessarily in the same order.\nDoctor is the grandfather of F, who is a psychologist\nManager D is married to A\nC, who is a Jeweller, is married to Advocate\nB is the mother of F and E\nThere are two married couples in the family\nWhat is the profession of E?",
+    "options": ["Manager", "Engineer", "Doctor", "None of these"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Six members of a family A,B,C,D,E and F are Psychologist, Manager, Advocate, Jeweller, Doctor and Engineer but not necessarily in the same order.\nDoctor is the grandfather of F, who is a psychologist\nManager D is married to A\nC, who is a Jeweller, is married to Advocate\nB is the mother of F and E\nThere are two married couples in the family\nHow is A related to E?",
+    "options": ["Grandmother", "Wife", "Grandfather", "None of these"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Six members of a family A,B,C,D,E and F are Psychologist, Manager, Advocate, Jeweller, Doctor and Engineer but not necessarily in the same order.\nDoctor is the grandfather of F, who is a psychologist\nManager D is married to A\nC, who is a Jeweller, is married to Advocate\nB is the mother of F and E\nThere are two married couples in the family\nHow many male members are there in the family?",
+    "options": ["Two", "Three", "Four", "Cannot be determined"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Six members of a family A,B,C,D,E and F are Psychologist, Manager, Advocate, Jeweller, Doctor and Engineer but not necessarily in the same order.\nDoctor is the grandfather of F, who is a psychologist\nManager D is married to A\nC, who is a Jeweller, is married to Advocate\nB is the mother of F and E\nThere are two married couples in the family\nWho are the two couples in the family?",
+    "options": ["AD and CB", "AB and CD", "AC and BD", "None of these"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Find the number that comes next in the series.\n120,99,80,63,48,___________.",
+    "options": ["35", "38", "39", "40"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "In a certain school, the number of students in each section was 24. After admitting some students, three new sections have been started and now there are 16 sections with 21 students in each. What is the number of newly admitted students?",
+    "options": ["14", "24", "16", "26"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The nine alphabets L,M,N,O,P,Q,R,S and T are assigned to nine integers 1 to 9 not necessarily in the same order. 4 is assigned to P. The difference between P and T is 5. The difference between N and T is 3. What is the integer assigned to N?",
+    "options": ["7", "6", "5", "4"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "At a small company, parking spaces are reserved for the top executives : CEO, President, Vice President, Secretary and treasurer with the spaces lined up in that order. The parking lot guard can tell at a glance if the cars are parked correctly by looking at the color of the cars. The cars are yellow, green, purple, red and blue and the executives names are Alice, Bert, Cheryl, David and Enid.\nThe cars in the first space is red.\nA blue car is parked between the red car and the green car.\nThe car in the last space in purple.\nThe secretary drives a yellow car.\nAlice's car is parked next to David's.\nEnid drives a green car.\nBert's car is parked between Cheryl's and Enid's.\nDavid's car is parked in the last space.\nWho is the secretary?",
+    "options": ["Enid", "David", "Cheryl", "Alice"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "At a small company, parking spaces are reserved for the top executives : CEO, President, Vice President, Secretary and treasurer with the spaces lined up in that order. The parking lot guard can tell at a glance if the cars are parked correctly by looking at the color of the cars. The cars are yellow, green, purple, red and blue and the executives names are Alice, Bert, Cheryl, David and Enid.\nThe cars in the first space is red.\nA blue car is parked between the red car and the green car.\nThe car in the last space in purple.\nThe secretary drives a yellow car.\nAlice's car is parked next to David's.\nEnid drives a green car.\nBert's car is parked between Cheryl's and Enid's.\nDavid's car is parked in the last space.\nWho is the CEO?",
+    "options": ["Alice", "Bert", "Cheryl", "David"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "At a small company, parking spaces are reserved for the top executives : CEO, President, Vice President, Secretary and treasurer with the spaces lined up in that order. The parking lot guard can tell at a glance if the cars are parked correctly by looking at the color of the cars. The cars are yellow, green, purple, red and blue and the executives names are Alice, Bert, Cheryl, David and Enid.\nThe cars in the first space is red.\nA blue car is parked between the red car and the green car.\nThe car in the last space in purple.\nThe secretary drives a yellow car.\nAlice's car is parked next to David's.\nEnid drives a green car.\nBert's car is parked between Cheryl's and Enid's.\nDavid's car is parked in the last space.\nWhat color is the vice president's car?",
+    "options": ["Green", "Yellow", "Blue", "Purple"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Cricket clubs in five towns A,B,C,D and E have one team each named P,Q,R,S, and T not necessarily in the same order.\nThe team in A has beaten R,P and S. Q has beaten the teams in E,C and A. Team R is in B and the team in C is not S.\nWhere is the team Q?",
+    "options": ["A", "B", "C", "D"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Cricket clubs in five towns A,B,C,D and E have one team each named P,Q,R,S, and T not necessarily in the same order.\nThe team in A has beaten R,P and S. Q has beaten the teams in E,C and A. Team R is in B and the team in C is not S.\nWhat is the team P?",
+    "options": ["A", "B", "C", "D"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Cricket clubs in five towns A,B,C,D and E have one team each named P,Q,R,S, and T not necessarily in the same order.\nThe team in A has beaten R,P and S. Q has beaten the teams in E,C and A. Team R is in B and the team in C is not S.\nWhich team is in A?",
+    "options": ["P", "Q", "S", "T"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "A road network has parallel roads, which are equidistant form each other and running north-south or east-west only. The road junctions A, B, C, H, and X are such that A is east of B and west of C. H is south-west of C and south-east of B. B is south-each of X. Which of the junctions are the farthest south and the farthest east?",
+    "options": ["H,B", "H,C", "C,H", "B,H"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Four players A,B,C and D have to form into two pairs, however, no pair can play together more than seven times in a row. A and B have played seven games in a row. C and D have three in a row. C does not want to work with A. Who should partner with B?",
+    "options": ["A", "D", "C", "cannot be determined"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If ROSE is coded as 6821, CHAIR is coded as 73456 and PREACH is coded as 961473, then the code for SEARCH is :",
+    "options": ["216473", "214673", "214763", "246173"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The sum of ages of a daughter and mother is 63 years. Four years back mother's age was 4 times that of daughter's age at that time. What is the present age of the mother?",
+    "options": ["46 years", "48 years", "50 years", "59 years"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "A watch which gains 10 seconds in 5 minutes was set correct at 9.00 AM. When the watch indicated 20 minutes past 7.00 PM in the same evening, the correct time is :",
+    "options": ["7.00 PM", "7.40 PM", "7.10 PM", "8.00 PM"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Father is aged three times more than the age of his son Ronit. After 8 years, he would be two and a half times of Ronit's age. After further 8 years, how many times would he be of Ronit's age?",
+    "options": ["2 times", "3 times", "2.2 times", "3.5 times"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "What is the number that comes next in the series?\n1,2,3,6,11,20,37,68,__",
+    "options": ["105", "124", "125", "126"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  }
+]

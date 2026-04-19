@@ -13,7 +13,7 @@ client = genai.Client(
     api_key=os.getenv("API_KEY"),  # Read API key from .env
 )
 
-model = "gemini-2.5-pro"
+model = "gemini-3.1-pro-preview"
 
 
 def generate_subject_questions_JEE(subject, mcq_count, nvq_count):
@@ -180,8 +180,25 @@ def generate_neet_paper():
     return question_paper
 
 
+NIMCET_SYLLABUS_2026 = {
+    "Mathematics": """Set Theory and Logic: Concepts of Sets- Unions, Intersection, Difference, Symmetric difference, Cartesian Product, Cardinality, Functions and Relations, Venn Diagrams, Truth tables, Connectives, Tautology and Contradictions.
+Probability and Statistics: Basic concepts of probability theory, Averages, Dependent and independent events, Bayes' Theorem, Mean, Median, Mode, Mean deviation, Standard deviation, variance, Moments, and Frequency distributions.
+Algebra: Fundamental operations in algebra, Quadratic equations with real coefficients, Relation between roots & coefficients, Symmetric functions of roots and their sums, indices, logarithms, exponentials, arithmetic, geometric, harmonic progressions, finite sums of powers of natural numbers. Matrices & determinants, simultaneous linear equations, Permutations & Combinations, and Binomial Theorem.
+Coordinate Geometry: Rectangular Cartesian coordinates, distance formulae, equation of a line (various forms), and intersection of lines, pair of straight lines, equations of a circle, parabola, ellipse, and hyperbola, Section formula, Tangents and normal to circles and conics.
+Calculus: Functions on real numbers, limits of functions, left and right limits, limits at infinity, continuous functions, applications of the intermediate value theorem, differentiation, applications of differentiation, tangents, normals, simple examples of maxima and minima, applications of Rolle’s theorem, Mean Value Theorem, Integration of functions- by parts, by substitution, by partial fraction, integration of odd & even functions, periodic, definite integrals, area computations.
+Trigonometry: Trigonometric functions, identities, principal value of inverse trigonometric functions, properties of triangles, solution of triangles, heights and distances, trigonometric equations and their general solutions.""",
+    "Logical Reasoning": """Verbal Reasoning, Non-verbal Reasoning, Deductive Reasoning, Inductive Reasoning -Topics Include blood relations, coding-decoding, direction test, seating arrangement, puzzles, inputoutput, syllogism, alphanumeric series, mirror images, statements and conclusions/arguments.
+Problem solving, Critical thinking, Data Interpretation, Numerical Reasoning, Data Sufficiency, Data Visualization.""",
+    "Computer": """Computer Basics: Organization of a computer, Central Processing Unit (CPU), structure of instructions in CPU, input/output devices, computer memory, and back-up devices.
+Data Representation: Representation of characters, integers, and fractions, binary and hexadecimal representations, binary arithmetic: addition, subtraction, multiplication, division, simple arithmetic, and two’s complement arithmetic, floating point representation of numbers, Boolean algebra.
+Computer Hardware: Input Devices: Keyboard, mouse, scanner, etc. Output Devices: Monitor, printer, speakers, etc. Storage Devices: Hard drives, SSDs, USB drives, etc. Memory: RAM, ROM, cache, etc.
+Computer Software: Operating Systems: Windows, macOS, Linux, Android, etc. System Software: Utility programs, device drivers. Application Software: Basic concepts & tools.
+Internet and Email: Web Browsing - Understanding how the internet works and how to navigate it. Email - Sending, receiving, and managing emails. Online Security -Basic awareness of online threats and safety measures.""",
+    "English": """Comprehension of written text, usage of words (vocabulary), Grasp of Grammatical Patterns (usage of sentence forms, sounds, and word formation processes), meaning of words and phrases, technical writing, and overall accuracy and fluency in expressions of English required for technical education."""
+}
+
 def generate_subject_questions_NIMCET(
-    subject, mcq_count, years=["2024", "2023", "2022"]
+    subject, mcq_count, years=["2024", "2023", "2022","2021","2020","2019","2018","2017","2016","2015","2014","2013","2012","2011","2010","2009","2008"]
 ):
     # Load all available PYQs from different years
     all_pyqs = []
@@ -233,9 +250,16 @@ def generate_subject_questions_NIMCET(
 
     # Get the structure from the most recent year
     latest_structure = all_pyqs[0]["questions"]
+    
+    current_syllabus = NIMCET_SYLLABUS_2026.get(subject, "")
 
     prompt = f"""
-        You are an expert in NIMCET-level question paper generation. Below are previous year questions (PYQs) from {', '.join(years)}:
+        You are an expert in NIMCET-level question paper generation.
+        
+        REVISED SYLLABUS FOR {subject.upper()} (Effective 2026):
+        {current_syllabus}
+        
+        Below are previous year questions (PYQs) from {', '.join(years)} to help you understand the style, format, depth, and complexity:
         
         {json.dumps(all_pyqs, indent=2)}
         
@@ -243,13 +267,14 @@ def generate_subject_questions_NIMCET(
         - {subject}: {mcq_count} Brand New Multiple-Choice Questions (MCQs)
         
         Guidelines:
-        - Ensure questions follow the NIMCET difficulty level and cover various syllabus topics.
+        - STRICTLY base your questions ONLY on the REVISED SYLLABUS provided above.
+        - Analyze the PYQs to see exactly how questions were asked and mimic their difficulty level and tricky logic.
+        - DO NOT directly repair, repeat, or trivially rephrase the PYQs. Make completely NEW, original, and thought-provoking questions.
         - Provide correct answers for each question.
-        - MCQs must have four options with the correct answer index.
-        - Output format (JSON):{output_format}
+        - MCQs must have four logically sound options with the correct answer index.
+        - Output format must strictly match this structure (JSON):
+        {output_format}
         - Do not generate more or less than {mcq_count} questions.
-
-        Note: Don't just give same questions from the example, generate new ones based on the guidelines.
     """
 
     contents = [
@@ -257,7 +282,7 @@ def generate_subject_questions_NIMCET(
     ]
 
     config = types.GenerateContentConfig(
-        temperature=0.5,
+        temperature=0.75,
         top_p=0.95,
         top_k=64,
         max_output_tokens=65536,

@@ -1,0 +1,452 @@
+[
+  {
+    "subject": "Mathematics",
+    "question": "The distance between the parallel lines $y = 2x + 4$ and $6x = 3y + 5$",
+    "options": [
+      "$\\frac{17}{\\sqrt{3}}$",
+      "1",
+      "$\\frac{17}{\\sqrt{5}}$",
+      "$\\frac{17\\sqrt{5}}{15}$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If any tangent to the ellipse $\\frac{X^2}{a^2} + \\frac{Y^2}{b^2} = 1$ intercepts equal length $l$ on the axes, then $l =$",
+    "options": [
+      "$a^2 + b^2$",
+      "$\\sqrt{a^2 + b^2}$",
+      "$(a^2 + b^2)^2$",
+      "None"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The rate of increase of length of the shadow of a man 2 meters height, due to a lamp at 10 meters height, when he is moving away from it at the rate of 2m/sec is",
+    "options": ["$1/2$ m/sec", "$2/5$ m/sec", "$1/3$ m/sec", "5 m/sec"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the two pairs of lines $X^2 - 2mXY - Y^2 = 0$ and $X^2 - 2nXY - Y^2 = 0$ are such that one of the them represents the bisector of the angles between the other, then",
+    "options": [
+      "$mn + 1 = 0$",
+      "$mn - 1 = 0$",
+      "$1/m + 1/n = 0$",
+      "$1/m - 1/n = 0$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\sin^{-1} \\frac{2a}{1+a^2} - \\cos^{-1} \\frac{1-b^2}{1+b^2} = \\tan^{-1} \\frac{2x}{1-x^2}$ then $x$ is equal to",
+    "options": ["$a$", "$b$", "$\\frac{a+b}{1-ab}$", "$\\frac{a-b}{1+ab}$"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let $\\omega \\neq 1$ be a cube root of unity and $i = \\sqrt{-1}$. The value of the determinant $\\begin{vmatrix} 1 & 1 + i + \\omega^2 & \\omega^2 \\\\ 1 - i & -1 & \\omega^2 - 1 \\\\ -i & -i + \\omega - 1 & -\\omega^3 \\end{vmatrix}$ is",
+    "options": ["0", "$\\omega$", "$\\omega^2$", "$1+\\omega^2$"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If C is the middle point of AB and P is any point outside AB, then",
+    "options": [
+      "$\\vec{PA} + \\vec{PB} = \\vec{PC}$",
+      "$\\vec{PA} + \\vec{PB} = 2\\vec{PC}$",
+      "$\\vec{PA} + \\vec{PB} + \\vec{PC} = \\vec{O}$",
+      "$\\vec{PA} + \\vec{PB} + 2\\vec{PC} = \\vec{O}$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If a, b, c are in A.P., p, q, r are in H.P. and ap, bq, cr are in G.P. then $\\frac{p}{r} + \\frac{r}{p}$ is equal to",
+    "options": [
+      "$\\frac{a}{c} - \\frac{c}{a}$",
+      "$\\frac{a}{c} + \\frac{c}{a}$",
+      "$\\frac{b}{q} - \\frac{a}{p}$",
+      "$\\frac{b}{q} + \\frac{a}{p}$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The position vector of A, B, C and D are $\\hat{i} + \\hat{j} + \\hat{k}$, $2\\hat{i} + 5\\hat{j}$, $3\\hat{i} + 2\\hat{j} - 3\\hat{k}$ and $\\hat{i} - 6\\hat{j} - \\hat{k}$, then the angle between $\\vec{AB}$ and $\\vec{CD}$ is",
+    "options": ["0", "$\\frac{\\pi}{4}$", "$\\frac{\\pi}{2}$", "$\\pi$"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of $X^4 + 9X^3 + 35X^2 - X + 4$ for $X = -5 + 2\\sqrt{-4}$ is",
+    "options": ["0", "–160", "160", "–164"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A vector $\\vec{a}$ has components 2p and 1 with respect to a rectangular Cartesian system. This system is rotated through a certain angle about the origin in the counter clockwise sense. If, with respect to the new system, $\\vec{a}$ has components $p + 1$ and $1$, then",
+    "options": [
+      "$p = 0$",
+      "$p = 1$ or $p = 1/3$",
+      "$p = -1$ or $p = 1/3$",
+      "$p = 1$ or $p = -1$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The average marks per student in a class of 30 students were 45. On rechecking it was found that marks had been entered wrongly in two cases. After correction these marks were increased by 24 and 34 in the two cases. The corrected average marks per student are",
+    "options": ["75", "60", "56", "47"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $I_1 = \\int_0^1 2^{x^2} dx, I_2 = \\int_0^1 2^{x^3} dx, I_3 = \\int_1^2 2^{x^2} dx$ and $I_4 = \\int_1^2 2^{x^3} dx$ then",
+    "options": ["$I_3 = I_4$", "$I_3 > I_4$", "$I_2 > I_1$", "$I_1 > I_2$"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "One hundred identical coins, each with probability p of showing up a head, are tossed. If $0 < p < 1$ and if the probability of heads on exactly 50 coins is equal to that of heads on exactly 51 coins then the value of p, is",
+    "options": ["1/2", "49/101", "50/101", "51/101"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of the integral $\\int_0^{\\pi/4} \\frac{\\sin x + \\cos x}{3 + \\sin 2x} dx$ is",
+    "options": [
+      "$\\log 2$",
+      "$\\log 3$",
+      "$\\frac{1}{4} \\log 3$",
+      "$\\frac{1}{8} \\log 3$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "India plays two matches each with West Indies and Australia. In any match the probabilities of India getting points 0, 1 and 2 are 0.45, 0.05 and 0.50 respectively. Assuming that the outcomes are independent, the probability of India getting at least 7 points is",
+    "options": ["0.8750", "0.0875", "0.0625", "0.0250"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the tangents at the extremities of a focal chord of the parabola $x^2 = 4ay$ meet the tangent at the vertex at points whose abscissa are $x_1$ and $x_2$ then $x_1x_2 =$",
+    "options": ["$a^2$", "$a^2 - 1$", "$a^2 + 1$", "$-a^2$"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Set A has 3 elements and set B has 4 elements. The number of injection that can be defined from A to B is",
+    "options": ["144", "12", "24", "64"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The angle of intersection of the cardioids $r = a(1 + \\cos \\theta), r = a(1 - \\cos \\theta)$ is",
+    "options": ["$\\pi/2$", "0", "$\\pi/4$", "$\\pi$"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Identify the wrong statement from the following :",
+    "options": [
+      "If A and B are two sets, then $A - B = A \\cap \\bar{B}$",
+      "If A, B and C are sets, then $(A - B) - C = (A - C) - (B - C)$",
+      "If A and B are two sets, then $\\bar{A \\cup B} = \\bar{A} \\cap \\bar{B}$",
+      "If A, B and C are sets, then $A \\cap B \\cap C \\subseteq A \\cap B$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The circle $x^2 + y^2 = 9$ is contained in the circle $x^2 + y^2 - 6x - 8y + 25 = c^2$ if",
+    "options": ["$c = 2$", "$c = 3$", "$c = 5$", "$c = 10$"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A person stands at a point A due south of a tower and observes that its elevation is 60°. He then walks westwards towards B, where the elevation is 45°. At a point C on AB produced, he finds it to be 30°. Then AB/BC is equal to",
+    "options": ["1/2", "1", "2", "5/2"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The point (4, 1) undergoes the following three transformation successively :\n(i) reflection about the line y = x\n(ii) transformation through a distance 2 unit along the positive direction of x-axis\n(iii) rotation through an angle of $\\pi/4$ about the origin in the anticlockwise direction. The final position of the point is given by the coordinates.",
+    "options": [
+      "$\\left(-\\frac{1}{\\sqrt{2}}, \\frac{7}{\\sqrt{2}}\\right)$",
+      "$\\left(\\frac{1}{\\sqrt{2}}, \\frac{7}{\\sqrt{2}}\\right)$",
+      "$(-2, 7\\sqrt{2})$",
+      "$(\\sqrt{2}, 7\\sqrt{2})$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "In a triangle ABC, R is circumradius and $8R^2 = a^2 + b^2 + c^2$. The triangle ABC is",
+    "options": [
+      "Acute angled",
+      "Obtuse angled",
+      "Right angled",
+      "None of these"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $a \\neq p, b \\neq q, c \\neq r$ and $\\begin{vmatrix} p & b & c \\\\ a & q & c \\\\ a & b & r \\end{vmatrix} = 0$, then the value of $\\frac{p}{p-a} + \\frac{q}{q-b} + \\frac{r}{r-c}$",
+    "options": ["0", "1", "–1", "2"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of $\\sqrt{3} \\cot 20^\\circ - 4\\cos 20^\\circ$ is",
+    "options": ["1", "–1", "0", "None"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $y = a \\log x + bx^2 + x$ has its extremum value at $x = -1$ and $x = 2$, then",
+    "options": [
+      "$a = 2, b = -1$",
+      "$a = -2, b = 1/2$",
+      "$a = 2, b = -1/2$",
+      "$a = 1, b = -1/2$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let $\\vec{a}$, $\\vec{b}$ and $\\vec{c}$ be three non zero vectors, no two of which are collinear and the vector $\\vec{a} + \\vec{b}$ is collinear with $\\vec{c}$ while $\\vec{b} + \\vec{c}$ is collinear with $\\vec{a}$, then $\\vec{a} + \\vec{b} + \\vec{c}$ is equal to",
+    "options": ["$\\vec{a}$", "$\\vec{b}$", "$\\vec{c}$", "None"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of ‘a’ for which the system of equations $a^3x + (a+1)^3y + (a+2)^3z = 0$, $ax + (a+1)y + (a+2)z = 0$, $x + y + z = 0$ has a non zero solution, is",
+    "options": ["1", "0", "–1", "None"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The vectors $\\vec{a}$, $\\vec{b}$ and $\\vec{c}$ are equal in length and taken pairwise make equal angles. If $\\vec{a} = \\hat{i} + \\hat{j}$, $\\vec{b} = \\hat{j} + \\hat{k}$, and $\\vec{c}$ make an obtuse angle with the base vector i, then $\\vec{c}$ is equal to",
+    "options": [
+      "$\\hat{i} + \\hat{k}$",
+      "$-\\hat{i} + 4\\hat{j} - \\hat{k}$",
+      "$-\\frac{1}{3}\\hat{i} + \\frac{4}{3}\\hat{j} - \\frac{1}{3}\\hat{k}$",
+      "$\\frac{1}{3}\\hat{i} + \\frac{4}{3}\\hat{j} - \\frac{1}{3}\\hat{k}$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "In a Poisson distribution if $P[X = 3] = \\frac{1}{4} P[X = 4]$ then $P[X = 5] = kP[X = 7]$ where k equals to",
+    "options": ["$1/7$", "$21/128$", "$128/21$", "$21/256$"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The area between the curves $y = 2 - x^2$ and $y = x^2$ is",
+    "options": ["8/3", "4/3", "2/3", "5/3"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A coin is tossed three times. The probabilities of getting head and tail altermatively is",
+    "options": ["1/11", "2/3", "3/4", "1/4"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "$\\int \\log_{10} x \\, dx$ is",
+    "options": [
+      "$(x - 1) \\log_e x + c$",
+      "$\\log_e 10 . x \\log_e \\left(\\frac{x}{e}\\right) + c$",
+      "$\\log_{10} e . x \\log_e \\left(\\frac{x}{e}\\right) + c$",
+      "$\\frac{1}{x} + c$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $(1 + x)^n = a_0 + a_1 x + a_2 x^2 + \\dots + a_n x^n$, then $\\left(1 + \\frac{a_1}{a_0}\\right)\\left(1 + \\frac{a_2}{a_1}\\right)\\left(1 + \\frac{a_3}{a_2}\\right) \\dots \\left(1 + \\frac{a_n}{a_{n-1}}\\right)$ is equal to",
+    "options": [
+      "$\\frac{n^n}{n!}$",
+      "$\\frac{(n+1)^n}{n!}$",
+      "$\\frac{n^{n+1}}{(n+1)!}$",
+      "$\\frac{(n-1)^n}{n!}$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of the integral $\\int_3^6 \\frac{\\sqrt{x}}{\\sqrt{9 - x} + \\sqrt{x}} dx$ is",
+    "options": ["1", "1/2", "3/2", "2"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A survey shows that 63% of the Americans like cheese where as 76% like apples. If x% of the Americans like both cheese and apples, then we have",
+    "options": ["$x \\ge 39$", "$x \\le 63$", "$39 \\le x \\le 63$", "None"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $f(x) = \\begin{cases} x \\sin(1/x) & \\text{for } x \\neq 0 \\\\ 0 & \\text{for } x = 0 \\end{cases}$ then",
+    "options": [
+      "$f$ is a continuous function",
+      "$f'(0^+)$ exists but $f'(0^-)$ does not exist",
+      "$f'(0^+) \\neq f'(0)$",
+      "$f'(0^+)$ and $f'(0^-)$ do not exist"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "How many proper subset of {1, 2, 3, 4, 5, 6, 7} contain the number 1 and 7 ?",
+    "options": ["7", "31", "32", "62"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The angle between the asymptotes of the hyperbola $27x^2 - 9y^2 = 24$ is",
+    "options": ["60°", "120°", "30°", "150°"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let $f(x) = \\frac{1}{\\sqrt{1 - x}} + \\frac{1}{\\sqrt{x + 3}}$ ? Then the domain of the real function f is",
+    "options": [
+      "$(-\\infty, -3) \\cup (1, \\infty)$",
+      "$(1, \\infty)$",
+      "$(-\\infty, 1) \\cap (-3, \\infty)$",
+      "$x \\neq 1, x \\neq -3$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\int_{-12}^{10} f(x) dx = 6, \\int_{100}^{-10} f(x) dx = -2$, and $\\int_{-100}^{-5} f(x) dx = 4$ then $\\int_{-5}^{12} f(x) dx = ?$",
+    "options": ["0", "-12", "4", "-2"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "In a triangle ABC,where A=(-4,2),B=(2,1) and C=(-4,-5), find $\\angle ACB$.",
+    "options": ["30°", "45°", "25°", "60°"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\cos\\theta - 4\\sin\\theta = 1$, find $\\sin\\theta + 4\\cos\\theta$",
+    "options": ["$\\pm 1$", "0", "$\\pm 2$", "$\\pm 4$"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Derivative of $\\sin^2 x$ with respect to $2x^2$ is :",
+    "options": [
+      "$\\frac{1}{2} \\cos^2 x$",
+      "$\\cos\\left(\\frac{x^2}{2}\\right)$",
+      "$2\\cos x^2$",
+      "$\\frac{1}{2} \\cos x^2$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "$f(x) = \\begin{vmatrix} x & 8 & 8 \\\\ 2 & x & 8 \\\\ 2 & 2 & x \\end{vmatrix}$ has local maximum at ?",
+    "options": ["4", "-4", "16", "$\\sqrt{8^2 - 2^2}$"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Consider the matrix $A = \\begin{bmatrix} 1 & -2 & 2 \\\\ 0 & 2 & 0 \\\\ 1 & 1 & 3 \\end{bmatrix}$. Then $A^3 - 9A$ is",
+    "options": [
+      "an identity matrix",
+      "a matrix with all entries 10",
+      "a diagonal matrix",
+      "None of these"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "$\\sum_{k=1}^n \\frac{1}{k(k+1)}$ is equal to",
+    "options": [
+      "$\\frac{1}{n}$",
+      "$\\frac{1}{n+1}$",
+      "$\\frac{n}{n+1}$",
+      "$\\frac{1}{n(n+1)}$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Find a value of $\\sqrt{2 + \\sqrt{2 + 2\\cos 4\\theta}}$",
+    "options": [
+      "$2\\cos 2\\theta$",
+      "$\\cos 2\\theta$",
+      "$2\\cos \\theta$",
+      "$\\sin 2\\theta$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of $\\sin(2\\sin^{-1}(0.6))$",
+    "options": ["0.96", "$\\sin(1.2)$", "0.48", "$\\sin(1.6)$"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  }
+]

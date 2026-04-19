@@ -1,0 +1,167 @@
+[
+  {
+    "subject": "General English",
+    "question": "Fill in the blank with appropriate question tag.\nShe lives in Chennai now,_______.",
+    "options": ["lives she?", "doesn't she?", "does she?", "she does?"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Pick out the correct word that best expresses the meaning of 'prudent'.",
+    "options": ["Skillful", "Efficient", "Wise", "Profitable"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the correct article for the sentence below.\n\"Many __________ flower is born to blush unseen\"",
+    "options": ["an", "the", "a", "No article"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Fill in the blank with a correct word :\nThe kitten was soaked to the skin from the _______.",
+    "options": ["craven", "storm", "abyss", "wind"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Fill in the blank with the correct word :\nThe ship was attacked by ________ near a deserted Island.",
+    "options": ["burglars", "gangsters", "pirates", "thieves"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "From the given alternatives, choose the one which best expresses the given sentence in indirect/direct Speech.\nThe boy said, \"who dare call you a thief?\"",
+    "options": [
+      "The boy enquired who dared call him a thief.",
+      "The boy asked who called him a thief.",
+      "The boy told that who dared call him a thief.",
+      "The boy wondered who dared call a thief."
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the most suitable antonym for the word \"Rude\"",
+    "options": ["Sweet", "Polite", "Decent", "Gentle"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the word that matches suitably with the word underlined in the given sentence. \"Developing indigenous techonology is important to lead the nation to self-sufficiency.\"",
+    "options": ["Intelligent", "Native", "Capitalistic", "Wise"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the correct form of verb for the sentence below.\nI propose that the meeting ________ put off till Sunday next.",
+    "options": ["will be", "is to be", "should be", "be"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Fill in the blank with correct preposition.\nThe policeman told me to keep __________ the left.",
+    "options": ["for", "of", "to", "by"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the most suitable synonym for the word \"Amicable\".",
+    "options": ["Just", "Pleasant", "Peaceful", "Complete"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the one which can be substituted for the sentence \"The study of ancient societies\"",
+    "options": ["Anthropology", "Archeology", "History", "Ethnology"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Population explosion, malnutrition and ill health are the problems that modern scientists examine for solutions. The agriculture scientists are required to concentrate not only on large production but also more on improved varieties and protein-rich foods to ward off the ills of malnutrition. The medical scientists responsibilities is not limited to the manufacture of drugs to cure diseases, they must invent medicines to protect humanity from epidemics. No less improtant is the area of war and weapons. The large scale devastation in Japan by the atom bomb is a stigma on the fair name of scientist. The modern scientist must make a point not to help in the proliferation of atomic weapons. They should rather devote their energies to the peaceful uses of atomic energy for the emancipation of humanity from hunger and diseases. They must realise that the benefit of their researches and inventions should reach the hands of all, the rich and poor alike.\nModern scientists must make a point not to help :",
+    "options": [
+      "In the peaceful use of atomic energy",
+      "In the prevention of malnutrition",
+      "In the proliferation of atomic weapons",
+      "In the removal of ill health"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Population explosion, malnutrition and ill health are the problems that modern scientists examine for solutions. The agriculture scientists are required to concentrate not only on large production but also more on improved varieties and protein-rich foods to ward off the ills of malnutrition. The medical scientists responsibilities is not limited to the manufacture of drugs to cure diseases, they must invent medicines to protect humanity from epidemics. No less improtant is the area of war and weapons. The large scale devastation in Japan by the atom bomb is a stigma on the fair name of scientist. The modern scientist must make a point not to help in the proliferation of atomic weapons. They should rather devote their energies to the peaceful uses of atomic energy for the emancipation of humanity from hunger and diseases. They must realise that the benefit of their researches and inventions should reach the hands of all, the rich and poor alike.\nWhat does the expression 'malnutrition' used in the passage mean?",
+    "options": [
+      "Excessive nourishment",
+      "Prevention of epidemics",
+      "Proliferation of diseases",
+      "Lack of proteins"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The synonym of 'stupendous' is :",
+    "options": ["Astounding", "Horrible", "Appealing", "Comforting"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Select the pair with same relationship AFTER : BEFORE",
+    "options": [
+      "FIRST : SECOND",
+      "CONTEMPORARY : HISTORIC",
+      "PRESENT : PAST",
+      "SUCCESSOR : PREDECESSOR"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the one which can be substituted for the pharse \"A person who insists on something\".",
+    "options": ["Disciplinarian", "Stickler", "Instantaneous", "Boaster"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Change the voice :\n'Why did your brother write such a letter'?",
+    "options": [
+      "Why was such a letter written by your brother?",
+      "Why did your brother write such a letter?",
+      "Why was such a letter wrote by your brother?",
+      "Why does your brother write such letter?"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The first and the last parts of a sentence are numbered as 1 and 6. The rest of the sentence is split into four parts named P,Q,R,S. These four parts are not given in their proper order. Read the sentence and find out which of the four combinations in correct :\n1. Let's never\n(P) that food\n(Q) virtually impossible\n(R) forget\n(S) is seductive and\n6. to resist",
+    "options": ["SRPQ", "PSRQ", "QSRP", "RPSQ"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Arrange the given words to from a meaningful sentence\na) dejected b) students c) lot d) the e) a d) were",
+    "options": ["dbfeac", "abfecd", "eacfbd", "afebcd"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  }
+]

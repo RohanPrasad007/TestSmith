@@ -1,0 +1,347 @@
+[
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "The ideal candidate to occupy the office farthest from Mr. Brown would be",
+    "options": ["Miss Hardy", "Mr. Mike", "Mr. Tim", "Mr. Donald"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "The three employees who are smokers should be seated in the offices.",
+    "options": ["1, 2 and 4", "2, 3 and 6", "1, 2 and 6", "1, 2 and 3"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "The ideal office for Mr. Mike would be",
+    "options": ["2", "6", "1", "3"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "A train takes 18 seconds to pass completely through a station 162 m long and 15 seconds through another station 120 m long, at the same speed. What is the length of the train, in meters ?",
+    "options": ["70", "80", "90", "100"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "In a row of children facing North, Shamika is third to the right of Nikhil, who is 17th from the right end of the row. Ravi is 5th to the left of Shamika and is 20th from the left end. Totally how many children are there in the row ?",
+    "options": ["37", "38", "39", "None of these"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "Given that\ni) some apples are blackberries.\nii) Some doughnuts are apples.\niii) No coconut is a doughnut.\niv) All blackberries are coconuts.\nWhich of the following statements is false ?",
+    "options": [
+      "Some blackberries are doughnuts",
+      "Some coconuts are apples",
+      "All coconuts are not apples",
+      "All doughnuts are not coconuts"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "A blacksmith has five iron articles A, B, C, D and E, each having a different weight.\nA weighs twice as much as B\nB weighs four and half times as much as C\nC weighs half as much as D\nD weighs half as much as E\nE weighs less than A but more than C\nWhich of the following article is heaviest in weight ?",
+    "options": ["A", "B", "C", "D"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "Which of the following represents the descending order of weights of the articles ?",
+    "options": [
+      "A, B, E, D, C",
+      "B, D, E, A, C",
+      "A, B, C, D, E",
+      "C, D, E, B, A"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "Find the missing element in the series\nA, CD, GHI, ........., UVWXY",
+    "options": ["LMNO", "MNOP", "NOPQ", "OPQR"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "In a code language, FRIEND is coded as GTLISJ. Which of the following is coded as HWDVI in that language ?",
+    "options": ["HAPPY", "GUARD", "BEADS", "SPEED"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "There are four brothers Alan, Bob, Carl and Dave. Dave is two years older than Bob. Bob is one year younger than Carl. Alan, who is 34, is two years younger than Carl. Who is the oldest ?",
+    "options": ["Alan", "Bob", "Carl", "Dave"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "If A is standing on step 1, which of the following is true?",
+    "options": [
+      "B is standing on step 2",
+      "C is standing on step 4",
+      "E is standing on step 3",
+      "D is standing one step higher than C"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "If D is standing on step 1, on which step A could be standing ?",
+    "options": ["2 or 4 only", "3 or 5 only", "3 or 4 only", "4 or 5 only"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "If there are two steps in between the steps on which A and D are standing, A must be standing on which of the following steps ?",
+    "options": ["3", "4", "5", "6"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "A doctor said to his compounder \"I go to see the patients at their residence after every 3 hours 30 minutes. I have already gone to the patient 1 hour 20 minutes ago and next time I shall go at 1.40 P.M.\" At what time this information was given to the compounder by the doctor ?",
+    "options": ["11.30 A.M.", "11.20 A.M.", "10.10 A.M.", "None of these"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "Which pair of numbers comes next in the following series ?\n42 40 38 35 33 31 28",
+    "options": ["25 22", "26 23", "26 24", "25 23"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "Karan and Arjun run a 100 metres race, where Karan beats Arjun by 10 metres. To do a favour to Arjun, Karan starts 10 metres behind the starting line in a second 100 metre race. They both run at their earlier speeds. Which of the following is true in connection with the second race ?",
+    "options": [
+      "Karan and Arjun reach the finishing line simultaneously",
+      "Arjun beats Karan by 1 metre",
+      "Arjun beats Karan by 11 metres",
+      "Karan beats Arjun by 1 metre"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "In a cricket season, India defeated Australia twice. West Indies defeated India twice. Australia defeated West Indies twice. India defeated New Zealand twice and West Indies defeated New Zealand twice. Which country has lost most number of times ?",
+    "options": ["India", "Australia", "New Zealand", "West Indies"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "Pointing to a woman, Nirmal said \"She is the daughter of my wife's grandfather's only child\". How is the woman related to Nirmal ?",
+    "options": ["Wife", "Sister-in-law", "Sister", "None of these"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "In a family of 6 persons, there are two couples. The lawyer is the head of the family and has two sons - Mukesh and Rakesh both teachers. Mrs. Reena and her mother-in-law both are lawyers. Mukesh's wife is a doctor and they have a son, Ajay.\nWhich of the following is definitely a couple ?",
+    "options": [
+      "Lawyer - Teacher",
+      "Doctor - Lawyer",
+      "Teacher - Teacher",
+      "None of these"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "What is the profession of Rakesh's wife ?",
+    "options": ["Teacher", "Doctor", "Lawyer", "Can not be determined"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "What is/was Ajay's grandfather's occupation ?",
+    "options": ["Teacher", "Lawyer", "Doctor", "Can not be determined"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "If the third day of a month falls on Friday, what day will be on the fourth day after twenty first of the month ?",
+    "options": ["Monday", "Tuesday", "Saturday", "Thursday"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "Ana is a girl and has the same number of brothers as sisters. Andrew is a boy and has twice as many sisters as brothers. Ana and Andrew are the children of Emma. How many children does Emma have ?",
+    "options": ["2", "3", "5", "7"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "Shyam is taller than Pradeep and Pradeep is as tall as Anurag. But Anand is shorter than Suresh, who is as tall as Anurag. If Pradeep is taller than Praveen, who is the tallest of all ?",
+    "options": ["Pradeep", "Praveen", "Suresh", "Shyam"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "When Rajeev was born his father was 32 years older than his brother and his mother was 25 years older than his sister. If Rajeev's brother is 6 years older than Rajeev and his mother is 3 years younger than his father, how old was Rajeev's sister when he was born?",
+    "options": ["15 years", "14 years", "7 years", "10 years"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "Dhoni starts from his office at 8 A.M. on a Sunday morning, travels 10 km towards West and then turns to his left and walks 8 km. Then he again turns to his left and walks 4 km and then stops. What is the shortest distance to his office from the point where he stopped ?",
+    "options": ["18 km", "8 km", "10 km", "None"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "A treasure chest has less than 100 gold coins. The number of coins is\ni) One more than a multiple of 3\nii) Two more than a multiple of 4\niii) Three more than a multiple of 5 and\niv) Four more than a multiple of 6\nHow many coins are there in the chest ?",
+    "options": ["58", "88", "98", "38"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "Read the statements and then decide which of the conclusions logically follow.\nStatements :\n1) All mangoes are golden in colour.\n2) No golden coloured things are cheap.\nConclusions :\ni) All mangoes are cheap.\nii) Golden coloured mangoes are not cheap.",
+    "options": [
+      "Only conclusion i) follows",
+      "Only conclusion ii) follows",
+      "Either i) or ii) follows",
+      "Neither i) nor ii) follows"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "If no P's are K's, which of the following must be true ?\ni) All G's are H's\nii) All G's are J's or K's\niii) All J's and K's are G's\niv) All L's are K's\nv) All N's are M's\nvi) No M's are G's",
+    "options": [
+      "All P's are J's",
+      "If any P is a G, it is a J",
+      "No P is an H",
+      "If any P is an H, it is a G"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "Which of the following is inconsistent with one or more the conditions ?",
+    "options": [
+      "All H's are G's",
+      "All H's that are not G's are M's",
+      "Some H's are both M's and G's",
+      "No M's are H's"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "From the information given below :\nA * B means A and B are of the same age\nA – B means B is younger than A\nA + B means A is younger than B\nWhat does Sachin * Mohan – Ravi mean ?",
+    "options": [
+      "Sachin is youngest",
+      "Ravi is youngest",
+      "Sachin is oldest",
+      "Mohan is oldest"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "Jimmy saw the time while going to the tennis court. He saw the hour hand is 20° away from 4. After he returned from tennis court, he noticed that the hour hand is 20° away from 4. If the took ten minutes to go to tennis court and he walked at the same speed while going to the tennis court and while returning, how much time did he spent at the tennis court ?",
+    "options": ["60 minutes", "80 minutes", "70 minutes", "50 minutes"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "There are 8 balls looking alike, seven of which have equal weight and one is slightly heavier. The weighing balance is of unlimited capacity. Using this balance, the minimum number of weighings required to identify the heavier ball is",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "The best answer to \"Who is the tallest ?\" is\n1. Anu is taller then Cini.\n2. Eenu is shorter than Binu.\n3. Anu is shorter than Dany.\n4. Eenu is taller than Anu.",
+    "options": ["Dany", "Binu", "Dany or Binu", "Both Dany and Binu"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "Who is the shortest ?\n1. Anu is taller then Cini.\n2. Eenu is shorter than Binu.\n3. Anu is shorter than Dany.\n4. Eenu is taller than Anu.",
+    "options": ["Cini", "Anu or Cini", "Eenu", "Insufficient data to conclude"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "Which of the following statements would help to logically order the persons according to their heights ?\n1. Anu is taller then Cini.\n2. Eenu is shorter than Binu.\n3. Anu is shorter than Dany.\n4. Eenu is taller than Anu.",
+    "options": [
+      "Binu is 7 feet tall",
+      "Dany and Binu do not have equal height",
+      "Eenu is the tallest in the group",
+      "Dany is the tallest is the group"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "There are three switches A, B and C which can be in ON/OFF position. Their settings change as per the following rules :\ni) If A is the only switch as ON, change B to ON.\nii) If A and B are only switches as ON, change C to ON.\niii) If all three switches are ON, change C to OFF.\niv) For all other situations, all switches in ON are changed to OFF and all switches in OFF are changed to ON.\nIf switches A and B are ON and C is OFF, their changed settings will be",
+    "options": [
+      "A ON, B OFF, C OFF",
+      "A ON, B ON, C ON",
+      "A ON, B OFF, C ON",
+      "A OFF, B ON, C OFF"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "If only B is ON, the changed setting will be",
+    "options": [
+      "A ON, B ON, C ON",
+      "A ON, B ON, C OFF",
+      "A ON, B OFF, C ON",
+      "A OFF, B OFF, C ON"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability & Reasoning",
+    "question": "If only B is ON in the changed setting, which of the following could have been the original setting ?",
+    "options": [
+      "A ON, B ON, C ON",
+      "A ON, B OFF, C ON",
+      "A OFF, B ON, C OFF",
+      "A OFF, B OFF, C ON"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  }
+]

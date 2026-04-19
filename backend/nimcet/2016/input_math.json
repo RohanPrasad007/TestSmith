@@ -1,0 +1,437 @@
+[
+  {
+    "subject": "Mathematics",
+    "question": "The number of 5 people groups that can be selected from 9 people when two particular persons are not to be in the same group is",
+    "options": ["126", "35", "91", "252"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The solution set of equation $\\log_{2x} \\log_{2x} 2 = \\log_{4x} 2$ is?",
+    "options": [
+      "$\\{2^{-\\sqrt{2}}, 2^{\\sqrt{2}}\\}$",
+      "$\\{1/2, 2\\}$",
+      "$\\{1/4, 2^2\\}$",
+      "$\\{1/4, 2\\}$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If a twelve sided regular polygon is inscribed in a circle of radius 3 centimeters then the length of each side of the polygon is",
+    "options": [
+      "3",
+      "$\\sqrt{18 - 9\\sqrt{3}}$",
+      "$18 + 9\\sqrt{3}$",
+      "$9(1 - \\sqrt{3})$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If C is the midpoint of AB and P is any point outside AB , then",
+    "options": [
+      "$\\vec{PA} + \\vec{PB} = 2\\vec{PC}$",
+      "$\\vec{PA} + \\vec{PB} = \\vec{PC}$",
+      "$\\vec{PA} + \\vec{PB} + 2\\vec{PC} = 0$",
+      "$\\vec{PA} + \\vec{PB} + \\vec{PC} = 0$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The average marks of boys in class is 52 and that of girls is 42 .The average marks of boys and girls combined is 50 . the percentage of boys in the class is",
+    "options": ["80 %", "60%", "40%", "20%"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A box contains 2 blue caps , 4 red caps , 5 green caps and 1 yellow cap, If four caps are picked at random , the probability that none of them is green is",
+    "options": ["7/ 99", "7/12", "5/99", "5/12"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The line $3x + 5y = k$ touches the ellipse $16x^2 + 25y^2 = 400$ if k is",
+    "options": ["$\\pm 5$", "$\\pm 15$", "$\\pm 35$", "$\\pm 25$"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $X = \\{4^n - 3n - 1, n \\in N\\}$ and $Y = \\{9n - 9, n \\in N\\}$, then $X \\cup Y$ is equal to",
+    "options": ["Y", "X", "N", "None"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "$\\int \\left\\{\\frac{\\log x - 1}{1 + (\\log x)^2}\\right\\}^2 dx$ is equal to",
+    "options": [
+      "$\\frac{xe^x}{1 + x^2} + c$",
+      "$\\frac{x}{(\\log x)^2 + 1} + c$",
+      "$\\frac{\\log x}{(\\log x)^2 + 1} + c$",
+      "$\\frac{x}{x^2 + 1} + c$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The volume of the parallelepiped determined by $u = i + 2j - k, v = -2i + 3k$ and $w = 7j - 4k$",
+    "options": ["21", "22", "23", "24"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The vector perpendicular to the plane passing through (1,-1,0) (2,1,-1) and (-1,1,2) is",
+    "options": [
+      "$6\\hat{i} + 6\\hat{k}$",
+      "$6\\hat{i} + 7\\hat{k}$",
+      "$7\\hat{i} + 6\\hat{k}$",
+      "$7\\hat{i} + 8\\hat{k}$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The equation of a circle with diameters are $2x - 3y + 12 = 0$ and $x + 4y - 5 = 0$ and area of 154 sq unit is",
+    "options": [
+      "$x^2 + y^2 - 6x + 4y - 36 = 0$",
+      "$x^2 + y^2 + 6x - 4y - 36 = 0$",
+      "$x^2 + y^2 - 6x - 4y + 25 = 0$",
+      "none"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "$\\int \\frac{x^2 - 1}{x^3 \\sqrt{2x^4 - 2x^2 + 1}} dx$ is equal to",
+    "options": [
+      "$\\frac{\\sqrt{2x^4 - 2x^2 + 1}}{x^2} + c$",
+      "$\\frac{\\sqrt{2x^4 - 2x^2 + 1}}{x^3} + c$",
+      "$\\frac{\\sqrt{2x^4 - 2x^2 + 1}}{x} + c$",
+      "$\\frac{\\sqrt{2x^4 - 2x^2 + 1}}{2x^2} + c$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "if $\\vec{a}, \\vec{b}$ and $\\vec{a} + \\vec{b}$ are vectors of magnitude $\\alpha$ then the magnitude of the vector $\\vec{a} - \\vec{b}$ is",
+    "options": [
+      "$\\sqrt{2}\\alpha$",
+      "$\\sqrt{3}\\alpha$",
+      "$2\\alpha$",
+      "$3\\alpha$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Which of the following statements is False ?",
+    "options": [
+      "$2 \\in A \\cup B$ implies that if $2 \\notin A$ then $2 \\in B$",
+      "$\\{2, 3\\} \\subseteq A$ implies that $2 \\subseteq A$ and $3 \\subseteq A$",
+      "$A \\cap B \\supseteq \\{2, 3\\}$ implies that $\\{2, 3\\} \\subseteq A$ and $\\{2, 3\\} \\subseteq B$",
+      "none of the above"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $2x^2 + 7xy + 3y^2 + 8x + 14y + \\lambda = 0$ represents a pair of straight lines, the value of $\\lambda$ is",
+    "options": ["2", "4", "6", "8"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The area of region bounded by the lines $y = |x - 1|$ and $y = 3 - |x|$ is",
+    "options": ["3 sq. unit", "4 sq unit", "6 sq unit", "2 sq. unit"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "In a triangle ABC, $a=4, b=3, \\angle BAC = 60^\\circ$, then the equation for which c is the root, is",
+    "options": [
+      "$c^2 - 3c - 7 = 0$",
+      "$c^2 + 3c - 7 = 0$",
+      "$c^2 - 3c + 7 = 0$",
+      "$c^2 + 3c - 7 = 0$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\cos \\theta = \\frac{5}{13}$, $\\frac{3\\pi}{2} < \\theta < 2\\pi$, then $\\tan 2\\theta$ is ?",
+    "options": ["-120/119", "-120/169", "119/169", "120/119"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "An experiment has 10 equally likely outcomes. Let A and B be two non-empty events of the experiment. If A consists of 4 outcomes, the number of outcomes that B must have so that A and B are independent, is",
+    "options": ["2, 4 or 8", "3, 6 or 9", "4 or 8", "5 or 10"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let $\\vec{a}, \\vec{b}$ and $\\vec{c}$ be three non-zero vectors, no two of which are collinear, if the vector $\\vec{a} + 2\\vec{b}$ is collinear with $\\vec{c}$ and $\\vec{b} + 3\\vec{c}$ is collinear with $\\vec{a}$, then $\\vec{a} + 2\\vec{b} + 6\\vec{c}$ is equal to",
+    "options": [
+      "$\\lambda\\vec{a}$",
+      "$\\lambda\\vec{b}$",
+      "$\\lambda\\vec{c}$",
+      "$\\vec{0}$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The minimum value of a, for which the sum of the squares of the roots of the equation $x^2 - (a - 2)x - (a + 1) = 0$",
+    "options": ["3", "2", "0", "1"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "For any two events A and B, the probability that atleast one of them occurs is 0.6. If A and B occur simultaneously with a probability 0.3 then $P(A') + P(B')$ is",
+    "options": ["0.9", "1.15", "1.1", "1.0"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Two finite sets A and B are having m and n elements . The total number of subsets of the first set is 56 more than the total number of subsets of the second set . The value of m and n are",
+    "options": ["7,6", "6,3", "5,3", "8,7"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The probability that A speaks truth is 4/5 while this probability for B is 3/4 , The probability that they contradict each other when asked to speak on a fact is",
+    "options": ["3/20", "1/5", "7/20", "4/5"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The sum of the expression $\\frac{1}{\\sqrt{1}+\\sqrt{2}} + \\frac{1}{\\sqrt{2}+\\sqrt{3}} + \\frac{1}{\\sqrt{3}+\\sqrt{4}} + \\dots + \\frac{1}{\\sqrt{80}+\\sqrt{81}}$ is",
+    "options": ["7", "8", "9", "10"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Consider the function f defined by $f(x) = \\begin{cases} x^2 - 1 & x < 3 \\\\ 2ax & x \\ge 3 \\end{cases}$ for all real number x. If f is continuous at x=3, then value a is ?",
+    "options": ["8", "3/4", "1/8", "4/3"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Three houses are available in a locality. Three persons apply for the houses. Each applies for one house without consulting other. The probability that all the three apply for the same house is",
+    "options": ["8/9", "7/9", "2/9", "1/9"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Five horses are in a race. Mr. A selects two of the horses at random and bets on them. The probability that Mr. A selected the winning horse is",
+    "options": ["3/5", "1/5", "2/5", "4/5"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $3^x = 4^{x-1}$, then x =",
+    "options": [
+      "$\\frac{2\\log_3 2}{2\\log_3 2 - 1}$",
+      "$\\frac{2}{2\\log_3 2 - 1}$",
+      "$\\frac{2 - \\log_3 2}{2\\log_3 2 + 1}$",
+      "$\\frac{2\\log_3 2}{2\\log_3 2 - 1}$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The matrix A has x rows and (x+5) columns and the matrix B has y rows and (11-y) columns. If both the matrices AB and BA exist, then value of x and y are ?",
+    "options": ["8,3", "3,5", "3,8", "8,5"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A circus artist is climbing a 20 m long rope, which is tightly stretched and tied from the top of a vertical pole to the ground. Find the height of the pole, if the angle made by the rope with the ground level is $30^\\circ$ ?",
+    "options": ["10 m", "20 m", "30 m", "40 m"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "There are n equally spaced points 1, 2, ...., n marked on the circumference of a circle. If the point 15 is directly opposite to the point 49, then the total number of points is ?",
+    "options": ["50", "68", "66", "70"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let $S = \\{1, 2, \\dots, n\\}$. The number of possible pairs of the form $(A, B)$ with $A \\subseteq B$ for sub sets $A, B$ of S is",
+    "options": [
+      "$2^n$",
+      "$3^n$",
+      "$n!$",
+      "$\\sum_{k=0}^{n} \\binom{n}{k} \\binom{n}{n-k}$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Sum of the roots of the equation $4^x - 3(2^{x+3}) + 128 = 0$ is?",
+    "options": ["5", "6", "7", "8"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the sum of the slopes of the lines given by $x^2 - 2cxy - 7y^2 = 0$ is four times their product, then the value of c is ?",
+    "options": ["1", "-1", "-2", "2"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The system of equations\n$x + y + 2z = a$\n$x + z = b$\n$2x + y + 3z = c$\nhas a solution if",
+    "options": ["$b = c$", "$c = a + b$", "$c = a + 2b$", "$a = b = c$"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let $f(x) = x^2 - bx + c$, b is an odd positive integer. If $f(x) = 0$ has two prime numbers as roots and $b + c = 35$, then the global minimum value of $f(x)$ is",
+    "options": ["-183/4", "173/16", "-81/4", "17/2"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The vertex of the parabola whose focus is (-1,1) and directrix is $4x + 3y - 24 = 0$ is",
+    "options": [
+      "$\\left(0, \\frac{3}{2}\\right)$",
+      "$\\left(0, \\frac{5}{2}\\right)$",
+      "$\\left(1, \\frac{3}{2}\\right)$",
+      "$\\left(1, \\frac{5}{2}\\right)$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The number of points in $(-\\infty, \\infty)$, for which $x^2 - x\\sin x - \\cos x = 0$ is",
+    "options": ["6", "4", "2", "0"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "There are 4 books on fairy tales, 5 novels and 3 plays. In how many ways can they be arranged in the order, books on fairy tales, novels and then plays so that books of same category are put together ?",
+    "options": ["17280", "103680", "51840", "360"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Suppose a population A has 100 observations 101, 102, .... 200 and another population B has 100 observations 151, 152, ...., 250. If $V_A$ and $V_B$ represent variance of the two populations respectively, then $V_A / V_B$ is",
+    "options": ["9/4", "4/9", "1", "2/3"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\vec{a}, \\vec{b}$ are vectors such that $|\\vec{a} + \\vec{b}| = \\sqrt{29}$ and $\\vec{a} \\times (2\\hat{i} + 3\\hat{j} + 4\\hat{k}) = (2\\hat{i} + 3\\hat{j} + 4\\hat{k}) \\times \\vec{b}$ then a possible value of $(\\vec{a} + \\vec{b}) \\cdot (-7\\hat{i} + 2\\hat{j} + 3\\hat{k})$ is.",
+    "options": ["0", "3", "4", "8"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let $x_1, x_2, \\dots, x_n$ be n observations such that $\\sum x_i^2 = 400$ and $\\sum x_i = 80$. Then a possible value of n amongst the following is",
+    "options": ["10", "15", "20", "8"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Area of the greatest rectangle that can be inscribed in the ellipse is",
+    "options": ["$\\sqrt{ab}$", "$2ab$", "$ab$", "$a/b$"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Two common tangents to the circles $x^2 + y^2 = 2a^2$ and parabola $y^2 = 8ax$ are",
+    "options": [
+      "$x = \\pm(y + 2a)$",
+      "$y = \\pm(x + 2a)$",
+      "$x = \\pm(y + a)$",
+      "$y = \\pm(x + a)$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $a_1, a_2, \\dots, a_n$ are in A.P. and $a_1 = 0$ then the value of $\\left( \\frac{a_3}{a_2} + \\frac{a_4}{a_3} + \\dots + \\frac{a_n}{a_{n-1}} \\right) - a_2 \\left( \\frac{1}{a_2} + \\frac{1}{a_3} + \\dots + \\frac{1}{a_{n-2}} \\right)$ is equal to",
+    "options": [
+      "$(n-2) + \\frac{1}{n-2}$",
+      "$\\frac{1}{n-2}$",
+      "$n-2$",
+      "$n - \\frac{1}{n-2}$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of $\\cos 20^\\circ + \\cos 100^\\circ + \\cos 140^\\circ$ is",
+    "options": ["0", "$\\frac{1}{\\sqrt{2}}$", "$\\frac{1}{2}$", "0"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The permutations of {a,b,c,d,e,f,g } are listed in lexicographic order. Which of the following permutations are just before and just after the permutation bacdefg ?",
+    "options": [
+      "agfedbc and bacdfge",
+      "agfedcb and badcefg",
+      "agfebcd and bacedgf",
+      "agfedcb and dacdegf"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The foci of the ellipse $\\frac{x^2}{16} + \\frac{y^2}{b^2} = 1$ and the hyperbola $\\frac{x^2}{144} - \\frac{y^2}{81} = \\frac{1}{25}$ coincide. Then the value of $b^2$ is",
+    "options": ["5", "7", "9", "1"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  }
+]

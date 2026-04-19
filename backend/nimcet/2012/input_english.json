@@ -1,0 +1,167 @@
+[
+  {
+    "subject": "General English",
+    "question": "And now for this evening's main headline : Britain ............ another Olympic gold medal.",
+    "options": ["Had won", "Wins", "Won", "Has won"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "If she ......................about his financial situation, she would have helped him out",
+    "options": ["knew", "had been knowing", "had known", "have known"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "I am sure she can teach computers as well. She's not .................. new to the subject.",
+    "options": ["All together", "Altogether", "Alltogether", "Together"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "You are trying to drag me .....................a controversy.",
+    "options": ["in", "into", "from", "for"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The people ....................... you socialise are called friends.",
+    "options": ["with whom", "who", "with who", "whom"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": ".................. to school yesterday ?",
+    "options": [
+      "Did you walk",
+      "Did you walked",
+      "Do you walk",
+      "Have you walked"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "There was no ................... in the railway compartment for additional passengers.",
+    "options": ["space", "place", "seat", "room"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The sentence below has 2 blanks. Fill in the blanks picking the appropriate pair of words from the ones given below that best completes the meaning of the sentence. The most technologically advanced societies have been responsible for the greatest .................; indeed, savagery seems to be in direct proportion to ..................",
+    "options": [
+      "Wars ; viciousness",
+      "Catastrophes ; ill-will",
+      "Atrocities ; development",
+      "Triumphs ; civilization"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Fill in the blank with the correct form of tense.\nThe thief .................. before the police came.",
+    "options": ["Escaped", "Had escaped", "Will escape", "Has been escaped"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Fill in the blank with appropriate words given.\nAnne had to pay for everything because as usual, Peter ......................... his wallet at home.",
+    "options": ["had left", "was leaving", "left", "leave"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Pick the synonym of the word MEAGRE",
+    "options": ["helpful", "abundant", "essential", "limited"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the words that best express the meaning of the given idiom - Mud Slinging",
+    "options": [
+      "Giving pain",
+      "Abusing someone",
+      "Laying blame",
+      "Damaging the reputation"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "For a word, four spellings are given. Choose the correct one.",
+    "options": ["cieling", "cealing", "ceiling", "ceeling"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the wrongly spelt word.",
+    "options": ["Believe", "Relieve", "Grieve", "Decieve"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the word or phrase that is most similar in meaning to the word - POLEMIC",
+    "options": ["black", "magnetic", "grimace", "controversial"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Pick the antonym of the word TIMID",
+    "options": ["bold", "lazy", "calm", "slow"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Pick the part of the sentence that has an error.\nIf you would have come to me, I would have helped you.",
+    "options": [
+      "If you would have",
+      "Come to me",
+      "I would have",
+      "Helped you"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the word or phrase that is most nearly opposite in meaning to the word EXTRINSIC",
+    "options": ["Reputable", "Inherent", "Ambitious", "Cursory"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Select the alternative giving the closest meaning of the idiom - To eat a humble pie",
+    "options": [
+      "To become a vegetarian",
+      "Disinfecting everything",
+      "To fill one's belly",
+      "To say you are sorry for a mistake that you made"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Pick the antonym of the word FABRICATE",
+    "options": ["Construct", "Weaken", "Dismantle", "Evolve"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  }
+]

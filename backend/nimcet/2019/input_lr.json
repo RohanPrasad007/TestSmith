@@ -1,0 +1,287 @@
+[
+    {
+        "subject": "Logical Reasoning",
+        "question": "1. All chickens are birds. 2. Some chickens are hens. 3. Female birds lay eggs. If the above three statements are facts, which of the following statements must also be a fact?\nI. All birds lay eggs.\nII. Hens are birds.\nIII. Some chickens are not hens.",
+        "options": ["II only", "II and III only", "I, II and III", "None of the statements is a fact"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "The number that comes next in the series 1, 2, 3, 6, 11, 20, 37, 68, .... is",
+        "options": ["105", "124", "125", "126"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Using only 2, 5, 10, 25 and 50 paise coins, the smallest number of coins required to pay exactly 79 paise, 66 paise, and Re. 1.01 to three different persons is",
+        "options": ["17", "20", "19", "18"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "What pair comes next in the following sequence; 99, 90, 83, 78, ....",
+        "options": ["71, 69", "69, 57", "67, 59", "69, 63"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "A dealer offers a cash discount of 20% and still makes a profit of 20% when he further allows 16 articles to a dozen to a particularly sticky bargainer. How much above the actual price was the listed price of the article?",
+        "options": ["100%", "80%", "75%", "66%"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "A clock is set right at 5 AM. The clock loses 16 min in 24 h. What will be the true time when the clock indicates 10 pm on the 4th day?",
+        "options": ["11.15 PM", "11.00 PM", "12.00 PM", "12.30 PM"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "A train overtakes two persons who are walking in the same direction in which the train is moving at the rate of 2 kmph and 4 kmph and passes them completely in 9 s and 10 s respectively. The length of the train is",
+        "options": ["72 m", "54 m", "45 m", "50 m"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Decide which of the given conclusion logically follows from the given statement(s):\nStatements:\nAll suns are moons.\nSome moons are planets.\nConclusions:\nI. All moons are suns.\nII. At least some moons are planets.",
+        "options": ["Either conclusion I or II is true", "Neither conclusion I nor II is true", "Both conclusions I and II are true", "Only conclusion II is true"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Ten points are marked on a straight line and eleven points are marked on another straight line. How many triangles can be constructed with vertices from among the above points?",
+        "options": ["495", "550", "1045", "2475"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "The greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively is",
+        "options": ["123", "127", "235", "305"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Which number replaces the question mark in the figure given below:\n(Figure description: 5 circles with numbers:\nCircle 1: 8, 7 top and 10, 10 bottom\nCircle 2: 12, 12 top and 9, 21 bottom\nCircle 3: 4, 1 top and 8, 4 bottom\nCircle 4: 2, 4 top and 1, 7 bottom\nCircle 5: 6, 3 top and 9, ? bottom)",
+        "options": ["11", "6", "3", "21"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Statement - I : Out of total of 200 readers, 100 read Indian Express, 120 read Times of India and 50 read Hindu.\nStatement - II : Out of a total of 200 readers, 100 read Indian Express, 120 read Times of India and 50 read neither.\nHow many people (from the group surveyed) read both Indian Express and Times of India?",
+        "options": [
+            "The question can be answered with the help of Statement II, alone.",
+            "Both, statement I and statement II are needed to answer the question.",
+            "The questions can be answered with the help of statement I alone.",
+            "The question cannot be answered even with the help of both statements."
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "If 137 + 276 = 435, how much is 731 + 672?",
+        "options": ["534", "1403", "1623", "1531"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Study the information carefully and answer the question given below:\nIf we arrange the alphabets in the word 'RATE' in the English alphabetical order, word 'AERT' is formed. Then the third alphabet from the left in this word is 'R'. Similarly, from the word 'OPEN' we get 'ENOP' and the third alphabet from left is 'O'. From the word 'CHEF' we get 'CEFH' and the third alphabet from left is 'F'. From the word 'TYER' we get 'ERTY' and the third alphabet from left is 'T'. From the word 'TOY' we get 'OTY' and the third alphabet from left is 'Y'. If we use all these letters, then a meaningful English word 'FORTY' can be formed.\nNow find which of the following word set DOES NOT give a meaningful word in the similar way.",
+        "options": ["SAME, ROOM, BEST, AUTO", "GOAT, PEST, WATT, ARMY", "MALE, FIND, LOST THAT", "JUMP, LIME, DUMB, SOME"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Navjivan Express from Ahmedabad to Chennai leaves Ahmedabad at 6.30 AM and travels at 50 kmph towards Baroda situated 100 km away. At 7.00 AM Howrah-Ahmedabad Express leaves Baroda towards Ahmedabad and travels at 40 kmph. At 7.30 AM Mr. Shah, the traffic controller at Baroda, realizes that both the trains are running on the same track. How much time does he have to avert a head-on collision between the two trains?",
+        "options": ["15 min", "20 min", "25 min", "30 min"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "If the points $P(a^2, a)$ lie in the region corresponding to the acute angle between the lines $x - 4y = 0$ and $x - 2y = 0$, then $a$ belongs to",
+        "options": ["$a \\in (2, 6)$", "$a \\in (4, 6)$", "$a \\in (2, 4)$", "$a \\in (10, 14)$"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Some friends planned to contribute equally to jointly buy a CD player. However, two of them decided to withdraw at the last minute. As a result, each of the others had to shell out one rupee more than what they had planned for. If the price (in Rs.) of the CD player is an integer between 1000 and 1100, find the number of friends who actually contributed?",
+        "options": ["44", "23", "21", "46"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Two liquids A and B are in the ratio 5 : 1 in container 1 and 1 : 3 in container 2 respectively. In what ratio should the contents of the two containers be mixed so as to obtain a mixture of A and B in the ratio 1 : 1?",
+        "options": ["2 : 3", "4 : 3", "3 : 2", "3 : 4"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Each family in a locality has at most two adults, and no family has fewer than 3 children. Considering all the families in the locality, there are more adults than boys, more boys than girls, and more girls than families. Then the minimum possible number of families in the locality is",
+        "options": ["4", "3", "2", "5"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Fresh grapes contain 90% water by weight while dried grapes contain 20% water by weight. What is the weight of dry grapes available from 20 kg of fresh grapes?",
+        "options": ["2.5 kg", "2.4 kg", "2 kg", "10 kg"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "A grocer sells half of the eggs that he has and another half an egg to Anurag. Then he sells half of the balance eggs and another half an egg to Deepak. Then he sells half of the balance eggs and another half an egg to Shivani. In the end he is left with just 7 eggs and he claims that he never broke an egg. How many eggs did he start with?",
+        "options": ["65", "63", "67", "69"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "There are eight poets, namely, P, Q, R, S, T, U, V and W in respect of whom questions are being asked in the examination. The first four are ancient poets and the last four are modern poets. The question on ancient poets are being asked in the examination every alternate years. Every year, at least two questions on modern poets are being asked. Last year, questions on P, R, U, V were asked. Considering these facts, on whom the question is most likely to be asked this year?",
+        "options": ["Q", "R", "S", "V"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "A team must be selected from the ten probable players — A, B, C, D, E, G, H, I and J of these A, C, E and J are forwards, B, G and H are point guards and D, F and I are defenders. The team must have at least one forward, one point guard and one defender. If the team includes J it must also include F the team must include E or B, but not both if the team includes G, it must also include F. The team must include exactly one among C, G and I. C and F cannot be members of the same team. D and H cannot be members of the same team. The team must include both A and D or neither of them. There is not restriction on the number of members in the team. What could be the maximum size of the team that includes G?",
+        "options": ["4", "5", "6", "More than 6"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "How many 4-digit numbers can be formed from the digits 2, 3, 5, 6, 7 and 9, which are divisible by 5 and none of the digits is repeated?",
+        "options": ["216", "60", "24", "25"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "In a family of six person, there are people from three generations. Each person has separate profession and also they like different colours. There are two couples in the family. Mohan is a CA and his wife is neither a Doctor nor likes Green colour. Mohini is mother-in-law of Savita and she likes the Orange colour. Deepak is grandfather of Titu. Titu, who is a principal, likes the Black colour. Neeru is the granddaughter of Mohini and she likes blue colour. Neeru's mother likes the White colour. Savita is a",
+        "options": ["Doctor", "Teacher", "Housewife", "None of these"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Twelve classmates A, B, C, D, E, F, G, H, I, J, K and L are sitting on a square table with 3 persons on each side. ABC and GJK are sitting on opposite sides. A and L are adjacent to each other but not on the same side. D and E are on the same side but not adjacent to each other. K is sitting diagonally opposite to C. If F is sitting between D and E, who is sitting to the left of K?",
+        "options": ["H", "I", "H or I", "None"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Twelve classmates A, B, C, D, E, F, G, H, I, J, K and L are sitting on a square table with 3 persons on each side. ABC and GJK are sitting on opposite sides. A and L are adjacent to each other but not on the same side. D and E are on the same side but not adjacent to each other. K is sitting diagonally opposite to C. If H is sitting between I, and F, then he will be facing",
+        "options": ["D", "E", "G", "I"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Twelve classmates A, B, C, D, E, F, G, H, I, J, K and L are sitting on a square table with 3 persons on each side. ABC and GJK are sitting on opposite sides. A and L are adjacent to each other but not on the same side. D and E are on the same side but not adjacent to each other. K is sitting diagonally opposite to C. If G and E are facing C and H respectively, the neighbours of K are",
+        "options": ["J and H", "J and E", "H and J", "H and E"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "The integers 34041, and 32506 when divided by a 3-digit integer n leave the same remainder. What is the value of n?",
+        "options": ["289", "307", "367", "493"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "The number of solid spheres, each of diameter 3cm that could be moulded to form a solid cylinder of height 54cm and diameter 4cm is",
+        "options": ["16", "24", "36", "48"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "How many positive integers less than 10,000 are such that the product of their digits is 210?",
+        "options": ["36", "42", "48", "54"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Each of the five people, K, L, M, P and Q is of a different weight. It is known that the number of people heavier than P is the same as the number of people lighter than Q. L is the heaviest and K is not the lightest. Who is the lightest?",
+        "options": ["M", "L", "Q", "P"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "John, Johny and Janardan participated in a race and each won a different medal among Gold, Silver and Bronze, not necessarily in that order. Each person among them gives two replies to any question, one of which is true and the other is false (in any order). When asked about the details of medals obtained by them, following were their replies: John: I won the Gold medal. Johny won the Bronze medal. Johny: John won the Silver medal. I won the Gold medal. Janardan: Johny won the Silver medal. I won the Gold medal. Which among the following is the correct order of the person who won the Gold medal, the Silver medal and the Bronze medal, respectively?",
+        "options": ["John, Johny, Janardan", "Janardan, John, Johny", "Johny, Janardan, John", "Janardan, Johny, John"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Each of A, B and C is a different digit among 1 to 9. How many different values of the sum of A, B and C are possible, if ABA × AA = ACCA?",
+        "options": ["1", "3", "7", "8"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "In a certain code language, if the word 'BASKET' is coded as 'UFLTBC', then how is the word 'SIMPLE' coded in that language?",
+        "options": ["FMQNJT", "FMQGNJ", "FMQNJH", "MFNQTJ"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "A, B, C, D, E, and F are a group of friends. There are two housewives, one professor, one engineer, one accountant and one lawyer in the group. There are only two married couples in the group. The lawyer is married to D, who is a housewife. No woman in the group is either an engineer or an accountant. C, the accountant, is married to F, who is a professor. A is married to a housewife. E is not a housewife. What is E's profession?",
+        "options": ["Accountant", "Lawyer", "Professor", "Engineer"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "A, B, C, D, E, and F are a group of friends. There are two housewives, one professor, one engineer, one accountant and one lawyer in the group. There are only two married couples in the group. The lawyer is married to D, who is a housewife. No woman in the group is either an engineer or an accountant. C, the accountant, is married to F, who is a professor. A is married to a housewife. E is not a housewife. How many members of the group are males?",
+        "options": ["2", "3", "4", "Can not be determined"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Wrong number in the series 7, 8, 18, 57, 228, 1165, 6996",
+        "options": ["228", "18", "57", "8"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question.\nFive persons P, Q, R, S and T are standing in a row in increasing order of their height. Who is at the fourth position from the left?\nI. S is taller than P and T.\nII. Q is taller than S but shorter than R.",
+        "options": ["V", "U", "X", "Y"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question.\nHow long will it take to empty the tank if both the inlet pipe P1 and the outlet pipe P2 are opened simultaneously?\nI. P1 can fill the tank in 16 minutes\nII. P2 can empty the full tank in 8 minutes",
+        "options": ["X", "U", "Y", "V"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    }
+]

@@ -1,0 +1,477 @@
+[
+  {
+    "subject": "Mathematics",
+    "question": "A student takes a quiz consisting of 5 multiple choice questions. Each question has 4 possible answers. If a student is guessing the answers at random and answers to different questions are independent, the probability of at least one correct answer is :",
+    "options": ["0.237", "0.000976", "0.7623", "1"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The condition that the line lx+my+n=0 becomes a tangent to the ellipse $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$ is :",
+    "options": [
+      "$a^2l^2 + b^2m^2 + n = 0$",
+      "$al^2 + bm^2 = n^2$",
+      "$al + bm = n$",
+      "$a^2l^2 + b^2m^2 = n^2$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of $\\sin 20^\\circ \\sin 40^\\circ \\sin 80^\\circ$ is :",
+    "options": [
+      "$\\frac{1}{2}$",
+      "$\\frac{\\sqrt{3}}{2}$",
+      "$\\frac{\\sqrt{3}}{8}$",
+      "$\\frac{1}{8}$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Two non nagative numbers whose sum is 9 and the product of one number and square of the other number is maximum, are :",
+    "options": ["5 and 4", "3 and 6", "1 and 8", "7 and 2"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The median AD of a triangle ABC is bisected at E and BE is produced to meet the side AC at F. Then AF : FC is:",
+    "options": ["2 : 1", "1 : 2", "3 : 1", "1 : 3"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The sum of two vectors $\\vec{a}$ and $\\vec{b}$ is a vector $\\vec{c}$ such that $|\\vec{a}| = |\\vec{b}| = |\\vec{c}| = 2$. Then the magnitude of $\\vec{a} - \\vec{b}$ is equal to :",
+    "options": ["$2\\sqrt{3}$", "2", "$\\sqrt{3}$", "0"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If x and y are positive real numbers satisfying the system of equations $x^2 + y\\sqrt{xy} = 336$, $y^2 + x\\sqrt{xy} = 112$ then x + y is :",
+    "options": ["$\\sqrt{448}$", "$\\sqrt{224}$", "20", "40"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "From three collinear points A,B,C on a level ground which are on the same side of a tower, the angles of elevation of the top of the tower are $30^\\circ, 45^\\circ, 60^\\circ$ respectively. If BC = 60 meters, then AB is :",
+    "options": [
+      "$15\\sqrt{3}$ meters",
+      "$30\\sqrt{3}$ meters",
+      "$45\\sqrt{3}$ meters",
+      "$60\\sqrt{3}$ meters"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If x = 1 is the directrix of the parabola $y^2 = kx - 8$ then k is:",
+    "options": ["1/8", "8", "4", "1/4"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If sinx + a cosx = b, then |a.sinx-cosx| is :",
+    "options": [
+      "$\\sqrt{a^2 + b^2 + 1}$",
+      "$\\sqrt{a^2 - b^2 + 1}$",
+      "$\\sqrt{a^2 + b^2 - 1}$",
+      "None of the above"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A password consists of two alphabets from English followed by three digits chosen from 0 to 3. Repetitions are allowed. The number of different passwords is :",
+    "options": [
+      "${}^{26}P_1 \\cdot {}^{25}P_1 \\cdot {}^{4}P_1 \\cdot {}^{3}P_1 \\cdot {}^{2}P_1$",
+      "$(^{26}P_1)^2 (^{4}P_1)^3$",
+      "${}^{26}P_1 \\cdot {}^{26}P_2 \\cdot {}^{4}P_1 \\cdot {}^{4}P_2 \\cdot {}^{4}P_3$",
+      "$(^{26}P_1)^2 (^{4}P_1)^2$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "An equilateral triangle is inscribed in the parabola $y^2 = 4ax$ such that one of the vertices of the triangle coincides with the vertex of the parabola. The length of the side of the triangle is :",
+    "options": [
+      "$a\\sqrt{3}$",
+      "$2a\\sqrt{3}$",
+      "$4a\\sqrt{3}$",
+      "$8a\\sqrt{3}$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A chain of video stores sells three different brands of DVD players. Of its DVD player sales 50% are brand 1, 30% are brand 2 and 20% are based 3. Each manufacturer offers one year warranty on parts and labor. It is known that 25% of brand 1 DVD players require warranty repair work, where as the corresponding percentages for brands 2 and 3 are 20% and 10% respectively. The probability that a rondomly selected purchaser has a DVD player that will need repair while under warranty is :",
+    "options": ["0.795", "0.205", "0.1250", "0.060"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The locus of intersection of two lines $\\sqrt{3}x - y = 4k\\sqrt{3}$ and $k(\\sqrt{3}x + y) = 4\\sqrt{3}$ for different values of k is a hyperbola. The eccentricity of the hyperbola is :",
+    "options": ["1.5", "$\\sqrt{3}$", "2", "$\\frac{\\sqrt{3}}{2}$"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Constant forces $\\vec{P} = 2\\hat{i} - 5\\hat{j} + 6\\hat{k}$ and $\\vec{Q} = -\\hat{i} + 2\\hat{j} - \\hat{k}$ act on a particle. The work done when the particle is displaced from A whose position vector is $4\\hat{i} - 3\\hat{j} - 2\\hat{k}$ to B whose position vector is $6\\hat{i} + \\hat{j} - 3\\hat{k}$, is :",
+    "options": ["10 units", "-15 units", "-50 units", "25 units"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If PQ is a double ordinate of the hyperbola $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$ such that OPQ is an equilateral triangle, where O is the center of the hyperbola, then which of the following is true ?",
+    "options": [
+      "$b^2 > \\frac{-a^2}{\\sqrt{3}}$",
+      "$b^2 > \\frac{a^2}{3}$",
+      "$b^2 < \\frac{a^2}{3}$",
+      "$b^2 < \\frac{-a^2}{\\sqrt{3}}$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "In a triangle ABC, if a = 2, b = 4 and $\\angle C = 60^\\circ$, then $\\angle A$ and $\\angle B$ are respectively equal to :",
+    "options": [
+      "$90^\\circ, 30^\\circ$",
+      "$45^\\circ, 75^\\circ$",
+      "$60^\\circ, 60^\\circ$",
+      "$30^\\circ, 90^\\circ$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\int \\frac{xe^x}{\\sqrt{1+e^x}} dx = f(x)\\sqrt{1+e^x} - 2\\log\\frac{\\sqrt{1+e^x}-1}{\\sqrt{1+e^x}+1} + C$, then f(x) is :",
+    "options": ["2x-4", "2x+4", "x+4", "x-4"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The average marks of boys in a class is 52 and that of girls is 42. The average marks of boys and girls combined is 50. The percentage of boys in the class is:",
+    "options": ["80%", "60%", "40%", "20%"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "How many even integers between 4000 and 7000 have four different digits ?",
+    "options": ["672", "840", "504", "728"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A box contains 3 coins : one coin is fair; one coin is two-headed and one coin is weighted so that the probability of heads appearing is 1/3. A coin is selected at random and tossed, then the probability that head appears is :",
+    "options": ["11/18", "7/18", "1/8", "1/4"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If a vector $\\vec{a}$ makes and angle with the co-ordinate axes and has maguitude 3, then the angle between $\\vec{a}$ and each of the three co-ordinate axes is :",
+    "options": [
+      "$\\cos^{-1}\\left(\\frac{1}{\\sqrt{3}}\\right)$",
+      "$\\sin^{-1}\\left(\\frac{1}{\\sqrt{3}}\\right)$",
+      "$\\frac{\\pi}{6}$",
+      "$\\frac{\\pi}{3}$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let $f(x) = \\begin{cases} \\frac{\\sin[x]}{[x]}, & [x] \\neq 0 \\\\ 0, & [x] = 0 \\end{cases}$ where [x] is the largest integer not larger than x then $\\lim_{x \\to 0} f(x)$ is",
+    "options": ["-1", "0", "1", "does not exist"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If tan A - tan B = x and cot B - cot A = y, then cot (A - B) =",
+    "options": [
+      "$\\frac{1}{x} + \\frac{1}{y}$",
+      "$\\frac{1}{x} - \\frac{1}{y}$",
+      "$\\frac{1}{y} - \\frac{1}{x}$",
+      "$-\\frac{1}{x} - \\frac{1}{y}$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $a = \\log_{12} 18, b = \\log_{24} 54$ then ab + 5 (a - b) is :",
+    "options": ["1", "0", "2", "3/2"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "In a group of 200 students the mean and standard deviation of scores were found to be 40 and 15 respectivelly. Later on it was found that scores 43 and 35 were misread as 34 and 53 respectively. The corrected mean of scores is :",
+    "options": ["40.95", "39.0", "39.95", "43"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the matrix $\\begin{bmatrix} -1 & 3 & 2 \\\\ 1 & k & -3 \\\\ 1 & 4 & 5 \\end{bmatrix}$ has an inverse matrix, then the value of k is :",
+    "options": [
+      "k is any real number",
+      "k $\\neq$ -4",
+      "k = -4",
+      "k $\\neq$ 4"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The mean deviation from the mean of the A.P : a, a+d, a+2d, .... , a+2nd is :",
+    "options": [
+      "$\\frac{n}{n+1} d$",
+      "$\\frac{n(n+1)}{2n+1} d$",
+      "$\\frac{n+1}{2n+1} d$",
+      "$\\frac{n(n-1)}{2n+1} d$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let $(x_0, y_0)$ be the solution of the following equations : $(2x)^{\\ln 2} = (3y)^{\\ln 3}$ and $3^{\\ln x} = 2^{\\ln y}$. Then $x_0$ is",
+    "options": ["1/6", "1/3", "1/2", "6"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of $\\tan 1^\\circ \\cdot \\tan 2^\\circ \\cdot \\tan 3^\\circ \\dots \\tan 89^\\circ$ is :",
+    "options": ["0", "$\\frac{1}{\\sqrt{2}}$", "1", "2"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A condition that $x^3 + ax^2 + bx + c$ may have no extremum is :",
+    "options": ["$a^2 \\ge 3b$", "$b^2 < 3a$", "$a^2 < 3b$", "$b^2 \\ge 3a$"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If n and r are integers such that $1 \\le r \\le n$ then the value of $n(^{n-1}C_{r-1})$ is :",
+    "options": ["$^nC_r$", "$r(^nC_r)$", "$r(^nC_n)$", "$(n-1)(^nC_r)$"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the foci of the ellipse $b^2x^2 + 16y^2 = 16b^2$ and the hyperbola $81x^2 - 144y^2 = \\frac{81 \\times 144}{25}$ coincide, then the value of b is :",
+    "options": ["1", "$\\sqrt{5}$", "$\\sqrt{7}$", "3"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "There are 8 students appearing in an examination of which 3 have to appear in Mathematics paper and the remaning 5 in different subjects. Then the number of ways they can be made to sit in a row if the candidates in Mathematics cannot sit next to each other is :",
+    "options": ["2400", "16200", "4200", "14400"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If x is so small that $x^2$ and higher powers of x can be neglected, then $\\frac{(9 + 2x)^{1/2} (3 + 4x)}{(1 - x)^{1/5}}$ is approximately equal to :",
+    "options": [
+      "$9 + \\frac{74}{15}x$",
+      "$9 + \\frac{74}{5}x$",
+      "$3 + \\frac{74}{15}x$",
+      "$3 + \\frac{74}{5}x$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\alpha$ and $\\beta$ are the roots of the equation $2x^2 + px + p^2 = 0$, where p is a non-zero real number, and $\\alpha^4$ and $\\beta^4$ are the roots of $x^2 - rx + s = 0$, then the roots of $2x^2 - 4p^2x + p^4 - 2r = 0$ are:",
+    "options": [
+      "real and unequal",
+      "equal and zero",
+      "imaginary",
+      "equal and non-zero"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The number of ways to arrange the letters of the English alphabet so that there are exactly 5 letters between the letters 'a' and 'b' is :",
+    "options": [
+      "${}^{24}P_5$",
+      "${}^{24}P_5 20!$",
+      "${}^{24}P_5 20! \\cdot 2$",
+      "${}^{24}P_5 \\cdot 24! \\cdot 2$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Suppose the system of linear equations :\n-2x+y+z=1\nx-2y+z=m\nx+y-2z=n\nis such that l+m+n=0. Then the system has",
+    "options": [
+      "a non-zero unique solution",
+      "trivial solution",
+      "infinitely many solutions",
+      "no solution"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\vec{A} = 4\\hat{i} + 3\\hat{j} + \\hat{k}, \\vec{B} = 2\\hat{i} - \\hat{j} + 2\\hat{k}$ then the unit vector $\\hat{N}$ perpendicular to vectors $\\vec{A}$ and $\\vec{B}$ such that $\\vec{A}, \\vec{B}, \\hat{N}$ form a right handed system is :",
+    "options": [
+      "$\\frac{1}{\\sqrt{185}}[7\\hat{i} - 6\\hat{j} - 10\\hat{k}]$",
+      "$\\frac{1}{7}[6\\hat{i} + 2\\hat{j} + 3\\hat{k}]$",
+      "$\\frac{1}{\\sqrt{21}}[2\\hat{i} + 4\\hat{j} - \\hat{k}]$",
+      "$\\frac{1}{\\sqrt{21}}[-2\\hat{i} - 4\\hat{j} + \\hat{k}]$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "$\\int \\frac{(x+1)}{x(xe^x + 1)} dx$ is equal to :",
+    "options": [
+      "$\\log \\frac{1 + xe^x}{xe^x} + c$",
+      "$\\log[xe^x(1+xe^x)] + c$",
+      "$\\log \\left[ \\frac{1}{1 + xe^x} \\right] + c$",
+      "$\\log \\left[ \\frac{xe^x}{1 + xe^x} \\right] + c$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the sets A and B are defined as\n$A = \\{(x, y) | y = 1/x, 0 \\neq x \\in R\\}$,\n$B = \\{(x, y) | y = -x, x \\in R\\}$ then :",
+    "options": [
+      "$A \\cap B = \\phi$",
+      "$A \\cap B = B$",
+      "$A \\cap B = A$",
+      "None of the above"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let A,B,C be three angles of a tirangle T whose area is $\\Delta$. Let a,b and c be the sides opposite to the angles A, B, C respectively. If $s = \\frac{a+b+c}{2} = 6$, then the product $\\frac{1}{3} s^2(s - a)(s - b)(s - c)$ is equal to :",
+    "options": [
+      "$2\\Delta$",
+      "$2\\Delta^2$",
+      "$\\sqrt{2}\\Delta$",
+      "$\\sqrt{2}\\Delta^2$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A normal to the curve $x^2=4y$ passes through the point (1,2). The distance of the origin from the normal is :",
+    "options": [
+      "$\\sqrt{2}$",
+      "$2\\sqrt{2}$",
+      "$\\frac{1}{\\sqrt{2}}$",
+      "$\\frac{3}{\\sqrt{2}}$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Suppose r integers, 0 < r < 10, are chosen from {0, 1, 2, .....9} at random and with replcement. The probability that no two are equal is :",
+    "options": [
+      "$\\frac{10!}{10! r!}$",
+      "$\\frac{10!}{10!(10-r)!}$",
+      "$\\frac{10!}{r!(10-r)!}$",
+      "$\\frac{10!}{10^r(10-r)!}$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $x^2 + 2ax + 10 - 3a > 0$ for all $x \\in R$, then :",
+    "options": ["-5<a<2", "a<-5", "a>5", "2<a<5"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of $\\int \\sqrt{x} e^{\\sqrt{x}} dx$",
+    "options": [
+      "$2\\sqrt{x} - e^{\\sqrt{x}} - 4\\sqrt{x} e^{\\sqrt{x}} + C$",
+      "$(2x - 4\\sqrt{x} + 4)e^{\\sqrt{x}} + C$",
+      "$(2x + 4\\sqrt{x} + 4)e^{\\sqrt{x}} + C$",
+      "$(1 - 4\\sqrt{x})e^{\\sqrt{x}} + C$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "For the vectors $\\vec{a} = -4\\hat{i} + 2\\hat{j}, \\vec{b} = 2\\hat{i} + \\hat{j}$ and $\\vec{c} = 2\\hat{i} + 3\\hat{j}$, if $\\vec{c} = m\\vec{a} + n\\vec{b}$, then the value of m+n is :",
+    "options": ["1/2", "3/2", "5/2", "7/2"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of $\\int_0^{\\pi/4} \\log(1 + \\tan x) dx$ is :",
+    "options": [
+      "$\\frac{\\pi}{4}\\log 2$",
+      "$\\frac{\\pi}{6}\\log 2$",
+      "$\\frac{\\pi}{8}\\log 2$",
+      "$\\frac{\\pi}{2}\\log 2$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The number of ways in which 5 days can be chosen from each of the 12 months of a non-leap year is :",
+    "options": [
+      "$({}^{30}C_5)^4 ({}^{31}C_5)^7 ({}^{28}C_5)$",
+      "$({}^{30}C_5)^6 ({}^{31}C_5)^6$",
+      "$({}^{30}C_5)^5 ({}^{31}C_5)^4 ({}^{28}C_5)$",
+      "$({}^{30}C_5)^5 ({}^{31}C_5)^6 ({}^{28}C_5)$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If [x] represents the greatest integer not exceeding x, then $\\int_1^9 |x| dx$ is :",
+    "options": ["32", "36", "40", "28"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  }
+]

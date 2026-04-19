@@ -1,0 +1,352 @@
+[
+    {
+        "subject": "Mathematics",
+        "question": "The tangent at the point $(2, -2)$ to the curve $x^2 y^2 - 2x = 4(1 - y)$ does not pass through the point",
+        "options": ["$(-2, -7)$", "$(-4, -9)$", "$(4, 1/3)$", "$(8, 5)$"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The integral $\\int \\sqrt{1 + 2 \\cot x (\\csc x + \\cot x)} dx$; $0 < x < \\pi/2$ (where C is a constant of integration) is equal to",
+        "options": ["$2 \\log(\\sin \\frac{x}{2}) + C$", "$2 \\log(\\cos \\frac{x}{2}) + C$", "$4 \\log(\\cos \\frac{x}{2}) + C$", "$4 \\log(\\sin \\frac{x}{2}) + C$"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If all the words, with or without meaning, are written using the letters of the word QUEEN and are arranged as in English Dictionary, then the position of the word QUEEN is",
+        "options": ["47th", "44th", "45th", "46th"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The curve satisfying the differential equation, $y dx - (x + 3y^2) dy = 0$ and passing through the point $(1, 1)$ also passes through the point",
+        "options": ["$(\\frac{1}{4}, \\frac{1}{2})$", "$(\\frac{1}{4}, -\\frac{1}{2})$", "$(-\\frac{1}{3}, \\frac{1}{3})$", "$(\\frac{1}{3}, -\\frac{1}{3})$"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "$\\lim_{x \\to 3} \\frac{\\sqrt{3x} - 3}{\\sqrt{2x - 4} - \\sqrt{2}}$ is equal to",
+        "options": ["$\\sqrt{3}$", "$\\frac{\\sqrt{3}}{2}$", "$\\frac{1}{2\\sqrt{2}}$", "$\\frac{1}{\\sqrt{2}}$"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The mean of 5 observations is 5 and their variance is 124. If three of the observations are 1, 2, 6, then the mean deviation from the mean of the data is",
+        "options": ["2.5", "2.6", "2.8", "2.4"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "In a beauty contest, half the number of experts voted Mr. A and two thirds voted for Mr. B. 10 voted for both and 6 did not for either. How many experts were there in all?",
+        "options": ["18", "36", "24", "None"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The value of non-zero scalars $\\alpha$ and $\\beta$ such that for all vectors $\\vec{a}$ and $\\vec{b}$ such that $\\alpha(\\vec{a} + 2\\vec{b}) + \\beta \\vec{a} + (4\\vec{b} - \\vec{a}) = 0$ is",
+        "options": ["$\\alpha = 2, \\beta = 1$", "$\\alpha = -2, \\beta = -3$", "$\\alpha = 1, \\beta = 3$", "$\\alpha = -2, \\beta = 3$"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A force of 78 grams acts at the point $(2, 3, 5)$. The direction ratios of the line of action being 2, 2, 1. The magnitude of its moment about the line joining the origin to the point $(12, 3, 4)$ is",
+        "options": ["24", "136", "36", "0"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Number of real solutions of the equation $\\sin(e^x) = 5^x + 5^{-x}$ is",
+        "options": ["0", "1", "2", "Infinitely many"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "For two circles $x^2 + y^2 = 16$ and $x^2 + y^2 - 2y = 0$, there is/are",
+        "options": ["One pair of common tangents", "Two pairs of common tangents", "Three common tangents", "No common tangents"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Let $f : \\mathbb{R} \\to \\mathbb{R}$ be defined by $f(x) = \\begin{cases} x \\sin(1/x), & \\text{if } x > 0 \\\\ 0, & \\text{if } x \\le 0 \\end{cases}$. Then",
+        "options": ["f is neither continuous nor differentiable at x=0", "f is continuous and differentiable at x=0", "f is continuous but not differentiable at x=0", "f is not continuous but differentiable at x=0"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A particle P starts from the point $z_0 = 1 + 2i$, where $i = \\sqrt{-1}$. It moves first horizontally away from the origin by 5 units and then vertically away from the origin by 3 units to reach a point $z_1$. From $z_1$ the particle moves $\\sqrt{2}$ units in the direction of the vector $\\hat{i} + \\hat{j}$ and then it moves through an angle $\\pi/2$ in an anti-clockwise direction on a circle with centre at the origin, to reach a point $z_2$. The point $z_2$ is given by",
+        "options": ["$6 + 7i$", "$-7 + 6i$", "$7 + 6i$", "$-6 + 7i$"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $\\Delta = a^2 - (b - c)^2$, where $\\Delta$ is the area of the $\\Delta ABC$, then $\\tan A$ equals",
+        "options": ["15/16", "8/15", "8/17", "1/2"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Two numbers a and b are chosen at random from a set of first 30 natural numbers, then the probability that $a^2 - b^2$ is divisible by 3 is",
+        "options": ["47/87", "15/87", "12/87", "9/87"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $\\sin^2 x \\tan x + \\cos^2 x \\cot x - 2 \\sin 2x = 1 + \\tan x + \\cot x$, $x \\in (0, \\pi)$, then x =",
+        "options": ["$\\frac{3\\pi}{12}, \\frac{5\\pi}{12}$", "$\\frac{5\\pi}{12}, \\frac{7\\pi}{12}$", "$\\frac{7\\pi}{12}, \\frac{11\\pi}{12}$", "$\\frac{7\\pi}{12}, \\frac{9\\pi}{12}$"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "$\\vec{a}$ and $\\vec{b}$ are non-zero non-collinear vectors such that $|\\vec{a}| = 2, \\vec{a} \\cdot \\vec{b} = 1$ and the angle between $\\vec{a}$ and $\\vec{b}$ is $\\pi/3$. If $\\vec{r}$ is any vector satisfying $\\vec{r} \\cdot \\vec{a} = 2, \\vec{r} \\cdot \\vec{b} = 8, (\\vec{r} + 2\\vec{a} - 10\\vec{b}) \\cdot (\\vec{a} \\times \\vec{b}) = 6$ and $\\vec{r} + 2\\vec{a} - 10\\vec{b} = \\lambda (\\vec{a} \\times \\vec{b})$, then $\\lambda = $",
+        "options": ["1/2", "2", "$4/\\sqrt{3}$", "3"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "In a chess tournament, n men and 2 women players participated. Each player plays 2 games against every other player. Also, the total number of games played by the men among themselves exceeded by 66 the number of games that the men played against the women. Then the total number of players in the tournament is",
+        "options": ["13", "11", "9", "7"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Suppose $A_1, A_2, ..., A_{30}$ are thirty sets each having 5 elements with no common element across the sets and $B_1, B_2, ..., B_n$ are n sets each having 3 elements with no common element across the sets. Let $\\bigcup_{i=1}^{30} A_i = \\bigcup_{j=1}^{n} B_j = S$, and each element of S belongs to exactly 10 of $A_i$'s and exactly 9 of $B_j$'s. The value of n is equal to",
+        "options": ["15", "30", "40", "45"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Let $f(x) = \\begin{cases} \\cos[x], & x \\ge 0 \\\\ [x] + a, & x < 0 \\end{cases}$ where $[x]$ denotes the greatest integer $\\le x$. If f should be continuous at x=0, then a must be",
+        "options": ["0", "1", "2", "-1"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If S and S' are foci of the ellipse $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, B is the end of the minor axis and BSS' is an equilateral triangle, then the eccentricity of the ellipse is",
+        "options": ["1/2", "1/3", "1/4", "1/5"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The equation of the circle passing through the point $(4, 6)$ and whose diameters are along $x + 2y - 5 = 0$ and $3x - y - 1 = 0$ is",
+        "options": ["$x^2 + y^2 - 2x - 6y - 20 = 0$", "$x^2 + y^2 - 6x - 2y - 20 = 0$", "$x^2 + y^2 - 2x - 4y - 20 = 0$", "$x^2 + y^2 - 4x - 2y - 20 = 0$"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "In a parallelogram ABCD, P is the midpoint AD. Also, BP and AC intersect at Q. Then AQ : QC =",
+        "options": ["1 : 3", "3 : 1", "2 : 1", "1 : 2"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The median AD of $\\Delta ABC$ is bisected at E and BE is extended to meet the side AC in F. Then AF : FC =",
+        "options": ["1 : 3", "2 : 1", "1 : 2", "3 : 1"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Let $p(x)$ be a quadratic polynomial such that $p(0)=1$. If $p(x)$ leaves remainder 4 when divided by $x-1$ and leaves remainder 6 when divided by $x+1$, then",
+        "options": ["$p(-2) = 11$", "$p(2) = 11$", "$p(2) = 19$", "$p(-2) = 19$"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Solution set of the inequality $\\log_3(x+2)(x+4) + \\log_{1/3}(x+2) < \\frac{1}{2}\\log_{\\sqrt{3}}7$ is",
+        "options": ["(-2, -1)", "(-2, 3)", "(-1, 3)", "(3, \\infty)"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $a$, $b$, $c$ are in GP and $\\log a - \\log 2b, \\log 2b - \\log 3c$ and $\\log 3c - \\log a$ are in AP, then $a, b, c$ are the lengths of the sides of a triangle which is",
+        "options": ["Acute angled", "Obtuse angled", "Right angled", "Equilateral"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $x, 2x+2, 3x+3$ are the first three terms of a geometric progression, then 4th term in the geometric progression is",
+        "options": ["-13.5", "13.5", "-27", "27"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $(1+x-2x^2)^6 = 1 + a_1x + a_2x^2 + \\dots + a_{12}x^{12}$, then the value of $a_2 + a_4 + a_6 + \\dots + a_{12}$ is",
+        "options": ["29", "30", "31", "32"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $a$ and $b$ are the greatest values of $^{2n}C_r$ and $^{(2n-1)}C_r$ respectively, then",
+        "options": ["a = 2b", "b = 2a", "a = b", "$a^2 = 2b^2$"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The sum of infinite terms of a decreasing GP is equal to the greatest value of the function $f(x) = x^3 + 3x - 9$ in the interval [-2, 3] and the difference between the first two terms is $f'(0)$. Then the common ratio of the GP is",
+        "options": ["-2/3", "4/3", "2/3", "-4/3"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Number of onto (surjective) functions from A to B if n(A) = 6 and n(B) = 3 is",
+        "options": ["$2^6 - 2$", "$3^6 - 3$", "340", "540"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $|z| < \\sqrt{3}-1$, then $|z^2 + 2z \\cos \\alpha|$ is",
+        "options": ["less than 2", "$\\sqrt{3}+1$", "$\\sqrt{3}-1$", "None of these"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A computer producing factory has only two plants $T_1$ and $T_2$. Plant $T_1$ produces 20% and plant $T_2$ produces 80% of the total computers produced. 7% of the computers produced in the factory turn out to be defective. It is known that $P(\\text{computer turns out to be defective given that it is produced in plant } T_1) = 10 P(\\text{computer turns out to be defective given that it is produced in plant } T_2)$. A computer produced in the factory is randomly selected and it does not turn out to be defective. Then the probability that it is produced in plant $T_2$ is",
+        "options": ["36/47", "47/93", "78/93", "75/83"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $A > 0, B > 0$ and $A+B = \\pi/6$, then the minimum value of $\\tan A + \\tan B$ is",
+        "options": ["$\\sqrt{3}-\\sqrt{2}$", "$4-2\\sqrt{3}$", "$2/\\sqrt{3}$", "$2-\\sqrt{3}$"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A man takes a step forward with probability 0.4 and backwards with probability 0.6. The probability that at the end of eleven steps, he is one step away from the starting point is",
+        "options": ["$462(0.34)^5$", "$462(0.04)^5$", "$462(0.14)^5$", "$462(0.24)^5$"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Let $x_i, i = 1, 2, \\dots, n$ be n observations and $w_i = p x_i + k, i = 1, 2, \\dots, n$ where p and k are constants. If the mean of $x_i$'s is 48 and standard deviation is 12, whereas the mean of $w_i$'s is 55 and standard deviation is 15, then the values of p and k should be",
+        "options": ["p = 1.25, k = -5", "p = -1.25, k = 5", "p = 2.5, k = -5", "p = 25, k = 5"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If x, y, z are distinct real numbers and $\\begin{vmatrix} x & x^2 & 2 + x^3 \\\\ y & y^2 & 2 + y^3 \\\\ z & z^2 & 2 + z^3 \\end{vmatrix} = 0$, then xyz =",
+        "options": ["1", "-1", "2", "-2"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Let f(x) be a polynomial satisfying f(0) = 2, f'(0) = 3 and f''(x) = f(x). Then f(4) is equal to",
+        "options": ["$\\frac{5(e^8-1)}{2e^4}$", "$\\frac{5e^8-1}{2e^4}$", "$\\frac{2e^4}{5e^8-1}$", "$\\frac{5e^8+1}{2e^4}$"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $a_1, a_2, a_3, \\dots, a_{2n-1}$ are in AP, $b_1, b_2, \\dots, b_{2n-1}$ are in GP and $c_1, c_2, \\dots, c_{2n-1}$ are in HP, then the equation $a_n x^2 - b_n x + c_n = 0$ has its roots",
+        "options": ["Real and equal", "Real and unequal", "Imaginary", "One real and one imaginary"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Which of the following statements is true?",
+        "options": ["If P(U) = P(V) then U = V", "If P(U) = 0 then $U^c$ = S", "If $U \\cap V = \\phi$ then U and V are independent", "If U and V are independent, then so are $U^c$ and $V^c$"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If a man purchases a raffle ticket, he can win a first prize of Rs. 5000 or a second prize of Rs. 2000 with probabilities 0.001 and 0.003 respectively. What should be a fair price to pay for the ticket?",
+        "options": ["Rs. 11", "Rs. 15", "Rs. 2000", "None of these"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If the mean deviation of the numbers $1, 1+d, 1+2d, \\dots, 1+100d$ from their mean is 255, then d is equal to",
+        "options": ["10.1", "10.2", "10.3", "10.4"],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $\\sum_{i=1}^n x_i = 80$ and $\\sum_{i=1}^n x_i^2 = 400$, then a possible value of n among the following is",
+        "options": ["9", "12", "15", "18"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Let S be the set $\\{a \\in Z^+ : a \\le 100\\}$. If the equation $[\\tan^2 x] - \\tan x - a = 0$ has real roots (where $[\\cdot]$ is the greatest integer function), then the number of elements is S is",
+        "options": ["10", "8", "9", "0"],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If x is real, then the minimum value of $\\frac{x^2 - x + 1}{x^2 + x + 1}$ is",
+        "options": ["1/2", "2", "3", "1/3"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $\\int \\cos x \\cos 2x \\cos 5x dx = A_1 \\sin 2x + A_2 \\sin 4x + A_3 \\sin 6x + A_4 \\sin 8x + c$, then the value of $A_1, A_2, A_3, A_4$ are",
+        "options": ["$A_1 = 1/2, A_2 = 1/4, A_3 = 1/6, A_4 = 1/8$", "$A_1 = 1/8, A_2 = 1/16, A_3 = 1/24, A_4 = 1/32$", "$A_1 = 1/8, A_2 = 1/4, A_3 = 1/6, A_4 = 1/2$", "$A_1 = 1/4, A_2 = 1/8, A_3 = 1/12, A_4 = 1/16$"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If the line $y = mx + \\sqrt{5}$ is tangent to the hyperbola $4x^2 - 9y^2 = 36$, then the value of m is",
+        "options": ["2/3", "1", "4/9", "8/9"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If the roots of $x^3 - 12x^2 + 39x - 28 = 0$ are in AP, then their common difference is",
+        "options": ["$\\pm 1$", "$\\pm 2$", "$\\pm 3$", "$\\pm 4$"],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The position vectors of the vertices A, B, C of a tetrahedron ABCD are $\\hat{i}+\\hat{j}+\\hat{k}, \\hat{i}$ and $3\\hat{i}$ respectively and the altitude from the vertex D to the opposite face ABC meets the face at E. If the length of the edge AB is $\\sqrt{2}$ and the volume of the tetrahedron is $\\frac{2\\sqrt{2}}{3}$, then the length of DE is",
+        "options": ["1", "2", "3", "4"],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    }
+]

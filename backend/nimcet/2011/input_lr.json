@@ -1,0 +1,317 @@
+[
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "What is the number of Littleflower uniforms that Mrs. Thomes can complete in a day ?",
+    "options": ["50", "20", "40", "30"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "On a particular day, Mrs. Thomes decided to complete 20 Littleflower uniforms. How many Mayflower uniforms can she complete on that day ?",
+    "options": ["30", "40", "20", "0"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If she hires one more assistant, what is the maximum number of Mayflower uniforms that she can complete in a day ?",
+    "options": ["40", "50", "60", "30"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Assume that the following three statements are true :\nI. All freshmen are human\nII. All students are human\nIII. Some students think\nGiven the following four statements :\n1) All freshmen are students\n2) Some humans think\n3) No freshmen think\n4) Some humans who think are not students\nThose which are logical consequences of I, II and III are",
+    "options": ["2", "4", "2, 3", "1, 2"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Educated, hard-working and urban people are indicated by",
+    "options": ["7", "2", "3", "4"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Non-urban educated people who are neither hardworking nor honest are indicated by",
+    "options": ["5", "7", "10", "12"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Honest, educated and hardworking non urban people are indicated by",
+    "options": ["3", "4", "6", "9"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "In how many different ways can the letters of the word “DETAIL” be arranged in such a way that the vowels occupy only the odd positions ?",
+    "options": ["32", "36", "48", "60"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If from 4 to 55 the numbers which are divisible by 3 and the numbers which contain 3 as one of the digits, are removed, then how many numbers will be left ?",
+    "options": ["24", "23", "22", "25"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "In the following number-series, one term is wrong. Which term is wrong ?\n5, 12, 19, 33, 47, 75, 104",
+    "options": ["33", "47", "75", "104"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The position of A in a class is 5th from the top and position of B is 7th from the bottom. If C is at 6th place after A and 6th place before B, how many students are there in the class ?",
+    "options": ["25", "23", "21", "22"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Suppose $X = 2^{100}, Y = 3^{100}$ and $Z = 4^{100}$. Exactly one of the following is true. Which is it ?",
+    "options": ["$X + Y = Z$", "$X + Y < Z$", "$X + Y > Z$", "$XY = Z$"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Statements :\ni) Price rise is a natural phenomenon\nii) If production increases prices fall\niii) High prices affect the poor\nConclusion : If production rises the poor feel relieved.\nAnswer Choises :",
+    "options": [
+      "Only i and ii",
+      "Only i and iii",
+      "Only ii and iii",
+      "Data Insufficient"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Correct the following equation by inter-changing two signs. $3 - 9 \\times 27 + 9 \\div 3 = 3$",
+    "options": ["+ and –", "× and +", "× and $\\div$", "× and –"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Pushpa is twice as old as Rita was two years age. If the difference between their ages be 2 years, how old is Pushpa today ?",
+    "options": ["6 years", "8 years", "10 years", "12 years"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "A clock is set right at 8 a.m. The clock gains 10 minutes in 24 Hrs. What will be the right time when the clock indicates 1 p.m. on the following day ?",
+    "options": ["11.40 p.m.", "12.48 p.m.", "12 noon", "10 p.m."],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Choose the best answer figure to substitute element 4 in the problem figures so that element 3 is related to element 4 in the same way as element 1 is related to element 2.",
+    "options": ["(a)", "(b)", "(c)", "(d)"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "What is the profession of Rakesh’s wife ?",
+    "options": ["Teacher", "Doctor", "Lawyer", "None of these"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "How many male members are there in the family ?",
+    "options": ["Two", "Three", "Four", "None of these"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "What is/was Ajay’s grandfather’s occupation ?",
+    "options": ["Teacher", "Lawyer", "Doctor", "Cannot be determined"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "What is the profession of Ajay ?",
+    "options": ["Teacher", "Lawyer", "Doctor", "Cannot be determined"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Mr. X left his entire estate to his wife, his daughter, his son and the cook. His daughter and son got half the estate, sharing in the ratio of 4 to 3. His wife got twice as much as the son. If the cook received a bequest of Rs.500, then the entire estate was",
+    "options": ["Rs. 3,500", "Rs. 5,500", "Rs. 6,500", "Rs. 7,000"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "At a dance party a group of girls and boys exchange dances as follows :\nOne boy dances with 5 girls, Second boy dances with 6 girls, and so on last boy dances with all girls. If b represents the number of boys and g represents the number of girls, then",
+    "options": ["$b = g$", "$b = g / 5$", "$b = g - 4$", "$b = g - 5$"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The average age of husband and wife was 22 years when they were married five years back. What is the present average age of the family if they have a three year old child ?",
+    "options": ["19 Years", "25 Years", "27 Years", "$28\\frac{1}{2}$ Years"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Which of the following will be acceptable for establishing a fact ?",
+    "options": [
+      "Opinion of large number of people",
+      "Traditionally in practice over a long period of time",
+      "Availability of observable evidences",
+      "References in the ancient literature"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Statements :\nA) Some green are blue B) No blue is white\nConclusions\nI) Some blue are green\nII) Some white are green\nIII) Some green are not white\nIV) All white are green",
+    "options": [
+      "Only I follows",
+      "Only II and III follows",
+      "Only I and III follows",
+      "Only I and II follows"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Five persons A, B, C, D and E were travelling in a car. There were two ladies in the group. Two knew car driving, of them one was a lady. A is brother of D. B, wife of D drove at the beginning, E drove at the end. Who was the other lady in the group ?",
+    "options": ["D", "B", "C", "E"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Choose which pair of numbers carries next in the following sequence :\n61, 57, 50, 61, 43, 36, 61",
+    "options": ["29, 61", "27, 20", "31, 61", "29, 22"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "How much money did ‘C’ get ?",
+    "options": ["Rs. 147", "Rs. 136", "Rs. 144", "Rs. 159"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "How much money did ‘B’ get ?",
+    "options": ["Rs. 102", "Rs. 107", "Rs. 108", "Rs. 110"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Who get highest amount ?",
+    "options": ["A", "B", "C", "D"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "In a certain code, RIPPLE is written as 613382 and LIFE is written as 8192. How is PILLER written in that code ?",
+    "options": ["318826", "318286", "618826", "328816"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "A doctor said to his compounder “I go to see the patients at their residence after every 3:30 hours. I have already gone to the patient 1:20 hours ago and next time I shall go at 1.40 pm”. At what time this information was given to the compounder by the doctor ?",
+    "options": ["10.10 a.m.", "11.30 a.m.", "11.20 a.m.", "None of these"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Statements : Some doctors are lawyers.\nAll teachers are lawyers.\nSome engineers are lawyers.\nAll engineers are businessman.\nConclusions : I) Some teachers are doctors.\nII) Some businessmen are lawyers.\nIII) Some businessmen are teachers.\nIV) Some lawyers are teachers.",
+    "options": [
+      "None follows",
+      "Only II follows",
+      "Only III follows",
+      "Only II and IV follow"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Statements : All plastics are glasses.\nSome sponges are glasses.\nAll sponges are clothes.\nAll clothes are liquids.\nConclusions : I) All liquids are sponges.\nII) Some plastics are clothes.\nIII) All glasses are plastics.\nIV) All liquids are clothes.",
+    "options": [
+      "None follows",
+      "Only either II or IV follows",
+      "Only III and IV follows",
+      "Only I and IV follows"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Statements : All sands are beaches.\nAll shores are beaches.\nSome beaches are trees.\nAll trees are hotels.\nConclusions : I) Some shores are hotels.\nII) All beaches are shores.\nIII) Some beaches are hotels.\nIV) Some sands are trees.",
+    "options": [
+      "Only III follows",
+      "Only II follows",
+      "Only IV follows",
+      "None of these"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "In case C is to be the fifth scientist to present his paper, then B must be",
+    "options": ["first", "second", "third", "fourth"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "B could be placed for any of the following places in the order of presenters EXCEPT",
+    "options": ["second", "third", "fourth", "fifth"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "In case F is to present his paper immediately after D presents his paper, C’s could be scheduled for which of the following places in the order of presenters ?",
+    "options": ["second", "third", "fourth", "fifth"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "In case F and E are the fifth and sixth presenters respectively then which of the following must be true ?",
+    "options": [
+      "A is first in the order of presenters",
+      "A is third in the order of presenters",
+      "A is fourth in the order of presenters",
+      "B is first in the order of presenters"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  }
+]

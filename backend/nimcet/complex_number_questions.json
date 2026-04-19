@@ -1,0 +1,97 @@
+[
+  {
+    "year": "2010",
+    "subject": "Mathematics",
+    "question": "Let $\\omega \\neq 1$ be a cube root of unity and $i = \\sqrt{-1}$. The value of the determinant $\\begin{vmatrix} 1 & 1 + i + \\omega^2 & \\omega^2 \\\\ 1 - i & -1 & \\omega^2 - 1 \\\\ -i & -i + \\omega - 1 & -\\omega^3 \\end{vmatrix}$ is",
+    "options": ["0", "$\\omega$", "$\\omega^2$", "$1+\\omega^2$"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "year": "2010",
+    "subject": "Mathematics",
+    "question": "The value of $X^4 + 9X^3 + 35X^2 - X + 4$ for $X = -5 + 2\\sqrt{-4}$ is",
+    "options": ["0", "–160", "160", "–164"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "year": "2011",
+    "subject": "Mathematics",
+    "question": "If $\\alpha$ is a non-real root of $x^6 = 1$ ,then evaluate $\\frac{\\alpha^5 + \\alpha^3 + \\alpha + 1}{\\alpha^2 + 1}$",
+    "options": ["$\\alpha^2$", "0", "$\\alpha$", "$-\\alpha^2$"],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "year": "2012",
+    "subject": "Mathematics",
+    "question": "Coefficients of quadratic equation $ax^2 + bx + c = 0$ are chosen by tossing three fair coins where 'head' means one and 'tail' means two. Then the probability that roots of the equation are imaginary is",
+    "options": ["7/8", "5/8", "3/8", "1/8"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "year": "2012",
+    "subject": "Mathematics",
+    "question": "If $\\omega$ is the cube root of unity, then the system of equations $x + \\omega^2 y + \\omega z = 0, \\omega x + y + \\omega^2 z = 0$ and $\\omega^2 x + \\omega y + z = 0$ is",
+    "options": [
+      "Consistent and has unique solution",
+      "Consistent and has more than one solution",
+      "Inconsistent",
+      "None of these"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "year": "2013",
+    "subject": "Mathematics",
+    "question": "If $\\omega$ is a cube root of unity, then find the value of determinant $\\begin{vmatrix} 1 + \\omega & \\omega^2 & -\\omega \\\\ 1 + \\omega^2 & \\omega & -\\omega^2 \\\\ \\omega^2 + \\omega & \\omega & -\\omega^2 \\end{vmatrix}$",
+    "options": ["$3\\omega$", "$-3\\omega$", "$3\\omega^2$", "$-3\\omega^2$"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "year": "2019",
+    "subject": "Mathematics",
+    "question": "A particle P starts from the point $z_0 = 1 + 2i$, where $i = \\sqrt{-1}$. It moves first horizontally away from the origin by 5 units and then vertically away from the origin by 3 units to reach a point $z_1$. From $z_1$ the particle moves $\\sqrt{2}$ units in the direction of the vector $\\hat{i} + \\hat{j}$ and then it moves through an angle $\\pi/2$ in an anti-clockwise direction on a circle with centre at the origin, to reach a point $z_2$. The point $z_2$ is given by",
+    "options": ["$6 + 7i$", "$-7 + 6i$", "$7 + 6i$", "$-6 + 7i$"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "year": "2019",
+    "subject": "Mathematics",
+    "question": "If $|z| < \\sqrt{3}-1$, then $|z^2 + 2z \\cos \\alpha|$ is",
+    "options": ["less than 2", "$\\sqrt{3}+1$", "$\\sqrt{3}-1$", "None of these"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "year": "2020",
+    "subject": "Mathematics",
+    "question": "If $n$ is a positive integer, then the value of $(\\frac{1+i}{1-i})^n + (\\frac{1-i}{1+i})^n$ is",
+    "options": [
+      "2",
+      "$2 \\cos \\frac{n\\pi}{2}$",
+      "$i^n + (-i)^n$",
+      "Both (b) and (c)"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "year": "2023",
+    "subject": "Mathematics",
+    "question": "If xₖ = cos(2πk/n) + i sin(2πk/n), then Σ(k=1 to n) (xₖ) = ?",
+    "options": [
+      "1",
+      "-1",
+      "0",
+      "None of these"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "subject": "Logical Reasoning",
+        "question": "A set of consecutive positive integers beginning with 1 is \nwritten on the blackboard. A student came along and \nerased one number. The average of the remaining \nnumbers is \u00a7\u00a8\u00a9\u00aa\u00a9. What was the number erased?",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "None of the above"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Four friends A, B, C and D need to cross a bridge in the \nnight. A maximum of 2 people can cross at a time. They \nhave only one lamp. A takes one minute to cross the \nbridge. B takes 2 minutes, C takes 8 minutes and D takes \n11 minutes to cross the bridge respectively. A pair must \nwalk together at the speed of the person who walks \nslowly. What is the minimum time required to cross the \nbridge by all the four people?",
+        "options": [
+            "23 minutes",
+            "20 minutes",
+            "18 minutes",
+            "16 minutes"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "In a city, 40.1% of the adults are illiterate while 85.1% \nof the children are literate. If the ratio of the adults to \nthat of the children is 2:3, then what percent of the \npopulation is literate?",
+        "options": [
+            "20%",
+            "25%",
+            "50%",
+            "75%"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "A runs 1\nJ\nM times as fast as B. If A gives B a start of 80m, \nhow far must the winning post be so that A and B might \nreach it at the same time?",
+        "options": [
+            "200 m",
+            "400 m",
+            "300 m",
+            "160 m"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "A person\u2019s present age is two fifth of the age of his \nmother. After 8 years, he will be one-half of the age of \nhis mother. What is the present age of his mother?",
+        "options": [
+            "60 years",
+            "50 years",
+            "40 years",
+            "30 years"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Mr. Kumar drives to work at an average speed of 48 \nKm/hr. The time taken to cover the first 60% of the \ndistance is 10 minutes more than the time taken to \ncover the remaining distance. How far is his office?",
+        "options": [
+            "30 Kms",
+            "40 Kms",
+            "45 Kms",
+            "48 Kms"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Two pipes A and B can fill the cistern in 37.5 minutes \nand 45 minutes respectively. Both pipes are opened. The \ncistern will be filled in just half an hour, if the B is turned \noff after:",
+        "options": [
+            "5 minutes",
+            "9 minutes",
+            "10 minutes",
+            "15 minutes"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "In a certain code, DOES is written as 5$3% and SITE is \nwritten as %4#3. How is EDIT written in that code?",
+        "options": [
+            "3#4$",
+            "%3#5",
+            "354#",
+            "4#5$"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "In a shower, 5 cm of rain falls. The volume of water that \nfalls on 1.5 hectares of ground is:",
+        "options": [
+            "75 cubic meter",
+            "750 cubic meter",
+            "7500 cubic meter",
+            "75000 cubic meter"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Eight friends A through H, are sitting around a circular \ntable, playing a game of cards. They belong to two \ndifferent teams X and Y. No two persons of the same \nteam sit in adjacent seats. \n\uf0d8 A sits neither opposite to D nor to H but is sitting in \nbetween C and G. \n\uf0d8 B sits neither opposite to A nor to G but is sitting in \nbetween F and D. \n\uf0d8 B and H belong to team X and D sits opposite to E \nWho are the members of team X?",
+        "options": [
+            "A, D, F and E",
+            "B, H, C and E",
+            "B, D, H and G",
+            "B, H, C and G"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Eight friends A through H, are sitting around a circular \ntable, playing a game of cards. They belong to two \ndifferent teams X and Y. No two persons of the same \nteam sit in adjacent seats. \n\uf0d8 A sits neither opposite to D nor to H but is sitting in \nbetween C and G. \n\uf0d8 B sits neither opposite to A nor to G but is sitting in \nbetween F and D \n\uf0d8 B and H belong to team X and D sits opposite to E \n\uf0d8 Who are sitting adjacent to E?",
+        "options": [
+            "B and H",
+            "B and G",
+            "H and G",
+            "H and C"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Four students A, B, C and D distributed 30 marbles \namong themselves. No two students got equal number \nof marbles. No student got more than 10 marbles. No \nstudent got less than 5 marbles. A and C got odd number \nof marbles. B and D got even number of marbles. A got \nmore marbles than B, C got more marbles than D, B got \nmore marbles than D. \nWhat is the number of marbles with A?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Four students A, B, C and D distributed 30 marbles \namong themselves. No two students got equal number \nof marbles. No student got more than 10 marbles. No \nstudent got less than 5 marbles. A and C got odd number \nof marbles. B and D got even number of marbles. A got \nmore marbles than B, C got more marbles than D, B got \nmore marbles than D. \nMean of number of marbles with B, C, D is:",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "None of the above"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Nine individuals - Z, Y, X, W, V, U, T, S and R - are the \nonly candidates, who can serve on three committees\u2014\nK1, K2 and K3, and each candidate should serve on \nexactly one of the committees. Committee K1 should \nconsist of exactly one member more than committee K2. \nIt is possible that there are no members in committee \nK3. Among Z, Y and X none can serve on committee K1. \nAmong W, V and U none can serve on committee K2. \nAmong T, S and R none can serve on committee K3. \nIn case committee K2 is served by T and Z only, how \nmany of the nine individuals should serve on committee \nK3?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Nine individuals - Z, Y, X, W, V, U, T, S and R - are the \nonly candidates, who can serve on three committees\u2014\nK1, K2 and K3, and each candidate should serve on \nexactly one of the committees. Committee K1 should \nconsist of exactly one member more than committee K2. \nIt is possible that there are no members in committee \nK3. Among Z, Y and X none can serve on committee K1. \nAmong W, V and U none can serve on committee K2. \nAmong T, S and R none can serve on committee K3. \nOf the nine individuals, the largest number that can \nserve together on committee K3 is:",
+        "options": [
+            "8",
+            "7",
+            "6",
+            "5"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Fill in the blank in the series: ELFA, GLHA, ILJA, _____, \nMLNA:",
+        "options": [
+            "OLPA",
+            "KLMA",
+            "LLMA",
+            "KLLA"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Pointing to a gentleman, Mohan said, 'His only brother is \nthe father of my daughter\u2019s father'. The gentleman is \nMohan\u2019s ________.",
+        "options": [
+            "Brother",
+            "Father",
+            "Uncle",
+            "None of the above"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "It was 9.35 AM in Garvita\u2019s watch, which kept correct \ntime, when Manya informed her that the last bus left the \nbus stop at 9.25 am. Manya\u2019s watch is 5 min fast. The \nfrequency of the bus is every 20 min. For how long \nGarvita must wait to catch the next bus?",
+        "options": [
+            "5 min",
+            "10 min",
+            "15 min",
+            "20 min"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "A total of 324 notes comprising of Rs. 20 and Rs. 50 \ndenominations make a sum of Rs. 12450. The number of \nRs. 20 notes is",
+        "options": [
+            "200",
+            "144",
+            "125",
+            "110"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Rishabh stops after going 10 Km towards west from his \noffice. Then he goes 8 Km turning to his left. After this he \ngoes 4 Km turning to his left. How far is he from the \nfixed point?",
+        "options": [
+            "18 Km",
+            "8 Km",
+            "10 Km",
+            "None of these"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Which of the four options should fill the missing cell?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "In the following questions, the symbols $, #, @, % and * \nillustrate the following meanings. \n>P$Q \u2013 P is not smaller than Q \n>P#Q \u2013 P is neither greater than nor equal to Q. \n>P@Q \u2013 P is neither smaller than nor equal to Q. \n>P%Q \u2013 P is not greater than Q \n>P*Q \u2013 P is neither greater than nor smaller than Q. \nStatements: \nK # L, L % M, M * N, N # O \nConclusions: \nI. K # M \nII. K * M \nIII. L % O",
+        "options": [
+            "I only",
+            "Either I or II only",
+            "III only",
+            "All I, II and III"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Study the following arrangement carefully and answer \nthe question given below: \nW 1 R % 4 J E # 7 M T 2 I 9 B H 3 A $ 9 F Q 5 D G 6 U S P \nThree of the following are alike in a certain way on the \nbasis of above arrangement and hence form a group. \nWhich one does not belong to that group?",
+        "options": [
+            "R W 4",
+            "9 Q A",
+            "3 B $",
+            "5 F G"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "If there are no dancers that aren\u2019t slim and no singers \nthat aren\u2019t dancers, then which statements are always \ntrue? Choose the correct answer.",
+        "options": [
+            "There is not one slim person that isn't a dancer.",
+            "All singers are slim.",
+            "Anybody slim is also a singer.",
+            "None of the above."
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "If in a certain language, ITNIETAM is the code for \nINTIMATE, which word has the code TREVNIETARBI?",
+        "options": [
+            "INVRETIBRATE",
+            "INVERTIBARTE",
+            "INVERTIBRATE",
+            "INVERTIBRETA"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Sum of ages of Anu and Bhanu is 10 years more than \nsum of ages of Bhanu, Chanu and Dhanu. Average age of \nChanu and Dhanu is 19 years. Find the average age of \nAnu and Dhanu if Dhanu is 10 years elder than Chanu.",
+        "options": [
+            "36 years",
+            "30 years",
+            "25 years",
+            "31 years"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "In a competitive examination in Maharashtra state 9% \ncandidates got selected from the total appeared \ncandidates. Tripura state had an equal number of \ncandidates appeared and 12% candidates got selected \nwith \n102 \nmore \ncandidates \ngot \nselected \nthan \nMaharashtra state. What was the number of candidates \nappeared from each state?",
+        "options": [
+            "3400",
+            "3000",
+            "2850",
+            "3200"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Shiva gave 40% of his monthly salary to his mother from \nthe remaining he used 7% for electronic gadgets and \n23% he kept aside for his monthly expenses. The \nremaining amount he transferred to his friend\u2019s account. \nThe sum of the amount he gave to his mother and he \ntransferred to his friend account was 41000. What was \nShiva\u2019s monthly salary?",
+        "options": [
+            "50500",
+            "49000",
+            "50000",
+            "45000"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Read the information given below and answer the \nquestions that follow: \ni. A * B means -> A and B are of the same age \nii. A \u2013 B means -> B is younger than A \niii. A + B means -> A is younger than B \nSachin * Madan \u2013 Reena means?",
+        "options": [
+            "Reena is youngest",
+            "Reena is oldest",
+            "Madan is younger than Reena",
+            "Madan is the youngest"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Read the information given below and answer the \nquestions that follows \ni. A * B means -> A and B are of the same age \nii. A \u2013 B means -> B is younger than A \niii. A + B means -> A is younger than B \nX + Y + Z is same as ________?",
+        "options": [
+            "Y \u2013 X \u2013 Z",
+            "Z \u2013 Y \u2013 X",
+            "Z \u2013 X \u2013 Y",
+            "X \u2013 Y \u2013 Z"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Find out the wrong number in the following number \nseries: \n56, 58, 62, 70, 84, 118, 182",
+        "options": [
+            "58",
+            "62",
+            "84",
+            "118"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Find out the missing number:",
+        "options": [
+            "2",
+            "6",
+            "4",
+            "16"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "In an examination, 78% of the total students who \nappeared were successful. If the total number of failures \nwas 176 and 34% got first class, then how many \nstudents got first class?",
+        "options": [
+            "272",
+            "112",
+            "210",
+            "254"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Which number should come in place of the question \nmark (?) in the following chart:",
+        "options": [
+            "16",
+            "26",
+            "20",
+            "12"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Find the missing number:",
+        "options": [
+            "21",
+            "16",
+            "10",
+            "8"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "How many minimum numbers of colours will be \nrequired to paint all the sides of a cube without the \nadjacent sides having the same colours?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "If a man walks at the rate of 4 km/hr, he misses a train \nby only 6 minutes. However, if he walks at the rate of 5 \nkm/hr, he reaches the station 6 minutes before the \narrival of the train. The distance covered by him to \nreach the station is:",
+        "options": [
+            "4 km",
+            "7 km",
+            "9 km",
+            "5 km"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "If the numerator of a fraction is increased by 25% and \ndenominator decreased by 20%, the new value is 5/4. \nWhat is the original value?",
+        "options": [
+            "3/5",
+            "4/5",
+            "7/8",
+            "3/7"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Read the following information carefully and answer the \nquestions given below: \ni. Five friends Amar, Kapil, Sarvesh, Rohan and Nagesh \nput on five shirts of different colours, i.e., Red, Yellow, \nBlue, White, and Green, while they were going to attend \na party. These colours are not in the order. \nii. They have different hobbies as reading, playing, \nouting, singing and writing. \niii. Kapil, who likes singing, does not wear Yellow shirt. \nSarvesh wears Red shirt and he does not like reading or \nwriting. Nagesh likes playing and he does not wear Blue \nor Yellow shirt. Amar likes writing and Rohan does not \nwear Yellow or Green shirt. \nWhat is the colour of Kapil\u2019s shirt?",
+        "options": [
+            "White",
+            "Green",
+            "Blue",
+            "Insufficient data to answer"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Logical Reasoning",
+        "question": "Read the following information carefully and answer the \nquestions given below: \ni. Five friends Amar, Kapil, Sarvesh, Rohan and Nagesh \nput on five shirts of different colours, i.e., Red, Yellow, \nBlue, White, and Green, while they were going to attend \na party. These colours are not in the order. \nii. They have different hobbies as reading, playing, \nouting, singing and writing. \niii. Kapil, who likes singing, does not wear Yellow shirt. \nSarvesh wears Red shirt and he does not like reading or \nwriting. Nagesh likes playing and he does not wear Blue \nor Yellow shirt. Amar likes writing and Rohan does not \nwear Yellow or Green shirt. \nWho likes writing?",
+        "options": [
+            "Rohan",
+            "Amar",
+            "Kapil",
+            "Insufficient data to answer"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    }
+]

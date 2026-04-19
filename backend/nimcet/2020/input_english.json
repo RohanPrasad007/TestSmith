@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "General English",
+        "question": "Choose the correct expression of approval:",
+        "options": [
+            "Super!",
+            "Rotten!",
+            "Damn!",
+            "Hell!"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Which of the following is a Noun?",
+        "options": [
+            "Carelessness",
+            "Careless",
+            "Carelessly",
+            "Caring"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Choose the word that accurately signifies a student who \navoids attending classes.",
+        "options": [
+            "Diligent",
+            "Callous",
+            "Morose",
+            "Truant"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Identify thetype of error in the following sentence: \nSome of the books, were destroyed.",
+        "options": [
+            "Syntactical error",
+            "Punctuation error",
+            "Grammatical error",
+            "Conflicting error"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Pick the word similar in meaning: ALLEVIATE",
+        "options": [
+            "Clear",
+            "Lessen",
+            "Match",
+            "Incite"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Pick the word opposite in meaning: ABSURD",
+        "options": [
+            "Cruel",
+            "Sensible",
+            "Calm",
+            "Sturdy"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Identify the meaning of the following: \nIt was all Greek to me\u2026. .",
+        "options": [
+            "Difficult to speak",
+            "Difficult to write",
+            "Difficult to arrange",
+            "Difficult to understand"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "\u201cTo Vouch for\u2019\u2019 means",
+        "options": [
+            "To confirm",
+            "To degrade",
+            "To follow",
+            "To supersede"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "\u2018\u2019To hold your horses\u2019\u2019 means",
+        "options": [
+            "To be ready",
+            "To be patient",
+            "To be eager",
+            "To be impatient"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Choose the right option. \nBlessing in disguise is \u2026\u2026.?",
+        "options": [
+            "Something good",
+            "Something unrecognised",
+            "Something known to all",
+            "Something good but not recognised at first"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "He was accused \u2026\u2026. theft.",
+        "options": [
+            "on",
+            "about",
+            "in",
+            "of"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "I never listen \u2026\u2026 the radio.",
+        "options": [
+            "to",
+            "of",
+            "about",
+            "in"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "I don\u2019t think I\u2019ve ever \u2026\u2026on that sofa.",
+        "options": [
+            "been sitting",
+            "sat",
+            "sit",
+            "sitting"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Name the letter that is sent along with the CV \n(Curriculum Vitae).",
+        "options": [
+            "Formal letter",
+            "Covering letter",
+            "Introductory letter",
+            "Business letter"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "What is not included in a resume\u00b4?",
+        "options": [
+            "Work experience",
+            "Education",
+            "Projects",
+            "Family history"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Choose the correct sentence of the following:",
+        "options": [
+            "I prefer coffee to tea.",
+            "I prefer coffee for tea.",
+            "I prefer coffee than tea.",
+            "I prefer coffee by tea. \n \nRead the following passage and answer the questions: \nA Lichen is a composite organism that arises from algae \nliving among filaments of multiple fungi in a symbiotic \nrelationship. The combined lichen has properties \ndifferent from those of its component organisms. \nLichens come in many colours, sizes, and forms. The \nproperties are sometimes plant like, but lichens are not \nplants. Lichens may have tiny leafless branches, flat \nleaflike structures or flakes that lie on the surface like \npeeling paint or other growth forms. \nLichens occur from sea level to high alpine elevations, in \nmany environmental conditions and can grow on almost \nany surface. Different kinds of lichens have adopted to \nsurvive in some of the most extreme environment on \nearth such as Arctic, Tundra, hot dry deserts, rocky \ncoasts, and toxic slag heaps. They can even live inside \nsolid rocks, growing between the grains. \nIt is estimated that 6% of the earth\u2019s land surface is \ncovered by lichens. Some of them are considered to be \nthe oldest living things. They are among the first living \nthings to grow on fresh rock exposed after an event such \nas a land slide. The long-life span and slow but regular \ngrowth rate of some lichens can be used to date events."
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "The passage states all the following about Lichens \nEXCEPT:",
+        "options": [
+            "Lichen is an independent plant.",
+            "Lichens have different properties.",
+            "Lichens can grow in exotic conditions.",
+            "Lichens can be used to date events."
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "The passage aims at the view\u2026\u2026.",
+        "options": [
+            "that Lichens are toxic in nature.",
+            "that sharing of things help easy growth.",
+            "that Lichens should be excluded from Botany.",
+            "how plants use solar energy."
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Choose the one which best expresses the meaning of the \nword FLAKES:",
+        "options": [
+            "Peeling",
+            "Pip",
+            "Loaf",
+            "Whole"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "General English",
+        "question": "Identify the one word opposite to SPAN in meaning:",
+        "options": [
+            "Stretch",
+            "Length",
+            "Duration",
+            "Compress"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    }
+]

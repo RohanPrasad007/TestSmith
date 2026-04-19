@@ -1,0 +1,242 @@
+[
+  {
+    "subject": "General English",
+    "question": "What is a man's culture judged by?",
+    "options": [
+      "By the quality of mind which he brings to bear on the facts of life.",
+      "By man's social skill.",
+      "By the variety of books he reads.",
+      "By money and influence."
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "What are the hindering factors in the liberation and development of the soul?",
+    "options": [
+      "Power and wealth",
+      "Passion and desire, pride and prejudice",
+      "Money and influence",
+      "Greed and envy"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "What is the function of education according to the ancient Indian philosophers?",
+    "options": [
+      "Education is the development of mind.",
+      "Education brings about salvation and development of the soul.",
+      "Education is the cultivation of culture.",
+      "Education aims at the inculcation of generosity."
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "What is the object of education according to Goathe?",
+    "options": [
+      "It teaches social manners.",
+      "It teaches courtesy.",
+      "It communicates knowledge.",
+      "It forms taste."
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "What is meant by \"leaden weights\"?",
+    "options": [
+      "Weights made of leaden",
+      "Cold scientific knowledge",
+      "Hindering factors, of pride and prejudice, passion and desire, in the liberation of the soul.",
+      "Social and family responsibilities."
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The function of university is:",
+    "options": [
+      "To enable the young to gather facts about the world.",
+      "To learn to do his job.",
+      "To prepare the young to take their place in society.",
+      "To enable them to learn to talk with others."
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Mere knowledge and culture may be distinguished from each other in that:",
+    "options": [
+      "The former widens the mental horizon, the latter enlarges the heart.",
+      "The former gratifies curiosity, the latter refines personality.",
+      "The former is concerned with facts, the latter with fiction.",
+      "The former adds to power, the latter adds to prestige."
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "According to the passage, the function of the teacher is:",
+    "options": [
+      "To remove leaden weights of pride and prejudice, passion, and desire to liberate the soul.",
+      "To instill facts into the minds of the students.",
+      "To teach humanity.",
+      "To foster brotherhood."
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The ________ with which he is able to wield the paint brush is really remarkable.",
+    "options": [
+      "ease",
+      "practice",
+      "sweep",
+      "gait"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The State Transportation Corporation has ________ a loss of 5 crore INR this year.",
+    "options": [
+      "derived",
+      "incurred",
+      "performed",
+      "formulated"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The tall prefers rooms with _____ ceilings.",
+    "options": [
+      "tall",
+      "long",
+      "higher",
+      "high"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "I cannot _____ it to you right now; tomorrow we will discuss about it.",
+    "options": [
+      "demand",
+      "disturb",
+      "explain",
+      "expect"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The car driver was arrested for rash driving and his license was _____ by the police.",
+    "options": [
+      "impounded",
+      "flown",
+      "penalized",
+      "banned"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Write one word for the following: An uncivilized/primitive person.",
+    "options": [
+      "barbarian",
+      "ascetic",
+      "bourgeois",
+      "altruist"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Write one word for the following: One who does not save for future.",
+    "options": [
+      "incorporeal",
+      "inedible",
+      "improvident",
+      "implacable"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the most suitable antonym of the given word: NEGLIGENCE",
+    "options": [
+      "diligence",
+      "meticulousness",
+      "integrity",
+      "honesty"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the most suitable antonym of the given word: ERUDITE",
+    "options": [
+      "scholarly",
+      "unfamiliar",
+      "illiterate",
+      "arrogant"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the most suitable synonym of the given word: RECUPERATE",
+    "options": [
+      "recapture",
+      "reclaim",
+      "recover",
+      "recur"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the most suitable synonym of the given word: SCINTILLATING",
+    "options": [
+      "touching",
+      "nagging",
+      "glittering",
+      "warning"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the most suitable synonym of the given word: BLAND",
+    "options": [
+      "pleasant",
+      "harsh",
+      "irritating",
+      "tasteless"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  }
+]

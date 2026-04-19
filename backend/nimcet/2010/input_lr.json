@@ -1,0 +1,307 @@
+[
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Given below is a binary tree, where every letter has been coded with a string of digit 0 and 1. At any node going left is denoted by 1; at any node going right is denoted by 0. Thus N is denoted as : 10000. All the codes are in Binary notation.\n\nWhat will be the code for S :",
+    "options": ["01011", "01110", "01111", "None"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Which letter is represented by 11001 ?",
+    "options": ["G", "L", "U", "None"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "What is the value of C + R in binary notation ?",
+    "options": ["11101", "1101", "1001", "None"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If all the codes are converted into decimal notation, then how many letters have their value greater than L ?",
+    "options": ["1", "2", "3", "None"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Steel Express runs between Tatanagar and Howrah and has five stoppages in between. Find the number of different kinds of one-way second class ticket that Indian Railway will have to print to service all types of passegers who might travel by Steel Express ?",
+    "options": ["49", "42", "21", "7"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "What are X and Y ?\nS = 8, W = 16, A = 5, C = X, A = 4\n20 = J, 25 = T, 4 = K, 7 = L, Y = N",
+    "options": [
+      "X is 6, Y is 7",
+      "X is 5, Y is 5",
+      "X is 4, Y is 6",
+      "X is 16, Y is 23"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If REASON is coded as 5 and BELIEVED as 7, what is the code number for GOVERNMENT ?",
+    "options": ["6", "8", "9", "10"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "220 guests are to be transported from A to B. Any number of buses of the following passenger carrying capacities are available.\nType P : 60, Type Q : 50, Type R : 40, Type S : 30\nThe cost per trip for a bus of each of these types is given as follows :\nType P : Rs 200, Type Q : Rs 140, Type R : Rs 125, Type S : Rs 95\nNo buses can be overloaded and prefer no vacant seats in each trips.\nWhat is the minimum possible cost for the trip ?",
+    "options": ["Rs 690", "Rs 615", "Rs 640", "Rs 695"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "How many buses are needed for the above (Minimum cost trip)",
+    "options": ["5", "4", "7", "6"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The second cheapest trip arrangement would involve",
+    "options": ["Rs 630", "Rs 680", "Rs 710", "Rs 655"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If finger is called toe, toe is called foot, foot is called thumb, thumb is called ankle, ankle is called palm and palm is called knee, which one finger has a different name ?",
+    "options": ["Thumb", "Ankle", "Knee", "Palm"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "There are 6561 balls out of them 1 is heavy. Find the minimum number of times the balls have to be weighed for finding out the heavy ball.",
+    "options": ["12", "9", "8", "15"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The following sketch shows the pipeline carrying material from one location to another. The capacity of each pipeline is 2000. The demand for the material at B is 800, at C is 800, at D is 1400 and at E is 400. The arrow indicates the direction of material flow through pipeline. The flow through pipelines meets exactly the demand at each location. Flow from B to C is 600.\nThe quantity moved from A to E is",
+    "options": ["400", "1600", "1400", "2000"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The free capacity available in the A-B pipeline is",
+    "options": ["0", "200", "400", "600"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "What is the free capacity available in the E – C pipeline ?",
+    "options": ["600", "400", "200", "0"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "A child can do a piece of work 15 hours slower than woman ? The child works, for 18 hours on the job and then the women takes charge for 6 hours. In this manner, 3/5 of the work can be completed. To complete the job now, how much time the women take ?",
+    "options": ["24 hours", "18 hours", "12 hours", "30 hours"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "In the following questions, select one alternative in which the third statement is implied by the first two statements.",
+    "options": [
+      "All elephants are wild. All lions are wild. So all lions are elephants.",
+      "All mangoes are red. Some apples are mangoes. So all apples at red",
+      "All roads are boxes. All foxes are roads. So all boxes are foxes.",
+      "All X Y Z can run. All ABC are XYZ. So all ABC can run."
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "In the following questions, select one alternative in which the third statement is implied by the first two statements.",
+    "options": [
+      "All dogs are mad. All sick persons are mad. So all sick persoas are dogs",
+      "All oranges are black. All figs are oranges. So all figs are black.",
+      "All windows are dogs. Some doors are dogs. So all windows are doors.",
+      "No man can fly. No kite can fly. So all men are kites."
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "In the following square, numbers have been filled according to some rule. One space has been left blank. Find the correct number out of those given below for the blank space.\n56 65 78\n12     30\n44 14 48",
+    "options": ["14", "44", "62", "51"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "A culprit was spotted by the police from a distance of 250 m. When the police men started running towards the culprit at a speed of 10 km/h, the culprit also fled. If his speed was 8 km/h, find out how far the culprit had run before he was overpowered.",
+    "options": ["2 km", "1 km", "1.5 km", "0.8 km"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "In each of the following three questions, four numbers are given. Out of these, three are alike in a certain way but the rest one is different. Choose the one which is different from the rest three .",
+    "options": ["2384", "3629", "3756", "4298"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "In each of the following three questions, four numbers are given. Out of these, three are alike in a certain way but the rest one is different. Choose the one which is different from the rest three .",
+    "options": ["325", "236", "178", "639"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "In each of the following three questions, four numbers are given. Out of these, three are alike in a certain way but the rest one is different. Choose the one which is different from the rest three .",
+    "options": ["5698", "4321", "7963", "4232"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Find the word that names a necessary part of the underlined word. Gala",
+    "options": ["Celebration", "Tuxedo", "Appetizer", "Orator"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Which should be the next two numbers in the series\n28 25 5 21 18 5 14",
+    "options": ["11, 5", "10, 7", "11, 8", "5, 10"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "In a certain code language, ‘617’ means ‘sweet and hot’; ‘735’ means ‘coffee is sweet’ and ‘263’ means ‘tea is hot’. Which of the following would mean ‘coffee is hot ?",
+    "options": ["731", "536", "367", "753"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Find the missing number in the following figure consisting of intersecting triangles with numbers: 15, 2, 17, ?, 16, 4, 6, 3, 18, 5, 19.",
+    "options": ["13", "14", "20", "21"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Find the missing number in the following figure consisting of overlapping circles with numbers: 13, 1, 4, ?, 2, 5, 3, 6.",
+    "options": ["10", "11", "12", "13"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "How many numbers from 1 to 100 are such each of which is divisible by 8 and whose at least one digit is 8",
+    "options": ["Four", "Zero", "Eight", "Six"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Read the following information carefully and answer the question that follow :\n(i) There is group of five person – P, Q, R, S and T\n(ii) One of them is horticulturist, one is a physicist, one is a journalist, one is an industrialist and one is an advocate.\n(iii) Three of them – P, R and advocate prefer tea to coffee and two of them – Q and the journalist prefer coffee to tea.\n(iv) The industrialist, S and P are friends to one another but two of these prefer coffee to tea\n(v) The horticulturist is R’s brother.\nWho is a horticulturist ?",
+    "options": ["P", "Q", "R", "S"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Who is an industrialist ?",
+    "options": ["T", "R", "Q", "S"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Which of the following groups include a person who likes tea but is not an advocate ?",
+    "options": ["PRT", "ST", "QRT", "None"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If the direction North-East becomes South-East, how will other directions change ?",
+    "options": [
+      "West to North",
+      "South to South-West",
+      "North-West to East",
+      "East to South-West"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "How many numbers between 1 to 1000 (both excluded) are both squares and cubes ?",
+    "options": ["none", "1", "2", "3"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The plan given below, shows office for six officers namely A, B, C, D, E, and F. Both B and C occupy offices to the right of the corridor (as one enters the office block) and A occupies the office to the left of the corridor. E and F occupy offices on opposite sides of the corridor but their offices do not face each other. The offices of C and D face each other. E does not have a corner office. F’s office is further down the corridor than A’s, but on the same side.\nIf E sits in his office and faces the corridor, whose office is to his left ?",
+    "options": ["A", "B", "C", "D"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Whose office faces A’s office ?",
+    "options": ["B", "C", "D", "E"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Who is/are F’s neighbour(s) ?",
+    "options": ["A only", "A and D", "C only", "B and C"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "D was heard telling someone to go further down the corridor to the last office on the right. To whose room was he trying to direct that person ?",
+    "options": ["A", "B", "C", "F"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Persons X, Y, Z and Q live in red, green, yellow or blue colored houses placed in a sequence on a street. Z lives in a yellow house. The green house is adjacent to the blue house. X does not live adjacent to Z. The yellow house is in between the green and red house. The color of the house X lives in is",
+    "options": ["Green", "Blue", "Red", "none"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Which two months in a year have the same calendar ?",
+    "options": [
+      "June – October",
+      "April – November",
+      "April – July",
+      "October – December"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  }
+]

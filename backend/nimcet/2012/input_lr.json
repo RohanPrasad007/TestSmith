@@ -1,0 +1,327 @@
+[
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If ROAST is coded as PQYUR in a certain language, then SLOPP is coded in that language as",
+    "options": ["MRNAQN", "NRMNQA", "QNMRNA", "RANNMQ"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If Lelibroon means yellow hat, plekafroti means flower graden and frotimix means garden salad, then which word could mean \"yellow flower\" ?",
+    "options": ["lelifroti", "lelipleka", "plekabroon", "frotibroon"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If + is * , \u2013 is + , * is / and / is \u2013 , then 6 \u2013 9 + 8 * 3/20 is",
+    "options": ["\u20132", "6", "10", "12"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "In a certain year there were exactly four Fridays and four Mondays in January. On what day of the week did the 20th of January fall that year ?",
+    "options": ["Saturday", "Sunday", "Thursday", "Tuesday"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The letters P, Q, R, S, T, U and V, not necessarily in that order represent seven consecutive integers from 22 to 33 and\n1. U is as much less than Q as R is greater than S\n2. V is greater than U\n3. Q is the middle term\n4. P si greater than S\nThen the sequence of letters from the lowest value to the highest value is",
+    "options": ["TVPQRSU", "TRSQUPV", "TUSQRPV", "TVPQSRU"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The minimum number of tiles of size 16 by 24 required to form a square by placing them adjacent to one another is",
+    "options": ["6", "8", "11", "16"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Five persons K, L, M, N and O are sitting around a dining table. K is the mother of M, M is actually the wife of O, N is the brother of K and L is the husband of K, how is N related to L ?",
+    "options": ["Son", "Cousin", "Brother", "Brother-in-law"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Three men A, B, C play cards. If one loses the game he has to give Rs.3. If he wins the game he will gain Rs.3 each from the other two losers. If A has won 3 games, B loses Rs.3, C wins Rs. 12, then the total number of games played is",
+    "options": ["12", "21", "20", "6"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If a man walks at the rate of 4 kmph, he misses a train by only 6 min. However if he walks at the rate of 5 kmph he reaches the station 6 minutes before the arrival of the tain. The distance covered by him to reach the station is",
+    "options": ["4", "7", "9", "5"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The missing number in the given series is 3, 6, 6, 12, 9, ......, 12",
+    "options": ["15", "18", "11", "13"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "A man runs 20 m towards east and turns right, runs 10 m and turns right, runs 9 m and turns left, runs 5 m and turns left, runs 12 m and finally turns left and runs 6 m. Which direction is the man facing ?",
+    "options": ["North", "South", "East", "West"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "In a club there are certain number of males and females. If 15 females are absent then number of males will be half of females. If 45 males are absent then female strength will be 5 times that of males. Number of males actually present is",
+    "options": ["45", "80", "105", "175"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The missing number in the following series is 6, 12, 21, ...., 48",
+    "options": ["40", "33", "38", "45"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The task done by Terry on Wednesday is",
+    "options": ["Vacuuming", "Dusting", "Mopping", "Sweeping"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The day on which the vacuuming is done is",
+    "options": ["Friday", "Monday", "Tuesday", "Wednesday"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Sally does dusting on",
+    "options": ["Friday", "Monday", "Tuesday", "Wednesday"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Find the odd number in the series : 2, 9, 28, 65, 126, 216, 344, ....",
+    "options": ["28", "65", "126", "216"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Average age of students of an adult school is 40 years. 120 new students whose average is 32 years joined the school. As a result the average age is decreased by 4 years. The number of students of the school after joining of the new students is",
+    "options": ["1200", "120", "360", "240"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Which two of the following are not neighbours ?",
+    "options": ["RV", "UV", "RP", "QW"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "What is the position of S ?",
+    "options": [
+      "Between U and V",
+      "Second to the right of P",
+      "To the immediate right of W",
+      "Data inadequate"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The ratio between a two digit number and the sum of the digits of that number is 4 : 1. If the digit in the units place is 3 more than the digit in ten's place, then the number is",
+    "options": ["24", "63", "36", "42"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Two positions of a dice are shown below. When number 1 is on the top, what number will be at the bottom ?",
+    "options": ["2", "3", "5", "Cannot be determined"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "A, B, C, D, E, F and G are sitting in a line facing East. C is immediate to the right of D. B is at one of the extreme ends and has E as his neighbour. G is between E and F. D is sitting third from the south end. Who is sitting third from North ?",
+    "options": ["A", "E", "F", "G"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "There is a family party consisting of two fathers, two mothers, two sons, one father-in-law, one mother-in-law, one daughter-in-law, one grandfather, one grandmother and one grandson. What is the minimum number of persons required so that this is possible ?",
+    "options": ["5", "6", "7", "8"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If A is brother of B, C is brother of B, and A is brother of D, then which of the following must be true ?",
+    "options": [
+      "A is brother of C",
+      "B is brother of C",
+      "D is brother of C",
+      "B is brother of D"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Which of the following is true ?",
+    "options": [
+      "At least two houses have black chimney",
+      "At least two houses have red roofs",
+      "At least two houses have white chimneys",
+      "At least two houses have green roofs"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If house C has a yellow roof, then which of the following must be true ?",
+    "options": [
+      "House E has a white chimney",
+      "House E has a black chimney",
+      "House E has a red chimney",
+      "House D has a red chimney"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "What is the maximum number of green roofs ?",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Krishna said, \"This girl is the wife of grandson of my mother\". How is Krishna related to girl ?",
+    "options": ["Father", "Father-in-law", "Husband", "Grand father"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Instead of walking along two adjacent sides of a rectangular field, a boy took a short cut along the diagonal of the field and saved a distance equal to half the longer side. The ratio of the shorter side of the rectangle to the longer side is",
+    "options": ["1/2", "2/3", "1/4", "3/4"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Based on this method, the word in the parenthesis of CANE (?) BATS is",
+    "options": ["NEAT", "CATS", "ANTS", "NETS"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If the above statements are true, which of the following conclusions is most strongly supported by them ?",
+    "options": [
+      "Only people who have the opportunity for formal schooling develop nearsightedness.",
+      "People who are illiterate do not suffer from nearsightedness.",
+      "The nearsightedness in the children is caused by the visual stress required by reading and other class work.",
+      "Only literate people are nearsighted."
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If A occurs, which may occur ?",
+    "options": [
+      "I only",
+      "II only",
+      "I and III or II and III, but not both",
+      "I, II and III"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If B occurs, which must occur ?",
+    "options": ["D", "G", "H", "J"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If J occurs, which must have occurred ?",
+    "options": [
+      "Both E and F",
+      "Either B or C",
+      "Both B and C",
+      "None of these"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Let x, y and z be distinct integers. x and y are odd and positive and z is even and positive. Which one of the following statements cannot be true ?",
+    "options": [
+      "$(x - z)^2 y$ is even",
+      "$(x - z) y^2$ is odd",
+      "$(x - z) y$ is odd",
+      "$(x - y)^2 z$ is even"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Pointing to a man in the photograph a lady said, \"The father of his brother is the only son of my mother\". How is this man in photograph related to the lady ?",
+    "options": ["Brother", "Son", "Grandson", "Nephew"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Where is E ?",
+    "options": [
+      "Between A and B",
+      "Between C and A",
+      "Between D and C",
+      "In front of C"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If we start counting from the shortest, which boy is fourth in the line ?",
+    "options": ["E", "A", "D", "C"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Who is next to the shortest ?",
+    "options": ["C", "B", "E", "F"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  }
+]

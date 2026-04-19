@@ -1,0 +1,322 @@
+[
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "How many 3-digit numbers divisible by 5, can be formed using the digit 2,3,5,6,7 and 9 ,without repetition of digits?",
+    "options": ["216", "20", "120", "24"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Using only 2,5,10,25 and 50 paise coins ,what is thw smallest number of coins required to pay exactly 78 paise ,69 paise and 1.01 to three different persons?",
+    "options": ["19", "20", "17", "18"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Which of the following two patterns will fit in the blanks of the series $ZA_5, Y_4B, XC_6, W_3D$ , __, __?",
+    "options": [
+      "$VE_7$ and $U_2E$",
+      "$V_2E$ and $U7F$",
+      "$VE_7$ and $U_2F$",
+      "$VF_7$ and $U_2E$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Which of the following numbers comes next in the two - digit decimal number sequence 61,52,63,94,____ ?",
+    "options": ["65", "64", "56", "46"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Three ladies X,Y and Z marry three men A,B and C .X is married to A, Y is not mrried to an engineer, Z is not married to a doctor ,C is not a doctor and A is a lawyer .Then which one of following statements is correct?",
+    "options": [
+      "X is married to a doctor",
+      "Y is married to C ,Who is a doctor",
+      "Z is married to B, who is an engineer",
+      "None"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Direction (Q.56 to 57):are based on following The letter of English alphabet from A to M were Written,leaving space for one letter between every two letters and then the remaining letters were inserted beginning with N and ending the series with Z after M.\n\nWhich letter would be 3rd to the right of the 7th letter from the left ?",
+    "options": ["C", "O", "R", "S"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Direction (Q.56 to 57):are based on following The letter of English alphabet from A to M were Written,leaving space for one letter between every two letters and then the remaining letters were inserted beginning with N and ending the series with Z after M.\n\nWhich letter would be exactly in the middle of eighteenth letter from the begining and fifteenth from the end ?",
+    "options": ["G", "H", "J", "L"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "In an examination there are 100 questions divided into 3 parts A,B,C and each part should contain at least one question in part A,B and C carry 1,2 and 3 marks respectively. Part A is for at least 60% of the total marks and part B should contain 23 questions. How many questions must be set in part C?",
+    "options": ["1", "2", "3", "no determined"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If $\\div$ means addition ,$-$ means division, $\\times$ means subtraction and $+$ means multiplication, then the value of $\\frac{(36 \\times 4) - 8 \\times 4}{4 + 8 \\times 2 + 16 \\div 1}$",
+    "options": ["0", "8", "12", "16"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Which letter in the word CYBERNETICS occupies the same position as it does in the English alphabet?",
+    "options": ["C", "E", "I", "T"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "The remainder when $2^{31}$ is divided by 5 is",
+    "options": ["1", "2", "3", "4 and"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If the English word \"EXAMINATION\" is coded as 56149512965 ,then the word \"GOVERNMENT\" is coded as",
+    "options": ["7645954552", "7654694562", "7645955423", "7654964526"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Gopal starts from his house towards West. After walking a distance of 30 meters, he turned towards right and walked 20 meters. He turned left and after moving a distance of 10 meters,turned to his left again and walked 40 meters .He then turned left and walked 5 meters .Finally ,he turns to his left. In which direction is he walking now?",
+    "options": ["North", "South", "East", "South West"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Read the conclusion and then decide which of the given conclusions logically follows from the two given statements (i) and (ii) disregarding commonly known facts.\nStatements: (i) No woman teacher can play\n (ii) some woman teachers are athletes ?\nConclusions:(i) Male athletes can play .\n (ii) Some athletes can play",
+    "options": [
+      "Only conclusion (i) follows",
+      "Only conclusion (ii) follows",
+      "Either (i) or (ii) follows",
+      "Neither (i) or (ii) follows"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Which of the following numbers come next in the series 8, 6, 9, 23, 87,____ ?",
+    "options": ["128", "226", "324", "429"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Direction (Q.66 to 69): Question are based on the following\nThere is a family of six members A, B, C, D, E and F.\nThere are two married couples in the family and the family and the family members represents three generations. Each member has a distinct choice of a colour,amongst Green, Yellow, Black, Red, White and Pink. No lady member likes Black colour ,Is the daughter- in -law of E.C,who likes Black colur,is the daughter-in-law of E.B is the brother of F and son of D and like pink.A is the grandmother of F and F does not like Red .Wife of the husband having a choice for Green colour, likes Yellow.\n\nWhich of the following is the colour preference of A?",
+    "options": ["Red", "Yellow", "Either Red or Yellow", "Not determined"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Direction (Q.66 to 69): Question are based on the following\n...\nWhich of the following could be the colour combination of one of the couples ?",
+    "options": ["Yellow-Red", "Green-Black", "Red-Yelow", "Yelow-Green"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Direction (Q.66 to 69): Question are based on the following\n...\nWhich of the following is one of the married couples ?",
+    "options": ["CD", "AC", "AD", "not determied"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Direction (Q.66 to 69): Question are based on the following\n...\nWhich of the following is true about F? .",
+    "options": [
+      "Brother of B",
+      "Sister of B",
+      "Daughter of C",
+      "not determined"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If Tuesday falls on the fourth of a month then which day will fall three days after 24th of the same month?",
+    "options": ["Monday", "Tuesday", "Thrusday", "Friday"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "If the statements \"All chickens are birds\",\"Some chickens are hens\" and \"Female birds lay eggs\", are all facts, then which of the following must also be a facts?\n(i) All birds lay eggs\n(ii) Some hens are birds\n(iii) Some chickens are not hens",
+    "options": [
+      "(i) and (ii)",
+      "(ii) nd (iii)",
+      "(i) and (iii)",
+      "Neither (i) nor (ii) nor (iii)"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Direction (Q.72 to 75): Question are based on the following\nA circular field with inner radius of 10 meters and outer radius of 20 meters ia divided into 5 successive stage for ploughing at each stage ,with starting points P1,P2,P3,P4 and P5, was alloted to one of the five farmers f1,f2,f3,f4, and f5 not necessarily in that order.F5 was alloted the stage starting at point p4.The stage from P5 to P3 was not the first stage.F4 was alloted the work of the fourth stage. Finishing point of stage 3 was P1 and the work was not alloted to F1.F3 was alloted the work of stage ending at P5.\n\nWhich of the following is the finish point for farmer F2?",
+    "options": ["P1", "P2", "P3", "P4"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Direction (Q.72 to 75): Question are based on the following\n...\nWhich stage was ploughed by F5?",
+    "options": ["2", "3", "4", "5"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Direction (Q.72 to 75): Question are based on the following\n...\nWhat are the starting and ending points of the field ploughed by F4?",
+    "options": ["P1 and P2", "P1 and P4", "P4 and P2", "P2 and P4"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Direction (Q.72 to 75): Question are based on the following\n...\nWhat is the starting point for stage 3?",
+    "options": ["P2", "P3", "P4", "not determined"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "How many times do the hour and the minute hands of a clock overlap in 24 hours?",
+    "options": ["24", "22", "26", "20"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "In certain code , TOGETHER is coded as RQEGRJCT .In the same code, PAROLE will be written as:",
+    "options": ["NCPQJG", "NCQPJG", "RCPQJK", "RCTQNG"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "A drawer contains 10 black and 10 brown socks which are all mixed up. What is the smallest number of socks to be taken from the drawer to decided without seeing them ,to be sure that there is atleast one pair of socks of the same colour?",
+    "options": ["11", "10", "3", "cannot be determined"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Find the missing number in the series: 4, 7, 25, 10, ___, 20, 16, 19",
+    "options": ["13", "15", "20", "28"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Direction (Q.80 to 84): Question are based on the following\nA,B,C,D,E,F and G are seven girls having different amount of money from among rs 10,20,40,60,80,120 and 200 with them ,They had 3 chocolates, 2 toffees and 2 lollipops together ,each one having one of these seven items. B and F do not have chocolates and they have rs 200 and rs 80 respectively.C has rs 60 with her and G has an amount which is neither rs 40 nor 120. A has rs 10 and does not have a toffee.The girl having rs 40 with her is the only one other than A to have the same type of item. E and the girl having rs 20 with her have the same kind of item.\n\nHow much amount does G have with her ?",
+    "options": ["20", "10", "60", "None of these"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Direction (Q.80 to 84): Question are based on the following\n...\nWhich of the following girls have chocolates with them?",
+    "options": ["F,C,G", "C,G,E", "C,G,D", "G,D,E"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Direction (Q.80 to 84): Question are based on the following\n...\nWhich of the following combination is definitely correct?",
+    "options": [
+      "C-chocolate-rs 60",
+      "G-toffee-rs 20",
+      "D-chocolate- rs 40",
+      "none"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Direction (Q.80 to 84): Question are based on the following\n...\nWhich girl has rs 40 with her ?",
+    "options": ["E", "A", "D", "none"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "P,Q,R,S,T,U and V are sitting in arow facing North. In order to determine ,Who is sitting exactly in the middle of the row ,Which of the following information is needed?\n(i) T and U are sitting at extreme end of row\n(ii) S is third to the right of T\n(iii) Q is four places to the left of R and P is two places to the left of V",
+    "options": [
+      "(i) and (ii) only are sufficient",
+      "(i) and (iii) only are sufficient",
+      "(i) and either (ii) or (iii) are surfficient",
+      "(i),(ii) and (iii)"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Direction (Q.85 to 88):Question are based on the following :\nIn a family of six person A,B,C,D,E and F there are two married couples.\nD is grandmother of A and mother of B\nC is wife of B and mother of F\nF is the grand daughter of E\n\nWhat is C to A ?",
+    "options": ["Daughter", "Grandmother", "Mother", "Cannot be determine"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Direction (Q.85 to 88):Question are based on the following :\n...\nHow many male members are there in the family ?",
+    "options": ["Two", "Three", "Four", "Cannot be determine"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Direction (Q.85 to 88):Question are based on the following :\n...\nWho among the following is one of the couples?",
+    "options": ["DC", "DE", "EB", "cannot be determined"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Direction (Q.85 to 88):Question are based on the following :\n...\nWhich of the following is true?",
+    "options": [
+      "A is brother of F",
+      "A is sister of F",
+      "B has two daughters",
+      "none"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "There are five books A,B,C,D and E placed on a table .If A is placed below E,C is placed above D,B is placed below A and D is placed between A and E , then which of thefollowing books can be no the top?",
+    "options": ["D or E", "C or E", "A or E", "none"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Analytical Ability and Logical Reasoning",
+    "question": "Among five children A,B,C,D and E , B is taller than E but shorter than D. A is shorter than C but taller than D. If all the children stand in a line according to their heights, then who would be the fourth if counted from the tallest one?",
+    "options": ["D", "C", "B", "A"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  }
+]

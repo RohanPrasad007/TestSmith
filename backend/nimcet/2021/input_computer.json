@@ -1,0 +1,122 @@
+[
+  {
+    "subject": "Computer Awareness",
+    "question": "Consider a computer system with speed of 10⁶ instructions per second. A program P, having 2n² steps is run on this system, where n is the input size. If n = 10000, what is the execution time for P?",
+    "options": [
+      "2 seconds",
+      "20 seconds",
+      "100 seconds",
+      "200 seconds"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "To fetch data from the secondary memory which one of the following register is used?",
+    "options": [
+      "MAR",
+      "PC",
+      "IR",
+      "MBR"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "One TeraByte (TB) = ______ GB and One ExaByte (EB) = ______ GB",
+    "options": [
+      "2¹⁰ GB, 2¹⁶ GB",
+      "2¹⁰ GB, 2²⁰ GB",
+      "2¹⁰ GB, 2²⁴ GB",
+      "2¹⁰ GB, 2³⁰ GB"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "The cache memory is more effective because of",
+    "options": [
+      "Memory localization",
+      "Locality of reference",
+      "Memory size",
+      "None of the mentioned"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "To access the I/O devices the status flags is continuously checked in",
+    "options": [
+      "Program controlled I/O",
+      "Memory mapped I/O",
+      "I/O mapped",
+      "None of the above"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Which of the following is the fastest means of memory access for CPU?",
+    "options": [
+      "Registers",
+      "Cache",
+      "Main memory",
+      "Stack"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "The process when processor fetch or decode another instruction during the execution of current instruction is called",
+    "options": [
+      "Supercomputing",
+      "Pipelining",
+      "Cloud computing",
+      "Grid computing"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Which of the following is used by ALU to store the intermediate results?",
+    "options": [
+      "Stack",
+      "Heap",
+      "Registers",
+      "Accumulators"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "The number (2217)₈ is equivalent to",
+    "options": [
+      "(608)₁₆",
+      "(028F)₁₆",
+      "(048F)₁₆",
+      "(2297)₁₀"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "The binary multiplication 00*11 will give",
+    "options": [
+      "11",
+      "00",
+      "01",
+      "10"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  }
+]

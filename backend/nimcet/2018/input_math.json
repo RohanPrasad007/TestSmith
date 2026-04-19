@@ -1,0 +1,602 @@
+[
+    {
+        "subject": "Mathematics",
+        "question": "The point of intersection of circle $x^2 + y^2 + 10x - 12y + 51 = 0$ and the line $3y + x = 3$ is",
+        "options":[
+            "$(-6, 3)$",
+            "$(3, -6)$",
+            "$(6, -3)$",
+            "$(-3, 6)$"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The number of solutions of the equation $\\sin x + \\sin 5x = \\sin 3x$ lying in the interval $[0, \\pi]$ is",
+        "options":[
+            "4",
+            "6",
+            "5",
+            "2"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "In an acute angle $\\Delta ABC$ the least value of $\\sec A + \\sec B + \\sec C$ is",
+        "options":[
+            "6",
+            "8",
+            "3",
+            "2"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Let $P = \\{\\theta : \\sin\\theta - \\cos\\theta = \\sqrt{2} \\cos\\theta\\}$ and $Q = \\{\\theta : \\sin\\theta + \\cos\\theta = \\sqrt{2} \\sin\\theta\\}$ be two sets",
+        "options":[
+            "$P \\subset Q$ and $Q - P = \\phi$",
+            "$P \\not\\subset Q$",
+            "$Q \\not\\subset P$",
+            "$P = Q$"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $\\frac{\\tan x}{2} = \\frac{\\tan y}{3} = \\frac{\\tan z}{5}$ and $x + y + z = \\pi$, then the value of $\\tan^2 x + \\tan^2 y + \\tan^2 z$ is",
+        "options":[
+            "$\\frac{38}{3}$",
+            "38",
+            "114",
+            "None of these"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The circles whose equations are $x^2 + y^2 + c^2 = 2ax$ and $x^2 + y^2 + c^2 - 2by = 0$ will touch one another externally if",
+        "options":[
+            "$\\frac{1}{b^2} + \\frac{1}{c^2} = \\frac{1}{a^2}$",
+            "$\\frac{1}{c^2} + \\frac{1}{a^2} = \\frac{1}{b^2}$",
+            "$\\frac{1}{a^2} + \\frac{1}{b^2} = \\frac{1}{c^2}$",
+            "None of these"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The locus of the orthocenter of the triangle formed by the lines $(1+p)x - py + p(1+p) = 0$, $(1+q)x - qy + q(1+q) = 0$ and $y = 0$ where $p \\neq q$, is",
+        "options":[
+            "a hyperbola",
+            "a parabola",
+            "an ellipse",
+            "a straight line"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Equation of a common tangent with positive slope to the circle $x^2 + y^2 - 8x = 0$ as well as to the hyperbola $\\frac{x^2}{9} - \\frac{y^2}{4} = 1$ is",
+        "options":[
+            "$2x - \\sqrt{5}y - 20 = 0$",
+            "$2x - \\sqrt{5}y + 4 = 0$",
+            "$3x - 4y + 8 = 0$",
+            "$4x - 3y + 4 = 0$"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The area enclosed between the curves $y^2 = x$ and $y = |x|$ is",
+        "options":[
+            "2/3 sq. unit",
+            "1 sq. unit",
+            "1/6 sq. unit",
+            "1/3 sq. unit"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Equation of the line perpendicular to $x - 2y = 1$ and passing through $(1, 1)$ is",
+        "options":[
+            "$x + 2y = 3$",
+            "$x + y = 2$",
+            "$y = 2x + 3$",
+            "$y = -2x + 3$"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $A = \\begin{bmatrix} 0 & 5 \\\\ 0 & 0 \\end{bmatrix}$ and $f(x) = 1 + x + x^2 + \\dots + x^{16}$, then $f(A) =$",
+        "options":[
+            "0",
+            "$\\begin{bmatrix} 1 & 5 \\\\ 0 & 1 \\end{bmatrix}$",
+            "$\\begin{bmatrix} 1 & 5 \\\\ 0 & 0 \\end{bmatrix}$",
+            "$\\begin{bmatrix} 0 & 5 \\\\ 1 & 1 \\end{bmatrix}$"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "9 balls are to be placed in 9 boxes and 5 of the balls cannot fit into 3 small boxes. The number of ways of arranging one ball in each of the boxes is",
+        "options":[
+            "18720",
+            "18270",
+            "17280",
+            "12780"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Which of the following functions is inverse of itself ?",
+        "options":[
+            "$f(x) = \\frac{1-x}{1+x}$",
+            "$f(x) = 3^{\\log x}$",
+            "$f(x) = 3^{x(x+1)}$",
+            "None of these"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A student council has 10 members. From this one President, one Vice-President, one Secretary, one Joint-Secretary and two Executive Committe members have to be elected. In how many ways this can be done ?",
+        "options":[
+            "151200",
+            "75600",
+            "37800",
+            "18900"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "In a survey where 100 students reported which subjects they like, 32 students in total liked Mathematics, 38 students liked Business and 30 students liked Literature. Moreover 7 students liked both Mathematics and Literature, 10 students liked both Mathematics and Business, 8 students liked both Business and Literature, 5 students liked all three subjects. Then the number of people who liked exactly one subject is",
+        "options":[
+            "60",
+            "65",
+            "70",
+            "78"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The number of natural numbers which are smaller than $2 \\times 10^8$ and which contain only the digits 1 and 2 is",
+        "options":[
+            "786",
+            "666",
+            "766",
+            "1066"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $\\lim_{x \\to \\infty} \\left(1 + \\frac{a}{x} + \\frac{b}{x^2}\\right)^{2x} = e^2$, then the value of a and b are",
+        "options":[
+            "$a \\in R, b = 2$",
+            "$a = 1, b \\in R$",
+            "$a \\in R, b \\in R$",
+            "$a = 1, b = 2$"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $f(x) = \\sin^5 x + \\sin^3 x$ and $g(x) = \\cos^6 x + \\sin^3 x$, then the value of $\\int_0^{\\pi} [f(x) + f(-x)][g(x) + g(-x)] dx$",
+        "options":[
+            "0",
+            "> 1",
+            "0 and 1",
+            "less than 0"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "$\\frac{d^2x}{dy^2}$ equals",
+        "options":[
+            "$\\left(\\frac{d^2y}{dx^2}\\right)^{-1}$",
+            "$-\\left(\\frac{d^2y}{dx^2}\\right)^{-1} \\left(\\frac{dy}{dx}\\right)^{-3}$",
+            "$\\left(\\frac{d^2y}{dx^2}\\right) \\left(\\frac{dy}{dx}\\right)^{-2}$",
+            "$-\\left(\\frac{d^2y}{dx^2}\\right) \\left(\\frac{dy}{dx}\\right)^{-3}$"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Differential co-efficient of $\\log_{10} x$ w.r. to $\\log_x 10$ is",
+        "options":[
+            "$-\\frac{(\\log x)^2}{(\\log 10)^2}$",
+            "$\\frac{(\\log_{10} x)^2}{(\\log 10)^2}$",
+            "$\\frac{(\\log_x 10)^2}{(\\log 10)^2}$",
+            "$-\\frac{(\\log 10)^2}{(\\log x)^2}$"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "$f(x) = x + |x|$ is continuous for",
+        "options":[
+            "$x \\in (-\\infty, \\infty)$",
+            "$x \\in (-\\infty, \\infty) - \\{0\\}$",
+            "Only $x > 0$",
+            "No value of x"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If a, b and c are unit vectors, then $|a - b|^2 + |b - c|^2 + |c - a|^2$ does not exceed",
+        "options":[
+            "4",
+            "9",
+            "8",
+            "6"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The vector $\\vec{a} = \\alpha \\hat{i} + 2\\hat{j} + \\beta \\hat{k}$ lies in the plane of the vectors $\\vec{b} = \\hat{i} + \\hat{j}$ and $\\vec{c} = \\hat{j} + \\hat{k}$ and bisects the angle between $\\vec{b}$ and $\\vec{c}$. Then, which one of the following gives possible values of $\\alpha$ and $\\beta$ ?",
+        "options":[
+            "$\\alpha = 2, \\beta = 2$",
+            "$\\alpha = 1, \\beta = 2$",
+            "$\\alpha = 2, \\beta = 1$",
+            "$\\alpha = 1, \\beta = 1$"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Force $4\\hat{i} - 3\\hat{j} + 7\\hat{k}$ and $-2\\hat{i} + 2\\hat{j} - 8\\hat{k}$ are acting on a particle and displace it from the point $(5, 7, 1)$ to $(2, 5, -6)$, then the work done by the force is",
+        "options":[
+            "25",
+            "9",
+            "15",
+            "7"
+        ],
+        "correct_answer_index": null,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A bird is flying in a straight line with velocity vector $10\\hat{i} + 6\\hat{j} + \\hat{k}$, measured in km/hr. If starting point is $(1, 2, 3)$, how much time does it take to reach a point in space that is 13 metre high from ground ?",
+        "options":[
+            "600 seconds",
+            "360 seconds",
+            "36 seconds",
+            "60 seconds"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If A and B are two events and $P(A \\cup B) = 5/6$, $P(A \\cap B) = 1/3$, $P(B) = 1/2$, then A and B are two events which are",
+        "options":[
+            "Dependent",
+            "Independent",
+            "Mutually exclusive",
+            "Equally likely"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $a_1, a_2, a_3, \\dots, a_n$ are positive real numbers whose product is a fixed number C, then the minimum value of $a_1 + a_2 + \\dots + 2a_n$ is",
+        "options":[
+            "$n(2C)^{1/n}$",
+            "$(n+1)C^{1/n}$",
+            "$2nC^{1/n}$",
+            "$(n+1)(2C)^{1/n}$"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If a, b, c are the roots of the equation $x^3 - 3x^2 + 3x + 7 = 0$, then the value of $\\begin{vmatrix} 2bc - a^2 & c^2 & b^2 \\\\ c^2 & 2ac - b^2 & a^2 \\\\ b^2 & a^2 & 2ab - c^2 \\end{vmatrix}$ is",
+        "options":[
+            "9",
+            "27",
+            "81",
+            "0"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The coefficient of $x^n$ in the expansion of $(1 - 2x + 3x^2 - 4x^3 + \\dots \\text{ to } \\infty)^{-n}$ is",
+        "options":[
+            "$\\frac{(2n)!}{n!(n-1)!}$",
+            "$\\frac{(2n)!}{[(n-1)!]^2}$",
+            "$\\frac{(2n)!}{(n!)^2}$",
+            "None of these"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Let $\\alpha, \\beta$ be the roots of the equation $x^2 - px + r = 0$ and $\\frac{\\alpha}{2}, 2\\beta$ be the roots of the equation $x^2 - qx + r = 0$. Then, the value of r is",
+        "options":[
+            "$\\frac{2}{9}(p - q)(2q - p)$",
+            "$\\frac{2}{9}(q - p)(2q - p)$",
+            "$\\frac{2}{9}(q - 2p)(2q - p)$",
+            "$\\frac{2}{9}(2p - q)(2q - p)$"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The value of $\\cot\\left(\\text{cosec}^{-1} \\frac{5}{3} + \\tan^{-1} \\frac{2}{3}\\right)$ is",
+        "options":[
+            "6/17",
+            "3/17",
+            "4/17",
+            "5/17"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If $\\sin\\theta = 3 \\sin(\\theta + 2\\alpha)$, then the value of $\\tan(\\theta + \\alpha) + 2 \\tan\\alpha$ is",
+        "options":[
+            "3",
+            "2",
+            "-1",
+            "0"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "In a triangle ABC, $\\angle A = 90^\\circ$ and D is mid-point of AC. The value of $BC^2 - BD^2$ is equal to",
+        "options":[
+            "$AD^2$",
+            "$2AD^2$",
+            "$3AD^2$",
+            "$4AD^2$"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Through any point (x, y) of a curve which passes through the origin, lines are drawn parallel to the coordinate axes. The curve given that divides the rectangle formed by the two lines and the axes into two areas, one of the which is twice the other, represents a family of",
+        "options":[
+            "circles",
+            "parabolas",
+            "hyperbolas",
+            "straight lines"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A lines through (4, 2) meets the coordinates axes at P and Q. Then the locus of the circumcenter of $\\Delta OPQ$ is",
+        "options":[
+            "$\\frac{1}{x} + \\frac{1}{y} = 2$",
+            "$\\frac{2}{x} + \\frac{1}{y} = 1$",
+            "$\\frac{1}{x} + \\frac{2}{y} = 1$",
+            "$\\frac{1}{x} + \\frac{1}{y} = \\frac{1}{2}$"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "$6 + \\log_{1/4} \\frac{1}{\\sqrt{2}}\\sqrt{1-\\frac{1}{\\sqrt{2}}\\sqrt{1-\\frac{1}{\\sqrt{2}}\\sqrt{1-\\frac{1}{\\sqrt{2}}\\dots}}} =$",
+        "options":[
+            "6",
+            "13/2",
+            "4",
+            "25/4"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The function $f(x) = \\log\\left(x + \\sqrt{x^2 + 1}\\right)$ is",
+        "options":[
+            "An even function",
+            "An odd function",
+            "A periodic function",
+            "Neither an even nor an odd function"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Two persons A and B agree to meet on 20th April 2018 between 6 P.M. and 7 P.M. with the understanding that they will wait no longer than 20 minutes for the other. What is the probability that they meet ?",
+        "options":[
+            "5/9",
+            "7/9",
+            "2/9",
+            "4/9"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Three numbers a, b and c are chosen at random (without replacement) from among the numbers 1, 2, 3...., 99. The probability that $a^3 + b^3 + c^3 - 3abc$ is divisible by 3 is",
+        "options":[
+            "$\\frac{3 \\cdot {}^{33}C_3 + ({}^{33}C_1)^3}{{}^{99}C_3}$",
+            "$\\frac{3 \\cdot {}^{33}C_3 - ({}^{33}C_1)^3}{{}^{99}C_3}$",
+            "$\\frac{2 \\cdot {}^{33}C_3 + ({}^{33}C_1)^3}{{}^{99}C_3}$",
+            "$\\frac{2 \\cdot {}^{33}C_3 - ({}^{33}C_1)^3}{{}^{99}C_3}$"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A and B play a game where each is asked to select a number from 1 to 25. If the two numbers match, both of them win a prize. The probability that they will not win a prize in a single trial is",
+        "options":[
+            "1/25",
+            "24/25",
+            "2/25",
+            "None of these"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The quadratic equation whose roots are $\\sin^2 18^\\circ$ and $\\cos^2 36^\\circ$ is",
+        "options":[
+            "$16x^2 - 12x + 1 = 0$",
+            "$16x^2 + 12x + 1 = 0$",
+            "$16x^2 - 12x - 1 = 0$",
+            "$16x^2 + 10x + 1 = 0$"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Sum to infinity of a geometric progression is twice the sum of the first two terms. Then what are the possible values of the common ratio ?",
+        "options":[
+            "$\\pm \\frac{1}{\\sqrt{2}}$",
+            "$\\pm \\frac{1}{2}$",
+            "$\\pm \\frac{1}{\\sqrt{3}}$",
+            "$\\pm \\frac{1}{3}$"
+        ],
+        "correct_answer_index": 0,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Suppose that m and n are fixed numbers such that the $m^{\\text{th}}$ term $a_m$ is equal to n and the $n^{\\text{th}}$ term $a_n$ is equal to $m$ ($m \\neq n$) then $(m + n)^{\\text{th}}$ term is",
+        "options":[
+            "$(m+n)/mn$",
+            "$mn/(m+n)$",
+            "$(m+n)/n$",
+            "$(m+n)/m$"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If A is an invertible skew symmetric matrix, then $A^{-1}$ is a",
+        "options":[
+            "Symmetric matrix",
+            "Skew symmetric matrix",
+            "Zero matrix",
+            "Identity matrix"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If the mean of the squares of first n natural numbers be 11, then n is equal to",
+        "options":[
+            "13/2",
+            "11",
+            "5",
+            "4"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The set of points, where $f(x) = \\frac{x}{1+|x|}$ is differentiable, is",
+        "options":[
+            "$(-\\infty, -1) \\cup (-1, -\\infty)$",
+            "$(-\\infty, \\infty)$",
+            "$(0, \\infty)$",
+            "$(-\\infty, 0) \\cup (0, \\infty)$"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "$\\int_0^\\pi x f(\\sin x) dx$ is equal to",
+        "options":[
+            "$\\pi \\int_0^\\pi f(\\sin x) dx$",
+            "$\\frac{\\pi}{2} \\int_0^{\\pi/2} f(\\sin x) dx$",
+            "$\\pi \\int_0^{\\pi/2} f(\\cos x) dx$",
+            "$\\pi \\int_0^\\pi f(\\cos x) dx$"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Let $f : R \\to R$ be defined by $f(x) = \\begin{cases} x+2 & \\text{if } x < 0 \\\\ |x-2| & \\text{if } x \\ge 0 \\end{cases}$. Find $\\int_{-2}^3 f(x) dx$.",
+        "options":[
+            "0.5",
+            "2.5",
+            "4.5",
+            "6.5"
+        ],
+        "correct_answer_index": 2,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Slope of two lines $6x^2 - 2xy - 2y^2 = 0$ differ by",
+        "options":[
+            "5/2",
+            "7/2",
+            "7/5",
+            "-1"
+        ],
+        "correct_answer_index": 1,
+        "type": "MCQ"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If the radius of a circle changes at the rate of $\\frac{-2}{\\pi}$ m/sec, at what rate does the circle's area change when the radius is 10 m ?",
+        "options":[
+            "$40 \\text{ m}^2/\\text{sec}$",
+            "$30 \\text{ m}^2/\\text{sec}$",
+            "$-30 \\text{ m}^2/\\text{sec}$",
+            "$-40 \\text{ m}^2/\\text{sec}$"
+        ],
+        "correct_answer_index": 3,
+        "type": "MCQ"
+    }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "subject": "General English",
+    "question": "The people ................... you socialise are called friends.",
+    "options": ["with whom", "who", "with who", "whom"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Every one of them ............... to the music every day.",
+    "options": ["Listen", "Listening", "Listens", "None of these"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "I didn’t work hard when I was ................ school.",
+    "options": ["in", "on", "at", "by"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Where are you ......................?",
+    "options": ["from", "by", "of", "to"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Which of these is an adjective in “It is ......................”",
+    "options": ["Hard", "Hardly", "Hardship", "Harden"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "I have been working here .....................six months.",
+    "options": ["since", "by", "for", "in"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Defile",
+    "options": ["Pollute", "Disapprove", "Delay", "Reveal"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "POLEMIC",
+    "options": ["black", "magnetic", "grimace", "controversial"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The synonym for word FOOLHARDY is",
+    "options": ["Erudite", "Unwise", "Rusty", "Roll"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Deep",
+    "options": ["low", "distracted", "flat", "awake"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Give the antonym for CRYPTIC",
+    "options": ["Futile", "Candid", "Famous", "Indifferent"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Give the analogy for ELSUSIVE : CAPTURE ::",
+    "options": [
+      "Elastic : Stretch",
+      "Headstrong : Control",
+      "Sensible : Decide",
+      "Persuasive : Convince"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The meaning of word EGRESS is",
+    "options": ["Entrance", "Exit", "Double", "Program"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the wrongly spelt word",
+    "options": ["Deficient", "Efficient", "Magnificient", "Reticent"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the option for the human system mechanisms whose interactions eventually result into cardiovascular diseases due to air pollution ?",
+    "options": ["Inflammation", "Coagulation", "Antigen", "Both a and b"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Which is the central syndrome talked about in the paragraph ?",
+    "options": [
+      "Inflammation",
+      "Atherogenesis",
+      "Secretions of tissue factors",
+      "Thrombo Modulin"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Which of the following is true ?\ni) Exposure to air pollution may result in increase in TF and decrease in TM\nii) Effect of air pollution is severe on humans and occurs after adolescence\niii) Endothelial cells are sensitive target for air pollutants",
+    "options": [
+      "All are true",
+      "Only (i) and (ii) are true",
+      "Only (i) and (iii) are true",
+      "Only (ii) and (iii) are true"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The primary cause of cardiovascular disease due to factors discussed in paragraph is",
+    "options": [
+      "Lack of immunity",
+      "Anticoagulation",
+      "Thrombomodulin",
+      "Endothelial Dysfunction"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "RETROGRADE",
+    "options": ["progressing", "veclining", "evaluating", "directing"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  }
+]

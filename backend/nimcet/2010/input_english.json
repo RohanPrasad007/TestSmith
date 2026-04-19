@@ -1,0 +1,192 @@
+[
+  {
+    "subject": "General English",
+    "question": "It was us who had left before he arrived.",
+    "options": [
+      "We who had left before time he had arrived",
+      "Us who has went before he arrived",
+      "Us who had went before he had arrived",
+      "We who had left before he arrived"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Many of these environmentalists proclaim to save nothing less than the planet itself.",
+    "options": [
+      "to save nothing lesser than",
+      "that they are saving nothing less than",
+      "that they save nothing less than",
+      "to have saved nothing less than"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "In the question, the word \"BUNDLE\" is used in four different ways, numbered A to D. Choose the option in which the usage of the word is INAPPROPRIATE.",
+    "options": [
+      "The newborn baby was a bundle of joy for the family.",
+      "Mobile operators are offering a bundle of additional benefits.",
+      "He made a bundle in the share market.",
+      "It was sheer luck that brought a bundle of boy-scouts to where I was lying wounded."
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Fill in the blank :\nThe sugar dissolved in water .................... ; finally all that remained was an almost .................... residue on the bottom of the glass.",
+    "options": [
+      "Quickly ... lumpy",
+      "Immediately ... fragrant",
+      "Gradually ... imperceptible",
+      "Subsequently ... glassy"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "There are four statements, of which one is incorrect. Choose the incorrect one.",
+    "options": [
+      "A hater of the institution of marriage is misogamist.",
+      "The violation of sacred things is sacrilege.",
+      "To prevaricate is to make evasive or misleading statements.",
+      "A torpid person is generally hyperactive"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The sentences given below, when properly sequenced, form a coherent paragraph. Each sentence is labeled with a letter. Choose the most logical order of sentences from among the given choices to construct a coherent paragraph.\nP. Surrendered, or captured, combatants cannot be incarcerated in razor wire cages; this 'war' has a dubious legality.\nQ. How can then one characterize a conflict to be waged against a phenomenon as war ?\nR. The phrase 'war against terror', which has passed into the common lexicon, is a huge misnomer.\nS. Besides, war has a juridical meaning in international law, which has confided the laws of war, imbuing them with a humanitarian content.\nT. Terror is a phenomenon, not an entity - either State or non-State.",
+    "options": ["TRSQP", "QTRSP", "TQRPS", "RTQSP"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "MOTH : CLOTHING ::",
+    "options": [
+      "egg : larva",
+      "hole : repair",
+      "suit : dress",
+      "stigma : reputation"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "ASCETIC : LUXURY ::",
+    "options": [
+      "philosopher : knowledge",
+      "general : victory",
+      "misogynist : women",
+      "teacher : blackboard"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Out of the four alternatives, choose the one which best expresses the meaning of the given word : CLEMENCY",
+    "options": ["Empathy", "Kindness", "Sympathy", "Forgiveness"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the word that is oppnosite in meaning to the word COMPOSE",
+    "options": ["disturb", "reveal", "strengthen", "isolate"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Following sentence has one or two blanks, each blank indicating that something has been omitted. Beneath the sentence are given four words or sets of words. Choose the word or set of words for each blank that best fits meaning of the sentence as a whole.\nHis presentation was so lengthy and ........... that it was difficult for us to find out the real ........... in it.",
+    "options": [
+      "verbose, content",
+      "tedious, skill",
+      "laborious, coverage",
+      "simple, meaning"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Find the synonym that is most nearly similar in meaning to the word CLANDESTINE",
+    "options": ["abortive", "secret", "tangible", "doomed"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the word opposite in meaning to the given word : FLAMBOYANT",
+    "options": ["Quiet", "Excited", "Disturbed", "Distressed"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The passage states all the following about fungi EXCEPT :",
+    "options": [
+      "They are responsible for the decomposition of much plant life",
+      "They cannot live completely apart from other plants",
+      "They are vastly different from other plants",
+      "They are poisonous to resin-producing plants"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The passage is primarily concerned with",
+    "options": [
+      "Warning people of the dangers of fungi",
+      "Rot and decay of plants in nature",
+      "Describing the action of fungi",
+      "Relating how most plants use solar energy"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The pilot was .... injured; he died within half an hour.",
+    "options": ["seriously", "fatally", "fatefully", "vitally"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "A million cinemas a year bring the same stale bladerdash.",
+    "options": ["adventure", "nonsense", "thriller", "romance"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "There are several ways of ........ the price at which a product can be marketed.",
+    "options": ["arriving", "thinking", "determining", "noticing"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The police ......... the mob.",
+    "options": ["scattered", "disbanded", "drove", "dispersed"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "There must be lively discussion of Indian authors if we are to foster our knowledge.",
+    "options": ["promote", "cherish", "nourish", "nurtur"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  }
+]

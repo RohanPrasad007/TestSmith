@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "Computer Awareness",
+    "question": "Simplified form of a Boolean function F(X,Y,Z) $\\Sigma(0,2,4,5,6)$ is",
+    "options": [
+      "$\\overline{Z}X + XY$",
+      "$\\overline{Z} + X\\overline{Y}$",
+      "$\\overline{Y}Z + X\\overline{Y}$",
+      "None"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Which of the following places the common data elements in order from smallest to largest",
+    "options": [
+      "Field, record, character, database",
+      "Character, record, field, database",
+      "Character, field, record, database",
+      "Bit, byte, character, record, field, database"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "A main memory has an access time of 45 ns. A 5 ns time gap is necessary for the completion of one access to beginning of next access. The bandwidth of the memory",
+    "options": ["25 MHz", "20 MHz", "40 MHz", "50 MHz"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Execution of an operating system is initiated by a program called the",
+    "options": [
+      "Window manager",
+      "Scheduler",
+      "Bootstrap",
+      "None of the above"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Which of the following is NOT one of the four major data processing functions of a computer ?",
+    "options": [
+      "gathering data",
+      "processing data into information",
+      "analyzing the data or information",
+      "storing the data or information"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "For a microprocessor using I/O mapped I/O",
+    "options": [
+      "Memory and I/O addresses are distinct",
+      "Not all data transfer instructions are available for I/O",
+      "Both (A) and (B)",
+      "None of above"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Which one of the following is a stored program machine?",
+    "options": [
+      "Micro-processor",
+      "Calculator",
+      "Analog-computer",
+      "Micro-computer"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "If $(12x)_3 = (123)_x$ then the value of x is",
+    "options": ["1", "2", "Both (a) and (b)", "None"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "A CPU has a 12 bit address for memory addressing. If the memory has a total capacity of 16 KB, what is the word length of the memory ?",
+    "options": ["2 bytes", "4 bytes", "8 bytes", "16 bytes"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Computer Awareness",
+    "question": "Which gate is equivalent to (NOR) OR (XOR) ?",
+    "options": ["NAND gate", "OR gate", "AND gate", "XOR gate"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  }
+]

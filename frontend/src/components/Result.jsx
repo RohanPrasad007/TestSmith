@@ -3,10 +3,15 @@ import { useExam } from "../context/ExamContext";
 import { useNavigate } from "react-router-dom";
 import OverallSummaryResult from "./OverallSummaryResult";
 import SubjectWiseResult from "./SubjectWiseResult";
+import { useReactToPrint } from "react-to-print";
+import { useRef } from "react";
+import PrintableReport from "./PrintableReport";
 
 const Result = () => {
   const { subjects, questions, userAnswers, examType } = useExam();
   const navigate = useNavigate();
+  const contentRef = useRef(null);
+  const reactToPrintFn = useReactToPrint({ contentRef });
 
   // Calculate comprehensive results for all subjects
   const calculateResults = () => {
@@ -322,10 +327,16 @@ const Result = () => {
               examType={examType}
             />
 
-            <div className="flex gap-4 justify-center mt-8">
+            <div className="flex flex-wrap gap-4 justify-center mt-8">
+              <button
+                onClick={() => reactToPrintFn()}
+                className="bg-blue-600 px-10 py-4 rounded-md hover:bg-blue-500 transition font-bold"
+              >
+                Download PDF Report
+              </button>
               <button
                 onClick={() => navigate("/review")}
-                className="bg-gray-600/40 px-10 py-4 rounded-md hover:bg-gray-500 transition "
+                className="bg-gray-600/40 px-10 py-4 rounded-md hover:bg-gray-500 transition"
               >
                 Review Answers
               </button>
@@ -335,6 +346,18 @@ const Result = () => {
               >
                 Back to Home
               </button>
+            </div>
+            
+            {/* Hidden printable report */}
+            <div style={{ display: "none" }}>
+              <PrintableReport 
+                ref={contentRef}
+                results={results}
+                questions={questions}
+                subjects={subjects}
+                userAnswers={userAnswers}
+                examType={examType}
+              />
             </div>
           </div>
         </div>

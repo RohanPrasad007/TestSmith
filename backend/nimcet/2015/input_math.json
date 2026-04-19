@@ -1,0 +1,472 @@
+[
+  {
+    "subject": "Mathematics",
+    "question": "The number of bit strings of lenght 10 that contain either five consecutive 0's or five consiocutive 1's is",
+    "options": ["64", "112", "220", "222"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $0 < x < \\pi$ and $\\cos x + \\sin x = 1/2$ then the value of $\\tan x$ is?",
+    "options": [
+      "$\\frac{4 - \\sqrt{7}}{3}$",
+      "$\\frac{4 + \\sqrt{7}}{3}$",
+      "$\\frac{1 + \\sqrt{7}}{4}$",
+      "$\\frac{1 - \\sqrt{7}}{4}$"
+    ],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\vec{a}, \\vec{b}$ and $\\vec{c}$ are the position vectors of the vertices A,B,C of a traingle ABC ,then the area of the triangle ABC is",
+    "options": [
+      "$\\frac{1}{2} |\\vec{a} \\times \\vec{b} + \\vec{b} \\times \\vec{c} + \\vec{c} \\times \\vec{a}|$",
+      "$|\\vec{a} \\times \\vec{b}|$",
+      "$\\frac{1}{2} |\\vec{a} \\times \\vec{b} - \\vec{b} \\times \\vec{c} - \\vec{c} \\times \\vec{a}|$",
+      "$|\\vec{a} \\times (\\vec{b} \\times \\vec{c})|$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\int e^x (f(x) - f'(x)) dx = \\phi(x)$, then the value of $\\int e^x f(x) dx$ is",
+    "options": [
+      "$\\phi(x) + e^x f(x)$",
+      "$\\phi(x) - e^x f(x)$",
+      "$\\frac{1}{2}[\\phi(x) + e^x f(x)]$",
+      "$\\frac{1}{2}[\\phi(x) + e^x f'(x)]$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $3x + 4y + k = 0$ is a tangent to the hyperbola $9x^2 - 16y^2 = 144$, then the value of $k$ is:",
+    "options": ["0", "1", "-1", "-3"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The foot of the perpendicular from the point (2,4) upon $x + y = 1$ is:",
+    "options": [
+      "$\\left(\\frac{1}{2}, \\frac{3}{2}\\right)$",
+      "$\\left(-\\frac{1}{2}, \\frac{3}{2}\\right)$",
+      "$\\left(\\frac{4}{3}, \\frac{1}{2}\\right)$",
+      "$\\left(-\\frac{4}{3}, -\\frac{1}{2}\\right)$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of $k$ for which the equation $(k - 2)x^2 + 8x + k + 4 = 0$ has both real , distinct and negative roots is :",
+    "options": ["0", "2", "3", "-4"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Is (2,1) ,(-1,-2), (3,3) are the midpoints of the sides BC,CA,AB of a triangle ABC , then equation of the line BC is",
+    "options": [
+      "$5x + 4y + 6 = 0$",
+      "$5x - 4y - 6 = 0$",
+      "$5x + 4y - 6 = 0$",
+      "$5x - 4y + 6 = 0$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If fair dice is rolled successively , then the probability that 1 appears in an even numbered throw is",
+    "options": ["5/36", "6/11", "1/6", "5/11"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let $\\vec{a} = \\hat{i} + \\hat{j} + \\hat{k}, \\vec{b} = \\hat{i} - \\hat{j} + \\hat{k}$ and $\\vec{c} = \\hat{i} - \\hat{j} - \\hat{k}$ be three vector , A vector $\\vec{V}$ in the plane of $\\vec{a}$ and $\\vec{b}$ whose projection on $\\vec{c}$ is $\\frac{1}{\\sqrt{3}}$, is",
+    "options": [
+      "$3\\hat{i} - \\hat{j} + 3\\hat{k}$",
+      "$\\hat{i} - 3\\hat{j} + 3\\hat{k}$",
+      "$5\\hat{i} - 2\\hat{j} + 5\\hat{k}$",
+      "$2\\hat{i} - \\hat{j} + 3\\hat{k}$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of $\\int_{-\\pi/3}^{\\pi/3} \\frac{x \\sin x}{\\cos^2 x} dx$ is",
+    "options": [
+      "$\\frac{1}{3}(4\\pi + 1)$",
+      "$\\frac{4\\pi}{3} - 2\\log \\tan \\frac{5\\pi}{12}$",
+      "$\\frac{4\\pi}{3} + \\log \\tan \\frac{5\\pi}{12}$",
+      "$\\frac{4\\pi}{3} - \\log \\tan \\frac{5\\pi}{3}$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The foci of the ellipse $\\frac{x^2}{16} + \\frac{y^2}{b^2} = 1$ and the hyperbola $\\frac{x^2}{144} - \\frac{y^2}{81} = \\frac{1}{25}$ coincide, then the value of $b^2$ is",
+    "options": ["1", "5", "7", "9"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $A + B + C = \\pi$ ? then ,the value of $\\begin{vmatrix} \\sin(A+B+C) & \\sin B & \\cos C \\\\ -\\sin B & 0 & \\tan A \\\\ \\cos(A+B) & -\\tan A & 0 \\end{vmatrix}$ is",
+    "options": ["0", "1", "$2\\sin A \\sin B$", "2"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the mean deviation of the number 1, 1+d, 1+2d,...,1+100d from their mean is 255, then the value of d is :",
+    "options": ["20.0", "10.1", "20.2", "10.0"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $P = \\sin^{20} \\theta + \\cos^{48} \\theta$ then the inequality that holds for all values of $\\theta$ is :",
+    "options": [
+      "$P \\ge 1$",
+      "$0 < P \\le 1$",
+      "$1 < P < 3$",
+      "$0 \\le P \\le 1$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let $\\vec{a}$ and $\\vec{b}$ be two vector . Which of the following vector are not perpendicular to each other ?",
+    "options": [
+      "$(\\vec{a} \\times \\vec{b})$ and $\\vec{a}$",
+      "$(\\vec{a} + \\vec{b})$ and $\\vec{a} \\times \\vec{b}$",
+      "$\\vec{a} + \\vec{b}$ and $\\vec{a} - \\vec{b}$",
+      "$\\vec{a} - \\vec{b}$ and $\\vec{a} \\times \\vec{b}$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $A = \\begin{bmatrix} a & b & c \\\\ b & c & a \\\\ c & a & b \\end{bmatrix}$, where $a,b,c$ are real positive number such that $abc = 1$ and $A^T A = I$ then the equation that holds true among the following is",
+    "options": [
+      "$a + b + c = 1$",
+      "$a^2 + b^2 + c^2 = 1$",
+      "$ab + bc + ca = 0$",
+      "$a^3 + b^3 + c^3 = 4$"
+    ],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The equation of the tangent at any point of the curve $x = a \\cos 2t, y = 2\\sqrt{2} a \\sin t$ ,with m as its slope ,is",
+    "options": [
+      "$y = mx + a\\left(m - \\frac{1}{m}\\right)$",
+      "$y = mx - a\\left(m + \\frac{1}{m}\\right)$",
+      "$y = mx + m\\left(a + \\frac{1}{a}\\right)$",
+      "$y = amx + a\\left(m - \\frac{1}{m}\\right)$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The locus of the mid points of all chords of the parabola $y^2 = 4x$ ,which are drawn through its vertex ,is?",
+    "options": ["$y^2 = 8x$", "$y^2 = 2x$", "$x^2 + 4y^2 = 16$", "$x^2 = 2y$"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of $\\lim_{x \\to a} \\frac{\\sqrt{a + 2x} - \\sqrt{3x}}{\\sqrt{3a + x} - 2\\sqrt{x}}$ is",
+    "options": ["2/3", "$2/\\sqrt{3}$", "$3\\sqrt{3}/2$", "$2/(3\\sqrt{3})$"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If a,b,c are in geometric progression ,then $\\log_{ax} x, \\log_{bx} x$ and $\\log_{cx} x$ are in",
+    "options": [
+      "Arithmetic progression",
+      "Geometric progression",
+      "Harmonic progression",
+      "Arithmetic-geometric progression"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\vec{a}$ and $\\vec{b}$ are vector in space given by $\\vec{a} = \\frac{\\hat{i} - 2\\hat{j}}{\\sqrt{5}}$ and $\\vec{b} = \\frac{2\\hat{i} + \\hat{j} + 3\\hat{k}}{\\sqrt{14}}$ then the value of $(2\\vec{a} + \\vec{b}) \\cdot[(\\vec{a} \\times \\vec{b}) \\times (\\vec{a} - 2\\vec{b})]$ is",
+    "options": ["3", "4", "5", "6"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of the sum $\\frac{1}{2\\sqrt{1} + 1\\sqrt{2}} + \\frac{1}{3\\sqrt{2} + 2\\sqrt{3}} + \\frac{1}{4\\sqrt{3} + 3\\sqrt{4}} + \\dots + \\frac{1}{25\\sqrt{24} + 24\\sqrt{25}}$",
+    "options": ["9/10", "4/5", "14/15", "7/15"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\vec{a} = \\hat{i} - \\hat{k}, \\vec{b} = x\\hat{i} + \\hat{j} + (1 - x)\\hat{k}$ and $\\vec{c} = y\\hat{i} + x\\hat{j} + (1 + x - y)\\hat{k}$ ,then $[\\vec{a} \\quad \\vec{b} \\quad \\vec{c}]$ depends on",
+    "options": ["Neither x and y", "Only x", "Only y", "Both x and y"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $42 (^nP_2) = ^nP_4$ then the value of n is",
+    "options": ["2", "4", "9", "42"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the angles of a triangle are in the ratio 2:3:7, then the ratio of the sides opposite to these angles is?",
+    "options": [
+      "$\\sqrt{2} : 2 : \\sqrt{3} + 1$",
+      "$2 : \\sqrt{2} : \\sqrt{3} + 1$",
+      "$2 : \\sqrt{2} : \\frac{\\sqrt{3} - 1}{2}$",
+      "$\\frac{1}{\\sqrt{2}} : 2 : \\frac{\\sqrt{3} + 1}{2}$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Supoose that $A$ and $B$ are two events with probabilites $P(A) = \\frac{1}{2}, P(B) = \\frac{1}{3}$, Then which of the following is true?",
+    "options": [
+      "$\\frac{1}{3} \\le P(A \\cap B) \\le \\frac{1}{2}$",
+      "$\\frac{1}{4} \\le P(A \\cap B) \\le \\frac{1}{3}$",
+      "$\\frac{1}{6} \\le P(A \\cap B) \\le \\frac{1}{3}$",
+      "$\\frac{1}{4} \\le P(A \\cap B) \\le \\frac{1}{2}$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The number of one -to-one functions from {1,2,3} to {1,2,3,4,5} is",
+    "options": ["125", "243", "10", "60"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A harbour lies in a direction $60^\\circ$ South of West from a fort and at a distance 30 km from it, a ship sets out from the harbour at noon and sails due East at 10 km an hour. The time at which the ship will be 70 km from the fort is.",
+    "options": ["7 PM", "8PM", "5PM", "10PM"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If x, y, z are three consecutive positive integer ,Then $\\log(1 + xz)$ is :",
+    "options": [
+      "$\\log y$",
+      "$\\log\\left(\\frac{y}{2}\\right)$",
+      "$\\log(2y)$",
+      "$2\\log(y)$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of $\\sin^{-1} \\frac{1}{\\sqrt{2}} + \\sin^{-1} \\frac{\\sqrt{2} - 1}{\\sqrt{6}} + \\sin^{-1} \\frac{\\sqrt{3} - \\sqrt{2}}{\\sqrt{12}} + \\dots$ to infinity is equal to ?",
+    "options": ["$\\pi$", "$\\pi / 3$", "$\\pi / 2$", "$\\pi / 4$"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If two circles $x^2 + y^2 + 2gx + 2fy = 0$ and $x^2 + y^2 + 2g'x + 2f'y = 0$ touch each other then which of the following is true ?",
+    "options": ["$gf = g'f'$", "$gf' = g'f$", "$gg' = ff'$", "none"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "$\\int_0^\\pi [\\cot x] dx$ ,where $[\\cdot]$ denotes the greatest integer function ,is equal to ?",
+    "options": ["$\\pi / 2$", "1", "-1", "$-\\pi / 2$"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "In a right angled triangle ,the hypotenuse is four times the perpendicular drawn to it from the opposite vertex .The value of one of the acute angles is .",
+    "options": ["$45^\\circ$", "$30^\\circ$", "$15^\\circ$", "none"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A is targeting B, B and C are targeting A. Probability of targetting the target by A, B and C are 2/3, 1/2, 1/3 respectively .If A is hit then the probability that B hits the target and C does not ,is ?",
+    "options": ["1/2", "1/3", "2/3", "3/4"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A professor has 24 text books on computer science and is concerned about their coverage of the topics (P) compilers, (Q) data structures (R) operating systems. The following data gives the number of books thet contain material on these topic : $n(P) = 8, n(Q) = 13, n(R) = 13, n(P \\cap Q) = 5, n(P \\cap R) = 3 , n(Q \\cap R) = 6 , n(P \\cap Q \\cap R) = 2$ , Where n(x) is the cardinlity of the set x. Then the number of text books thet have no material on compiler is ?",
+    "options": ["4", "8", "12", "16"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of $\\tan\\left(\\frac{7\\pi}{8}\\right)$ is",
+    "options": [
+      "$1 - \\sqrt{2}$",
+      "$1 + \\sqrt{2}$",
+      "$\\sqrt{2} + \\sqrt{3}$",
+      "$\\sqrt{2} - \\sqrt{3}$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\vec{a}$ and $\\vec{b}$ vectors such that $|\\vec{a}| = 13, |\\vec{b}| = 5$ and $\\vec{a} \\cdot \\vec{b} = 60$ then the value of $|\\vec{a} \\times \\vec{b}|$ is",
+    "options": ["625", "225", "45", "25"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Two towers face each other separated by a distance of 25 meters .As seen from the top of the first tower ,the angle of depression of the second tower's based is $60^\\circ$ and that of the top is $30^\\circ$. The height ( in meters) of the second tower is",
+    "options": [
+      "$\\frac{50}{\\sqrt{3}}$",
+      "$\\frac{25}{\\sqrt{3}}$",
+      "50",
+      "$25\\sqrt{3}$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\vec{a} = 4\\hat{i} + 6\\hat{j}$ and $\\vec{b} = 3\\hat{j} + 4\\hat{k}$ ,then the vector from of the component of $\\vec{a}$ along $\\vec{b}$ is",
+    "options": [
+      "$\\frac{18}{10\\sqrt{13}}(3\\hat{j} + 4\\hat{k})$",
+      "$\\frac{18}{25}(3\\hat{j} + 4\\hat{k})$",
+      "$\\frac{18}{\\sqrt{13}}(3\\hat{j} + 4\\hat{k})$",
+      "$(3\\hat{j} + 4\\hat{k})$"
+    ],
+    "correct_answer_index": null,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "With the usual notation , $\\frac{d^2x}{dy^2}$ is",
+    "options": [
+      "$\\left(\\frac{d^2y}{dx^2}\\right)^{-1}$",
+      "$\\frac{d^2y}{dx^2} \\left(\\frac{dy}{dx}\\right)^{-2}$",
+      "$-\\left(\\frac{d^2y}{dx^2}\\right)^{-1} \\left(\\frac{dy}{dx}\\right)^{-3}$",
+      "$-\\left(\\frac{d^2y}{dx^2}\\right) \\left(\\frac{dy}{dx}\\right)^{-3}$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The radius of the circle passing through the foci of the ellipse $\\frac{x^2}{16} + \\frac{y^2}{9} = 1$ and having its centre at (0,3) is",
+    "options": ["4 units", "3 units", "$\\sqrt{12}$ units", "7/2 units"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A function $f : (0,\\pi) \\to R$ defined by $f(x) = 2\\sin x + \\cos 2x$",
+    "options": [
+      "A local minimum but no local maximum",
+      "A local maximum but no local minimum",
+      "Both local minimum and local maximum",
+      "Neither a local minimum nor a local maximum"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A matrix $M_r$ is defined as $M_r = \\begin{bmatrix} r & r - 1 \\\\ r - 1 & r \\end{bmatrix}, r \\in N$ , then the value of $\\det(M_1) + \\det(M_2) + \\dots + \\det(M_{2015})$ is",
+    "options": ["$2014^2$", "$2013^2$", "2015", "$2015^2$"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\vec{AC} = 2\\hat{i} + \\hat{j} + \\hat{k}$ and $\\vec{BD} = -\\hat{i} + 3\\hat{j} + 2\\hat{k}$ then the area of the quadrilateral ABCD is",
+    "options": [
+      "$\\frac{5}{2}\\sqrt{3}$",
+      "$5\\sqrt{3}$",
+      "$\\frac{15}{2}\\sqrt{3}$",
+      "$10\\sqrt{3}$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "a,b,c are positive integer such that $a^2 + 2b^2 - 2bc = 100$ and $2ab - c^2 = 100$ ,Then the value of $\\frac{a + b}{c}$ is",
+    "options": ["10", "100", "2", "20"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If (-4,5) is one vertex and $7x - y + 8 = 0$ is one diagonal of a square ,Then the equation of the other diagonal is",
+    "options": [
+      "$x + 7y = 21$",
+      "$x + 7y = 31$",
+      "$x + 7y = 28$",
+      "$x + 7y = 35$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Out of $2n + 1$ tickets,Which are consecutively numbered ,three are drawn at random.Then the probability that the numbers on them are in arithmetic progression is",
+    "options": [
+      "$\\frac{n^2}{4n^2 - 1}$",
+      "$\\frac{n}{4n^2 - 1}$",
+      "$\\frac{3n^3}{4n^2 - 1}$",
+      "$\\frac{3n}{4n^2 - 1}$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A circle touches the X -axis and also touches another circle with centre at (0,3) and radius ,Then the locus of the centre of the first circle is",
+    "options": ["a parabola", "a hyperbola", "a circle", "an ellipse"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let $P$ and $Q$ denote the complements $\\bar{P}$ and $\\bar{Q}$ .then the set $(P - Q) \\cup (Q - P) \\cup (P \\cap Q)$ is",
+    "options": [
+      "$P \\cup Q$",
+      "$P \\cup \\bar{Q}$",
+      "$P \\cap Q$",
+      "$\\bar{P} \\cap \\bar{Q}$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  }
+]

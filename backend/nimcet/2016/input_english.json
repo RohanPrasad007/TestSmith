@@ -1,0 +1,182 @@
+[
+  {
+    "subject": "General English",
+    "question": "Directions 101 to 104 are based on the following :\nWhile cement is the basic raw material for producing cement tiles and cement paint which are used extensively in building construction. The main consumers of white cement are, therefore, cement tile and cement paint manufacturing units. These consumers, mostly in the small scale sector, are today facing a major crisis because of a significant increase in the price of white cement during a short period. The present actual licensed production capacity of white and grey cement in the country is appoximately 3.5 lakh tonnes. The average demand is 2-2.5 lakh tonnes. This means that there is idle capacity to the tune of one lakh tonnes or more. The price rise is, therefore, not a phenomenon arising out of inadequate production capacity but evidently because of artificial scarcity created by the manufacturers in their self-interest.\nThe main reason for the continuing spurt in cement price is its decontrol. As it is, there is stiff competition in the cement paint and tile manufacturing business. Any further price revision at this stage is bound to have a severe adverse impact on the market conditions. The government should take adquate steps to ensure that suitable controls are brought in. Else it should allow import of cement.\n\nWhat is the crisis being faced by the cement tile manufacturers as described in the passage?",
+    "options": [
+      "White cement prices are very high",
+      "White cement is not of good quality",
+      "White cement usage is high",
+      "White cement is priced very low."
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Directions 101 to 104 are based on the following :\n...\nWhich of the following words has the same meaning as the word 'artificial' as used in the passage?",
+    "options": ["Deliberate", "Prolonged", "Practical", "Unnatural"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Directions 101 to 104 are based on the following :\n...\nWhich of the following words has the opposite meaning as the word 'basic' as used in the passage?",
+    "options": ["Vital", "Unimportant", "Acidic", "Last"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Directions 101 to 104 are based on the following :\n...\nWhy is the price of cement going up?",
+    "options": [
+      "Because the Government is controlling the quota",
+      "Because of export of which cement",
+      "Because of the large usage of white cement",
+      "None of the above"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Which of the following words means 'Theatrical'?",
+    "options": ["Thrilling", "Histrionic", "Delicate", "Delicious"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Identify the word which is different from the rest of the words:",
+    "options": ["Indisputable", "Uncertain", "Dubious", "Doubtful"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the word that accurately signifies a person who makes money by starting or running business:",
+    "options": ["Antreprenour", "Andrapreneur", "Entrapranour", "Entrepreneur"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Which of the following is correct phrase to describe a group of insects?",
+    "options": [
+      "A flock of insects",
+      "A swarm of insects",
+      "A school of insects",
+      "A shoal of insects"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Which of the following has closest meaning to the word 'REPUTATION'?",
+    "options": ["Character", "Respect", "Fame", "Honour"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "The meaning of the word \"EGRESS\" is",
+    "options": ["Entrance", "Exit", "Double", "Program"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the answer which best expresses the meaning of the idiom/phrase 'Elbow room'?",
+    "options": [
+      "Opportunity for freesom of action",
+      "Special room for the guest",
+      "To give enough space to move or work in",
+      "To add a new room to the house"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Select the pair that best expresses a relationship similar to that expreesed in SCALE:TONE.",
+    "options": [
+      "Physician: Medicine",
+      "Wave: Amplitude",
+      "Spectrum: Colour",
+      "Rainbow : Shower"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the answer which best expresses the meaning of the idiom/phrase \"to burn a hole in the pocket\".",
+    "options": [
+      "Steal from someone's pocket",
+      "To destroy other's belongings",
+      "To be very miserly",
+      "Money that is spent quickly"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Choose the correct alternative to fill the blank\nMy window look ............. the garden.",
+    "options": ["up on", "out on", "in", "at"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Fill in the blank with suitable article.\n............. darkest cloud has a silver lining.",
+    "options": ["An", "A", "The", "From"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Fill in the blank with appropriate adjective.\nThis steak is completely..............., it is cold and tough.",
+    "options": ["edible", "erratic", "unswerving", "inedible"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Fill in the blank with appropriate preposition.\nWe havre been looking for a new flat .......... ages.",
+    "options": ["Since", "for", "during", "in"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Fill in the blank with appropriate verb.\nWhere is he? He should ............ home hours ago",
+    "options": ["be", "have been", "had been", "were"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Fill in the blank with appropriate verb",
+    "options": [
+      "should n't you?",
+      "should you not?",
+      "would n't you?",
+      "should you?"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "General English",
+    "question": "Change the following sentence into passive sentences\nThey studied Mathematics last year",
+    "options": [
+      "Mathematics was studied by them last year",
+      "Mathematics were studied by them last year",
+      "Mathematics has been studied by them last year",
+      "Mathematics studied them last year."
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  }
+]

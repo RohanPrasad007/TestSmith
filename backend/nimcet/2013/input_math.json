@@ -1,0 +1,422 @@
+[
+  {
+    "subject": "Mathematics",
+    "question": "The sum of the focal distances of any point on the ellipse $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$ with eccentricity e is given by",
+    "options": ["$2ae$", "$2b$", "$2a$", "$2be$"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\sin x + \\sin^2 x = 1$, then $\\cos^2 x + \\cos^4 x$ is equal to",
+    "options": ["0", "1", "–1", "2"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "An experiment succeeds twice often as it fails. The probability that in the next six trials there will be at least four successes is",
+    "options": ["240/729", "496/729", "220/729", "233/729"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Sum of 20 terms of the series $-1^2 + 2^2 - 3^2 + 4^2 - \\dots$ is",
+    "options": ["180", "200", "210", "220"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\tan \\alpha = \\frac{m}{m+1}$ and $\\tan \\beta = \\frac{1}{2m+1}$ then $\\alpha + \\beta$ is equal to",
+    "options": ["$\\pi/3$", "$\\pi/4$", "$\\pi/6$", "$\\pi$"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\bar{X}_1$ and $\\bar{X}_2$ are the means of two distributions such that $\\bar{X}_1 < \\bar{X}_2$ and $\\bar{X}$ is the mean of the combined distribution, then",
+    "options": [
+      "$\\bar{X} < \\bar{X}_1$",
+      "$\\bar{X} > \\bar{X}_2$",
+      "$\\bar{X} = \\frac{\\bar{X}_1 + \\bar{X}_2}{2}$",
+      "$\\bar{X}_1 < \\bar{X} < \\bar{X}_2$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The area enclosed within the curve $|x| + |y| = 1$ (in square units) is",
+    "options": ["$\\sqrt{2}$", "1", "$\\sqrt{3}$", "2"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let $f(x)$ be a polynomial function of second degree and $f(1) = f(-1)$. If $a, b, c$ are in A.P., then $f'(a), f'(b), f'(c)$ are in",
+    "options": ["G.P.", "H.P.", "A.G.P.", "A.P."],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Find the point at which, the tangent to the curve $y = \\sqrt{4x - 3} - 1$ has its slope 2/3.",
+    "options": ["(3, 3)", "(3, 2)", "(2, 3)", "(2, 2)"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Atal speaks truth in 70% and George speaks the truth in 60% cases. In what percentage of cases they are likely in contradict each other in stating the same fact ?",
+    "options": ["13/50", "11/50", "23/50", "33/50"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The sum of integers between 200 and 400, that are multiples of 7 is",
+    "options": ["8729", "8700", "8972", "8279"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "$\\lim_{x \\to 0} \\frac{\\tan x - x}{x^2 \\tan x}$ is equal to",
+    "options": ["0", "1", "1/2", "1/3"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Two fair dice are tossed. What is the probability that the total score is a prime number ?",
+    "options": ["1/6", "5/12", "1/2", "7/9"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Find the equation of the circle which passes through (–1, 1) and (2, 1) and having centre on the line $x + 2y + 3 = 0$.",
+    "options": [
+      "$2x^2 + 2y^2 - 2x + 7y - 13 = 0$",
+      "$x^2 + y^2 - 2x + 7y - 13 = 0$",
+      "$2x^2 + 2y^2 + 2x + 7y - 13 = 0$",
+      "$x^2 + y^2 + 2x + 7y - 13 = 0$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let $\\vec{a}, \\vec{b}, \\vec{c}$ be the position vectors of three vertices A, B, C of a triangle respectively. Then the area of this triangle is given by",
+    "options": [
+      "$\\frac{1}{2}(\\vec{a} \\times \\vec{b}) \\cdot \\vec{c}$",
+      "$\\frac{1}{2}|\\vec{a} \\times \\vec{b} + \\vec{b} \\times \\vec{c} + \\vec{c} \\times \\vec{a}|$",
+      "$\\vec{a} \\times \\vec{b} + \\vec{b} \\times \\vec{c} + \\vec{c} \\times \\vec{a}$",
+      "None of these"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The equation of the base of an equilateral triangle is $x + y = 2$ and the vertex is (2, –1). The length of the side of the triangle is",
+    "options": [
+      "$\\sqrt{\\frac{3}{2}}$",
+      "$\\sqrt{2}$",
+      "$\\sqrt{\\frac{2}{3}}$",
+      "$\\sqrt{\\frac{20}{3}}$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The total number of numbers that can be formed using the digits 3, 5 and 7 only if no repetitions are allowed, is",
+    "options": ["39", "105", "15", "27"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $x = a \\cos t, y = b \\sin t$ then $\\frac{d^2y}{dx^2}$ is",
+    "options": [
+      "$-\\frac{b^4}{a^2y^3}$",
+      "$\\frac{b^4}{a^2x^3}$",
+      "$\\frac{b}{ay^4}$",
+      "$-\\frac{a^4}{bx^3}$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A random variable X has the distribution law as given below :\nx = 1, 2, 3\nP(X = x) = 0.3, 0.4, 0.3\nThe variance of the distribution is",
+    "options": ["0.4", "0.6", "2", "None"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of $\\tan \\theta + 2 \\tan 2\\theta + 4 \\tan 4\\theta + 8 \\cot 8\\theta$ is",
+    "options": [
+      "$\\cot \\theta$",
+      "$\\tan \\theta$",
+      "$\\sin \\theta$",
+      "$\\cos \\theta$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $A = \\begin{bmatrix} 1 & 0 & 0 \\\\ 0 & 1 & 1 \\\\ 0 & -2 & 4 \\end{bmatrix}$ and $6A^{-1} = A^2 + cA + dI$, where $A^{-1}$ is A – inverse, $I$ is the identity matrix, then (c, d) is",
+    "options": ["(–6, 11)", "(6, –11)", "(11, –6)", "(6, 11)"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let $\\vec{a} = \\hat{j} - \\hat{k}$ and $\\vec{c} = \\hat{i} - \\hat{j} - \\hat{k}$. Then the vector $\\vec{b}$ satisfying $(\\vec{a} \\times \\vec{b}) + \\vec{c} = 0$ and $\\vec{a} \\cdot \\vec{b} = 3$ is",
+    "options": [
+      "$-\\hat{i} + \\hat{j} - 2\\hat{k}$",
+      "$2\\hat{i} - \\hat{j} + 2\\hat{k}$",
+      "$\\hat{i} - \\hat{j} - 2\\hat{k}$",
+      "$\\hat{i} + \\hat{j} - 2\\hat{k}$"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Find the number of elements in the union of 4 sets A, B, C and D having 150, 180, 210 and 240 elements respectively, given that each pair of sets has 15 elements in common. Each triple of sets has 3 elements in common and $A \\cap B \\cap C \\cap D = \\phi$",
+    "options": ["616", "512", "111", "702"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the straight line $ax + by + c = 0$ always passes through (1, –2) then $a, b, c$ are in",
+    "options": ["A.P.", "H.P.", "G.P.", "None of these"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A six faced die is a biased one. It is thrice more likely to show an odd number than to show an even number. It is thrown twice. The probability that the sum of the numbers in the two throws is even is",
+    "options": ["4/8", "5/8", "6/8", "7/8"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A man observes the angle of elevation of the top of a mountain to be 30°. He walks 1000 feet nearer and finds the angle of elevation to be 45°. What is the distance of the first point of observation from the foot of the mountain ?",
+    "options": [
+      "$500\\sqrt{3}(\\sqrt{3} + 1)$ ft",
+      "$500(\\sqrt{3} + 1)$ ft",
+      "$500(\\sqrt{3} - 1)$ ft",
+      "$500\\sqrt{3}(\\sqrt{3} - 1)$ ft"
+    ],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The sum of n terms of an arithmetic series is 216. The value of the first term is n and the value of the nth term is 2n. The common difference, d is",
+    "options": ["1", "2/3", "3/2", "12/11"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Force $3\\hat{i} + 2\\hat{j} + 5\\hat{k}$ and $2\\hat{i} + \\hat{j} - 3\\hat{k}$ are acting on a particle and displace it from the point $2\\hat{i} - \\hat{j} - \\hat{3k}$ to the point $4\\hat{i} - 3\\hat{j} + 7\\hat{k}$, then the work done by the force is",
+    "options": ["18 units", "30 units", "24 units", "36 units"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of $9^{1/3} \\cdot 9^{1/9} \\cdot 9^{1/27} \\dots \\infty$ is",
+    "options": ["3", "6", "9", "None"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The minimum value of the function $y = 2x^3 - 21x^2 + 36x - 20$ is",
+    "options": ["–120", "–126", "–128", "None"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $I_n = \\int_0^{\\pi/4} \\tan^n \\theta d\\theta$ then $I_8 + I_6$ equals",
+    "options": ["1/4", "1/5", "1/6", "1/7"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let $\\Delta ABC$ be a triangle whose area is $10\\sqrt{3}$ units with side lengths $|AB| = 8$ units and $|AC| = 5$ units. Find possible values of the angle A.",
+    "options": ["60° or 120°", "45° or 135°", "30° only", "90° only"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Person A can hit a target 4 times in 5 attempts. Person B – 3 times in four attempts. Person C – 2 times in 3 attempts. They fire a volley. The probability that the target is hit atleast two times is",
+    "options": ["3/4", "1/2", "5/6", "1"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The value of the integral $\\int_0^{\\pi/2} \\frac{\\sqrt{\\sin x}}{\\sqrt{\\sin x} + \\sqrt{\\cos x}} dx$ is",
+    "options": ["0", "$-\\pi/4$", "$\\pi/2$", "$\\pi/4$"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\omega$ is a cube root of unity, then find the value of determinant $\\begin{vmatrix} 1 + \\omega & \\omega^2 & -\\omega \\\\ 1 + \\omega^2 & \\omega & -\\omega^2 \\\\ \\omega^2 + \\omega & \\omega & -\\omega^2 \\end{vmatrix}$",
+    "options": ["$3\\omega$", "$-3\\omega$", "$3\\omega^2$", "$-3\\omega^2$"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The lines $3x - 4y + 4 = 0$ and $6x - 8y - 7 = 0$ are tangent to the same circle. The radius of this circle is",
+    "options": ["3/2", "3/4", "4/5", "7/10"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The area of the parallelogram whose diagonals are $\\vec{a} = 3\\hat{i} + \\hat{j} - 2\\hat{k}$ and $\\vec{b} = \\hat{i} - 3\\hat{j} + 4\\hat{k}$ is",
+    "options": [
+      "$10\\sqrt{3}$",
+      "$5\\sqrt{3}$",
+      "$10\\sqrt{2}$",
+      "$5\\sqrt{2}$"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\sin x + a\\cos x = b$ then what is the expression for $|a\\sin x - \\cos x|$ in terms of a and b ?",
+    "options": [
+      "$\\sqrt{a^2 - b^2 - 1}$",
+      "$\\sqrt{a^2 + b^2 - 1}$",
+      "$\\sqrt{a^2 + b^2 + 1}$",
+      "$\\sqrt{a^2 - b^2 + 1}$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If A and B are two events such that $P(A \\cup B) = 5/6$, $P(A \\cap B) = 1/3$ and $P(\\bar{B}) = 1/2$, then the events A and B are",
+    "options": [
+      "Dependent",
+      "Independent",
+      "Mutually exclusive",
+      "None of these"
+    ],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If three vectors $2\\hat{i} - \\hat{j} + \\hat{k}$, $\\hat{i} + 2\\hat{j} - 3\\hat{k}$ and $3\\hat{i} + \\lambda \\hat{j} + 5\\hat{k}$ are coplanar, then $\\lambda$ is",
+    "options": ["–1", "–2", "–3", "–4"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "In how many different ways can the letters of the word \"CORPORATION\" be arranged so that all the vowels always come together ?",
+    "options": ["810", "1440", "2880", "50400"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $\\log_x y = 100$ and $\\log_2 x = 10$, then the value of y is",
+    "options": ["$2^{10}$", "$2^{100}$", "$2^{1000}$", "$2^{10000}$"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The equations of the line parallel to the line $2x - 3y = 7$ and passing through the middle point of the line segment joining the points (1, 3) and (1, –7) is",
+    "options": [
+      "$2x - 3y - 4 = 0$",
+      "$2x - 3y + 4 = 0$",
+      "$2x - 3y - 8 = 0$",
+      "$2x - 3y + 8 = 0$"
+    ],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "In a $\\Delta ABC$, $(c + a + b)(a + b - c) = ab$. The measure of the angle C is",
+    "options": ["$\\pi/3$", "$\\pi/6$", "$2\\pi/3$", "None"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The number of non-negative integers less than 1000 that contain the digit 1 are",
+    "options": ["$9^2$", "$9^3$", "$10^2 - 9^2$", "$10^3 - 9^3$"],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the vector $2\\hat{i} - 3\\hat{j}$, $\\hat{i} + \\hat{j} - \\hat{k}$ and $3\\hat{i} - \\hat{k}$ form three coterminous edges of a parallelopiped, then the volume of parallelopiped is",
+    "options": ["8", "10", "4", "14"],
+    "correct_answer_index": 2,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "In a G.P. consisting of positive terms, each term equals the sum of the next two terms. Then the common ratio of the G.P. is",
+    "options": [
+      "$\\frac{(1-\\sqrt{5})}{2}$",
+      "$\\frac{\\sqrt{5}}{2}$",
+      "$\\sqrt{5}$",
+      "$\\frac{(\\sqrt{5}-1)}{2}$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If $f(x) = \\tan^{-1}\\left[\\frac{\\sin x}{1 + \\cos x}\\right]$, then what is the first derivative of $f(x)$ ?",
+    "options": ["1/2", "–1/2", "2", "–2"],
+    "correct_answer_index": 0,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The solution of $\\sin x + 1 = \\cos x$ such that $0 \\le x \\le 2\\pi$ is",
+    "options": [
+      "$0, \\pi$",
+      "$0, \\pi/2$",
+      "$\\pi/2, 3\\pi/2$",
+      "$0, 3\\pi/2$"
+    ],
+    "correct_answer_index": 3,
+    "type": "MCQ"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let $T_n$ denote the number of triangles which can be formed by using the vertices of a regular polygon of n sides. If $T_{n+1} - T_n = 21$ then n equals",
+    "options": ["5", "7", "6", "4"],
+    "correct_answer_index": 1,
+    "type": "MCQ"
+  }
+]
